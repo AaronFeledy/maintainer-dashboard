@@ -47,11 +47,15 @@ function hasRedFlags(repo: RepoOverview): boolean {
 }
 
 function RedBadge() {
-	return <span class="ml-1 inline-flex h-2 w-2 rounded-full bg-red-500" />;
+	return (
+		<span class="ml-1.5 inline-flex h-2 w-2 rounded-full bg-danger-emphasis" />
+	);
 }
 
 function WarningBadge() {
-	return <span class="ml-1 inline-flex h-2 w-2 rounded-full bg-amber-500" />;
+	return (
+		<span class="ml-1.5 inline-flex h-2 w-2 rounded-full bg-attention-emphasis" />
+	);
 }
 
 const columnHelper = createColumnHelper<RepoOverview>();
@@ -63,7 +67,7 @@ const columns = [
 			<Link
 				to="/repo/$name"
 				params={{ name: info.getValue() }}
-				class="font-medium text-blue-600 hover:text-blue-800 hover:underline"
+				class="font-semibold text-accent-fg hover:underline"
 			>
 				{info.getValue()}
 			</Link>
@@ -172,16 +176,16 @@ export default function RepoTable() {
 	});
 
 	return (
-		<div class="overflow-x-auto rounded-lg border border-gray-200 bg-white shadow-sm">
-			<table class="min-w-full divide-y divide-gray-200">
-				<thead class="bg-gray-50">
+		<div class="overflow-x-auto rounded-md border border-border-default bg-canvas-default shadow-sm">
+			<table class="min-w-full">
+				<thead>
 					<For each={table.getHeaderGroups()}>
 						{(headerGroup) => (
-							<tr>
+							<tr class="border-b border-border-default bg-canvas-subtle">
 								<For each={headerGroup.headers}>
 									{(header) => (
 										<th
-											class="cursor-pointer select-none px-4 py-3 text-left text-xs font-medium uppercase tracking-wider text-gray-500 hover:bg-gray-100"
+											class="cursor-pointer select-none px-4 py-2.5 text-left text-xs font-semibold text-fg-muted hover:text-fg-default"
 											onClick={header.column.getToggleSortingHandler()}
 										>
 											<div class="flex items-center gap-1">
@@ -202,19 +206,21 @@ export default function RepoTable() {
 						)}
 					</For>
 				</thead>
-				<tbody class="divide-y divide-gray-100">
+				<tbody>
 					<For each={table.getRowModel().rows}>
-						{(row) => (
+						{(row, index) => (
 							<tr
-								class={
+								class={`border-b border-border-muted ${
 									hasRedFlags(row.original)
-										? "bg-red-50/50 hover:bg-red-50"
-										: "hover:bg-gray-50"
-								}
+										? "bg-danger-subtle/50 hover:bg-danger-subtle"
+										: index() % 2 === 0
+											? "hover:bg-canvas-subtle"
+											: "bg-canvas-subtle/50 hover:bg-canvas-subtle"
+								}`}
 							>
 								<For each={row.getVisibleCells()}>
 									{(cell) => (
-										<td class="whitespace-nowrap px-4 py-3 text-sm text-gray-700">
+										<td class="whitespace-nowrap px-4 py-2.5 text-sm text-fg-default">
 											{flexRender(
 												cell.column.columnDef.cell,
 												cell.getContext(),
@@ -232,8 +238,10 @@ export default function RepoTable() {
 }
 
 function SortIndicator(props: { direction: false | "asc" | "desc" }) {
-	if (!props.direction) return <span class="text-gray-300">↕</span>;
+	if (!props.direction) return <span class="text-fg-subtle/50">&#8597;</span>;
 	return (
-		<span class="text-gray-700">{props.direction === "asc" ? "↑" : "↓"}</span>
+		<span class="text-fg-default">
+			{props.direction === "asc" ? "\u2191" : "\u2193"}
+		</span>
 	);
 }

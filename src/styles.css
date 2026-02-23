@@ -1,15 +1,80 @@
 @import "tailwindcss";
 
+/* GitHub Light Mode Color Palette */
+@theme {
+	/* Canvas (backgrounds) */
+	--color-canvas-default: #ffffff;
+	--color-canvas-subtle: #f6f8fa;
+	--color-canvas-inset: #f6f8fa;
+
+	/* Foreground (text) */
+	--color-fg-default: #1f2328;
+	--color-fg-muted: #656d76;
+	--color-fg-subtle: #6e7781;
+	--color-fg-on-emphasis: #ffffff;
+
+	/* Accent (links, primary actions) */
+	--color-accent-fg: #0969da;
+	--color-accent-emphasis: #0969da;
+	--color-accent-muted: rgba(84, 174, 255, 0.4);
+	--color-accent-subtle: #ddf4ff;
+
+	/* Border */
+	--color-border-default: #d0d7de;
+	--color-border-muted: #d8dee4;
+
+	/* Danger (red flags, errors) */
+	--color-danger-fg: #d1242f;
+	--color-danger-emphasis: #cf222e;
+	--color-danger-subtle: #ffebe9;
+
+	/* Attention (warnings) */
+	--color-attention-fg: #9a6700;
+	--color-attention-emphasis: #bf8700;
+	--color-attention-subtle: #fff8c5;
+
+	/* Success */
+	--color-success-fg: #1a7f37;
+	--color-success-emphasis: #1f883d;
+	--color-success-subtle: #dafbe1;
+
+	/* Neutral */
+	--color-neutral-emphasis: #6e7781;
+	--color-neutral-muted: rgba(175, 184, 193, 0.2);
+	--color-neutral-subtle: #f6f8fa;
+
+	/* Done/Purple (PRs) */
+	--color-done-fg: #8250df;
+	--color-done-emphasis: #8250df;
+	--color-done-subtle: #fbefff;
+
+	/* Button colors */
+	--color-btn-bg: #f6f8fa;
+	--color-btn-border: rgba(31, 35, 40, 0.15);
+	--color-btn-hover-bg: #f3f4f6;
+	--color-btn-active-bg: hsla(220, 14%, 93%, 1);
+	--color-btn-primary-bg: #1f883d;
+	--color-btn-primary-hover-bg: #1a7f37;
+	--color-btn-primary-text: #ffffff;
+	--color-btn-danger-bg: #cf222e;
+	--color-btn-danger-hover-bg: #a40e26;
+	--color-btn-danger-text: #ffffff;
+}
+
 body {
-  @apply m-0;
-  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
-    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+	margin: 0;
+	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans",
+		Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji";
+	font-size: 14px;
+	line-height: 1.5;
+	color: var(--color-fg-default);
+	background-color: var(--color-canvas-default);
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
 }
 
 code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
-    monospace;
+	font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas,
+		"Liberation Mono", monospace;
+	font-size: 12px;
 }

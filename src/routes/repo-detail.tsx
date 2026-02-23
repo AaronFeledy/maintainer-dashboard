@@ -28,7 +28,7 @@ export default function RepoDetailPage() {
 		<div class="mx-auto max-w-5xl p-6">
 			<Link
 				to="/"
-				class="mb-4 inline-flex items-center text-sm text-blue-600 hover:text-blue-800"
+				class="mb-4 inline-flex items-center text-sm text-accent-fg hover:underline"
 			>
 				&larr; Back to overview
 			</Link>
@@ -36,7 +36,7 @@ export default function RepoDetailPage() {
 			<Show
 				when={!query.isLoading}
 				fallback={
-					<div class="py-12 text-center text-gray-500">
+					<div class="py-12 text-center text-fg-muted">
 						Loading repo details...
 					</div>
 				}
@@ -44,32 +44,32 @@ export default function RepoDetailPage() {
 				<Show
 					when={query.data}
 					fallback={
-						<div class="py-12 text-center text-gray-500">Repo not found</div>
+						<div class="py-12 text-center text-fg-muted">Repo not found</div>
 					}
 				>
 					{(data) => (
 						<>
 							<div class="mb-6">
 								<div class="flex items-center gap-3">
-									<h1 class="text-2xl font-bold text-gray-900">
+									<h1 class="text-2xl font-bold text-fg-default">
 										{data().name}
 									</h1>
 									<Show when={data().language}>
 										{(lang) => (
-											<span class="rounded-full bg-blue-100 px-2.5 py-0.5 text-xs font-medium text-blue-800">
+											<span class="rounded-full border border-border-default bg-accent-subtle px-2.5 py-0.5 text-xs font-medium text-accent-fg">
 												{lang()}
 											</span>
 										)}
 									</Show>
 								</div>
 								<Show when={data().description}>
-									{(desc) => <p class="mt-1 text-gray-600">{desc()}</p>}
+									{(desc) => <p class="mt-1 text-fg-muted">{desc()}</p>}
 								</Show>
 								<a
 									href={`https://github.com/lando/${data().name}`}
 									target="_blank"
 									rel="noopener noreferrer"
-									class="mt-2 inline-block text-sm text-blue-600 hover:underline"
+									class="mt-2 inline-block text-sm text-accent-fg hover:underline"
 								>
 									View on GitHub &rarr;
 								</a>
@@ -93,15 +93,15 @@ export default function RepoDetailPage() {
 
 function IssuesList(props: { issues: RepoIssue[] }) {
 	return (
-		<div class="rounded-lg border border-gray-200 bg-white p-4 shadow-sm">
-			<h2 class="mb-3 text-lg font-semibold text-gray-900">
+		<div class="rounded-md border border-border-default bg-canvas-default p-4 shadow-sm">
+			<h2 class="mb-3 text-base font-semibold text-fg-default">
 				Open Issues ({props.issues.length})
 			</h2>
 			<Show
 				when={props.issues.length > 0}
-				fallback={<p class="text-sm text-gray-500">No open issues</p>}
+				fallback={<p class="text-sm text-fg-muted">No open issues</p>}
 			>
-				<ul class="divide-y divide-gray-100">
+				<ul class="divide-y divide-border-muted">
 					<For each={props.issues}>
 						{(issue) => (
 							<li class="py-3">
@@ -109,11 +109,11 @@ function IssuesList(props: { issues: RepoIssue[] }) {
 									href={issue.url}
 									target="_blank"
 									rel="noopener noreferrer"
-									class="text-sm font-medium text-blue-600 hover:underline"
+									class="text-sm font-medium text-accent-fg hover:underline"
 								>
 									{issue.title}
 								</a>
-								<div class="mt-1 flex flex-wrap items-center gap-2 text-xs text-gray-500">
+								<div class="mt-1 flex flex-wrap items-center gap-2 text-xs text-fg-muted">
 									<span>by {issue.author}</span>
 									<span>&middot;</span>
 									<span>{relativeAge(issue.createdAt)}</span>
@@ -127,7 +127,7 @@ function IssuesList(props: { issues: RepoIssue[] }) {
 									<div class="mt-1 flex flex-wrap gap-1">
 										<For each={issue.labels}>
 											{(label) => (
-												<span class="rounded-full bg-gray-100 px-2 py-0.5 text-xs text-gray-600">
+												<span class="rounded-full border border-border-default bg-neutral-subtle px-2 py-0.5 text-xs font-medium text-fg-muted">
 													{label}
 												</span>
 											)}
@@ -145,15 +145,15 @@ function IssuesList(props: { issues: RepoIssue[] }) {
 
 function PRsList(props: { prs: RepoPR[] }) {
 	return (
-		<div class="rounded-lg border border-gray-200 bg-white p-4 shadow-sm">
-			<h2 class="mb-3 text-lg font-semibold text-gray-900">
+		<div class="rounded-md border border-border-default bg-canvas-default p-4 shadow-sm">
+			<h2 class="mb-3 text-base font-semibold text-fg-default">
 				Open PRs ({props.prs.length})
 			</h2>
 			<Show
 				when={props.prs.length > 0}
-				fallback={<p class="text-sm text-gray-500">No open PRs</p>}
+				fallback={<p class="text-sm text-fg-muted">No open PRs</p>}
 			>
-				<ul class="divide-y divide-gray-100">
+				<ul class="divide-y divide-border-muted">
 					<For each={props.prs}>
 						{(pr) => (
 							<li class="py-3">
@@ -161,11 +161,11 @@ function PRsList(props: { prs: RepoPR[] }) {
 									href={pr.url}
 									target="_blank"
 									rel="noopener noreferrer"
-									class="text-sm font-medium text-purple-600 hover:underline"
+									class="text-sm font-medium text-done-fg hover:underline"
 								>
 									{pr.title}
 								</a>
-								<div class="mt-1 flex items-center gap-2 text-xs text-gray-500">
+								<div class="mt-1 flex items-center gap-2 text-xs text-fg-muted">
 									<span>by {pr.author}</span>
 									<span>&middot;</span>
 									<span>{relativeAge(pr.createdAt)}</span>
@@ -186,13 +186,15 @@ function PRsList(props: { prs: RepoPR[] }) {
 
 function ReleasesList(props: { releases: RepoRelease[] }) {
 	return (
-		<div class="rounded-lg border border-gray-200 bg-white p-4 shadow-sm">
-			<h2 class="mb-3 text-lg font-semibold text-gray-900">Recent Releases</h2>
+		<div class="rounded-md border border-border-default bg-canvas-default p-4 shadow-sm">
+			<h2 class="mb-3 text-base font-semibold text-fg-default">
+				Recent Releases
+			</h2>
 			<Show
 				when={props.releases.length > 0}
-				fallback={<p class="text-sm text-gray-500">No releases found</p>}
+				fallback={<p class="text-sm text-fg-muted">No releases found</p>}
 			>
-				<ul class="divide-y divide-gray-100">
+				<ul class="divide-y divide-border-muted">
 					<For each={props.releases.slice(0, 5)}>
 						{(release) => (
 							<li class="flex items-center justify-between py-2">
@@ -200,11 +202,11 @@ function ReleasesList(props: { releases: RepoRelease[] }) {
 									href={release.url}
 									target="_blank"
 									rel="noopener noreferrer"
-									class="text-sm font-medium text-blue-600 hover:underline"
+									class="text-sm font-medium text-accent-fg hover:underline"
 								>
 									{release.tagName}
 								</a>
-								<span class="text-xs text-gray-500">
+								<span class="text-xs text-fg-muted">
 									{relativeAge(release.publishedAt)}
 								</span>
 							</li>

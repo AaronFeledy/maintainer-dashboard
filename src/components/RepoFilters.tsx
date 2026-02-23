@@ -59,7 +59,7 @@ export default function RepoFilters() {
 						search: e.currentTarget.value || undefined,
 					})
 				}
-				class="rounded-md border border-gray-300 px-3 py-1.5 text-sm shadow-sm placeholder:text-gray-400 focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
+				class="rounded-md border border-border-default bg-canvas-default px-3 py-1.5 text-sm text-fg-default shadow-sm placeholder:text-fg-subtle focus:border-accent-fg focus:outline-none focus:ring-1 focus:ring-accent-fg"
 			/>
 
 			<ToggleButton
@@ -89,7 +89,7 @@ export default function RepoFilters() {
 						language: e.currentTarget.value || undefined,
 					})
 				}
-				class="rounded-md border border-gray-300 px-3 py-1.5 text-sm shadow-sm focus:border-blue-500 focus:outline-none focus:ring-1 focus:ring-blue-500"
+				class="rounded-md border border-border-default bg-canvas-default px-3 py-1.5 text-sm text-fg-default shadow-sm focus:border-accent-fg focus:outline-none focus:ring-1 focus:ring-accent-fg"
 			>
 				<option value="">All languages</option>
 				<For each={languages()}>
@@ -101,7 +101,7 @@ export default function RepoFilters() {
 				<button
 					type="button"
 					onClick={clearAll}
-					class="rounded-md px-3 py-1.5 text-sm text-gray-500 hover:bg-gray-100 hover:text-gray-700"
+					class="rounded-md px-3 py-1.5 text-sm text-fg-muted hover:bg-neutral-muted hover:text-fg-default"
 				>
 					Clear all
 				</button>
@@ -120,8 +120,8 @@ function ToggleButton(props: {
 			type="button"
 			class={`rounded-md border px-3 py-1.5 text-sm font-medium transition-colors ${
 				props.active
-					? "border-blue-500 bg-blue-50 text-blue-700"
-					: "border-gray-300 bg-white text-gray-600 hover:bg-gray-50"
+					? "border-accent-fg bg-accent-subtle text-accent-fg"
+					: "border-border-default bg-btn-bg text-fg-default hover:bg-btn-hover-bg"
 			}`}
 			onClick={props.onClick}
 		>

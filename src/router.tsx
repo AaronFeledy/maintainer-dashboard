@@ -9,7 +9,7 @@ import RepoDetailPage from "./routes/repo-detail";
 
 const rootRoute = createRootRoute({
 	component: () => (
-		<div class="min-h-screen bg-gray-50">
+		<div class="min-h-screen bg-canvas-subtle">
 			<Outlet />
 		</div>
 	),

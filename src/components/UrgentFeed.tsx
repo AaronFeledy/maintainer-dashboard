@@ -24,10 +24,10 @@ function relativeAge(dateStr: string): string {
 function TypeBadge(props: { type: UrgentItem["type"] }) {
 	return (
 		<span
-			class={`inline-flex items-center rounded-full px-2 py-0.5 text-xs font-medium ${
+			class={`inline-flex items-center rounded-full border px-2 py-0.5 text-xs font-medium ${
 				props.type === "issue"
-					? "bg-amber-100 text-amber-800"
-					: "bg-purple-100 text-purple-800"
+					? "border-attention-subtle bg-attention-subtle text-attention-fg"
+					: "border-done-subtle bg-done-subtle text-done-fg"
 			}`}
 		>
 			{props.type === "issue" ? "Issue" : "PR"}
@@ -47,9 +47,9 @@ export default function UrgentFeed() {
 	});
 
 	return (
-		<div class="rounded-lg border border-red-200 bg-white p-4 shadow-sm">
+		<div class="rounded-md border border-danger-fg/20 bg-canvas-default p-4 shadow-sm">
 			<div class="mb-3 flex items-center justify-between">
-				<h2 class="text-lg font-semibold text-gray-900">Urgent Items</h2>
+				<h2 class="text-base font-semibold text-fg-default">Urgent Items</h2>
 				<div class="flex gap-1">
 					<FilterButton
 						label="All"
@@ -71,7 +71,7 @@ export default function UrgentFeed() {
 
 			<Show when={!query.isLoading} fallback={<LoadingState />}>
 				<Show when={filteredItems().length > 0} fallback={<EmptyState />}>
-					<ul class="divide-y divide-gray-100">
+					<ul class="divide-y divide-border-muted">
 						<For each={filteredItems()}>
 							{(item) => <UrgentItemRow item={item} />}
 						</For>
@@ -90,10 +90,10 @@ function FilterButton(props: {
 	return (
 		<button
 			type="button"
-			class={`rounded-md px-3 py-1 text-sm font-medium transition-colors ${
+			class={`rounded-md border px-3 py-1 text-xs font-medium transition-colors ${
 				props.active
-					? "bg-gray-900 text-white"
-					: "bg-gray-100 text-gray-600 hover:bg-gray-200"
+					? "border-border-default bg-canvas-default text-fg-default shadow-sm"
+					: "border-transparent bg-transparent text-fg-muted hover:bg-neutral-muted"
 			}`}
 			onClick={props.onClick}
 		>
@@ -108,20 +108,20 @@ function UrgentItemRow(props: { item: UrgentItem }) {
 			<TypeBadge type={props.item.type} />
 			<div class="min-w-0 flex-1">
 				<div class="flex items-center gap-2">
-					<span class="text-xs font-medium text-gray-500">
+					<span class="text-xs font-medium text-fg-muted">
 						{props.item.repo}
 					</span>
-					<span class="text-xs text-gray-400">#{props.item.number}</span>
+					<span class="text-xs text-fg-subtle">#{props.item.number}</span>
 				</div>
 				<a
 					href={props.item.url}
 					target="_blank"
 					rel="noopener noreferrer"
-					class="text-sm font-medium text-blue-600 hover:text-blue-800 hover:underline"
+					class="text-sm font-medium text-accent-fg hover:underline"
 				>
 					{props.item.title}
 				</a>
-				<div class="mt-0.5 flex items-center gap-2 text-xs text-gray-500">
+				<div class="mt-0.5 flex items-center gap-2 text-xs text-fg-muted">
 					<span>by {props.item.author}</span>
 					<span>&middot;</span>
 					<span>{relativeAge(props.item.createdAt)}</span>
@@ -133,7 +133,7 @@ function UrgentItemRow(props: { item: UrgentItem }) {
 
 function LoadingState() {
 	return (
-		<div class="py-8 text-center text-sm text-gray-500">
+		<div class="py-8 text-center text-sm text-fg-muted">
 			Loading urgent items...
 		</div>
 	);
@@ -141,6 +141,6 @@ function LoadingState() {
 
 function EmptyState() {
 	return (
-		<div class="py-8 text-center text-sm text-gray-500">No urgent items</div>
+		<div class="py-8 text-center text-sm text-fg-muted">No urgent items</div>
 	);
 }
