@@ -88,6 +88,7 @@ body {
 	line-height: 1.5;
 	color: var(--color-fg-default);
 	background-color: var(--color-canvas-default);
+	color-scheme: light dark;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
 }
@@ -129,4 +130,95 @@ pre {
 
 ::-webkit-scrollbar-thumb:hover {
 	background: var(--color-neutral-emphasis);
+}
+
+/* ========================================
+   Dark Mode — GitHub Dark Color Palette
+   Uses prefers-color-scheme to auto-switch.
+   Overrides @theme custom properties outside
+   @layer so they always beat layered defaults.
+   ======================================== */
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		/* Canvas (backgrounds) */
+		--color-canvas-default: #0d1117;
+		--color-canvas-subtle: #161b22;
+		--color-canvas-inset: #010409;
+
+		/* Foreground (text) */
+		--color-fg-default: #e6edf3;
+		--color-fg-muted: #8b949e;
+		--color-fg-subtle: #6e7681;
+		--color-fg-on-emphasis: #ffffff;
+
+		/* Accent (links, primary actions) */
+		--color-accent-fg: #58a6ff;
+		--color-accent-emphasis: #1f6feb;
+		--color-accent-muted: rgba(56, 139, 253, 0.4);
+		--color-accent-subtle: #0c2d6b;
+
+		/* Border */
+		--color-border-default: #30363d;
+		--color-border-muted: #21262d;
+
+		/* Danger (red flags, errors) */
+		--color-danger-fg: #f85149;
+		--color-danger-emphasis: #da3633;
+		--color-danger-subtle: #311712;
+
+		/* Attention (warnings) */
+		--color-attention-fg: #d29922;
+		--color-attention-emphasis: #bb8009;
+		--color-attention-subtle: #2d1d00;
+
+		/* Success */
+		--color-success-fg: #3fb950;
+		--color-success-emphasis: #238636;
+		--color-success-subtle: #0a2117;
+
+		/* Neutral */
+		--color-neutral-emphasis: #6e7681;
+		--color-neutral-muted: rgba(110, 118, 129, 0.4);
+		--color-neutral-subtle: #161b22;
+
+		/* Done/Purple (PRs) */
+		--color-done-fg: #a371f7;
+		--color-done-emphasis: #8957e5;
+		--color-done-subtle: #271d3d;
+
+		/* Button colors */
+		--color-btn-bg: #21262d;
+		--color-btn-border: rgba(240, 246, 252, 0.1);
+		--color-btn-hover-bg: #30363d;
+		--color-btn-active-bg: hsla(212, 12%, 18%, 1);
+		--color-btn-primary-bg: #238636;
+		--color-btn-primary-hover-bg: #2ea043;
+		--color-btn-primary-text: #ffffff;
+		--color-btn-danger-bg: #da3633;
+		--color-btn-danger-hover-bg: #b62324;
+		--color-btn-danger-text: #ffffff;
+
+		/* Shadows */
+		--shadow-sm: 0 0 transparent;
+		--shadow-md: 0 3px 6px #010409;
+		--shadow-lg: 0 8px 24px #010409;
+
+		/* Header */
+		--color-header-bg: #161b22;
+		--color-header-text: #f0f6fc;
+	}
+
+	/* Dark scrollbar */
+	::-webkit-scrollbar-track {
+		background: #161b22;
+	}
+
+	::-webkit-scrollbar-thumb {
+		background: #30363d;
+	}
+
+	::-webkit-scrollbar-thumb:hover {
+		background: #484f58;
+	}
 }
