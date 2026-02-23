@@ -4,71 +4,71 @@
   "language": "JavaScript",
   "issues": [
     {
-      "title": "Unable to start services after update to v3.21",
-      "author": "user1",
-      "labels": ["bug", "priority:high"],
-      "createdAt": "2026-02-10T08:30:00.000Z",
-      "commentCount": 0,
-      "url": "https://github.com/lando/lando/issues/3456"
-    },
-    {
-      "title": "Docker Compose v2 profile support",
-      "author": "user6",
-      "labels": ["enhancement"],
-      "createdAt": "2026-02-05T10:00:00.000Z",
-      "commentCount": 3,
-      "url": "https://github.com/lando/lando/issues/3450"
-    },
-    {
-      "title": "Memory leak in long-running containers",
-      "author": "user7",
+      "title": "Cannot install lando on Windows 11 25H2 due to powershell Syntax error",
+      "author": "kaszarobert",
       "labels": ["bug"],
-      "createdAt": "2026-01-20T15:00:00.000Z",
-      "commentCount": 5,
-      "url": "https://github.com/lando/lando/issues/3440"
+      "createdAt": "2026-01-21T09:36:25Z",
+      "commentCount": 0,
+      "url": "https://github.com/lando/lando/issues/3834"
+    },
+    {
+      "title": "[Meta] MariaDB/MySQL Client Compatibility Across Lando Plugins",
+      "author": "AaronFeledy",
+      "labels": [],
+      "createdAt": "2025-12-30T21:44:54Z",
+      "commentCount": 7,
+      "url": "https://github.com/lando/lando/issues/3833"
+    },
+    {
+      "title": "Is Lando compatible with \"Enhanced Container Isolation\" ?",
+      "author": "silverham",
+      "labels": ["documentation"],
+      "createdAt": "2025-12-11T01:37:11Z",
+      "commentCount": 0,
+      "url": "https://github.com/lando/lando/issues/3829"
     }
   ],
   "pullRequests": [
     {
-      "title": "Add support for custom Docker Compose v2 profiles",
-      "author": "user2",
-      "createdAt": "2026-02-12T14:15:00.000Z",
+      "title": "Bump actions/checkout from 3 to 6 in the actions group",
+      "author": "dependabot[bot]",
+      "createdAt": "2026-02-19T22:12:09Z",
       "reviewCount": 0,
-      "url": "https://github.com/lando/lando/pull/3460"
+      "url": "https://github.com/lando/lando/pull/3836"
     },
     {
-      "title": "Fix container restart logic for services",
-      "author": "user8",
-      "createdAt": "2026-02-18T09:30:00.000Z",
-      "reviewCount": 1,
-      "url": "https://github.com/lando/lando/pull/3465"
+      "title": "Fix \"introduction\" link, so docs work",
+      "author": "nottrobin",
+      "createdAt": "2022-09-26T10:00:01Z",
+      "reviewCount": 0,
+      "url": "https://github.com/lando/lando/pull/3446"
     }
   ],
   "releases": [
     {
-      "tagName": "v3.21.0",
-      "publishedAt": "2025-11-15T10:00:00.000Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.21.0"
+      "tagName": "v3.26.2",
+      "publishedAt": "2025-12-17T13:47:32Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.26.2"
     },
     {
-      "tagName": "v3.20.0",
-      "publishedAt": "2025-09-01T12:00:00.000Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.20.0"
+      "tagName": "v3.26.1",
+      "publishedAt": "2025-12-17T13:36:22Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.26.1"
     },
     {
-      "tagName": "v3.19.5",
-      "publishedAt": "2025-07-10T08:00:00.000Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.19.5"
+      "tagName": "v3.26.0",
+      "publishedAt": "2025-11-14T16:11:35Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.26.0"
     },
     {
-      "tagName": "v3.19.0",
-      "publishedAt": "2025-05-20T14:00:00.000Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.19.0"
+      "tagName": "v3.25.6",
+      "publishedAt": "2025-10-01T14:27:17Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.25.6"
     },
     {
-      "tagName": "v3.18.0",
-      "publishedAt": "2025-03-15T10:00:00.000Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.18.0"
+      "tagName": "v3.25.5",
+      "publishedAt": "2025-09-09T15:25:36Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.25.5"
     }
   ]
 }
