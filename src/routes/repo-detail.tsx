@@ -22,7 +22,7 @@ function relativeAge(dateStr: string): string {
 
 export default function RepoDetailPage() {
 	const params = useParams({ from: "/repo/$name" });
-	const query = useRepoDetail(() => params.name);
+	const query = useRepoDetail(() => params().name);
 
 	return (
 		<div class="mx-auto max-w-5xl px-4 py-6 sm:px-6 lg:px-8">
