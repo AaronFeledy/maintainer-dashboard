@@ -1,0 +1,75 @@
+{
+  "name": "php",
+  "description": "A Lando plugin for PHP",
+  "language": "JavaScript",
+  "issues": [
+    {
+      "title": "PHP 8.3 support broken with custom extensions",
+      "author": "phpdev1",
+      "labels": ["bug", "php8"],
+      "createdAt": "2026-02-12T08:00:00.000Z",
+      "commentCount": 4,
+      "url": "https://github.com/lando/php/issues/150"
+    },
+    {
+      "title": "Xdebug 3.x not connecting with step debugging",
+      "author": "phpdev2",
+      "labels": ["bug", "xdebug"],
+      "createdAt": "2026-01-30T15:00:00.000Z",
+      "commentCount": 0,
+      "url": "https://github.com/lando/php/issues/145"
+    },
+    {
+      "title": "Add support for custom php.ini directives",
+      "author": "phpdev3",
+      "labels": ["enhancement"],
+      "createdAt": "2026-01-15T10:00:00.000Z",
+      "commentCount": 3,
+      "url": "https://github.com/lando/php/issues/140"
+    },
+    {
+      "title": "Composer 2.7 install fails on ARM64",
+      "author": "phpdev4",
+      "labels": ["bug", "arm64"],
+      "createdAt": "2025-12-20T09:00:00.000Z",
+      "commentCount": 1,
+      "url": "https://github.com/lando/php/issues/135"
+    }
+  ],
+  "pullRequests": [
+    {
+      "title": "Add PHP 8.3 to supported versions matrix",
+      "author": "phpdev5",
+      "createdAt": "2026-02-14T11:00:00.000Z",
+      "reviewCount": 0,
+      "url": "https://github.com/lando/php/pull/152"
+    }
+  ],
+  "releases": [
+    {
+      "tagName": "v1.5.0",
+      "publishedAt": "2025-08-01T12:00:00.000Z",
+      "url": "https://github.com/lando/php/releases/tag/v1.5.0"
+    },
+    {
+      "tagName": "v1.4.2",
+      "publishedAt": "2025-06-15T08:00:00.000Z",
+      "url": "https://github.com/lando/php/releases/tag/v1.4.2"
+    },
+    {
+      "tagName": "v1.4.1",
+      "publishedAt": "2025-04-20T14:00:00.000Z",
+      "url": "https://github.com/lando/php/releases/tag/v1.4.1"
+    },
+    {
+      "tagName": "v1.4.0",
+      "publishedAt": "2025-02-10T10:00:00.000Z",
+      "url": "https://github.com/lando/php/releases/tag/v1.4.0"
+    },
+    {
+      "tagName": "v1.3.0",
+      "publishedAt": "2024-12-01T12:00:00.000Z",
+      "url": "https://github.com/lando/php/releases/tag/v1.3.0"
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+  "name": "core",
+  "description": "The libraries that power Lando",
+  "language": "JavaScript",
+  "issues": [
+    {
+      "title": "Plugin loading fails with circular dependency",
+      "author": "devuser1",
+      "labels": ["bug", "priority:high"],
+      "createdAt": "2026-02-15T09:00:00.000Z",
+      "commentCount": 2,
+      "url": "https://github.com/lando/core/issues/210"
+    },
+    {
+      "title": "Add TypeScript support for plugin API",
+      "author": "devuser2",
+      "labels": ["enhancement", "typescript"],
+      "createdAt": "2026-02-01T14:30:00.000Z",
+      "commentCount": 7,
+      "url": "https://github.com/lando/core/issues/205"
+    },
+    {
+      "title": "Config merging does not respect array order",
+      "author": "devuser3",
+      "labels": ["bug"],
+      "createdAt": "2026-01-25T11:00:00.000Z",
+      "commentCount": 0,
+      "url": "https://github.com/lando/core/issues/200"
+    }
+  ],
+  "pullRequests": [
+    {
+      "title": "Refactor plugin loader to use async imports",
+      "author": "devuser4",
+      "createdAt": "2026-02-18T10:00:00.000Z",
+      "reviewCount": 1,
+      "url": "https://github.com/lando/core/pull/212"
+    },
+    {
+      "title": "Add unit tests for config merge logic",
+      "author": "devuser5",
+      "createdAt": "2026-02-10T16:00:00.000Z",
+      "reviewCount": 0,
+      "url": "https://github.com/lando/core/pull/208"
+    }
+  ],
+  "releases": [
+    {
+      "tagName": "v4.5.0",
+      "publishedAt": "2026-01-10T09:00:00.000Z",
+      "url": "https://github.com/lando/core/releases/tag/v4.5.0"
+    },
+    {
+      "tagName": "v4.4.2",
+      "publishedAt": "2025-12-01T12:00:00.000Z",
+      "url": "https://github.com/lando/core/releases/tag/v4.4.2"
+    },
+    {
+      "tagName": "v4.4.1",
+      "publishedAt": "2025-10-15T08:00:00.000Z",
+      "url": "https://github.com/lando/core/releases/tag/v4.4.1"
+    },
+    {
+      "tagName": "v4.4.0",
+      "publishedAt": "2025-09-20T14:00:00.000Z",
+      "url": "https://github.com/lando/core/releases/tag/v4.4.0"
+    },
+    {
+      "tagName": "v4.3.0",
+      "publishedAt": "2025-07-01T10:00:00.000Z",
+      "url": "https://github.com/lando/core/releases/tag/v4.3.0"
+    }
+  ]
+}
