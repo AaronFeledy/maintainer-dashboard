@@ -1,5 +1,5 @@
 import { createQuery } from "@tanstack/solid-query";
-import type { DataMeta, RepoOverview, UrgentItem } from "../types";
+import type { DataMeta, RepoDetail, RepoOverview, UrgentItem } from "../types";
 
 interface ReposOverviewResponse {
 	meta: DataMeta;
@@ -32,5 +32,18 @@ export function useUrgentItems() {
 			return res.json();
 		},
 		staleTime: 5 * 60 * 1000,
+	}));
+}
+
+export function useRepoDetail(name: () => string) {
+	return createQuery(() => ({
+		queryKey: ["repo-detail", name()],
+		queryFn: async (): Promise<RepoDetail> => {
+			const res = await fetch(`/data/repos/${name()}.json`);
+			if (!res.ok) throw new Error(`Failed to fetch repo detail: ${name()}`);
+			return res.json();
+		},
+		staleTime: 5 * 60 * 1000,
+		enabled: !!name(),
 	}));
 }

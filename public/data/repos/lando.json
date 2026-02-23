@@ -1,0 +1,74 @@
+{
+  "name": "lando",
+  "description": "A development tool for all your projects that is fast, easy, powerful and liberating.",
+  "language": "JavaScript",
+  "issues": [
+    {
+      "title": "Unable to start services after update to v3.21",
+      "author": "user1",
+      "labels": ["bug", "priority:high"],
+      "createdAt": "2026-02-10T08:30:00.000Z",
+      "commentCount": 0,
+      "url": "https://github.com/lando/lando/issues/3456"
+    },
+    {
+      "title": "Docker Compose v2 profile support",
+      "author": "user6",
+      "labels": ["enhancement"],
+      "createdAt": "2026-02-05T10:00:00.000Z",
+      "commentCount": 3,
+      "url": "https://github.com/lando/lando/issues/3450"
+    },
+    {
+      "title": "Memory leak in long-running containers",
+      "author": "user7",
+      "labels": ["bug"],
+      "createdAt": "2026-01-20T15:00:00.000Z",
+      "commentCount": 5,
+      "url": "https://github.com/lando/lando/issues/3440"
+    }
+  ],
+  "pullRequests": [
+    {
+      "title": "Add support for custom Docker Compose v2 profiles",
+      "author": "user2",
+      "createdAt": "2026-02-12T14:15:00.000Z",
+      "reviewCount": 0,
+      "url": "https://github.com/lando/lando/pull/3460"
+    },
+    {
+      "title": "Fix container restart logic for services",
+      "author": "user8",
+      "createdAt": "2026-02-18T09:30:00.000Z",
+      "reviewCount": 1,
+      "url": "https://github.com/lando/lando/pull/3465"
+    }
+  ],
+  "releases": [
+    {
+      "tagName": "v3.21.0",
+      "publishedAt": "2025-11-15T10:00:00.000Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.21.0"
+    },
+    {
+      "tagName": "v3.20.0",
+      "publishedAt": "2025-09-01T12:00:00.000Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.20.0"
+    },
+    {
+      "tagName": "v3.19.5",
+      "publishedAt": "2025-07-10T08:00:00.000Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.19.5"
+    },
+    {
+      "tagName": "v3.19.0",
+      "publishedAt": "2025-05-20T14:00:00.000Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.19.0"
+    },
+    {
+      "tagName": "v3.18.0",
+      "publishedAt": "2025-03-15T10:00:00.000Z",
+      "url": "https://github.com/lando/lando/releases/tag/v3.18.0"
+    }
+  ]
+}
