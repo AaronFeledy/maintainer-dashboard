@@ -1,301 +1,134 @@
-Welcome to your new TanStack app! 
+# Lando Maintainer Dashboard
 
-# Getting Started
+A dashboard for [Lando](https://github.com/lando) maintainers to monitor repository health, surface unengaged issues and PRs, and triage across the lando GitHub organization.
 
-To run this application:
+## Tech Stack
 
-```bash
-pnpm install
-pnpm dev
-```
+- **Framework:** [SolidJS](https://www.solidjs.com/)
+- **Routing:** [TanStack Solid Router](https://tanstack.com/router)
+- **Data fetching:** [TanStack Solid Query](https://tanstack.com/query)
+- **Tables:** [TanStack Solid Table](https://tanstack.com/table)
+- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/) with GitHub-style theming (light + dark mode)
+- **Build tool:** [Vite](https://vite.dev/)
+- **Runtime / package manager:** [Bun](https://bun.sh/)
+- **Linting / formatting:** [Biome](https://biomejs.dev/)
+- **Testing:** [Vitest](https://vitest.dev/)
+- **Hosting:** [Netlify](https://www.netlify.com/) (static deploy)
 
-# Building For Production
+## Getting Started
 
-To build this application for production:
+### Prerequisites
 
-```bash
-pnpm build
-```
+- [Bun](https://bun.sh/) installed (v1.0+)
 
-## Testing
-
-This project uses [Vitest](https://vitest.dev/) for testing. You can run the tests with:
-
-```bash
-pnpm test
-```
-
-## Styling
-
-This project uses [Tailwind CSS](https://tailwindcss.com/) for styling.
-
-
-## Linting & Formatting
-
-This project uses [Biome](https://biomejs.dev/) for linting and formatting. The following scripts are available:
-
+### Setup
 
 ```bash
-pnpm lint
-pnpm format
-pnpm check
+bun install
+bun run dev
 ```
 
+The dev server starts on [http://localhost:3000](http://localhost:3000).
 
+## Available Scripts
 
-## Routing
-This project uses [TanStack Router](https://tanstack.com/router). The initial setup is a file based router. Which means that the routes are managed as files in `src/routes`.
+| Script | Command | Description |
+|--------|---------|-------------|
+| `dev` | `bun run dev` | Start Vite dev server on port 3000 |
+| `build` | `bun run build` | Production build to `dist/` (also runs typecheck) |
+| `preview` | `bun run preview` | Preview the production build locally |
+| `check` | `bun run check` | Run Biome lint + format checks |
+| `test` | `bun run test` | Run Vitest tests |
+| `lint` | `bun run lint` | Run Biome linter only |
+| `format` | `bun run format` | Run Biome formatter only |
 
-### Adding A Route
+**Quality gate:** All commits should pass `bun run build && bun run check`.
 
-To add a new route to your application just add another a new file in the `./src/routes` directory.
+## Project Structure
 
-TanStack will automatically generate the content of the route file for you.
-
-Now that you have two routes you can use a `Link` component to navigate between them.
-
-### Adding Links
-
-To use SPA (Single Page Application) navigation you will need to import the `Link` component from `@tanstack/react-router`.
-
-```tsx
-import { Link } from "@tanstack/react-router";
+```
+src/
+  components/          UI components (PascalCase.tsx)
+    RepoTable.tsx        Sortable repo overview table with red-flag indicators
+    RepoFilters.tsx      Search, filter toggles, and language dropdown
+    UrgentFeed.tsx       Unengaged issues/PRs feed with filter tabs
+  config/
+    thresholds.ts        Red-flag thresholds and attention score weights
+  queries/
+    repos.ts             TanStack Query hooks for loading pre-fetched JSON data
+  routes/
+    overview.tsx         Homepage: urgent feed + repo table
+    repo-detail.tsx      Per-repo detail page: issues, PRs, releases
+  types/
+    index.ts             Shared TypeScript interfaces (RepoOverview, UrgentItem, etc.)
+  index.tsx              App entry point
+  router.tsx             TanStack Router configuration
+  styles.css             Tailwind CSS entry with GitHub theme tokens
+scripts/
+  fetch-github-data.ts   GitHub GraphQL data fetcher (run by CI)
+public/data/             Pre-fetched JSON data (served at /data/)
+  repos-overview.json    All repos with stats and attention scores
+  urgent-items.json      Unengaged issues and PRs
+  repos/{name}.json      Per-repo detail data (issues, PRs, releases)
 ```
 
-Then anywhere in your JSX you can use it like so:
+## Data Pipeline
 
-```tsx
-<Link to="/about">About</Link>
-```
+Dashboard data is pre-fetched via a GitHub Actions workflow rather than querying the API at runtime:
 
-This will create a link that will navigate to the `/about` route.
+1. **GitHub Actions** runs `scripts/fetch-github-data.ts` every 2 hours (configurable via cron in `.github/workflows/fetch-data.yml`)
+2. The script queries the GitHub GraphQL API for all non-archived repos in the `lando` org
+3. Data is written to `public/data/*.json` and committed back to the repository
+4. Vite serves `public/` at the site root, so data is available at `/data/repos-overview.json`, etc.
 
-More information on the `Link` component can be found in the [Link documentation](https://tanstack.com/router/v1/docs/framework/react/api/router/linkComponent).
+### What the script collects
 
-### Using A Layout
+- **Repo overview:** name, description, language, open issues/PRs, latest release, commits since release, attention score
+- **Urgent items:** open issues with 0 comments and open PRs with 0 reviews older than 3 days
+- **Per-repo detail:** open issues (with labels, comment count), open PRs (with review count), last 5 releases
 
-In the File Based Routing setup the layout is located in `src/routes/__root.tsx`. Anything you add to the root route will appear in all the routes. The route content will appear in the JSX where you use the `<Outlet />` component.
+### Environment Variables
 
-Here is an example layout that includes a header:
+| Variable | Required | Description |
+|----------|----------|-------------|
+| `GITHUB_TOKEN` | Yes (for data fetching) | GitHub personal access token or `secrets.GITHUB_TOKEN` in CI. Needs read access to the `lando` org repos. |
 
-```tsx
-import { Outlet, createRootRoute } from '@tanstack/react-router'
-import { TanStackRouterDevtools } from '@tanstack/react-router-devtools'
-
-import { Link } from "@tanstack/react-router";
-
-export const Route = createRootRoute({
-  component: () => (
-    <>
-      <header>
-        <nav>
-          <Link to="/">Home</Link>
-          <Link to="/about">About</Link>
-        </nav>
-      </header>
-      <Outlet />
-      <TanStackRouterDevtools />
-    </>
-  ),
-})
-```
-
-The `<TanStackRouterDevtools />` component is not required so you can remove it if you don't want it in your layout.
-
-More information on layouts can be found in the [Layouts documentation](https://tanstack.com/router/latest/docs/framework/react/guide/routing-concepts#layouts).
-
-
-## Data Fetching
-
-There are multiple ways to fetch data in your application. You can use TanStack Query to fetch data from a server. But you can also use the `loader` functionality built into TanStack Router to load the data for a route before it's rendered.
-
-For example:
-
-```tsx
-const peopleRoute = createRoute({
-  getParentRoute: () => rootRoute,
-  path: "/people",
-  loader: async () => {
-    const response = await fetch("https://swapi.dev/api/people");
-    return response.json() as Promise<{
-      results: {
-        name: string;
-      }[];
-    }>;
-  },
-  component: () => {
-    const data = peopleRoute.useLoaderData();
-    return (
-      <ul>
-        {data.results.map((person) => (
-          <li key={person.name}>{person.name}</li>
-        ))}
-      </ul>
-    );
-  },
-});
-```
-
-Loaders simplify your data fetching logic dramatically. Check out more information in the [Loader documentation](https://tanstack.com/router/latest/docs/framework/react/guide/data-loading#loader-parameters).
-
-### React-Query
-
-React-Query is an excellent addition or alternative to route loading and integrating it into you application is a breeze.
-
-First add your dependencies:
+To run the fetch script locally:
 
 ```bash
-pnpm add @tanstack/react-query @tanstack/react-query-devtools
+GITHUB_TOKEN=ghp_your_token_here bun scripts/fetch-github-data.ts
 ```
 
-Next we'll need to create a query client and provider. We recommend putting those in `main.tsx`.
+## Features
 
-```tsx
-import { QueryClient, QueryClientProvider } from "@tanstack/react-query";
+- **Urgent items feed** -- surfaces issues and PRs with no maintainer engagement, sorted oldest-first
+- **Sortable repo table** -- all repos at a glance with open issues, PRs, release info, and attention scores
+- **Red-flag indicators** -- visual warnings when repos exceed configurable thresholds (e.g., >20 open issues, >5 open PRs, >180 days since release)
+- **Attention scoring** -- weighted formula to prioritize repos needing attention: `openIssues * 1 + openPRs * 2 + daysSinceRelease * 0.5 + unengagedCount * 3`
+- **Search and filters** -- text search, red-flag filter, unengaged filter, and language dropdown with URL-persisted state
+- **Repo detail pages** -- drill into any repo to see its open issues, PRs, and recent releases
+- **GitHub-style theming** -- light and dark mode that follows system preference
 
-// ...
+## Deployment
 
-const queryClient = new QueryClient();
+The dashboard is deployed as a static site on Netlify. Configuration is in `netlify.toml`:
 
-// ...
+- **Build command:** `bun run build`
+- **Publish directory:** `dist`
+- **SPA routing:** all paths redirect to `/index.html` with status 200
 
-if (!rootElement.innerHTML) {
-  const root = ReactDOM.createRoot(rootElement);
+## Configuration
 
-  root.render(
-    <QueryClientProvider client={queryClient}>
-      <RouterProvider router={router} />
-    </QueryClientProvider>
-  );
-}
-```
+Thresholds and weights are centralized in `src/config/thresholds.ts`:
 
-You can also add TanStack Query Devtools to the root route (optional).
+| Setting | Default | Description |
+|---------|---------|-------------|
+| `issueRedFlag` | 20 | Open issues count that triggers a red flag |
+| `prRedFlag` | 5 | Open PRs count that triggers a red flag |
+| `staleReleaseDays` | 180 | Days since last release to show a warning |
+| `commitRedFlag` | 50 | Commits since release that triggers a red flag |
+| `unengagedDays` | 3 | Days without engagement before an item is flagged |
 
-```tsx
-import { ReactQueryDevtools } from "@tanstack/react-query-devtools";
+## License
 
-const rootRoute = createRootRoute({
-  component: () => (
-    <>
-      <Outlet />
-      <ReactQueryDevtools buttonPosition="top-right" />
-      <TanStackRouterDevtools />
-    </>
-  ),
-});
-```
-
-Now you can use `useQuery` to fetch your data.
-
-```tsx
-import { useQuery } from "@tanstack/react-query";
-
-import "./App.css";
-
-function App() {
-  const { data } = useQuery({
-    queryKey: ["people"],
-    queryFn: () =>
-      fetch("https://swapi.dev/api/people")
-        .then((res) => res.json())
-        .then((data) => data.results as { name: string }[]),
-    initialData: [],
-  });
-
-  return (
-    <div>
-      <ul>
-        {data.map((person) => (
-          <li key={person.name}>{person.name}</li>
-        ))}
-      </ul>
-    </div>
-  );
-}
-
-export default App;
-```
-
-You can find out everything you need to know on how to use React-Query in the [React-Query documentation](https://tanstack.com/query/latest/docs/framework/react/overview).
-
-## State Management
-
-Another common requirement for React applications is state management. There are many options for state management in React. TanStack Store provides a great starting point for your project.
-
-First you need to add TanStack Store as a dependency:
-
-```bash
-pnpm add @tanstack/store
-```
-
-Now let's create a simple counter in the `src/App.tsx` file as a demonstration.
-
-```tsx
-import { useStore } from "@tanstack/react-store";
-import { Store } from "@tanstack/store";
-import "./App.css";
-
-const countStore = new Store(0);
-
-function App() {
-  const count = useStore(countStore);
-  return (
-    <div>
-      <button onClick={() => countStore.setState((n) => n + 1)}>
-        Increment - {count}
-      </button>
-    </div>
-  );
-}
-
-export default App;
-```
-
-One of the many nice features of TanStack Store is the ability to derive state from other state. That derived state will update when the base state updates.
-
-Let's check this out by doubling the count using derived state.
-
-```tsx
-import { useStore } from "@tanstack/react-store";
-import { Store, Derived } from "@tanstack/store";
-import "./App.css";
-
-const countStore = new Store(0);
-
-const doubledStore = new Derived({
-  fn: () => countStore.state * 2,
-  deps: [countStore],
-});
-doubledStore.mount();
-
-function App() {
-  const count = useStore(countStore);
-  const doubledCount = useStore(doubledStore);
-
-  return (
-    <div>
-      <button onClick={() => countStore.setState((n) => n + 1)}>
-        Increment - {count}
-      </button>
-      <div>Doubled - {doubledCount}</div>
-    </div>
-  );
-}
-
-export default App;
-```
-
-We use the `Derived` class to create a new store that is derived from another store. The `Derived` class has a `mount` method that will start the derived store updating.
-
-Once we've created the derived store we can use it in the `App` component just like we would any other store using the `useStore` hook.
-
-You can find out everything you need to know on how to use TanStack Store in the [TanStack Store documentation](https://tanstack.com/store/latest).
-
-# Demo files
-
-Files prefixed with `demo` can be safely deleted. They are there to provide a starting point for you to play around with the features you've installed.
-
-# Learn More
-
-You can learn more about all of the offerings from TanStack in the [TanStack documentation](https://tanstack.com).
+See the [Lando](https://github.com/lando) organization for license information.
