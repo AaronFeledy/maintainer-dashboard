@@ -25,10 +25,10 @@ export default function RepoDetailPage() {
 	const query = useRepoDetail(() => params.name);
 
 	return (
-		<div class="mx-auto max-w-5xl p-6">
+		<div class="mx-auto max-w-5xl px-4 py-6 sm:px-6 lg:px-8">
 			<Link
 				to="/"
-				class="mb-4 inline-flex items-center text-sm text-accent-fg hover:underline"
+				class="mb-4 inline-flex items-center gap-1 text-sm text-accent-fg no-underline hover:underline"
 			>
 				&larr; Back to overview
 			</Link>
@@ -36,7 +36,7 @@ export default function RepoDetailPage() {
 			<Show
 				when={!query.isLoading}
 				fallback={
-					<div class="py-12 text-center text-fg-muted">
+					<div class="py-16 text-center text-sm text-fg-muted">
 						Loading repo details...
 					</div>
 				}
@@ -44,32 +44,34 @@ export default function RepoDetailPage() {
 				<Show
 					when={query.data}
 					fallback={
-						<div class="py-12 text-center text-fg-muted">Repo not found</div>
+						<div class="py-16 text-center text-sm text-fg-muted">
+							Repo not found
+						</div>
 					}
 				>
 					{(data) => (
 						<>
-							<div class="mb-6">
+							<div class="mb-6 border-b border-border-muted pb-4">
 								<div class="flex items-center gap-3">
 									<h1 class="text-2xl font-bold text-fg-default">
 										{data().name}
 									</h1>
 									<Show when={data().language}>
 										{(lang) => (
-											<span class="rounded-full border border-border-default bg-accent-subtle px-2.5 py-0.5 text-xs font-medium text-accent-fg">
+											<span class="rounded-full bg-accent-subtle px-2.5 py-0.5 text-xs font-medium text-accent-fg">
 												{lang()}
 											</span>
 										)}
 									</Show>
 								</div>
 								<Show when={data().description}>
-									{(desc) => <p class="mt-1 text-fg-muted">{desc()}</p>}
+									{(desc) => <p class="mt-1 text-sm text-fg-muted">{desc()}</p>}
 								</Show>
 								<a
 									href={`https://github.com/lando/${data().name}`}
 									target="_blank"
 									rel="noopener noreferrer"
-									class="mt-2 inline-block text-sm text-accent-fg hover:underline"
+									class="mt-2 inline-flex items-center gap-1 text-sm text-accent-fg no-underline hover:underline"
 								>
 									View on GitHub &rarr;
 								</a>
@@ -93,30 +95,38 @@ export default function RepoDetailPage() {
 
 function IssuesList(props: { issues: RepoIssue[] }) {
 	return (
-		<div class="rounded-md border border-border-default bg-canvas-default p-4 shadow-sm">
-			<h2 class="mb-3 text-base font-semibold text-fg-default">
-				Open Issues ({props.issues.length})
-			</h2>
+		<div class="rounded-md border border-border-default">
+			<div class="border-b border-border-default bg-canvas-subtle px-4 py-3">
+				<h2 class="text-sm font-semibold text-fg-default">
+					Open Issues ({props.issues.length})
+				</h2>
+			</div>
 			<Show
 				when={props.issues.length > 0}
-				fallback={<p class="text-sm text-fg-muted">No open issues</p>}
+				fallback={
+					<p class="px-4 py-6 text-center text-sm text-fg-muted">
+						No open issues
+					</p>
+				}
 			>
 				<ul class="divide-y divide-border-muted">
 					<For each={props.issues}>
 						{(issue) => (
-							<li class="py-3">
+							<li class="px-4 py-3 transition-colors hover:bg-canvas-subtle">
 								<a
 									href={issue.url}
 									target="_blank"
 									rel="noopener noreferrer"
-									class="text-sm font-medium text-accent-fg hover:underline"
+									class="text-sm font-medium text-accent-fg no-underline hover:underline"
 								>
 									{issue.title}
 								</a>
 								<div class="mt-1 flex flex-wrap items-center gap-2 text-xs text-fg-muted">
 									<span>by {issue.author}</span>
 									<span>&middot;</span>
-									<span>{relativeAge(issue.createdAt)}</span>
+									<time title={issue.createdAt}>
+										{relativeAge(issue.createdAt)}
+									</time>
 									<span>&middot;</span>
 									<span>
 										{issue.commentCount} comment
@@ -124,10 +134,10 @@ function IssuesList(props: { issues: RepoIssue[] }) {
 									</span>
 								</div>
 								<Show when={issue.labels.length > 0}>
-									<div class="mt-1 flex flex-wrap gap-1">
+									<div class="mt-1.5 flex flex-wrap gap-1">
 										<For each={issue.labels}>
 											{(label) => (
-												<span class="rounded-full border border-border-default bg-neutral-subtle px-2 py-0.5 text-xs font-medium text-fg-muted">
+												<span class="rounded-full bg-neutral-subtle px-2 py-0.5 text-xs font-medium text-fg-muted">
 													{label}
 												</span>
 											)}
@@ -145,30 +155,34 @@ function IssuesList(props: { issues: RepoIssue[] }) {
 
 function PRsList(props: { prs: RepoPR[] }) {
 	return (
-		<div class="rounded-md border border-border-default bg-canvas-default p-4 shadow-sm">
-			<h2 class="mb-3 text-base font-semibold text-fg-default">
-				Open PRs ({props.prs.length})
-			</h2>
+		<div class="rounded-md border border-border-default">
+			<div class="border-b border-border-default bg-canvas-subtle px-4 py-3">
+				<h2 class="text-sm font-semibold text-fg-default">
+					Open PRs ({props.prs.length})
+				</h2>
+			</div>
 			<Show
 				when={props.prs.length > 0}
-				fallback={<p class="text-sm text-fg-muted">No open PRs</p>}
+				fallback={
+					<p class="px-4 py-6 text-center text-sm text-fg-muted">No open PRs</p>
+				}
 			>
 				<ul class="divide-y divide-border-muted">
 					<For each={props.prs}>
 						{(pr) => (
-							<li class="py-3">
+							<li class="px-4 py-3 transition-colors hover:bg-canvas-subtle">
 								<a
 									href={pr.url}
 									target="_blank"
 									rel="noopener noreferrer"
-									class="text-sm font-medium text-done-fg hover:underline"
+									class="text-sm font-medium text-done-fg no-underline hover:underline"
 								>
 									{pr.title}
 								</a>
 								<div class="mt-1 flex items-center gap-2 text-xs text-fg-muted">
 									<span>by {pr.author}</span>
 									<span>&middot;</span>
-									<span>{relativeAge(pr.createdAt)}</span>
+									<time title={pr.createdAt}>{relativeAge(pr.createdAt)}</time>
 									<span>&middot;</span>
 									<span>
 										{pr.reviewCount} review
@@ -186,29 +200,33 @@ function PRsList(props: { prs: RepoPR[] }) {
 
 function ReleasesList(props: { releases: RepoRelease[] }) {
 	return (
-		<div class="rounded-md border border-border-default bg-canvas-default p-4 shadow-sm">
-			<h2 class="mb-3 text-base font-semibold text-fg-default">
-				Recent Releases
-			</h2>
+		<div class="rounded-md border border-border-default">
+			<div class="border-b border-border-default bg-canvas-subtle px-4 py-3">
+				<h2 class="text-sm font-semibold text-fg-default">Recent Releases</h2>
+			</div>
 			<Show
 				when={props.releases.length > 0}
-				fallback={<p class="text-sm text-fg-muted">No releases found</p>}
+				fallback={
+					<p class="px-4 py-6 text-center text-sm text-fg-muted">
+						No releases found
+					</p>
+				}
 			>
 				<ul class="divide-y divide-border-muted">
 					<For each={props.releases.slice(0, 5)}>
 						{(release) => (
-							<li class="flex items-center justify-between py-2">
+							<li class="flex items-center justify-between px-4 py-2.5 transition-colors hover:bg-canvas-subtle">
 								<a
 									href={release.url}
 									target="_blank"
 									rel="noopener noreferrer"
-									class="text-sm font-medium text-accent-fg hover:underline"
+									class="text-sm font-medium text-accent-fg no-underline hover:underline"
 								>
 									{release.tagName}
 								</a>
-								<span class="text-xs text-fg-muted">
+								<time class="text-xs text-fg-muted" title={release.publishedAt}>
 									{relativeAge(release.publishedAt)}
-								</span>
+								</time>
 							</li>
 						)}
 					</For>

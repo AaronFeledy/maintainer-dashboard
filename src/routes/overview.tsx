@@ -22,12 +22,13 @@ export default function OverviewPage() {
 	const query = useReposOverview();
 
 	return (
-		<div class="mx-auto max-w-7xl p-6">
-			<div class="mb-6 flex items-center justify-between">
+		<div class="mx-auto max-w-7xl px-4 py-6 sm:px-6 lg:px-8">
+			<div class="mb-6 flex items-center justify-between border-b border-border-muted pb-4">
 				<h1 class="text-2xl font-bold text-fg-default">Lando Dashboard</h1>
 				<Show when={query.data?.meta.fetchedAt}>
 					{(fetchedAt) => (
-						<span class="rounded-full border border-border-default bg-canvas-subtle px-3 py-1 text-xs text-fg-muted">
+						<span class="inline-flex items-center gap-1.5 rounded-full border border-border-default bg-canvas-subtle px-3 py-1 text-xs text-fg-muted">
+							<span class="inline-block h-2 w-2 rounded-full bg-success-emphasis" />
 							Last updated: {relativeAge(fetchedAt())}
 						</span>
 					)}
@@ -36,7 +37,7 @@ export default function OverviewPage() {
 
 			<Show when={query.error}>
 				{(error) => (
-					<div class="mb-4 rounded-lg border border-danger-subtle bg-danger-subtle p-4 text-sm text-danger-fg">
+					<div class="mb-4 rounded-md border border-danger-fg/20 bg-danger-subtle px-4 py-3 text-sm text-danger-fg">
 						Failed to load data: {error().message}
 					</div>
 				)}
@@ -45,7 +46,7 @@ export default function OverviewPage() {
 			<Show
 				when={!query.isLoading}
 				fallback={
-					<div class="py-12 text-center text-fg-muted">
+					<div class="py-16 text-center text-sm text-fg-muted">
 						Loading dashboard data...
 					</div>
 				}

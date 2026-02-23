@@ -48,13 +48,19 @@ function hasRedFlags(repo: RepoOverview): boolean {
 
 function RedBadge() {
 	return (
-		<span class="ml-1.5 inline-flex h-2 w-2 rounded-full bg-danger-emphasis" />
+		<span
+			class="ml-1.5 inline-flex h-2 w-2 rounded-full bg-danger-emphasis"
+			title="Exceeds threshold"
+		/>
 	);
 }
 
 function WarningBadge() {
 	return (
-		<span class="ml-1.5 inline-flex h-2 w-2 rounded-full bg-attention-emphasis" />
+		<span
+			class="ml-1.5 inline-flex h-2 w-2 rounded-full bg-attention-emphasis"
+			title="Needs attention"
+		/>
 	);
 }
 
@@ -67,7 +73,7 @@ const columns = [
 			<Link
 				to="/repo/$name"
 				params={{ name: info.getValue() }}
-				class="font-semibold text-accent-fg hover:underline"
+				class="font-semibold text-accent-fg no-underline hover:underline"
 			>
 				{info.getValue()}
 			</Link>
@@ -76,7 +82,7 @@ const columns = [
 	columnHelper.accessor("openIssues", {
 		header: "Open Issues",
 		cell: (info) => (
-			<span class="flex items-center">
+			<span class="flex items-center tabular-nums">
 				{info.getValue()}
 				<Show when={info.getValue() > thresholds.issueRedFlag}>
 					<RedBadge />
@@ -87,7 +93,7 @@ const columns = [
 	columnHelper.accessor("openPRs", {
 		header: "Open PRs",
 		cell: (info) => (
-			<span class="flex items-center">
+			<span class="flex items-center tabular-nums">
 				{info.getValue()}
 				<Show when={info.getValue() > thresholds.prRedFlag}>
 					<RedBadge />
@@ -99,7 +105,7 @@ const columns = [
 		header: "Last Release",
 		cell: (info) => (
 			<span class="flex items-center" title={info.getValue() ?? "No releases"}>
-				{relativeTime(info.getValue())}
+				<span class="text-fg-muted">{relativeTime(info.getValue())}</span>
 				<Show when={daysSince(info.getValue()) > thresholds.staleReleaseDays}>
 					<WarningBadge />
 				</Show>
@@ -109,7 +115,7 @@ const columns = [
 	columnHelper.accessor("commitsSinceRelease", {
 		header: "Commits Since Release",
 		cell: (info) => (
-			<span class="flex items-center">
+			<span class="flex items-center tabular-nums">
 				{info.getValue()}
 				<Show when={info.getValue() > thresholds.commitRedFlag}>
 					<WarningBadge />
@@ -120,12 +126,23 @@ const columns = [
 	columnHelper.accessor("lastPush", {
 		header: "Last Push",
 		cell: (info) => (
-			<span title={info.getValue()}>{relativeTime(info.getValue())}</span>
+			<span class="text-fg-muted" title={info.getValue()}>
+				{relativeTime(info.getValue())}
+			</span>
 		),
 	}),
 	columnHelper.accessor("attentionScore", {
 		header: "Attention Score",
-		cell: (info) => <span class="font-semibold">{info.getValue()}</span>,
+		cell: (info) => {
+			const score = info.getValue();
+			const colorClass =
+				score >= 100
+					? "text-danger-fg font-bold"
+					: score >= 50
+						? "text-attention-fg font-semibold"
+						: "text-fg-default font-medium";
+			return <span class={`tabular-nums ${colorClass}`}>{score}</span>;
+		},
 	}),
 ];
 
@@ -176,16 +193,16 @@ export default function RepoTable() {
 	});
 
 	return (
-		<div class="overflow-x-auto rounded-md border border-border-default bg-canvas-default shadow-sm">
-			<table class="min-w-full">
+		<div class="overflow-x-auto rounded-md border border-border-default">
+			<table class="min-w-full border-collapse">
 				<thead>
 					<For each={table.getHeaderGroups()}>
 						{(headerGroup) => (
-							<tr class="border-b border-border-default bg-canvas-subtle">
+							<tr class="bg-canvas-subtle">
 								<For each={headerGroup.headers}>
 									{(header) => (
 										<th
-											class="cursor-pointer select-none px-4 py-2.5 text-left text-xs font-semibold text-fg-muted hover:text-fg-default"
+											class="cursor-pointer select-none border-b border-border-default px-4 py-3 text-left text-xs font-semibold text-fg-muted transition-colors hover:text-fg-default"
 											onClick={header.column.getToggleSortingHandler()}
 										>
 											<div class="flex items-center gap-1">
@@ -210,17 +227,17 @@ export default function RepoTable() {
 					<For each={table.getRowModel().rows}>
 						{(row, index) => (
 							<tr
-								class={`border-b border-border-muted ${
+								class={`transition-colors ${
 									hasRedFlags(row.original)
-										? "bg-danger-subtle/50 hover:bg-danger-subtle"
+										? "bg-danger-subtle/40 hover:bg-danger-subtle/70"
 										: index() % 2 === 0
-											? "hover:bg-canvas-subtle"
-											: "bg-canvas-subtle/50 hover:bg-canvas-subtle"
+											? "bg-canvas-default hover:bg-canvas-subtle/70"
+											: "bg-canvas-subtle/30 hover:bg-canvas-subtle/70"
 								}`}
 							>
 								<For each={row.getVisibleCells()}>
 									{(cell) => (
-										<td class="whitespace-nowrap px-4 py-2.5 text-sm text-fg-default">
+										<td class="whitespace-nowrap border-b border-border-muted px-4 py-2.5 text-sm text-fg-default">
 											{flexRender(
 												cell.column.columnDef.cell,
 												cell.getContext(),
@@ -233,14 +250,20 @@ export default function RepoTable() {
 					</For>
 				</tbody>
 			</table>
+			<Show when={filteredRepos().length === 0 && !query.isLoading}>
+				<div class="py-8 text-center text-sm text-fg-muted">
+					No repos match the current filters.
+				</div>
+			</Show>
 		</div>
 	);
 }
 
 function SortIndicator(props: { direction: false | "asc" | "desc" }) {
-	if (!props.direction) return <span class="text-fg-subtle/50">&#8597;</span>;
+	if (!props.direction)
+		return <span class="text-fg-subtle/40 transition-colors">&#8597;</span>;
 	return (
-		<span class="text-fg-default">
+		<span class="text-accent-fg">
 			{props.direction === "asc" ? "\u2191" : "\u2193"}
 		</span>
 	);

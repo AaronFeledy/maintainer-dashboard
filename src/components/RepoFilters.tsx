@@ -50,17 +50,33 @@ export default function RepoFilters() {
 
 	return (
 		<div class="flex flex-wrap items-center gap-3">
-			<input
-				type="text"
-				placeholder="Search repos..."
-				value={search().search ?? ""}
-				onInput={(e) =>
-					updateFilters({
-						search: e.currentTarget.value || undefined,
-					})
-				}
-				class="rounded-md border border-border-default bg-canvas-default px-3 py-1.5 text-sm text-fg-default shadow-sm placeholder:text-fg-subtle focus:border-accent-fg focus:outline-none focus:ring-1 focus:ring-accent-fg"
-			/>
+			<div class="relative">
+				<svg
+					aria-hidden="true"
+					class="pointer-events-none absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-fg-subtle"
+					fill="none"
+					stroke="currentColor"
+					viewBox="0 0 24 24"
+				>
+					<path
+						stroke-linecap="round"
+						stroke-linejoin="round"
+						stroke-width="2"
+						d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z"
+					/>
+				</svg>
+				<input
+					type="text"
+					placeholder="Search repos..."
+					value={search().search ?? ""}
+					onInput={(e) =>
+						updateFilters({
+							search: e.currentTarget.value || undefined,
+						})
+					}
+					class="w-64 rounded-md border border-border-default bg-canvas-default py-1.5 pl-9 pr-3 text-sm text-fg-default placeholder:text-fg-subtle focus:border-accent-fg focus:outline-none focus:ring-1 focus:ring-accent-fg"
+				/>
+			</div>
 
 			<ToggleButton
 				label="Has red flags"
@@ -89,7 +105,7 @@ export default function RepoFilters() {
 						language: e.currentTarget.value || undefined,
 					})
 				}
-				class="rounded-md border border-border-default bg-canvas-default px-3 py-1.5 text-sm text-fg-default shadow-sm focus:border-accent-fg focus:outline-none focus:ring-1 focus:ring-accent-fg"
+				class="appearance-none rounded-md border border-border-default bg-btn-bg px-3 py-1.5 pr-8 text-sm font-medium text-fg-default transition-colors hover:bg-btn-hover-bg focus:border-accent-fg focus:outline-none focus:ring-1 focus:ring-accent-fg"
 			>
 				<option value="">All languages</option>
 				<For each={languages()}>
@@ -101,7 +117,7 @@ export default function RepoFilters() {
 				<button
 					type="button"
 					onClick={clearAll}
-					class="rounded-md px-3 py-1.5 text-sm text-fg-muted hover:bg-neutral-muted hover:text-fg-default"
+					class="rounded-md px-3 py-1.5 text-sm text-fg-muted transition-colors hover:text-danger-fg"
 				>
 					Clear all
 				</button>
