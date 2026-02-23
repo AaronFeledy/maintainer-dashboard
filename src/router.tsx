@@ -15,10 +15,24 @@ const rootRoute = createRootRoute({
 	),
 });
 
+export interface OverviewSearch {
+	search?: string;
+	redFlags?: boolean;
+	unengaged?: boolean;
+	language?: string;
+}
+
 const overviewRoute = createRoute({
 	getParentRoute: () => rootRoute,
 	path: "/",
 	component: OverviewPage,
+	validateSearch: (input: Record<string, unknown>): OverviewSearch => ({
+		search: typeof input.search === "string" ? input.search : undefined,
+		redFlags: input.redFlags === true || input.redFlags === "true" || undefined,
+		unengaged:
+			input.unengaged === true || input.unengaged === "true" || undefined,
+		language: typeof input.language === "string" ? input.language : undefined,
+	}),
 });
 
 const repoDetailRoute = createRoute({

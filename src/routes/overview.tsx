@@ -1,4 +1,5 @@
 import { Show } from "solid-js";
+import RepoFilters from "../components/RepoFilters";
 import RepoTable from "../components/RepoTable";
 import UrgentFeed from "../components/UrgentFeed";
 import { useReposOverview } from "../queries/repos";
@@ -51,6 +52,7 @@ export default function OverviewPage() {
 			>
 				<div class="space-y-6">
 					<UrgentFeed />
+					<RepoFilters />
 					<RepoTable />
 				</div>
 			</Show>

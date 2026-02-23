@@ -1,4 +1,4 @@
-import { Link } from "@tanstack/solid-router";
+import { Link, useSearch } from "@tanstack/solid-router";
 import type { SortingState } from "@tanstack/solid-table";
 import {
 	createColumnHelper,
@@ -7,7 +7,7 @@ import {
 	getCoreRowModel,
 	getSortedRowModel,
 } from "@tanstack/solid-table";
-import { createSignal, For, Show } from "solid-js";
+import { createMemo, createSignal, For, Show } from "solid-js";
 import { thresholds } from "../config/thresholds";
 import { useReposOverview } from "../queries/repos";
 import type { RepoOverview } from "../types";
@@ -127,13 +127,38 @@ const columns = [
 
 export default function RepoTable() {
 	const query = useReposOverview();
+	const search = useSearch({ from: "/" });
 	const [sorting, setSorting] = createSignal<SortingState>([
 		{ id: "attentionScore", desc: true },
 	]);
 
+	const filteredRepos = createMemo(() => {
+		let repos = query.data?.repos ?? [];
+		const params = search();
+
+		if (params.search) {
+			const term = params.search.toLowerCase();
+			repos = repos.filter((r) => r.name.toLowerCase().includes(term));
+		}
+
+		if (params.redFlags) {
+			repos = repos.filter((r) => hasRedFlags(r));
+		}
+
+		if (params.unengaged) {
+			repos = repos.filter((r) => r.unengagedCount > 0);
+		}
+
+		if (params.language) {
+			repos = repos.filter((r) => r.language === params.language);
+		}
+
+		return repos;
+	});
+
 	const table = createSolidTable({
 		get data() {
-			return query.data?.repos ?? [];
+			return filteredRepos();
 		},
 		columns,
 		state: {
