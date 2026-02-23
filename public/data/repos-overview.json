@@ -1,0 +1,68 @@
+{
+  "meta": {
+    "fetchedAt": "2026-02-23T12:00:00.000Z",
+    "repoCount": 5
+  },
+  "repos": [
+    {
+      "name": "lando",
+      "description": "A development tool for all your projects that is fast, easy, powerful and liberating.",
+      "language": "JavaScript",
+      "openIssues": 45,
+      "openPRs": 8,
+      "lastRelease": "2025-11-15T10:00:00.000Z",
+      "commitsSinceRelease": 67,
+      "lastPush": "2026-02-22T18:30:00.000Z",
+      "attentionScore": 162.5,
+      "unengagedCount": 2
+    },
+    {
+      "name": "core",
+      "description": "The libraries that power Lando",
+      "language": "JavaScript",
+      "openIssues": 12,
+      "openPRs": 3,
+      "lastRelease": "2026-01-10T09:00:00.000Z",
+      "commitsSinceRelease": 23,
+      "lastPush": "2026-02-21T14:00:00.000Z",
+      "attentionScore": 58.0,
+      "unengagedCount": 1
+    },
+    {
+      "name": "php",
+      "description": "A Lando plugin for PHP",
+      "language": "JavaScript",
+      "openIssues": 25,
+      "openPRs": 2,
+      "lastRelease": "2025-08-01T12:00:00.000Z",
+      "commitsSinceRelease": 15,
+      "lastPush": "2026-02-20T10:00:00.000Z",
+      "attentionScore": 131.5,
+      "unengagedCount": 1
+    },
+    {
+      "name": "node",
+      "description": "A Lando plugin for Node.js",
+      "language": "JavaScript",
+      "openIssues": 8,
+      "openPRs": 1,
+      "lastRelease": "2026-02-01T08:00:00.000Z",
+      "commitsSinceRelease": 5,
+      "lastPush": "2026-02-19T09:00:00.000Z",
+      "attentionScore": 21.0,
+      "unengagedCount": 1
+    },
+    {
+      "name": "docs",
+      "description": "Documentation for Lando",
+      "language": "Markdown",
+      "openIssues": 3,
+      "openPRs": 0,
+      "lastRelease": "2026-02-15T07:00:00.000Z",
+      "commitsSinceRelease": 2,
+      "lastPush": "2026-02-22T08:00:00.000Z",
+      "attentionScore": 7.0,
+      "unengagedCount": 0
+    }
+  ]
+}

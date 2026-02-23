@@ -1,0 +1,53 @@
+{
+  "meta": {
+    "fetchedAt": "2026-02-23T12:00:00.000Z",
+    "repoCount": 5
+  },
+  "items": [
+    {
+      "repo": "lando",
+      "number": 3456,
+      "title": "Unable to start services after update to v3.21",
+      "author": "user1",
+      "createdAt": "2026-02-10T08:30:00.000Z",
+      "url": "https://github.com/lando/lando/issues/3456",
+      "type": "issue"
+    },
+    {
+      "repo": "lando",
+      "number": 3460,
+      "title": "Add support for custom Docker Compose v2 profiles",
+      "author": "user2",
+      "createdAt": "2026-02-12T14:15:00.000Z",
+      "url": "https://github.com/lando/lando/pull/3460",
+      "type": "pr"
+    },
+    {
+      "repo": "php",
+      "number": 78,
+      "title": "PHP 8.3 extension loading fails on ARM64",
+      "author": "user3",
+      "createdAt": "2026-02-15T09:00:00.000Z",
+      "url": "https://github.com/lando/php/issues/78",
+      "type": "issue"
+    },
+    {
+      "repo": "node",
+      "number": 45,
+      "title": "Node 22 not recognized as valid version",
+      "author": "user4",
+      "createdAt": "2026-02-18T16:45:00.000Z",
+      "url": "https://github.com/lando/node/issues/45",
+      "type": "issue"
+    },
+    {
+      "repo": "core",
+      "number": 210,
+      "title": "Fix container networking on Docker Desktop 4.x",
+      "author": "user5",
+      "createdAt": "2026-02-19T11:20:00.000Z",
+      "url": "https://github.com/lando/core/pull/210",
+      "type": "pr"
+    }
+  ]
+}
