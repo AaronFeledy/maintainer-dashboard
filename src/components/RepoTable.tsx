@@ -7,7 +7,8 @@ import {
 	getCoreRowModel,
 	getSortedRowModel,
 } from "@tanstack/solid-table";
-import { createSignal, For } from "solid-js";
+import { createSignal, For, Show } from "solid-js";
+import { thresholds } from "../config/thresholds";
 import { useReposOverview } from "../queries/repos";
 import type { RepoOverview } from "../types";
 
@@ -29,6 +30,30 @@ function relativeTime(dateStr: string | null): string {
 	return years === 1 ? "1 year ago" : `${years} years ago`;
 }
 
+function daysSince(dateStr: string | null): number {
+	if (!dateStr) return 999;
+	const date = new Date(dateStr);
+	const now = new Date();
+	return Math.floor((now.getTime() - date.getTime()) / (1000 * 60 * 60 * 24));
+}
+
+function hasRedFlags(repo: RepoOverview): boolean {
+	return (
+		repo.openIssues > thresholds.issueRedFlag ||
+		repo.openPRs > thresholds.prRedFlag ||
+		daysSince(repo.lastRelease) > thresholds.staleReleaseDays ||
+		repo.commitsSinceRelease > thresholds.commitRedFlag
+	);
+}
+
+function RedBadge() {
+	return <span class="ml-1 inline-flex h-2 w-2 rounded-full bg-red-500" />;
+}
+
+function WarningBadge() {
+	return <span class="ml-1 inline-flex h-2 w-2 rounded-full bg-amber-500" />;
+}
+
 const columnHelper = createColumnHelper<RepoOverview>();
 
 const columns = [
@@ -46,23 +71,47 @@ const columns = [
 	}),
 	columnHelper.accessor("openIssues", {
 		header: "Open Issues",
-		cell: (info) => info.getValue(),
+		cell: (info) => (
+			<span class="flex items-center">
+				{info.getValue()}
+				<Show when={info.getValue() > thresholds.issueRedFlag}>
+					<RedBadge />
+				</Show>
+			</span>
+		),
 	}),
 	columnHelper.accessor("openPRs", {
 		header: "Open PRs",
-		cell: (info) => info.getValue(),
+		cell: (info) => (
+			<span class="flex items-center">
+				{info.getValue()}
+				<Show when={info.getValue() > thresholds.prRedFlag}>
+					<RedBadge />
+				</Show>
+			</span>
+		),
 	}),
 	columnHelper.accessor("lastRelease", {
 		header: "Last Release",
 		cell: (info) => (
-			<span title={info.getValue() ?? "No releases"}>
+			<span class="flex items-center" title={info.getValue() ?? "No releases"}>
 				{relativeTime(info.getValue())}
+				<Show when={daysSince(info.getValue()) > thresholds.staleReleaseDays}>
+					<WarningBadge />
+				</Show>
 			</span>
 		),
 	}),
 	columnHelper.accessor("commitsSinceRelease", {
 		header: "Commits Since Release",
-		cell: (info) => info.getValue(),
+		cell: (info) => (
+			<span class="flex items-center">
+				{info.getValue()}
+				<Show when={info.getValue() > thresholds.commitRedFlag}>
+					<WarningBadge />
+				</Show>
+			</span>
+		),
 	}),
 	columnHelper.accessor("lastPush", {
 		header: "Last Push",
@@ -131,7 +180,13 @@ export default function RepoTable() {
 				<tbody class="divide-y divide-gray-100">
 					<For each={table.getRowModel().rows}>
 						{(row) => (
-							<tr class="hover:bg-gray-50">
+							<tr
+								class={
+									hasRedFlags(row.original)
+										? "bg-red-50/50 hover:bg-red-50"
+										: "hover:bg-gray-50"
+								}
+							>
 								<For each={row.getVisibleCells()}>
 									{(cell) => (
 										<td class="whitespace-nowrap px-4 py-3 text-sm text-gray-700">
