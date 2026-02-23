@@ -161,6 +161,65 @@ query($searchQuery: String!, $cursor: String) {
 }
 `;
 
+interface RepoDetailData {
+	name: string;
+	description: string | null;
+	language: string | null;
+	issues: Array<{
+		title: string;
+		author: string;
+		labels: string[];
+		createdAt: string;
+		commentCount: number;
+		url: string;
+	}>;
+	pullRequests: Array<{
+		title: string;
+		author: string;
+		createdAt: string;
+		reviewCount: number;
+		url: string;
+	}>;
+	releases: Array<{
+		tagName: string;
+		publishedAt: string;
+		url: string;
+	}>;
+}
+
+const REPO_DETAIL_QUERY = `
+query($org: String!, $repo: String!) {
+  repository(owner: $org, name: $repo) {
+    issues(first: 50, states: OPEN, orderBy: {field: CREATED_AT, direction: DESC}) {
+      nodes {
+        title
+        author { login }
+        labels(first: 10) { nodes { name } }
+        createdAt
+        comments { totalCount }
+        url
+      }
+    }
+    pullRequests(first: 50, states: OPEN, orderBy: {field: CREATED_AT, direction: DESC}) {
+      nodes {
+        title
+        author { login }
+        createdAt
+        reviews { totalCount }
+        url
+      }
+    }
+    releases(first: 5, orderBy: {field: CREATED_AT, direction: DESC}) {
+      nodes {
+        tagName
+        publishedAt
+        url
+      }
+    }
+  }
+}
+`;
+
 // Attention score weights
 const WEIGHTS = {
 	issues: 1,
@@ -294,6 +353,69 @@ async function fetchUnengagedPRs(cutoffDate: string): Promise<UrgentItem[]> {
 	return items;
 }
 
+async function fetchRepoDetail(
+	repoName: string,
+	description: string | null,
+	language: string | null,
+): Promise<RepoDetailData> {
+	const result: {
+		repository: {
+			issues: {
+				nodes: Array<{
+					title: string;
+					author: { login: string } | null;
+					labels: { nodes: Array<{ name: string }> };
+					createdAt: string;
+					comments: { totalCount: number };
+					url: string;
+				}>;
+			};
+			pullRequests: {
+				nodes: Array<{
+					title: string;
+					author: { login: string } | null;
+					createdAt: string;
+					reviews: { totalCount: number };
+					url: string;
+				}>;
+			};
+			releases: {
+				nodes: Array<{
+					tagName: string;
+					publishedAt: string;
+					url: string;
+				}>;
+			};
+		};
+	} = await gql(REPO_DETAIL_QUERY, { org: ORG, repo: repoName });
+
+	return {
+		name: repoName,
+		description,
+		language,
+		issues: result.repository.issues.nodes.map((issue) => ({
+			title: issue.title,
+			author: issue.author?.login ?? "unknown",
+			labels: issue.labels.nodes.map((l) => l.name),
+			createdAt: issue.createdAt,
+			commentCount: issue.comments.totalCount,
+			url: issue.url,
+		})),
+		pullRequests: result.repository.pullRequests.nodes.map((pr) => ({
+			title: pr.title,
+			author: pr.author?.login ?? "unknown",
+			createdAt: pr.createdAt,
+			reviewCount: pr.reviews.totalCount,
+			url: pr.url,
+		})),
+		releases: result.repository.releases.nodes.map((release) => ({
+			tagName: release.tagName,
+			publishedAt: release.publishedAt,
+			url: release.url,
+		})),
+	};
+}
+
 function daysSince(dateStr: string): number {
 	const date = new Date(dateStr);
 	const now = new Date();
@@ -399,6 +521,39 @@ async function main() {
 	);
 	console.log(
 		`Wrote ${allUrgentItems.length} urgent items to public/data/urgent-items.json`,
+	);
+
+	// Fetch per-repo detail data for repos with issues or PRs
+	const reposDir = join(outDir, "repos");
+	mkdirSync(reposDir, { recursive: true });
+
+	const reposWithActivity = repos.filter(
+		(r) => r.issues.totalCount > 0 || r.pullRequests.totalCount > 0,
+	);
+	console.log(
+		`Fetching detail data for ${reposWithActivity.length} repos with activity...`,
+	);
+
+	let detailCount = 0;
+	for (const repo of reposWithActivity) {
+		try {
+			const detail = await fetchRepoDetail(
+				repo.name,
+				repo.description,
+				repo.primaryLanguage?.name ?? null,
+			);
+			writeFileSync(
+				join(reposDir, `${repo.name}.json`),
+				JSON.stringify(detail, null, 2),
+			);
+			detailCount++;
+		} catch (err) {
+			console.warn(`Failed to fetch detail for ${repo.name}:`, err);
+		}
+	}
+
+	console.log(
+		`Wrote detail data for ${detailCount} repos to public/data/repos/`,
 	);
 }
 
