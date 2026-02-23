@@ -109,6 +109,58 @@ query($org: String!, $repo: String!, $since: GitTimestamp!) {
 }
 `;
 
+interface UrgentItem {
+	repo: string;
+	number: number;
+	title: string;
+	author: string;
+	createdAt: string;
+	url: string;
+	type: "issue" | "pr";
+}
+
+const UNENGAGED_ISSUES_QUERY = `
+query($searchQuery: String!, $cursor: String) {
+  search(query: $searchQuery, type: ISSUE, first: 100, after: $cursor) {
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+    nodes {
+      ... on Issue {
+        repository { name }
+        number
+        title
+        author { login }
+        createdAt
+        url
+      }
+    }
+  }
+}
+`;
+
+const UNENGAGED_PRS_QUERY = `
+query($searchQuery: String!, $cursor: String) {
+  search(query: $searchQuery, type: ISSUE, first: 100, after: $cursor) {
+    pageInfo {
+      hasNextPage
+      endCursor
+    }
+    nodes {
+      ... on PullRequest {
+        repository { name }
+        number
+        title
+        author { login }
+        createdAt
+        url
+      }
+    }
+  }
+}
+`;
+
 // Attention score weights
 const WEIGHTS = {
 	issues: 1,
@@ -167,6 +219,81 @@ async function getCommitsSinceRelease(
 	}
 }
 
+interface SearchNode {
+	repository: { name: string };
+	number: number;
+	title: string;
+	author: { login: string } | null;
+	createdAt: string;
+	url: string;
+}
+
+async function fetchUnengagedIssues(cutoffDate: string): Promise<UrgentItem[]> {
+	const searchQuery = `org:${ORG} is:issue is:open comments:0 created:<${cutoffDate}`;
+	const items: UrgentItem[] = [];
+	let cursor: string | null = null;
+	let hasNextPage = true;
+
+	while (hasNextPage) {
+		const result: {
+			search: {
+				pageInfo: PageInfo;
+				nodes: SearchNode[];
+			};
+		} = await gql(UNENGAGED_ISSUES_QUERY, { searchQuery, cursor });
+
+		for (const node of result.search.nodes) {
+			items.push({
+				repo: node.repository.name,
+				number: node.number,
+				title: node.title,
+				author: node.author?.login ?? "unknown",
+				createdAt: node.createdAt,
+				url: node.url,
+				type: "issue",
+			});
+		}
+
+		hasNextPage = result.search.pageInfo.hasNextPage;
+		cursor = result.search.pageInfo.endCursor;
+	}
+
+	return items;
+}
+
+async function fetchUnengagedPRs(cutoffDate: string): Promise<UrgentItem[]> {
+	const searchQuery = `org:${ORG} is:pr is:open review:none created:<${cutoffDate}`;
+	const items: UrgentItem[] = [];
+	let cursor: string | null = null;
+	let hasNextPage = true;
+
+	while (hasNextPage) {
+		const result: {
+			search: {
+				pageInfo: PageInfo;
+				nodes: SearchNode[];
+			};
+		} = await gql(UNENGAGED_PRS_QUERY, { searchQuery, cursor });
+
+		for (const node of result.search.nodes) {
+			items.push({
+				repo: node.repository.name,
+				number: node.number,
+				title: node.title,
+				author: node.author?.login ?? "unknown",
+				createdAt: node.createdAt,
+				url: node.url,
+				type: "pr",
+			});
+		}
+
+		hasNextPage = result.search.pageInfo.hasNextPage;
+		cursor = result.search.pageInfo.endCursor;
+	}
+
+	return items;
+}
+
 function daysSince(dateStr: string): number {
 	const date = new Date(dateStr);
 	const now = new Date();
@@ -178,6 +305,33 @@ async function main() {
 
 	const repos = await fetchAllRepos();
 	console.log(`Found ${repos.length} non-archived repos`);
+
+	// Fetch unengaged issues and PRs (older than 3 days)
+	const threeDaysAgo = new Date();
+	threeDaysAgo.setDate(threeDaysAgo.getDate() - 3);
+	const cutoffDate = threeDaysAgo.toISOString().split("T")[0];
+
+	console.log(`Fetching unengaged items older than ${cutoffDate}...`);
+	const [unengagedIssues, unengagedPRs] = await Promise.all([
+		fetchUnengagedIssues(cutoffDate),
+		fetchUnengagedPRs(cutoffDate),
+	]);
+
+	const allUrgentItems = [...unengagedIssues, ...unengagedPRs];
+	// Sort by created date ascending (oldest first)
+	allUrgentItems.sort(
+		(a, b) => new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime(),
+	);
+
+	console.log(
+		`Found ${unengagedIssues.length} unengaged issues and ${unengagedPRs.length} unengaged PRs`,
+	);
+
+	// Count unengaged items per repo
+	const unengagedByRepo = new Map<string, number>();
+	for (const item of allUrgentItems) {
+		unengagedByRepo.set(item.repo, (unengagedByRepo.get(item.repo) ?? 0) + 1);
+	}
 
 	const overviews: RepoOverview[] = [];
 
@@ -196,8 +350,7 @@ async function main() {
 			? daysSince(lastRelease.publishedAt)
 			: 365;
 
-		// unengagedCount is computed in US-005, default to 0 for now
-		const unengagedCount = 0;
+		const unengagedCount = unengagedByRepo.get(repo.name) ?? 0;
 
 		const attentionScore =
 			repo.issues.totalCount * WEIGHTS.issues +
@@ -230,14 +383,22 @@ async function main() {
 	const outDir = join(import.meta.dirname ?? ".", "..", "public", "data");
 	mkdirSync(outDir, { recursive: true });
 
-	const output = { meta, repos: overviews };
+	const reposOutput = { meta, repos: overviews };
 	writeFileSync(
 		join(outDir, "repos-overview.json"),
-		JSON.stringify(output, null, 2),
+		JSON.stringify(reposOutput, null, 2),
+	);
+
+	writeFileSync(
+		join(outDir, "urgent-items.json"),
+		JSON.stringify({ meta, items: allUrgentItems }, null, 2),
 	);
 
 	console.log(
 		`Wrote ${overviews.length} repos to public/data/repos-overview.json`,
+	);
+	console.log(
+		`Wrote ${allUrgentItems.length} urgent items to public/data/urgent-items.json`,
 	);
 }
 
