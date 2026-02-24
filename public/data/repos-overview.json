@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-24T03:01:41.084Z",
+		"fetchedAt": "2026-02-24T04:37:39.973Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -601,7 +601,7 @@
 			"lastRelease": "2026-02-22T04:34:05Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-22T20:54:43Z",
-			"attentionScore": 47.5,
+			"attentionScore": 48,
 			"unengagedCount": 9
 		},
 		{
@@ -637,7 +637,7 @@
 			"lastRelease": "2026-02-20T03:50:35Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-02-24T01:54:24Z",
-			"attentionScore": 39.5,
+			"attentionScore": 40,
 			"unengagedCount": 5
 		},
 		{
@@ -650,18 +650,6 @@
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-23T12:46:09Z",
 			"attentionScore": 28.5,
-			"unengagedCount": 4
-		},
-		{
-			"name": "lando/acquia",
-			"description": "The Official Acquia Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 5,
-			"openPRs": 4,
-			"lastRelease": "2026-02-22T20:12:36Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-02-24T02:29:23Z",
-			"attentionScore": 25.5,
 			"unengagedCount": 4
 		},
 		{
@@ -685,8 +673,20 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-23T04:24:51Z",
-			"attentionScore": 22,
+			"attentionScore": 22.5,
 			"unengagedCount": 5
+		},
+		{
+			"name": "lando/acquia",
+			"description": "The Official Acquia Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 4,
+			"openPRs": 2,
+			"lastRelease": "2026-02-22T20:12:36Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-02-24T04:10:59Z",
+			"attentionScore": 20.5,
+			"unengagedCount": 4
 		},
 		{
 			"name": "lando/laravel",
@@ -709,7 +709,7 @@
 			"lastRelease": "2026-02-20T04:30:49Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-02-22T20:54:54Z",
-			"attentionScore": 11.5,
+			"attentionScore": 12,
 			"unengagedCount": 1
 		},
 		{
@@ -745,7 +745,19 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-22T20:54:48Z",
-			"attentionScore": 2.5,
+			"attentionScore": 3,
+			"unengagedCount": 0
+		},
+		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-02-24T03:48:16Z",
+			"attentionScore": 2,
 			"unengagedCount": 0
 		},
 		{
@@ -769,18 +781,6 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-23T17:48:59Z",
-			"attentionScore": 0,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-24T01:58:59Z",
 			"attentionScore": 0,
 			"unengagedCount": 0
 		}

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-24T03:01:41.084Z",
+		"fetchedAt": "2026-02-24T04:37:39.973Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3191,21 +3191,21 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/apache",
-			"number": 55,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:50Z",
-			"url": "https://github.com/lando/apache/pull/55",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/gitpod",
 			"number": 15,
 			"title": "Bump the actions group with 5 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:10:50Z",
 			"url": "https://github.com/lando/gitpod/pull/15",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/apache",
+			"number": 55,
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:10:50Z",
+			"url": "https://github.com/lando/apache/pull/55",
 			"type": "pr"
 		},
 		{
@@ -3227,21 +3227,21 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mssql",
-			"number": 46,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:59Z",
-			"url": "https://github.com/lando/mssql/pull/46",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/blog",
 			"number": 56,
 			"title": "Bump the actions group with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:10:59Z",
 			"url": "https://github.com/lando/blog/pull/56",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mssql",
+			"number": 46,
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:10:59Z",
+			"url": "https://github.com/lando/mssql/pull/46",
 			"type": "pr"
 		},
 		{
@@ -3272,15 +3272,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/solr",
-			"number": 64,
-			"title": "Bump actions/add-to-project from 1.0.0 to 1.0.2 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:05Z",
-			"url": "https://github.com/lando/solr/pull/64",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/apache",
 			"number": 56,
 			"title": "Bump the actions group with 4 updates",
@@ -3290,12 +3281,21 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/node",
-			"number": 113,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"repo": "lando/solr",
+			"number": 64,
+			"title": "Bump actions/add-to-project from 1.0.0 to 1.0.2 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:05Z",
+			"url": "https://github.com/lando/solr/pull/64",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/blog",
+			"number": 57,
+			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.44 to 1.0.0-beta.49",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:07Z",
-			"url": "https://github.com/lando/node/pull/113",
+			"url": "https://github.com/lando/blog/pull/57",
 			"type": "pr"
 		},
 		{
@@ -3308,12 +3308,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/blog",
-			"number": 57,
-			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.44 to 1.0.0-beta.49",
+			"repo": "lando/node",
+			"number": 113,
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:07Z",
-			"url": "https://github.com/lando/blog/pull/57",
+			"url": "https://github.com/lando/node/pull/113",
 			"type": "pr"
 		},
 		{
@@ -3335,21 +3335,21 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mongo",
-			"number": 58,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:09Z",
-			"url": "https://github.com/lando/mongo/pull/58",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/mssql",
 			"number": 47,
 			"title": "Bump the actions group with 4 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:09Z",
 			"url": "https://github.com/lando/mssql/pull/47",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mongo",
+			"number": 58,
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:09Z",
+			"url": "https://github.com/lando/mongo/pull/58",
 			"type": "pr"
 		},
 		{

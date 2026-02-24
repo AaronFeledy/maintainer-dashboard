@@ -4,14 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "MySQL 8 Support",
-			"author": "jacobsaw",
-			"labels": [],
-			"createdAt": "2025-10-14T14:26:12Z",
-			"commentCount": 5,
-			"url": "https://github.com/lando/acquia/issues/138"
-		},
-		{
 			"title": "Not possible to disable memcache, causing slow page loads",
 			"author": "maskedjellybean",
 			"labels": [
@@ -51,20 +43,6 @@
 		}
 	],
 	"pullRequests": [
-		{
-			"title": "Acquia database version fallback",
-			"author": "cursor",
-			"createdAt": "2026-02-24T02:27:40Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/acquia/pull/161"
-		},
-		{
-			"title": "feat: support database config key for MySQL version selection",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-24T02:19:47Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/acquia/pull/160"
-		},
 		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",

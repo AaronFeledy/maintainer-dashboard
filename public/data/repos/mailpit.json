@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Add changelog entries for dependabot updates",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-23T04:35:26Z",
+			"title": "Updated Mailpit to v1.29",
+			"author": "github-actions",
+			"createdAt": "2026-02-24T03:48:17Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/mailpit/pull/50"
+			"url": "https://github.com/lando/mailpit/pull/52"
 		}
 	],
 	"releases": [
