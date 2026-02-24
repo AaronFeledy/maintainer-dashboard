@@ -1,0 +1,88 @@
+{
+	"name": "lando/acquia",
+	"description": "The Official Acquia Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Not possible to disable memcache, causing slow page loads",
+			"author": "maskedjellybean",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-02-29T00:14:57Z",
+			"commentCount": 8,
+			"url": "https://github.com/lando/acquia/issues/84"
+		},
+		{
+			"title": "Missing directories available at Acquia",
+			"author": "rubenvarela",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-08-04T23:42:05Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/acquia/issues/62"
+		},
+		{
+			"title": "Adjust 'max_input_var' value",
+			"author": "rubenvarela",
+			"labels": [],
+			"createdAt": "2022-03-21T20:57:16Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/acquia/issues/35"
+		},
+		{
+			"title": "Lando 'acquia' recipe uses different host OS than Acquia environments",
+			"author": "derytim",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2021-12-08T21:40:40Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/acquia/issues/26"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:33Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/acquia/pull/159"
+		},
+		{
+			"title": "Add --on-demand and more verbosity when passing env flags",
+			"author": "nalipaz",
+			"createdAt": "2023-12-27T18:31:36Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/acquia/pull/74"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.8.0",
+			"publishedAt": "2026-02-22T20:12:36Z",
+			"url": "https://github.com/lando/acquia/releases/tag/v1.8.0"
+		},
+		{
+			"tagName": "v1.7.0",
+			"publishedAt": "2025-09-03T16:30:23Z",
+			"url": "https://github.com/lando/acquia/releases/tag/v1.7.0"
+		},
+		{
+			"tagName": "v1.6.3",
+			"publishedAt": "2025-06-06T12:01:49Z",
+			"url": "https://github.com/lando/acquia/releases/tag/v1.6.3"
+		},
+		{
+			"tagName": "v1.6.2",
+			"publishedAt": "2025-05-08T05:42:34Z",
+			"url": "https://github.com/lando/acquia/releases/tag/v1.6.2"
+		},
+		{
+			"tagName": "v1.6.1",
+			"publishedAt": "2024-12-11T12:45:12Z",
+			"url": "https://github.com/lando/acquia/releases/tag/v1.6.1"
+		}
+	]
+}

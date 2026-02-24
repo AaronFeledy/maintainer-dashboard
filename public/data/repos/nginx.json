@@ -1,0 +1,97 @@
+{
+	"name": "lando/nginx",
+	"description": "The Official NGINX Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Using template syntax in custom vhosts files",
+			"author": "rbackert",
+			"labels": [],
+			"createdAt": "2024-06-06T15:54:03Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/nginx/issues/56"
+		},
+		{
+			"title": "Setting client_max_body_size",
+			"author": "sinnbeck",
+			"labels": [],
+			"createdAt": "2024-01-25T13:33:48Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/nginx/issues/44"
+		},
+		{
+			"title": "NGINX Container fails to build on an already working projects",
+			"author": "CarlosBlackSmith",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-12-06T16:46:52Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/nginx/issues/34"
+		},
+		{
+			"title": "403 errors when accessing stylesheet and JS assets from symlinked WordPress plugin folder",
+			"author": "helgatheviking",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-07-03T14:06:12Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/nginx/issues/20"
+		},
+		{
+			"title": "Ability to override parts of nginx config rather the whole config",
+			"author": "apotek",
+			"labels": [],
+			"createdAt": "2023-03-08T16:52:30Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/nginx/issues/16"
+		},
+		{
+			"title": "Enable GZip",
+			"author": "kamalkech",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-05-22T15:36:35Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/nginx/issues/9"
+		},
+		{
+			"title": "Support following symlinks by default",
+			"author": "helgatheviking",
+			"labels": [],
+			"createdAt": "2022-02-26T17:44:16Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/nginx/issues/4"
+		}
+	],
+	"pullRequests": [],
+	"releases": [
+		{
+			"tagName": "v1.6.0",
+			"publishedAt": "2026-02-23T04:24:29Z",
+			"url": "https://github.com/lando/nginx/releases/tag/v1.6.0"
+		},
+		{
+			"tagName": "v1.5.0",
+			"publishedAt": "2025-08-31T21:19:53Z",
+			"url": "https://github.com/lando/nginx/releases/tag/v1.5.0"
+		},
+		{
+			"tagName": "v1.4.4",
+			"publishedAt": "2024-12-07T12:22:08Z",
+			"url": "https://github.com/lando/nginx/releases/tag/v1.4.4"
+		},
+		{
+			"tagName": "v1.4.3",
+			"publishedAt": "2024-12-06T19:41:36Z",
+			"url": "https://github.com/lando/nginx/releases/tag/v1.4.3"
+		},
+		{
+			"tagName": "v1.4.2",
+			"publishedAt": "2024-12-04T22:59:04Z",
+			"url": "https://github.com/lando/nginx/releases/tag/v1.4.2"
+		}
+	]
+}

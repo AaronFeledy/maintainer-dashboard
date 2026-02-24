@@ -1,0 +1,37 @@
+{
+	"name": "lando/telemetry",
+	"description": null,
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "Bump micromatch from 4.0.5 to 4.0.8",
+			"author": "dependabot",
+			"createdAt": "2024-09-02T00:18:28Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/telemetry/pull/5"
+		},
+		{
+			"title": "Bump braces from 3.0.2 to 3.0.3",
+			"author": "dependabot",
+			"createdAt": "2024-07-11T07:10:00Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/telemetry/pull/4"
+		},
+		{
+			"title": "Bump word-wrap from 1.2.3 to 1.2.4",
+			"author": "dependabot",
+			"createdAt": "2023-07-20T04:12:02Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/telemetry/pull/3"
+		},
+		{
+			"title": "Bump semver from 7.3.8 to 7.5.4",
+			"author": "dependabot",
+			"createdAt": "2023-07-14T05:39:54Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/telemetry/pull/2"
+		}
+	],
+	"releases": []
+}

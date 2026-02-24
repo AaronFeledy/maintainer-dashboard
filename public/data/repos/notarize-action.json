@@ -1,0 +1,71 @@
+{
+	"name": "lando/notarize-action",
+	"description": "A GitHub action to Apple notarize files. Originally adapted from https://github.com/devbotsxyz/xcode-notarize",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "run `notarytool log` on invalid status",
+			"author": "chrisvire",
+			"labels": [],
+			"createdAt": "2025-05-08T00:29:22Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/notarize-action/issues/33"
+		},
+		{
+			"title": "Is it possible to get a new tagged version which includes node20 update ?",
+			"author": "batcaveMessi",
+			"labels": [],
+			"createdAt": "2024-11-06T12:54:07Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/notarize-action/issues/32"
+		},
+		{
+			"title": "Action xcode-staple was removed",
+			"author": "zkovari",
+			"labels": [],
+			"createdAt": "2023-08-21T09:25:23Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/notarize-action/issues/25"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump ws from 7.5.9 to 7.5.10",
+			"author": "dependabot",
+			"createdAt": "2024-06-21T01:18:50Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/notarize-action/pull/31"
+		},
+		{
+			"title": "Bump braces and jest",
+			"author": "dependabot",
+			"createdAt": "2024-06-16T05:11:42Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/notarize-action/pull/30"
+		},
+		{
+			"title": "Bump @babel/traverse from 7.21.4 to 7.24.1",
+			"author": "dependabot",
+			"createdAt": "2024-04-05T15:26:24Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/notarize-action/pull/29"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v2.0.2",
+			"publishedAt": "2023-06-18T14:17:09Z",
+			"url": "https://github.com/lando/notarize-action/releases/tag/v2.0.2"
+		},
+		{
+			"tagName": "v2.0.1",
+			"publishedAt": "2023-04-27T19:02:09Z",
+			"url": "https://github.com/lando/notarize-action/releases/tag/v2.0.1"
+		},
+		{
+			"tagName": "v2.0.0",
+			"publishedAt": "2023-04-27T17:56:02Z",
+			"url": "https://github.com/lando/notarize-action/releases/tag/v2.0.0"
+		}
+	]
+}

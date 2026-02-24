@@ -1,0 +1,95 @@
+{
+	"name": "lando/drupal",
+	"description": "The Official Drupal Lando plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "composer always prints escape codes",
+			"author": "danielcavanagh",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-02-26T10:22:06Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/drupal/issues/157"
+		},
+		{
+			"title": "Error: Service \"edge\" depends on undefined service \"appserver_nginx\":",
+			"author": "ravearvind",
+			"labels": [
+				"drupal",
+				"Needs Triage"
+			],
+			"createdAt": "2024-08-06T12:46:13Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/drupal/issues/120"
+		},
+		{
+			"title": "Xdebug and Sublime Text 4 support request",
+			"author": "gitressa",
+			"labels": [
+				"drupal",
+				"Needs Triage"
+			],
+			"createdAt": "2023-04-03T19:19:50Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/drupal/issues/54"
+		},
+		{
+			"title": "S3FS module + Image style support ",
+			"author": "Coufu",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2022-06-26T06:44:29Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/drupal/issues/28"
+		},
+		{
+			"title": "How to setup chromedriver to test javascript files",
+			"author": "smustgrave",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-05-28T03:32:49Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/drupal/issues/27"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:55Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/drupal/pull/182"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.14.1",
+			"publishedAt": "2026-02-20T04:30:49Z",
+			"url": "https://github.com/lando/drupal/releases/tag/v1.14.1"
+		},
+		{
+			"tagName": "v1.14.0",
+			"publishedAt": "2026-02-19T18:10:15Z",
+			"url": "https://github.com/lando/drupal/releases/tag/v1.14.0"
+		},
+		{
+			"tagName": "v1.13.0",
+			"publishedAt": "2025-09-17T17:13:00Z",
+			"url": "https://github.com/lando/drupal/releases/tag/v1.13.0"
+		},
+		{
+			"tagName": "v1.12.0",
+			"publishedAt": "2025-01-16T19:12:25Z",
+			"url": "https://github.com/lando/drupal/releases/tag/v1.12.0"
+		},
+		{
+			"tagName": "v1.11.0",
+			"publishedAt": "2024-12-09T14:26:53Z",
+			"url": "https://github.com/lando/drupal/releases/tag/v1.11.0"
+		}
+	]
+}

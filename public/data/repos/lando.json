@@ -1,74 +1,535 @@
 {
-  "name": "lando",
-  "description": "A development tool for all your projects that is fast, easy, powerful and liberating.",
-  "language": "JavaScript",
-  "issues": [
-    {
-      "title": "Cannot install lando on Windows 11 25H2 due to powershell Syntax error",
-      "author": "kaszarobert",
-      "labels": ["bug"],
-      "createdAt": "2026-01-21T09:36:25Z",
-      "commentCount": 0,
-      "url": "https://github.com/lando/lando/issues/3834"
-    },
-    {
-      "title": "[Meta] MariaDB/MySQL Client Compatibility Across Lando Plugins",
-      "author": "AaronFeledy",
-      "labels": [],
-      "createdAt": "2025-12-30T21:44:54Z",
-      "commentCount": 7,
-      "url": "https://github.com/lando/lando/issues/3833"
-    },
-    {
-      "title": "Is Lando compatible with \"Enhanced Container Isolation\" ?",
-      "author": "silverham",
-      "labels": ["documentation"],
-      "createdAt": "2025-12-11T01:37:11Z",
-      "commentCount": 0,
-      "url": "https://github.com/lando/lando/issues/3829"
-    }
-  ],
-  "pullRequests": [
-    {
-      "title": "Bump actions/checkout from 3 to 6 in the actions group",
-      "author": "dependabot[bot]",
-      "createdAt": "2026-02-19T22:12:09Z",
-      "reviewCount": 0,
-      "url": "https://github.com/lando/lando/pull/3836"
-    },
-    {
-      "title": "Fix \"introduction\" link, so docs work",
-      "author": "nottrobin",
-      "createdAt": "2022-09-26T10:00:01Z",
-      "reviewCount": 0,
-      "url": "https://github.com/lando/lando/pull/3446"
-    }
-  ],
-  "releases": [
-    {
-      "tagName": "v3.26.2",
-      "publishedAt": "2025-12-17T13:47:32Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.26.2"
-    },
-    {
-      "tagName": "v3.26.1",
-      "publishedAt": "2025-12-17T13:36:22Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.26.1"
-    },
-    {
-      "tagName": "v3.26.0",
-      "publishedAt": "2025-11-14T16:11:35Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.26.0"
-    },
-    {
-      "tagName": "v3.25.6",
-      "publishedAt": "2025-10-01T14:27:17Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.25.6"
-    },
-    {
-      "tagName": "v3.25.5",
-      "publishedAt": "2025-09-09T15:25:36Z",
-      "url": "https://github.com/lando/lando/releases/tag/v3.25.5"
-    }
-  ]
+	"name": "lando/lando",
+	"description": "A development tool for all your projects that is fast, easy, powerful and liberating",
+	"language": null,
+	"issues": [
+		{
+			"title": "Cannot install lando on Windows 11 25H2 due to powershell Syntax error: \"(\" unexpected (expecting \")\")  FAILED",
+			"author": "kaszarobert",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-01-21T09:36:25Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3834"
+		},
+		{
+			"title": "[Meta] MariaDB/MySQL Client Compatibility Across Lando Plugins",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-12-30T21:44:54Z",
+			"commentCount": 7,
+			"url": "https://github.com/lando/lando/issues/3833"
+		},
+		{
+			"title": "Is Lando compatible with \"Enhanced Container Isolation\" ?",
+			"author": "silverham",
+			"labels": [
+				"documentation"
+			],
+			"createdAt": "2025-12-11T01:37:11Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3829"
+		},
+		{
+			"title": "Lando start throws an error due to the cert being created as a directory instead of a proper file",
+			"author": "kaszarobert",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-11-17T14:32:39Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3823"
+		},
+		{
+			"title": "Lando setup crashes with Error: write EPIPE",
+			"author": "bmunslow",
+			"labels": [
+				"setup"
+			],
+			"createdAt": "2025-11-04T11:18:58Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/lando/issues/3818"
+		},
+		{
+			"title": "Gentoo: Could not locate package manager, failing to install the CA",
+			"author": "LelouchFR",
+			"labels": [
+				"cli"
+			],
+			"createdAt": "2025-10-15T07:19:05Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3816"
+		},
+		{
+			"title": "lando info --path not working as expected for nested paths",
+			"author": "donutdan4114",
+			"labels": [
+				"cli"
+			],
+			"createdAt": "2025-10-14T14:15:20Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3815"
+		},
+		{
+			"title": "Docs request WSL troubleshooting for CA setup and PowerShell path",
+			"author": "Mgrmjp",
+			"labels": [],
+			"createdAt": "2025-10-07T18:07:37Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/lando/issues/3813"
+		},
+		{
+			"title": "Support for Persisting Database Data on Disk Instead of Docker Volume",
+			"author": "Mgrmjp",
+			"labels": [],
+			"createdAt": "2025-10-02T13:31:20Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lando/issues/3812"
+		},
+		{
+			"title": "Support plugin-login for private registries without requiring credentials",
+			"author": "matthieu-gll",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2025-09-30T13:59:28Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3811"
+		},
+		{
+			"title": "Proxy hangs and takes a very long time to create",
+			"author": "Mgrmjp",
+			"labels": [],
+			"createdAt": "2025-09-24T04:27:54Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3809"
+		},
+		{
+			"title": "Lando commands complaining about semver versioning",
+			"author": "drubb",
+			"labels": [
+				"core"
+			],
+			"createdAt": "2025-08-22T09:17:55Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3802"
+		},
+		{
+			"title": "Add `lando switch` command",
+			"author": "hailwood",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2025-08-07T00:12:12Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/lando/issues/3799"
+		},
+		{
+			"title": "Issue ECONNRESET on custom Keycloack image service",
+			"author": "leocas14",
+			"labels": [],
+			"createdAt": "2025-06-20T12:49:50Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3798"
+		},
+		{
+			"title": "Suggestion: Rename `excludes` and Improve Build Log Messaging",
+			"author": "Mgrmjp",
+			"labels": [],
+			"createdAt": "2025-05-30T14:57:32Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3796"
+		},
+		{
+			"title": "Issue with PHP 8.3 development tools and Postgres plugin in Lando container",
+			"author": "web-assistant",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-05-26T19:40:17Z",
+			"commentCount": 8,
+			"url": "https://github.com/lando/lando/issues/3795"
+		},
+		{
+			"title": "--destroy option for `rebuild` command",
+			"author": "SlimDeluxe",
+			"labels": [
+				"cli"
+			],
+			"createdAt": "2025-04-26T09:48:51Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3791"
+		},
+		{
+			"title": "Please make more real life exemples",
+			"author": "YevheniiVolosiuk",
+			"labels": [],
+			"createdAt": "2025-03-19T03:05:49Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3789"
+		},
+		{
+			"title": "ERROR ==> undefined is not a function",
+			"author": "calevans",
+			"labels": [
+				"cli"
+			],
+			"createdAt": "2025-03-13T22:57:41Z",
+			"commentCount": 9,
+			"url": "https://github.com/lando/lando/issues/3787"
+		},
+		{
+			"title": "Unable to install Lando on Linux Mint 22.04",
+			"author": "FullStackHoward",
+			"labels": [
+				"setup"
+			],
+			"createdAt": "2025-02-17T20:27:02Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lando/issues/3783"
+		},
+		{
+			"title": "Networking error on debian sid",
+			"author": "ciderpunx",
+			"labels": [],
+			"createdAt": "2025-01-21T12:09:05Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/lando/issues/3777"
+		},
+		{
+			"title": "When .lando.yml tooling has empty keys, lando crashes",
+			"author": "ivuorinen",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-11-06T14:06:55Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lando/issues/3759"
+		},
+		{
+			"title": "Error response from daemon: OCI runtime exec failed: exec failed: unable to start container process: exec: \"/bin/sh\": stat /bin/sh: no such file or directory: unknown",
+			"author": "tpluscode",
+			"labels": [
+				"needs more information"
+			],
+			"createdAt": "2024-09-30T08:17:53Z",
+			"commentCount": 8,
+			"url": "https://github.com/lando/lando/issues/3742"
+		},
+		{
+			"title": "Support for Dolt as a database service",
+			"author": "matthewbdaly",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2024-07-27T22:32:33Z",
+			"commentCount": 6,
+			"url": "https://github.com/lando/lando/issues/3727"
+		},
+		{
+			"title": "Event \"before-end\" doesn't execute anything",
+			"author": "acha5066",
+			"labels": [
+				"bug",
+				"v4"
+			],
+			"createdAt": "2024-04-30T01:51:00Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3711"
+		},
+		{
+			"title": "Anyone has success with Rails? Can we add support for Rails?",
+			"author": "ronald2wing",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2024-04-09T00:43:09Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3700"
+		},
+		{
+			"title": "reconnect to logs and ssh after lando restart",
+			"author": "kinglouie",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2024-02-27T08:57:07Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3682"
+		},
+		{
+			"title": "Provide a way to get `LANDO_APP_PROJECT` via host lando cli command.",
+			"author": "silverham",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2024-02-22T05:48:39Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3675"
+		},
+		{
+			"title": "Change default domain suffix from \".lndo.site\" to \".lando\"",
+			"author": "BrandonWeigand",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2024-02-07T18:44:17Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3661"
+		},
+		{
+			"title": "Enable GitHub Discussions for the lando/lando project",
+			"author": "AaronFeledy",
+			"labels": [
+				"feature",
+				"improvement"
+			],
+			"createdAt": "2024-01-28T18:00:43Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3658"
+		},
+		{
+			"title": "After upgrading from 3.18.0 to 3.20.8 my custom tooling wtih options stopped working",
+			"author": "acha5066",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-01-23T04:26:53Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3656"
+		},
+		{
+			"title": "tooling in ubuntu fails due to adding tooling name to docker command",
+			"author": "eg-soft-dev",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-01-14T19:33:39Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3655"
+		},
+		{
+			"title": "Certificates created locally don't use `subjectAltName` for setting the `DNS` and fail to authenticate when running BrowserSync",
+			"author": "GeoffDusome",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-01-05T15:11:53Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lando/issues/3653"
+		},
+		{
+			"title": "Cli Error in red",
+			"author": "sebastienserre",
+			"labels": [],
+			"createdAt": "2023-12-21T10:24:35Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3650"
+		},
+		{
+			"title": "Cross-project communication broken on Fedora 39, Docker Engine 24.",
+			"author": "ahamilton9",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-12-13T15:52:49Z",
+			"commentCount": 6,
+			"url": "https://github.com/lando/lando/issues/3648"
+		},
+		{
+			"title": "can't reach a node service through proxy (502 bad gateway)",
+			"author": "marcelbusch",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-12-13T11:04:17Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3647"
+		},
+		{
+			"title": "Error on Rebuild: Cannot read properties of null in normalize-healthcheck.js",
+			"author": "btruong",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-12-07T19:37:29Z",
+			"commentCount": 14,
+			"url": "https://github.com/lando/lando/issues/3638"
+		},
+		{
+			"title": "PHP Version Upgrade Message",
+			"author": "NathanHealea",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-12-07T16:14:03Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/lando/issues/3637"
+		},
+		{
+			"title": "Error with Docker on WSL2 + Ubuntu",
+			"author": "jerasokcm",
+			"labels": [],
+			"createdAt": "2023-09-15T20:45:06Z",
+			"commentCount": 8,
+			"url": "https://github.com/lando/lando/issues/3604"
+		},
+		{
+			"title": "proxy [ECONNREFUSED] on lando start ",
+			"author": "stloc",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-07-28T12:48:53Z",
+			"commentCount": 22,
+			"url": "https://github.com/lando/lando/issues/3593"
+		},
+		{
+			"title": "Lando installer for macbook pro m2 crashes immediately",
+			"author": "mbyers",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-07-25T20:56:30Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3592"
+		},
+		{
+			"title": "Make Lando verbosity available to build steps and tooling",
+			"author": "AaronFeledy",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2023-06-30T18:26:20Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3588"
+		},
+		{
+			"title": "Not able to pull database using acquia acli ",
+			"author": "rusapkar-cci",
+			"labels": [],
+			"createdAt": "2023-06-09T10:21:54Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lando/issues/3580"
+		},
+		{
+			"title": "`lando composer require abc/def` installs to wrong folder, if webroot is set to a folder and not .",
+			"author": "lukastom",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-05-27T15:29:22Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lando/issues/3574"
+		},
+		{
+			"title": "Unable to import database(.sql) to alternative database within single database service",
+			"author": "markdorison",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-05-25T19:55:49Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/lando/issues/3573"
+		},
+		{
+			"title": "Make it possible to set language and locale in the recipe",
+			"author": "yorkshire-pudding",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2023-05-17T14:29:20Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3571"
+		},
+		{
+			"title": "Lando start: Request failed (401) but started successfully",
+			"author": "RicLeP",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-05-16T16:02:13Z",
+			"commentCount": 6,
+			"url": "https://github.com/lando/lando/issues/3570"
+		},
+		{
+			"title": "Xdebug, Linux, VSCode: Could not connect to debugging client",
+			"author": "lukastom",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-05-15T22:08:50Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3569"
+		},
+		{
+			"title": "New `lando vitals` command",
+			"author": "DuaelFr",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2023-05-15T07:58:02Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lando/issues/3568"
+		},
+		{
+			"title": "How to use Lando proxy with Brave browser? ",
+			"author": "com2",
+			"labels": [],
+			"createdAt": "2023-05-04T08:36:23Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lando/issues/3563"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump actions/checkout from 3 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:12:09Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lando/pull/3836"
+		},
+		{
+			"title": "Fix \"introduction\" link, so docs work",
+			"author": "nottrobin",
+			"createdAt": "2022-09-26T10:00:01Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/lando/pull/3446"
+		},
+		{
+			"title": "chore: Set permissions for GitHub actions",
+			"author": "naveensrinivasan",
+			"createdAt": "2022-05-18T01:53:59Z",
+			"reviewCount": 3,
+			"url": "https://github.com/lando/lando/pull/3398"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v3.26.2",
+			"publishedAt": "2025-12-17T13:47:32Z",
+			"url": "https://github.com/lando/lando/releases/tag/v3.26.2"
+		},
+		{
+			"tagName": "v3.26.1",
+			"publishedAt": "2025-12-17T13:36:22Z",
+			"url": "https://github.com/lando/lando/releases/tag/v3.26.1"
+		},
+		{
+			"tagName": "v3.26.0",
+			"publishedAt": "2025-11-14T16:11:35Z",
+			"url": "https://github.com/lando/lando/releases/tag/v3.26.0"
+		},
+		{
+			"tagName": "v3.25.6",
+			"publishedAt": "2025-10-01T14:27:17Z",
+			"url": "https://github.com/lando/lando/releases/tag/v3.25.6"
+		},
+		{
+			"tagName": "v3.25.5",
+			"publishedAt": "2025-09-09T15:25:36Z",
+			"url": "https://github.com/lando/lando/releases/tag/v3.25.5"
+		}
+	]
 }

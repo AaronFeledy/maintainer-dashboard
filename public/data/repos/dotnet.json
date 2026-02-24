@@ -1,0 +1,77 @@
+{
+	"name": "lando/dotnet",
+	"description": "The Official Dotnet Lando Plugin",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:44Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/dotnet/pull/66"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:12:04Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/dotnet/pull/64"
+		},
+		{
+			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:59Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/dotnet/pull/63"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:52Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/dotnet/pull/62"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:34:07Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/dotnet/pull/61"
+		},
+		{
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-21T23:25:37Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/dotnet/pull/60"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.2.15",
+			"publishedAt": "2025-12-05T19:46:36Z",
+			"url": "https://github.com/lando/dotnet/releases/tag/v1.2.15"
+		},
+		{
+			"tagName": "v1.2.14",
+			"publishedAt": "2025-12-04T17:44:43Z",
+			"url": "https://github.com/lando/dotnet/releases/tag/v1.2.14"
+		},
+		{
+			"tagName": "v1.2.13",
+			"publishedAt": "2025-12-04T17:06:47Z",
+			"url": "https://github.com/lando/dotnet/releases/tag/v1.2.13"
+		},
+		{
+			"tagName": "v1.2.12",
+			"publishedAt": "2025-12-04T16:59:24Z",
+			"url": "https://github.com/lando/dotnet/releases/tag/v1.2.12"
+		},
+		{
+			"tagName": "v1.2.11",
+			"publishedAt": "2025-12-04T16:30:13Z",
+			"url": "https://github.com/lando/dotnet/releases/tag/v1.2.11"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "lando/ruby",
+	"description": "The Official Ruby Lando Plugin",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:57:27Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/ruby/pull/68"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-01-23T07:22:48Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/ruby/pull/65"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.6.0",
+			"publishedAt": "2026-01-23T00:47:12Z",
+			"url": "https://github.com/lando/ruby/releases/tag/v1.6.0"
+		},
+		{
+			"tagName": "v1.5.0",
+			"publishedAt": "2025-01-09T17:42:36Z",
+			"url": "https://github.com/lando/ruby/releases/tag/v1.5.0"
+		},
+		{
+			"tagName": "v1.4.3",
+			"publishedAt": "2024-12-06T19:42:16Z",
+			"url": "https://github.com/lando/ruby/releases/tag/v1.4.3"
+		},
+		{
+			"tagName": "v1.4.2",
+			"publishedAt": "2024-12-04T22:59:44Z",
+			"url": "https://github.com/lando/ruby/releases/tag/v1.4.2"
+		},
+		{
+			"tagName": "v1.4.1",
+			"publishedAt": "2024-11-04T21:04:14Z",
+			"url": "https://github.com/lando/ruby/releases/tag/v1.4.1"
+		}
+	]
+}

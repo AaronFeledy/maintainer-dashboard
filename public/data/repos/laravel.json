@@ -1,0 +1,103 @@
+{
+	"name": "lando/laravel",
+	"description": "The Official Laravel Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Lando scanners scans .lndo.site urls which are not in config",
+			"author": "eldair",
+			"labels": [
+				"laravel",
+				"Needs Triage"
+			],
+			"createdAt": "2024-09-16T09:32:46Z",
+			"commentCount": 8,
+			"url": "https://github.com/lando/laravel/issues/67"
+		},
+		{
+			"title": "Reverb support",
+			"author": "jameswagoner",
+			"labels": [
+				"enhancement",
+				"flag"
+			],
+			"createdAt": "2024-04-20T18:05:13Z",
+			"commentCount": 27,
+			"url": "https://github.com/lando/laravel/issues/61"
+		},
+		{
+			"title": "Lando appserver redirects to https",
+			"author": "divdax",
+			"labels": [
+				"laravel",
+				"Needs Triage"
+			],
+			"createdAt": "2023-02-28T15:34:05Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/laravel/issues/31"
+		},
+		{
+			"title": "Any success with setup lando with vite, default frontend framework for laravel ?",
+			"author": "robert-abram",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-09-05T10:04:31Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/laravel/issues/24"
+		},
+		{
+			"title": "MySQL database connection refused but can access externally",
+			"author": "anchetaWern",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-02-12T11:46:21Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/laravel/issues/4"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Npm dist-tag error handling",
+			"author": "cursor",
+			"createdAt": "2026-02-22T21:04:13Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/laravel/pull/104"
+		},
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:27Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/laravel/pull/103"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.12.1",
+			"publishedAt": "2026-02-22T20:24:02Z",
+			"url": "https://github.com/lando/laravel/releases/tag/v1.12.1"
+		},
+		{
+			"tagName": "v1.12.0",
+			"publishedAt": "2026-02-19T19:10:32Z",
+			"url": "https://github.com/lando/laravel/releases/tag/v1.12.0"
+		},
+		{
+			"tagName": "v1.11.0",
+			"publishedAt": "2025-12-30T01:18:02Z",
+			"url": "https://github.com/lando/laravel/releases/tag/v1.11.0"
+		},
+		{
+			"tagName": "v1.10.0",
+			"publishedAt": "2025-09-03T14:31:52Z",
+			"url": "https://github.com/lando/laravel/releases/tag/v1.10.0"
+		},
+		{
+			"tagName": "v1.9.0",
+			"publishedAt": "2024-12-09T16:24:04Z",
+			"url": "https://github.com/lando/laravel/releases/tag/v1.9.0"
+		}
+	]
+}

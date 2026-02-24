@@ -1,0 +1,297 @@
+{
+	"name": "lando/core-next",
+	"description": "Next generation Lando v4 runtime",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Bundling support",
+			"author": "tiziodcaio",
+			"labels": [],
+			"createdAt": "2025-01-29T08:38:09Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/core-next/issues/86"
+		},
+		{
+			"title": "Support Orbstack on MacOS",
+			"author": "maxfenton",
+			"labels": [],
+			"createdAt": "2024-09-04T18:06:11Z",
+			"commentCount": 7,
+			"url": "https://github.com/lando/core-next/issues/76"
+		},
+		{
+			"title": "Proposal: Improving Command Execution Efficiency in Lando",
+			"author": "yolcuiskender",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2024-04-04T12:02:17Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core-next/issues/67"
+		},
+		{
+			"title": "Add a way to skip the database healthcheck",
+			"author": "stebogit",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2024-03-29T06:11:52Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core-next/issues/65"
+		},
+		{
+			"title": "Suggestion: lando init creates dir or offers to",
+			"author": "emile-hj",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2023-12-08T11:07:11Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core-next/issues/77"
+		},
+		{
+			"title": "Global Landofile",
+			"author": "MichelJonkman",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2023-10-24T16:51:54Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core-next/issues/51"
+		},
+		{
+			"title": "Lando should be able to update itself",
+			"author": "AaronFeledy",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2023-08-02T21:42:47Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core-next/issues/44"
+		},
+		{
+			"title": "Lando should be able to install itself",
+			"author": "AaronFeledy",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2023-08-02T21:30:50Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core-next/issues/43"
+		},
+		{
+			"title": "How can the default path of lando ssh be changed?",
+			"author": "ayalon",
+			"labels": [],
+			"createdAt": "2023-07-11T13:43:01Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core-next/issues/79"
+		},
+		{
+			"title": "Discovering and inspecting recipes from the command line",
+			"author": "ttk",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-06-19T16:11:33Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core-next/issues/36"
+		},
+		{
+			"title": "Option to disable scanner for localhost domains",
+			"author": "pvanhemmen",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-06-05T12:54:41Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core-next/issues/34"
+		},
+		{
+			"title": "Container snapshots for fast database reloads",
+			"author": "mortona42",
+			"labels": [
+				"Needs Triage",
+				"feature"
+			],
+			"createdAt": "2023-05-31T19:36:45Z",
+			"commentCount": 8,
+			"url": "https://github.com/lando/core-next/issues/37"
+		},
+		{
+			"title": "Duplicate project name detection and prevention",
+			"author": "matpratta",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2022-05-27T21:45:07Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/core-next/issues/80"
+		},
+		{
+			"title": "Lando CLI does not report an error when using a command that does not exist",
+			"author": "hardyoyo",
+			"labels": [],
+			"createdAt": "2022-02-18T19:24:15Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core-next/issues/81"
+		},
+		{
+			"title": "Simpler, more professional console messages",
+			"author": "gaelanlloyd",
+			"labels": [
+				"Needs Triage",
+				"feature"
+			],
+			"createdAt": "2022-01-06T23:01:03Z",
+			"commentCount": 8,
+			"url": "https://github.com/lando/core-next/issues/64"
+		},
+		{
+			"title": " Standardize on the --service argument for all tooling that can target a service",
+			"author": "AaronFeledy",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2021-11-12T02:47:02Z",
+			"commentCount": 9,
+			"url": "https://github.com/lando/core-next/issues/33"
+		},
+		{
+			"title": "Tooling: Allow Chaining of Custom Tooling Commands",
+			"author": "AaronFeledy",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-03-27T18:42:08Z",
+			"commentCount": 14,
+			"url": "https://github.com/lando/core-next/issues/31"
+		},
+		{
+			"title": "Create a `disabled` service type to allow overriding recipes or shared configs",
+			"author": "RicLeP",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2019-11-15T14:05:45Z",
+			"commentCount": 26,
+			"url": "https://github.com/lando/core-next/issues/88"
+		},
+		{
+			"title": "Run Events as different users",
+			"author": "generalredneck",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2019-04-27T14:20:13Z",
+			"commentCount": 6,
+			"url": "https://github.com/lando/core-next/issues/47"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-02-22T11:44:44Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/129"
+		},
+		{
+			"title": "Bump minimatch and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-22T02:14:25Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/128"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:13:17Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/127"
+		},
+		{
+			"title": "Bump tar, @npmcli/arborist, npm-profile and pacote",
+			"author": "dependabot",
+			"createdAt": "2026-02-18T04:05:48Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/126"
+		},
+		{
+			"title": "Bump axios from 1.13.2 to 1.13.5",
+			"author": "dependabot",
+			"createdAt": "2026-02-11T19:38:41Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/125"
+		},
+		{
+			"title": "Bump fastify and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-02T23:50:36Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/124"
+		},
+		{
+			"title": "Bump fastify and fastify-cli in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-02-02T23:48:19Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/123"
+		},
+		{
+			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-02-02T23:40:57Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/122"
+		},
+		{
+			"title": "feat: add buildx check/install to lando setup",
+			"author": "AaronFeledy",
+			"createdAt": "2026-01-23T23:11:03Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/120"
+		},
+		{
+			"title": "Bun me",
+			"author": "pirog",
+			"createdAt": "2025-12-12T00:40:09Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/111"
+		},
+		{
+			"title": "Use DROP/CREATE strategy for MySQL DB reset",
+			"author": "xurizaemon",
+			"createdAt": "2023-07-21T19:19:44Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/40"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v4.0.0-unstable.8",
+			"publishedAt": "2025-12-09T14:17:19Z",
+			"url": "https://github.com/lando/core-next/releases/tag/v4.0.0-unstable.8"
+		},
+		{
+			"tagName": "v4.0.0-unstable.7",
+			"publishedAt": "2025-12-09T13:53:35Z",
+			"url": "https://github.com/lando/core-next/releases/tag/v4.0.0-unstable.7"
+		},
+		{
+			"tagName": "v4.0.0-unstable.6",
+			"publishedAt": "2023-12-07T16:37:22Z",
+			"url": "https://github.com/lando/core-next/releases/tag/v4.0.0-unstable.6"
+		},
+		{
+			"tagName": "v4.0.0-unstable.5",
+			"publishedAt": "2023-12-07T16:28:22Z",
+			"url": "https://github.com/lando/core-next/releases/tag/v4.0.0-unstable.5"
+		},
+		{
+			"tagName": "v4.0.0-unstable.4",
+			"publishedAt": "2023-12-06T02:58:59Z",
+			"url": "https://github.com/lando/core-next/releases/tag/v4.0.0-unstable.4"
+		}
+	]
+}

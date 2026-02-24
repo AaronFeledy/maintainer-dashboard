@@ -1,0 +1,430 @@
+{
+	"repos": [
+		{
+			"name": "lando/php",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Lando PHP plugin."
+		},
+		{
+			"name": "lando/node",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Node Lando plugin."
+		},
+		{
+			"name": "lando/python",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Python Lando Plugin"
+		},
+		{
+			"name": "lando/ruby",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Ruby Lando Plugin"
+		},
+		{
+			"name": "lando/go",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Go Lando plugin."
+		},
+		{
+			"name": "lando/dotnet",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Dotnet Lando Plugin"
+		},
+		{
+			"name": "lando/mysql",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official MySQL Lando Plugin"
+		},
+		{
+			"name": "lando/mariadb",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official MariaDB Lando Plugin"
+		},
+		{
+			"name": "lando/postgres",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Postgres Lando Plugin"
+		},
+		{
+			"name": "lando/mongo",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official MongoDB Lando Plugin"
+		},
+		{
+			"name": "lando/mssql",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official MSSQL Lando Plugin"
+		},
+		{
+			"name": "lando/redis",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Redis Lando Plugin"
+		},
+		{
+			"name": "lando/memcached",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Memcached Lando Plugin"
+		},
+		{
+			"name": "lando/elasticsearch",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Elasticsearch Lando Plugin"
+		},
+		{
+			"name": "lando/solr",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Solr Lando Plugin"
+		},
+		{
+			"name": "lando/nginx",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official NGINX Lando Plugin"
+		},
+		{
+			"name": "lando/apache",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Apache Lando Plugin"
+		},
+		{
+			"name": "lando/tomcat",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Apache Tomcat Lando Plugin"
+		},
+		{
+			"name": "lando/varnish",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official Varnish Lando Plugin"
+		},
+		{
+			"name": "lando/mailhog",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official MailHog Lando Plugin"
+		},
+		{
+			"name": "lando/mailpit",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The official Mailpit integration plugin for Lando"
+		},
+		{
+			"name": "lando/phpmyadmin",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official phpMyAdmin Lando Plugin"
+		},
+		{
+			"name": "lando/mean",
+			"category": "plugin-service",
+			"active": true,
+			"description": "The Official MEAN Lando Plugin"
+		},
+		{
+			"name": "lando/drupal",
+			"category": "plugin-recipe",
+			"active": true,
+			"description": "The Official Drupal Lando plugin"
+		},
+		{
+			"name": "lando/wordpress",
+			"category": "plugin-recipe",
+			"active": true,
+			"description": "The Official WordPress Lando Plugin"
+		},
+		{
+			"name": "lando/laravel",
+			"category": "plugin-recipe",
+			"active": true,
+			"description": "The Official Laravel Lando Plugin"
+		},
+		{
+			"name": "lando/symfony",
+			"category": "plugin-recipe",
+			"active": true,
+			"description": "The Official Symfony Lando Plugin"
+		},
+		{
+			"name": "lando/joomla",
+			"category": "plugin-recipe",
+			"active": true,
+			"description": "The Official Joomla Lando Plugin"
+		},
+		{
+			"name": "lando/backdrop",
+			"category": "plugin-recipe",
+			"active": true,
+			"description": "The Official Backdrop Lando Plugin"
+		},
+		{
+			"name": "lando/lamp",
+			"category": "plugin-recipe",
+			"active": true,
+			"description": "The Official LAMP Lando Plugin"
+		},
+		{
+			"name": "lando/lemp",
+			"category": "plugin-recipe",
+			"active": true,
+			"description": "The Official LEMP Lando Plugin"
+		},
+		{
+			"name": "lando/pantheon",
+			"category": "plugin-hosting",
+			"active": true,
+			"description": "The Official Lando Pantheon plugin."
+		},
+		{
+			"name": "lando/acquia",
+			"category": "plugin-hosting",
+			"active": true,
+			"description": "The Official Acquia Lando Plugin"
+		},
+		{
+			"name": "lando/lagoon",
+			"category": "plugin-hosting",
+			"active": true,
+			"description": "The Official Lagoon Lando Plugin"
+		},
+		{
+			"name": "lando/platformsh",
+			"category": "plugin-hosting",
+			"active": true,
+			"description": "**UNSUPPORTED** The Official Platform.sh Lando Plugin"
+		},
+		{
+			"name": "lando/lando",
+			"category": "core",
+			"active": true,
+			"description": "A development tool for all your projects that is fast, easy, powerful and liberating"
+		},
+		{
+			"name": "lando/core",
+			"category": "core",
+			"active": true,
+			"description": "Current Lando v3 runtime"
+		},
+		{
+			"name": "lando/core-next",
+			"category": "core",
+			"active": true,
+			"description": "Next generation Lando v4 runtime"
+		},
+		{
+			"name": "lando/legacy-cli",
+			"category": "core",
+			"active": true,
+			"description": "The cli part of Lando"
+		},
+		{
+			"name": "lando/setup-lando",
+			"category": "action",
+			"active": true,
+			"description": "Set up your GitHub Actions workflow with a specific version of Lando."
+		},
+		{
+			"name": "lando/code-sign-action",
+			"category": "action",
+			"active": true,
+			"description": "A GitHub action to code sign files"
+		},
+		{
+			"name": "lando/notarize-action",
+			"category": "action",
+			"active": true,
+			"description": "A GitHub action to Apple notarize files."
+		},
+		{
+			"name": "lando/pkg-action",
+			"category": "action",
+			"active": true,
+			"description": "A GitHub action that uses vercel/pkg to compile node projects into binaries"
+		},
+		{
+			"name": "lando/run-leia-action",
+			"category": "action",
+			"active": true,
+			"description": "A GitHub action to run leia tests"
+		},
+		{
+			"name": "lando/auto-deploy-action",
+			"category": "action",
+			"active": true,
+			"description": "A GitHub action that auto deploys new versions of node packages from their source repo to various target repos."
+		},
+		{
+			"name": "lando/prepare-release-action",
+			"category": "action",
+			"active": true,
+			"description": "Prepare a Lando plugin for publishing to a package registry."
+		},
+		{
+			"name": "lando/transfer-issue-action",
+			"category": "action",
+			"active": true,
+			"description": "A GitHub Action for transferring issues between github repos with the ability to create a stub issue in the original repo."
+		},
+		{
+			"name": "lando/website",
+			"category": "website",
+			"active": true,
+			"description": "Lando's main website"
+		},
+		{
+			"name": "lando/blog",
+			"category": "website",
+			"active": true,
+			"description": "Lando's Blog Subsite"
+		},
+		{
+			"name": "lando/events",
+			"category": "website",
+			"active": true,
+			"description": "Lando's Event Subsite"
+		},
+		{
+			"name": "lando/leia",
+			"category": "tooling",
+			"active": true,
+			"description": "A testing utility that tests code blocks in documentation."
+		},
+		{
+			"name": "lando/hyperdrive",
+			"category": "tooling",
+			"active": true,
+			"description": "Accelerate from zero to a Lando-based dev environment in less then 12 par-steps"
+		},
+		{
+			"name": "lando/argv",
+			"category": "tooling",
+			"active": true,
+			"description": "A small utility for argv parsing"
+		},
+		{
+			"name": "lando/vitepress-theme-default-plus",
+			"category": "tooling",
+			"active": true,
+			"description": "The VitePress Default Theme with a little more POWAH"
+		},
+		{
+			"name": "lando/lando-update-scripts",
+			"category": "tooling",
+			"active": true,
+			"description": "Some starting points for ad-hoc scripts when bulk updating Lando plugins."
+		},
+		{
+			"name": "lando/lando-dev-container-feature",
+			"category": "tooling",
+			"active": true,
+			"description": "Dev container feature for Lando"
+		},
+		{
+			"name": "lando/gitpod",
+			"category": "other",
+			"active": true,
+			"description": "Gitpod configuration for Lando"
+		},
+		{
+			"name": "lando/devtool",
+			"category": "other",
+			"active": true,
+			"description": "Development tooling"
+		},
+		{
+			"name": "lando/plugin-test",
+			"category": "other",
+			"active": true,
+			"description": "Dummy plugin for testing Lando's plugin-related commands."
+		},
+		{
+			"name": "lando/legacy-metrics",
+			"category": "other",
+			"active": true,
+			"description": "Anonymous usage collection, logging, error reporting and other data things. Eventually this will be phased out."
+		},
+		{
+			"name": "lando/telemetry",
+			"category": "other",
+			"active": true,
+			"description": "Telemetry service for Lando"
+		},
+		{
+			"name": "lando/desktop",
+			"category": "other",
+			"active": true,
+			"description": "Lando Desktop application"
+		},
+		{
+			"name": "lando/homebrew-lando",
+			"category": "other",
+			"active": true,
+			"description": "Homebrew tap for Lando"
+		},
+		{
+			"name": "lando/homebrew-core",
+			"category": "other",
+			"active": true,
+			"description": "Verbatim mirror of the homebrew-core repository"
+		},
+		{
+			"name": "lando/drupal-dev-environment",
+			"category": "other",
+			"active": true,
+			"description": "Verbatim mirror of the git.drupal.org repository for Drupal core."
+		},
+		{
+			"name": "lando/compose",
+			"category": "plugin-service",
+			"active": false,
+			"description": "The Official Compose Lando plugin."
+		},
+		{
+			"name": "lando/legacy-docs",
+			"category": "website",
+			"active": false,
+			"description": "The main docs site for Lando"
+		},
+		{
+			"name": "lando/vuepress-theme-default-plus",
+			"category": "tooling",
+			"active": false,
+			"description": "The VuePress 2 Default Theme with a little more POWAH"
+		},
+		{
+			"name": "lando/lando-stats-server",
+			"category": "other",
+			"active": false,
+			"description": "DEPRECATED! REST API for anonymous metrics tracking."
+		},
+		{
+			"name": "lando/v4-scripty",
+			"category": "other",
+			"active": false,
+			"description": "V4 scripty experiments"
+		},
+		{
+			"name": "lando/es-amplitude",
+			"category": "other",
+			"active": false,
+			"description": "ES to Amplitude converter for legacy metrics."
+		}
+	]
+}

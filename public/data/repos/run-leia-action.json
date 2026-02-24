@@ -1,0 +1,49 @@
+{
+	"name": "lando/run-leia-action",
+	"description": "A GitHub action to run leia tests",
+	"language": null,
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T11:41:38Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/run-leia-action/pull/14"
+		},
+		{
+			"title": "Add Bun runtime support",
+			"author": "AaronFeledy",
+			"createdAt": "2025-12-31T22:12:24Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/run-leia-action/pull/13"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v2.3.0",
+			"publishedAt": "2024-07-22T23:08:21Z",
+			"url": "https://github.com/lando/run-leia-action/releases/tag/v2.3.0"
+		},
+		{
+			"tagName": "v2.2.1",
+			"publishedAt": "2024-07-22T19:24:04Z",
+			"url": "https://github.com/lando/run-leia-action/releases/tag/v2.2.1"
+		},
+		{
+			"tagName": "v2.2.0",
+			"publishedAt": "2024-03-15T15:07:35Z",
+			"url": "https://github.com/lando/run-leia-action/releases/tag/v2.2.0"
+		},
+		{
+			"tagName": "v2.1.0",
+			"publishedAt": "2023-08-20T01:08:18Z",
+			"url": "https://github.com/lando/run-leia-action/releases/tag/v2.1.0"
+		},
+		{
+			"tagName": "v2.0.0",
+			"publishedAt": "2023-06-18T14:37:01Z",
+			"url": "https://github.com/lando/run-leia-action/releases/tag/v2.0.0"
+		}
+	]
+}

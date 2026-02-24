@@ -1,0 +1,41 @@
+{
+	"name": "lando/gitpod",
+	"description": null,
+	"language": "Dockerfile",
+	"issues": [
+		{
+			"title": "Network not found after stopping the workspace",
+			"author": "alessandro-newzoo",
+			"labels": [],
+			"createdAt": "2024-09-27T10:21:42Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/gitpod/issues/14"
+		},
+		{
+			"title": "Old php version requested",
+			"author": "aangelinsf",
+			"labels": [],
+			"createdAt": "2024-01-17T16:05:32Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/gitpod/issues/13"
+		},
+		{
+			"title": "Lando / Lagoon / Gitpod permission woes",
+			"author": "tobybellwood",
+			"labels": [],
+			"createdAt": "2022-03-25T22:22:21Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/gitpod/issues/12"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump the actions group with 5 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:10:50Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/gitpod/pull/15"
+		}
+	],
+	"releases": []
+}

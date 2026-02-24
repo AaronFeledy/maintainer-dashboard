@@ -1,0 +1,67 @@
+{
+	"name": "lando/code-sign-action",
+	"description": "A GitHub action to code sign files",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Cannot sign/notarize a macOS app",
+			"author": "ManuelRauber",
+			"labels": [],
+			"createdAt": "2025-07-28T16:25:48Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/code-sign-action/issues/16"
+		},
+		{
+			"title": "Any ability to adjust to allow multiple files being signed - either at once or multiple runs of the action in the same job?",
+			"author": "JeremiahChurch",
+			"labels": [],
+			"createdAt": "2025-02-05T21:14:09Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/code-sign-action/issues/12"
+		},
+		{
+			"title": "Error message says `osslsigncode` but code checks for `signtool`",
+			"author": "rasa",
+			"labels": [],
+			"createdAt": "2024-12-29T20:58:52Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/code-sign-action/issues/11"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump tar from 7.4.3 to 7.5.9",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T15:29:30Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/code-sign-action/pull/23"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v3.0.0",
+			"publishedAt": "2024-11-19T16:43:40Z",
+			"url": "https://github.com/lando/code-sign-action/releases/tag/v3.0.0"
+		},
+		{
+			"tagName": "v2.2.0",
+			"publishedAt": "2024-05-03T18:10:35Z",
+			"url": "https://github.com/lando/code-sign-action/releases/tag/v2.2.0"
+		},
+		{
+			"tagName": "v2.1.1",
+			"publishedAt": "2023-06-17T15:47:59Z",
+			"url": "https://github.com/lando/code-sign-action/releases/tag/v2.1.1"
+		},
+		{
+			"tagName": "v2.1.0",
+			"publishedAt": "2023-04-27T19:11:17Z",
+			"url": "https://github.com/lando/code-sign-action/releases/tag/v2.1.0"
+		},
+		{
+			"tagName": "v2.0.0",
+			"publishedAt": "2022-04-13T20:50:46Z",
+			"url": "https://github.com/lando/code-sign-action/releases/tag/v2.0.0"
+		}
+	]
+}

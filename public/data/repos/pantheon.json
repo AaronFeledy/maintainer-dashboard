@@ -1,0 +1,220 @@
+{
+	"name": "lando/pantheon",
+	"description": "The Official Lando Pantheon plugin.",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Add Tesseract OCR support for PHP Runtime Generation 2 parity",
+			"author": "AaronFeledy",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2026-02-22T21:14:23Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/343"
+		},
+		{
+			"title": "no matching manifest for linux/arm64/v8",
+			"author": "nateduffy-cf",
+			"labels": [
+				"pantheon",
+				"Needs Triage"
+			],
+			"createdAt": "2025-11-13T21:54:48Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/pantheon/issues/296"
+		},
+		{
+			"title": "Lando pull for Wordpress files doesn't put them in the designated filemount",
+			"author": "krigsstev",
+			"labels": [
+				"pantheon",
+				"Needs Triage"
+			],
+			"createdAt": "2025-02-05T22:42:03Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/282"
+		},
+		{
+			"title": "Pantheon Secrets Support",
+			"author": "dustinleblanc",
+			"labels": [],
+			"createdAt": "2024-10-09T15:23:53Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/pantheon/issues/260"
+		},
+		{
+			"title": "Issue with redis cache server start and getting NOAUTH authentication error while running redis-cli commands.",
+			"author": "sandipsmarty",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-07-08T15:31:25Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/251"
+		},
+		{
+			"title": "Investigate Framework Values/Use an Alias?",
+			"author": "reynoldsalec",
+			"labels": [
+				"flag"
+			],
+			"createdAt": "2024-04-30T16:38:04Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/245"
+		},
+		{
+			"title": "lando switch doesn't behave as docs describe",
+			"author": "hades200082",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-08-21T09:08:18Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/191"
+		},
+		{
+			"title": "500 or ERR_TOO_MANY_REDIRECTS when using *.lndo.site URL",
+			"author": "mattmacneil",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-07-06T00:56:45Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/pantheon/issues/185"
+		},
+		{
+			"title": "Document workaround for nonstandard table prefixes",
+			"author": "xaqrox",
+			"labels": [],
+			"createdAt": "2023-04-24T16:35:00Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/172"
+		},
+		{
+			"title": "Index on pantheon recipe is served on 449, not 8983",
+			"author": "generalredneck",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-04-11T16:37:05Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/170"
+		},
+		{
+			"title": "Aborted connection ## to db: 'pantheon' user: 'pantheon' host: '172.22.0.2' (Got an error reading communication packets",
+			"author": "jonycp",
+			"labels": [
+				"pantheon",
+				"Needs Triage"
+			],
+			"createdAt": "2023-03-30T13:39:50Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/169"
+		},
+		{
+			"title": "Ability to Post Schemas w/Solr8",
+			"author": "reynoldsalec",
+			"labels": [],
+			"createdAt": "2023-03-20T22:26:38Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/166"
+		},
+		{
+			"title": "lando.yml portforward doesn't work",
+			"author": "spencerthayer",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-03-17T17:39:36Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/pantheon/issues/192"
+		},
+		{
+			"title": "Lando confuses site in pantheon when name has spaces vs no spaces",
+			"author": "agn507",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-02-02T20:09:34Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/157"
+		},
+		{
+			"title": "`lando pull` Corrupts Data in Local Database during Pull from Pantheon",
+			"author": "GuyPaddock",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-01-15T22:18:21Z",
+			"commentCount": 16,
+			"url": "https://github.com/lando/pantheon/issues/156"
+		},
+		{
+			"title": "PANTHEON_STRIPPED logic breaks REST API with json format and spaced param values",
+			"author": "amaisano",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2022-02-08T22:00:52Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/pantheon/issues/102"
+		},
+		{
+			"title": "Duplicate file names break git and maybe rsync for pantheon pull/init",
+			"author": "pirog",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-07-15T12:03:17Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/pantheon/issues/7"
+		},
+		{
+			"title": "Pantheon recipe version 2 proposal",
+			"author": "pirog",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2020-06-08T15:48:37Z",
+			"commentCount": 11,
+			"url": "https://github.com/lando/pantheon/issues/10"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:44Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/342"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.12.0",
+			"publishedAt": "2026-02-22T04:34:05Z",
+			"url": "https://github.com/lando/pantheon/releases/tag/v1.12.0"
+		},
+		{
+			"tagName": "v1.11.0",
+			"publishedAt": "2025-12-08T21:28:58Z",
+			"url": "https://github.com/lando/pantheon/releases/tag/v1.11.0"
+		},
+		{
+			"tagName": "v1.10.0",
+			"publishedAt": "2025-09-04T20:14:04Z",
+			"url": "https://github.com/lando/pantheon/releases/tag/v1.10.0"
+		},
+		{
+			"tagName": "v1.9.5",
+			"publishedAt": "2025-01-31T03:17:24Z",
+			"url": "https://github.com/lando/pantheon/releases/tag/v1.9.5"
+		},
+		{
+			"tagName": "v1.9.4",
+			"publishedAt": "2025-01-18T14:23:36Z",
+			"url": "https://github.com/lando/pantheon/releases/tag/v1.9.4"
+		}
+	]
+}

@@ -1,0 +1,49 @@
+{
+	"name": "lando/legacy-cli",
+	"description": "The cli part of Lando",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "Bump tar-fs",
+			"author": "dependabot",
+			"createdAt": "2025-03-28T22:32:00Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/legacy-cli/pull/303"
+		},
+		{
+			"title": "Bump vite from 5.4.8 to 5.4.14",
+			"author": "dependabot",
+			"createdAt": "2025-01-22T07:21:31Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/legacy-cli/pull/302"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v3.26.2",
+			"publishedAt": "2025-12-17T13:47:34Z",
+			"url": "https://github.com/lando/legacy-cli/releases/tag/v3.26.2"
+		},
+		{
+			"tagName": "v3.26.1",
+			"publishedAt": "2025-12-17T13:36:25Z",
+			"url": "https://github.com/lando/legacy-cli/releases/tag/v3.26.1"
+		},
+		{
+			"tagName": "v3.26.0",
+			"publishedAt": "2025-11-14T16:11:38Z",
+			"url": "https://github.com/lando/legacy-cli/releases/tag/v3.26.0"
+		},
+		{
+			"tagName": "v3.25.6",
+			"publishedAt": "2025-10-01T14:27:19Z",
+			"url": "https://github.com/lando/legacy-cli/releases/tag/v3.25.6"
+		},
+		{
+			"tagName": "v3.25.5",
+			"publishedAt": "2025-09-09T15:25:38Z",
+			"url": "https://github.com/lando/legacy-cli/releases/tag/v3.25.5"
+		}
+	]
+}

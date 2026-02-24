@@ -1,0 +1,75 @@
+{
+	"name": "lando/mssql",
+	"description": "The Official MSSQL Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Volume shared is incorrect, should be `/var/opt/mssql` not `/var/opt/data`",
+			"author": "silverham",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-08-26T14:25:04Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/mssql/issues/40"
+		},
+		{
+			"title": "Does not create database",
+			"author": "sinnbeck",
+			"labels": [],
+			"createdAt": "2022-04-06T12:03:56Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/mssql/issues/4"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:14Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mssql/pull/49"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:09Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mssql/pull/47"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:10:59Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mssql/pull/46"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.4.3",
+			"publishedAt": "2024-12-06T19:41:26Z",
+			"url": "https://github.com/lando/mssql/releases/tag/v1.4.3"
+		},
+		{
+			"tagName": "v1.4.2",
+			"publishedAt": "2024-12-04T22:58:55Z",
+			"url": "https://github.com/lando/mssql/releases/tag/v1.4.2"
+		},
+		{
+			"tagName": "v1.4.1",
+			"publishedAt": "2024-11-04T21:03:15Z",
+			"url": "https://github.com/lando/mssql/releases/tag/v1.4.1"
+		},
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2024-10-25T19:58:15Z",
+			"url": "https://github.com/lando/mssql/releases/tag/v1.4.0"
+		},
+		{
+			"tagName": "v1.3.0",
+			"publishedAt": "2024-09-18T16:50:28Z",
+			"url": "https://github.com/lando/mssql/releases/tag/v1.3.0"
+		}
+	]
+}

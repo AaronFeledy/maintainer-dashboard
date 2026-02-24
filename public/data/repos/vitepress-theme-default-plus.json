@@ -1,0 +1,191 @@
+{
+	"name": "lando/vitepress-theme-default-plus",
+	"description": "The VitePress Default Theme with a little more POWAH",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "mvb fails on fork PRs: branch doesn't exist in upstream repo",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2026-01-23T00:06:40Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/93"
+		},
+		{
+			"title": "Revert to origenal color scheme",
+			"author": "A53o",
+			"labels": [],
+			"createdAt": "2026-01-13T21:49:56Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/90"
+		},
+		{
+			"title": "Please make Team link to Github profiles not email address",
+			"author": "yorkshire-pudding",
+			"labels": [],
+			"createdAt": "2025-05-10T23:39:34Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/78"
+		},
+		{
+			"title": "Theme not exported",
+			"author": "spasticninja",
+			"labels": [],
+			"createdAt": "2025-04-10T16:43:03Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/77"
+		},
+		{
+			"title": "Start error about timeago.js",
+			"author": "SuperManito",
+			"labels": [],
+			"createdAt": "2025-03-30T23:45:07Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/76"
+		},
+		{
+			"title": "Error while updating dependencies",
+			"author": "szarkans",
+			"labels": [],
+			"createdAt": "2025-03-16T21:09:57Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/75"
+		},
+		{
+			"title": "LastUpdated timestamp is stuck on 1969",
+			"author": "VGSS6102",
+			"labels": [],
+			"createdAt": "2024-11-29T07:29:26Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/69"
+		},
+		{
+			"title": "Each feature separately",
+			"author": "VGSS6102",
+			"labels": [],
+			"createdAt": "2024-11-28T22:06:50Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/68"
+		},
+		{
+			"title": "Image not showing if using vitepress-plugin-image-viewer",
+			"author": "garygan89",
+			"labels": [],
+			"createdAt": "2024-06-09T18:28:27Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/41"
+		},
+		{
+			"title": "bug: not adding editLink breaks DocFooter",
+			"author": "KalaayPT",
+			"labels": [],
+			"createdAt": "2024-05-30T10:38:53Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/40"
+		},
+		{
+			"title": "error: too many arguments given outside repository",
+			"author": "MikeCZ23",
+			"labels": [],
+			"createdAt": "2024-04-29T20:10:29Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/39"
+		},
+		{
+			"title": "Add More Admonitions and Title Icons",
+			"author": "genment",
+			"labels": [],
+			"createdAt": "2024-03-25T15:21:23Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/33"
+		},
+		{
+			"title": "Reading mode",
+			"author": "pirog",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2024-01-23T14:34:36Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/2"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:08Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/97"
+		},
+		{
+			"title": "Bump the actions group with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:12:21Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/95"
+		},
+		{
+			"title": "Bump axios from 1.12.1 to 1.13.5",
+			"author": "dependabot",
+			"createdAt": "2026-02-11T18:12:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/94"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T21:27:27Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/92"
+		},
+		{
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T00:03:06Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/91"
+		},
+		{
+			"title": "Bump js-yaml from 3.14.1 to 3.14.2",
+			"author": "dependabot",
+			"createdAt": "2025-12-04T15:04:59Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/89"
+		},
+		{
+			"title": "Call user defined markdown configuration.",
+			"author": "dbrnz",
+			"createdAt": "2025-03-16T07:22:31Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/74"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.1.1",
+			"publishedAt": "2025-02-14T18:26:19Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/releases/tag/v1.1.1"
+		},
+		{
+			"tagName": "v1.1.0",
+			"publishedAt": "2025-02-14T17:35:57Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/releases/tag/v1.1.0"
+		},
+		{
+			"tagName": "v1.1.0-beta.24",
+			"publishedAt": "2024-11-23T21:21:37Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/releases/tag/v1.1.0-beta.24"
+		},
+		{
+			"tagName": "v1.1.0-beta.23",
+			"publishedAt": "2024-11-13T19:15:59Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/releases/tag/v1.1.0-beta.23"
+		},
+		{
+			"tagName": "v1.1.0-beta.22",
+			"publishedAt": "2024-11-13T18:25:52Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/releases/tag/v1.1.0-beta.22"
+		}
+	]
+}

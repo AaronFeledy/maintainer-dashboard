@@ -1,0 +1,84 @@
+{
+	"name": "lando/mongo",
+	"description": "The Official MongoDB Lando Plugin",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:29Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mongo/pull/60"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:09Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mongo/pull/58"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:10:53Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mongo/pull/57"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:34:20Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mongo/pull/56"
+		},
+		{
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-21T23:30:15Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mongo/pull/55"
+		},
+		{
+			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
+			"author": "dependabot",
+			"createdAt": "2025-12-02T03:50:25Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mongo/pull/54"
+		},
+		{
+			"title": "Bump vite from 5.4.20 to 5.4.21",
+			"author": "dependabot",
+			"createdAt": "2025-10-21T08:02:50Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mongo/pull/53"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2025-09-01T15:49:33Z",
+			"url": "https://github.com/lando/mongo/releases/tag/v1.4.0"
+		},
+		{
+			"tagName": "v1.3.0",
+			"publishedAt": "2025-06-14T16:48:52Z",
+			"url": "https://github.com/lando/mongo/releases/tag/v1.3.0"
+		},
+		{
+			"tagName": "v1.2.3",
+			"publishedAt": "2024-12-06T19:41:21Z",
+			"url": "https://github.com/lando/mongo/releases/tag/v1.2.3"
+		},
+		{
+			"tagName": "v1.2.2",
+			"publishedAt": "2024-12-04T22:58:50Z",
+			"url": "https://github.com/lando/mongo/releases/tag/v1.2.2"
+		},
+		{
+			"tagName": "v1.2.1",
+			"publishedAt": "2024-11-04T21:03:10Z",
+			"url": "https://github.com/lando/mongo/releases/tag/v1.2.1"
+		}
+	]
+}

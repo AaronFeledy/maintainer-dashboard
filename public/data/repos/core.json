@@ -1,58 +1,702 @@
 {
-  "name": "core",
-  "description": "The libraries that power Lando",
-  "language": "JavaScript",
-  "issues": [
-    {
-      "title": "Allow overriding proxy setting in .lando.local.yml",
-      "author": "monroecg",
-      "labels": [],
-      "createdAt": "2026-02-12T17:13:48Z",
-      "commentCount": 0,
-      "url": "https://github.com/lando/core/issues/432"
-    }
-  ],
-  "pullRequests": [
-    {
-      "title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/mounts",
-      "author": "dependabot[bot]",
-      "createdAt": "2026-02-22T10:46:28Z",
-      "reviewCount": 0,
-      "url": "https://github.com/lando/core/pull/436"
-    },
-    {
-      "title": "Bump minimatch and fastify-cli in /examples/mounts",
-      "author": "dependabot[bot]",
-      "createdAt": "2026-02-22T01:31:01Z",
-      "reviewCount": 0,
-      "url": "https://github.com/lando/core/pull/435"
-    }
-  ],
-  "releases": [
-    {
-      "tagName": "v3.26.2",
-      "publishedAt": "2025-12-17T13:41:05Z",
-      "url": "https://github.com/lando/core/releases/tag/v3.26.2"
-    },
-    {
-      "tagName": "v3.26.1",
-      "publishedAt": "2025-12-17T13:31:24Z",
-      "url": "https://github.com/lando/core/releases/tag/v3.26.1"
-    },
-    {
-      "tagName": "v3.26.0",
-      "publishedAt": "2025-11-14T16:06:20Z",
-      "url": "https://github.com/lando/core/releases/tag/v3.26.0"
-    },
-    {
-      "tagName": "v3.25.6",
-      "publishedAt": "2025-10-01T13:49:10Z",
-      "url": "https://github.com/lando/core/releases/tag/v3.25.6"
-    },
-    {
-      "tagName": "v3.25.5",
-      "publishedAt": "2025-09-09T15:19:09Z",
-      "url": "https://github.com/lando/core/releases/tag/v3.25.5"
-    }
-  ]
+	"name": "lando/core",
+	"description": "Current Lando v3 runtime",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Allow overriding proxy setting in .lando.local.yml",
+			"author": "monroecg",
+			"labels": [],
+			"createdAt": "2026-02-12T17:13:48Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/432"
+		},
+		{
+			"title": "ImageMagick v.7",
+			"author": "charlieartist",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2025-12-24T16:28:27Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/414"
+		},
+		{
+			"title": "pluginDirs should point to the actual directory containing the plugins",
+			"author": "AaronFeledy",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-10-28T06:17:25Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/398"
+		},
+		{
+			"title": "Setup shouldn't try to download plugins when running from alternate directory",
+			"author": "AaronFeledy",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-10-28T06:06:39Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/397"
+		},
+		{
+			"title": "Windows for https://docs.lando.dev/guides/offline-dev.html ?",
+			"author": "Mgrmjp",
+			"labels": [],
+			"createdAt": "2025-10-01T09:07:05Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/392"
+		},
+		{
+			"title": "It should be possible to opt out of mounting `/var/www` as a named mount since it can mess up certain containers such as adminer",
+			"author": "codebymikey",
+			"labels": [],
+			"createdAt": "2025-09-10T09:28:04Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/388"
+		},
+		{
+			"title": "bell conflict",
+			"author": "haniframadhani",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2025-09-09T08:34:41Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/386"
+		},
+		{
+			"title": "Drop use of \"legacy\" in favor of \"unsupported\" and use new info framework instead of warnings",
+			"author": "Mgrmjp",
+			"labels": [
+				"documentation",
+				"enhancement"
+			],
+			"createdAt": "2025-09-05T13:22:14Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core/issues/385"
+		},
+		{
+			"title": "My site does not load on the browser",
+			"author": "rpayanm",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-07-03T17:24:14Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/376"
+		},
+		{
+			"title": "Lando seems to ignore overriding the orchestratorBin configuration",
+			"author": "gabesullice",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-06-18T12:43:07Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/372"
+		},
+		{
+			"title": "Syntax error: Unterminated quoted string",
+			"author": "onjoakimsmind",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-05-28T20:55:08Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/core/issues/364"
+		},
+		{
+			"title": "Add support for Podman",
+			"author": "sapiterbang",
+			"labels": [],
+			"createdAt": "2025-05-22T10:13:09Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/363"
+		},
+		{
+			"title": "Incorrect next page for first page of Landofile section",
+			"author": "crstauf",
+			"labels": [],
+			"createdAt": "2025-04-23T20:15:18Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/360"
+		},
+		{
+			"title": "Typesense plugin",
+			"author": "SlimDeluxe",
+			"labels": [],
+			"createdAt": "2025-04-22T05:53:59Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core/issues/359"
+		},
+		{
+			"title": "Can't connect Wordpress Vite with lando",
+			"author": "YevheniiVolosiuk",
+			"labels": [],
+			"createdAt": "2025-04-02T13:52:53Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/358"
+		},
+		{
+			"title": "TypeError: undefined is not a function",
+			"author": "calevans",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-03-13T20:18:38Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/351"
+		},
+		{
+			"title": "Lando crashes when using Excludes in yaml",
+			"author": "leapxdco",
+			"labels": [],
+			"createdAt": "2025-03-13T18:12:27Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core/issues/353"
+		},
+		{
+			"title": "shell control characters printed to all output",
+			"author": "danielcavanagh",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2025-02-25T04:25:38Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/345"
+		},
+		{
+			"title": "Lando doesn't recognize Docker Desktop and keeps saying to install it",
+			"author": "Mgrmjp",
+			"labels": [],
+			"createdAt": "2025-01-17T06:31:17Z",
+			"commentCount": 6,
+			"url": "https://github.com/lando/core/issues/329"
+		},
+		{
+			"title": "Setup fails on Solus",
+			"author": "ianmjones",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-01-14T21:30:14Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/320"
+		},
+		{
+			"title": "Update check failed!",
+			"author": "MatthiasBrodelet",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2024-10-31T12:57:11Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/270"
+		},
+		{
+			"title": "lando update fails to update lando cli",
+			"author": "vladigor",
+			"labels": [],
+			"createdAt": "2024-10-31T06:38:31Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/271"
+		},
+		{
+			"title": "Plugin name and Package name need to be equal (?)",
+			"author": "Xilonz",
+			"labels": [],
+			"createdAt": "2024-10-28T10:29:14Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/258"
+		},
+		{
+			"title": "Plugin-add doesn't work for Gitlab registries",
+			"author": "Xilonz",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-10-25T06:40:44Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/252"
+		},
+		{
+			"title": "docs/lando-service.md update suggestions",
+			"author": "tormi",
+			"labels": [],
+			"createdAt": "2024-10-18T07:23:10Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/235"
+		},
+		{
+			"title": "Add option to skip scanner as a one-off",
+			"author": "AaronFeledy",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2024-10-16T15:28:08Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/232"
+		},
+		{
+			"title": "Adding ssl to services phpmyadmin and mailhog enables but shows errors",
+			"author": "yorkshire-pudding",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-10-15T19:10:33Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/230"
+		},
+		{
+			"title": "macOS Sequoia Compatibility",
+			"author": "charlieartist",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2024-10-03T16:12:00Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core/issues/216"
+		},
+		{
+			"title": "Backslashes used on destination volume mounts overrides",
+			"author": "ttk",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-10-01T18:42:02Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core/issues/215"
+		},
+		{
+			"title": "Identify error sources when possible",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2024-09-18T03:22:04Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/211"
+		},
+		{
+			"title": "Path is undefined error when using tilde expansion in plugin path",
+			"author": "AaronFeledy",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-09-11T23:21:39Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/207"
+		},
+		{
+			"title": "Lando port scanning hangs when port is in use but is not accepting connections",
+			"author": "dgervalle",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-08-29T11:20:39Z",
+			"commentCount": 6,
+			"url": "https://github.com/lando/core/issues/197"
+		},
+		{
+			"title": "Switch to Using Docker Compose Plugin Version",
+			"author": "reynoldsalec",
+			"labels": [
+				"enhancement"
+			],
+			"createdAt": "2024-08-12T19:34:57Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/193"
+		},
+		{
+			"title": "Version task fails if .lando.yml contains invalid config",
+			"author": "AaronFeledy",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-08-11T15:45:51Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/192"
+		},
+		{
+			"title": "scripts/sql-import.sh unintentionally swallows exit code when a database import fails.",
+			"author": "codebymikey",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-07-10T15:28:08Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/182"
+		},
+		{
+			"title": "Docker issues on WSL when Docker Desktop integration is disabled",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2024-06-28T14:43:54Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core/issues/181"
+		},
+		{
+			"title": "Lando starts docker after cache clear on linux",
+			"author": "AaronFeledy",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-04-22T16:49:59Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/155"
+		},
+		{
+			"title": "Github issues using lando init",
+			"author": "rubenvarela",
+			"labels": [],
+			"createdAt": "2024-04-18T14:07:54Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core/issues/150"
+		},
+		{
+			"title": "Unexpected behavior from user-perms.sh",
+			"author": "derytim",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-04-16T00:35:12Z",
+			"commentCount": 7,
+			"url": "https://github.com/lando/core/issues/146"
+		},
+		{
+			"title": "shutdown alias of poweroff command",
+			"author": "RohitM-IN",
+			"labels": [],
+			"createdAt": "2024-04-09T15:58:23Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/140"
+		},
+		{
+			"title": "OrbStack not working with Lando.",
+			"author": "Vinsanity",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-04-05T21:54:40Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/core/issues/138"
+		},
+		{
+			"title": "SSL ",
+			"author": "renebakx",
+			"labels": [],
+			"createdAt": "2024-02-29T09:19:58Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/266"
+		},
+		{
+			"title": "Underscores from project name no longer used to create URLs",
+			"author": "unknown",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2024-02-26T16:02:57Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core/issues/119"
+		},
+		{
+			"title": "api: 3 healthcheck will fail if it relies on certs",
+			"author": "pirog",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-02-20T15:45:33Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/103"
+		},
+		{
+			"title": "Proxy URLs Cause Round Robin Results for `appserver_nginx`",
+			"author": "reynoldsalec",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-01-08T20:07:46Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/91"
+		},
+		{
+			"title": "Cannot find file via tool script after latest update",
+			"author": "sinnbeck",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-10-25T11:36:36Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/core/issues/78"
+		},
+		{
+			"title": "allow passthrough of Docker/Buildkit CLI options",
+			"author": "tobybellwood",
+			"labels": [],
+			"createdAt": "2023-10-04T22:53:46Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/69"
+		},
+		{
+			"title": "SSH keys from host not configured in container due to apparent error in load-keys.sh",
+			"author": "thery-dh",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-09-15T03:22:16Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/core/issues/53"
+		},
+		{
+			"title": "Scanner returns HPE_HEADER_OVERFLOW at startup",
+			"author": "RichardDavies",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-08-25T23:42:54Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/core/issues/64"
+		},
+		{
+			"title": "Tooling - Dynamic service commands enhancment",
+			"author": "phpsa",
+			"labels": [],
+			"createdAt": "2023-06-01T23:59:49Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/44"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-22T10:46:28Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/436"
+		},
+		{
+			"title": "Bump minimatch and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-22T01:31:01Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/435"
+		},
+		{
+			"title": "Bump the actions group with 6 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:14:24Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/434"
+		},
+		{
+			"title": "Bump tar, @npmcli/arborist, npm-profile and pacote",
+			"author": "dependabot",
+			"createdAt": "2026-02-18T04:07:08Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/433"
+		},
+		{
+			"title": "Bump axios from 1.12.1 to 1.13.5",
+			"author": "dependabot",
+			"createdAt": "2026-02-11T18:10:02Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/430"
+		},
+		{
+			"title": "chore: revise Lando usage guide with Orbstack instructions",
+			"author": "arzola",
+			"createdAt": "2026-02-10T21:57:01Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/429"
+		},
+		{
+			"title": "Bump fastify and fastify-cli in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-02-02T23:52:38Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/428"
+		},
+		{
+			"title": "Bump fastify and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-02T23:44:10Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/427"
+		},
+		{
+			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-02-02T23:42:51Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/426"
+		},
+		{
+			"title": "fix: add --load to buildx to ensure images are available locally",
+			"author": "AaronFeledy",
+			"createdAt": "2026-01-24T00:24:36Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/424"
+		},
+		{
+			"title": "Add buildx check/install to `lando setup`",
+			"author": "AaronFeledy",
+			"createdAt": "2026-01-23T18:44:48Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/core/pull/423"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:57:49Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/422"
+		},
+		{
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-21T23:38:49Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/421"
+		},
+		{
+			"title": "Bump undici from 6.21.3 to 6.23.0",
+			"author": "dependabot",
+			"createdAt": "2026-01-15T01:03:05Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/418"
+		},
+		{
+			"title": "Pedantically fixing verb tense in init command description",
+			"author": "amklose",
+			"createdAt": "2026-01-14T09:23:13Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/417"
+		},
+		{
+			"title": "Bump preact from 10.26.9 to 10.28.2",
+			"author": "dependabot",
+			"createdAt": "2026-01-07T19:40:01Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/416"
+		},
+		{
+			"title": "Addresses #2268",
+			"author": "rpayanm",
+			"createdAt": "2025-09-04T16:11:17Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/384"
+		},
+		{
+			"title": "Config Xdebug with drush",
+			"author": "rpayanm",
+			"createdAt": "2025-07-18T14:47:52Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/377"
+		},
+		{
+			"title": "Fix URL for proxy docs",
+			"author": "LorenzoSapora",
+			"createdAt": "2025-06-09T10:33:34Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/370"
+		},
+		{
+			"title": "Add `--tail` `--since` `--until` flags to `lando logs`",
+			"author": "AaronFeledy",
+			"createdAt": "2025-02-20T19:37:57Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/339"
+		},
+		{
+			"title": "Stages hooks vibes",
+			"author": "pirog",
+			"createdAt": "2025-01-30T15:49:51Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/330"
+		},
+		{
+			"title": "Add WSL2 workflow for setup tests",
+			"author": "AaronFeledy",
+			"createdAt": "2024-11-27T01:59:14Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/280"
+		},
+		{
+			"title": "Allow plugin force install",
+			"author": "Xilonz",
+			"createdAt": "2024-10-28T10:19:51Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/257"
+		},
+		{
+			"title": "Allow specifying services to destroy",
+			"author": "AaronFeledy",
+			"createdAt": "2024-08-14T14:14:41Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/194"
+		},
+		{
+			"title": "Update proxy docs file provider directory",
+			"author": "romanzipp",
+			"createdAt": "2024-08-08T05:30:27Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/189"
+		},
+		{
+			"title": "Debugging Compose Path Setup Errors",
+			"author": "reynoldsalec",
+			"createdAt": "2024-08-07T20:40:56Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/188"
+		},
+		{
+			"title": "Add support for running against a local docker image.",
+			"author": "codebymikey",
+			"createdAt": "2023-03-01T20:22:14Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/32"
+		},
+		{
+			"title": "Document that a rebuild / destroy is needed when updating .lando.local.yml",
+			"author": "pfrenssen",
+			"createdAt": "2022-11-18T13:03:45Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/10"
+		},
+		{
+			"title": "Better explain the `preLandoFiles` and `postLandoFiles` config",
+			"author": "trackleft",
+			"createdAt": "2022-04-21T23:04:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/3"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v3.26.2",
+			"publishedAt": "2025-12-17T13:41:05Z",
+			"url": "https://github.com/lando/core/releases/tag/v3.26.2"
+		},
+		{
+			"tagName": "v3.26.1",
+			"publishedAt": "2025-12-17T13:31:24Z",
+			"url": "https://github.com/lando/core/releases/tag/v3.26.1"
+		},
+		{
+			"tagName": "v3.26.0",
+			"publishedAt": "2025-11-14T16:06:20Z",
+			"url": "https://github.com/lando/core/releases/tag/v3.26.0"
+		},
+		{
+			"tagName": "v3.25.6",
+			"publishedAt": "2025-10-01T13:49:10Z",
+			"url": "https://github.com/lando/core/releases/tag/v3.25.6"
+		},
+		{
+			"tagName": "v3.25.5",
+			"publishedAt": "2025-09-09T15:19:09Z",
+			"url": "https://github.com/lando/core/releases/tag/v3.25.5"
+		}
+	]
 }

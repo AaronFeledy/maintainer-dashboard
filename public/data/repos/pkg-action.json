@@ -1,0 +1,43 @@
+{
+	"name": "lando/pkg-action",
+	"description": "A GitHub action that uses vercel/pkg to \"compile\" node projects into binaries",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Support pnpm",
+			"author": "marcustut",
+			"labels": [],
+			"createdAt": "2023-08-10T15:48:00Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pkg-action/issues/4"
+		}
+	],
+	"pullRequests": [],
+	"releases": [
+		{
+			"tagName": "v6.0.0",
+			"publishedAt": "2024-11-15T17:11:16Z",
+			"url": "https://github.com/lando/pkg-action/releases/tag/v6.0.0"
+		},
+		{
+			"tagName": "v5.2.0",
+			"publishedAt": "2024-11-14T16:17:47Z",
+			"url": "https://github.com/lando/pkg-action/releases/tag/v5.2.0"
+		},
+		{
+			"tagName": "v5.1.0",
+			"publishedAt": "2024-10-26T00:28:09Z",
+			"url": "https://github.com/lando/pkg-action/releases/tag/v5.1.0"
+		},
+		{
+			"tagName": "v5.0.0",
+			"publishedAt": "2024-03-14T16:25:48Z",
+			"url": "https://github.com/lando/pkg-action/releases/tag/v5.0.0"
+		},
+		{
+			"tagName": "v4.0.0",
+			"publishedAt": "2023-12-04T18:29:45Z",
+			"url": "https://github.com/lando/pkg-action/releases/tag/v4.0.0"
+		}
+	]
+}

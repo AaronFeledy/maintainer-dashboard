@@ -1,0 +1,41 @@
+{
+	"name": "lando/legacy-metrics",
+	"description": "Anonymous usage collection, logging, error reporting and other data things. Eventually this will be phased out.",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "Bump minimist from 1.2.5 to 1.2.8",
+			"author": "dependabot",
+			"createdAt": "2023-03-05T14:54:53Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/legacy-metrics/pull/9"
+		},
+		{
+			"title": "Bump minimatch from 3.0.4 to 3.1.2",
+			"author": "dependabot",
+			"createdAt": "2022-11-10T04:25:41Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/legacy-metrics/pull/8"
+		},
+		{
+			"title": "Bump node-fetch from 2.6.5 to 2.6.7",
+			"author": "dependabot",
+			"createdAt": "2022-06-25T17:22:38Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/legacy-metrics/pull/7"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.1.0",
+			"publishedAt": "2021-12-02T20:39:57Z",
+			"url": "https://github.com/lando/legacy-metrics/releases/tag/v1.1.0"
+		},
+		{
+			"tagName": "v1.0.1",
+			"publishedAt": "2021-10-29T00:46:09Z",
+			"url": "https://github.com/lando/legacy-metrics/releases/tag/v1.0.1"
+		}
+	]
+}

@@ -1,58 +1,202 @@
 {
-  "name": "php",
-  "description": "A Lando plugin for PHP",
-  "language": "JavaScript",
-  "issues": [
-    {
-      "title": "Setting PHP to version 8.1 with a drupal7/8 recipes makes Drush fail",
-      "author": "f1rf1n",
-      "labels": ["bug"],
-      "createdAt": "2024-12-13T19:44:23Z",
-      "commentCount": 2,
-      "url": "https://github.com/lando/php/issues/152"
-    }
-  ],
-  "pullRequests": [
-    {
-      "title": "fix: handle race condition in release promote job",
-      "author": "AaronFeledy",
-      "createdAt": "2026-02-22T20:55:16Z",
-      "reviewCount": 0,
-      "url": "https://github.com/lando/php/pull/234"
-    },
-    {
-      "title": "Composer home quiet flag",
-      "author": "cursor[bot]",
-      "createdAt": "2026-02-20T16:11:23Z",
-      "reviewCount": 0,
-      "url": "https://github.com/lando/php/pull/233"
-    }
-  ],
-  "releases": [
-    {
-      "tagName": "v1.11.1",
-      "publishedAt": "2026-02-20T03:50:35Z",
-      "url": "https://github.com/lando/php/releases/tag/v1.11.1"
-    },
-    {
-      "tagName": "v1.11.0",
-      "publishedAt": "2026-02-19T16:24:20Z",
-      "url": "https://github.com/lando/php/releases/tag/v1.11.0"
-    },
-    {
-      "tagName": "v1.10.0",
-      "publishedAt": "2026-02-18T23:17:15Z",
-      "url": "https://github.com/lando/php/releases/tag/v1.10.0"
-    },
-    {
-      "tagName": "v1.9.0",
-      "publishedAt": "2025-12-05T20:12:27Z",
-      "url": "https://github.com/lando/php/releases/tag/v1.9.0"
-    },
-    {
-      "tagName": "v1.8.0",
-      "publishedAt": "2025-09-02T15:45:43Z",
-      "url": "https://github.com/lando/php/releases/tag/v1.8.0"
-    }
-  ]
+	"name": "lando/php",
+	"description": "The Official Lando PHP plugin.",
+	"language": "Dockerfile",
+	"issues": [
+		{
+			"title": "Setting PHP to version 8.1 with a drupal7/8 recipes makes Drush fail",
+			"author": "f1rf1n",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-12-13T19:44:23Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/php/issues/152"
+		},
+		{
+			"title": "Update default version to 8.3",
+			"author": "stebogit",
+			"labels": [
+				"flag"
+			],
+			"createdAt": "2024-03-29T07:09:51Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/php/issues/110"
+		},
+		{
+			"title": "How to override Lando's PHP-FPM settings",
+			"author": "tormi",
+			"labels": [
+				"documentation",
+				"enhancement",
+				"good first issue",
+				"4.x"
+			],
+			"createdAt": "2024-03-20T06:45:14Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/php/issues/108"
+		},
+		{
+			"title": "composer show --no-dev --direct --name-only | xargs trims first letter of each package when there is a .lando.yml",
+			"author": "kartagis",
+			"labels": [
+				"bug",
+				"unable to replicate",
+				"php"
+			],
+			"createdAt": "2024-03-08T17:52:56Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/php/issues/106"
+		},
+		{
+			"title": "XDEBUG 3 complains about xdebug.remote_autostart = 1 in /usr/local/etc/php/conf.d/xxx-lando-default.ini",
+			"author": "zuernBernhard",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-01-26T14:04:10Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/php/issues/92"
+		},
+		{
+			"title": "Add xhgui/xhprof UI support",
+			"author": "ptmkenny",
+			"labels": [],
+			"createdAt": "2022-04-08T12:51:30Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/php/issues/147"
+		},
+		{
+			"title": "The error_reporting setting excludes E_DEPRECATED notices ",
+			"author": "aadmathijssen",
+			"labels": [
+				"4.x"
+			],
+			"createdAt": "2021-12-17T14:42:09Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/php/issues/2"
+		},
+		{
+			"title": "Open up port 6001 for laravel-websockets (php via cli service)",
+			"author": "eminos",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-11-18T18:40:05Z",
+			"commentCount": 6,
+			"url": "https://github.com/lando/php/issues/12"
+		},
+		{
+			"title": "How to access PHP error logs? ",
+			"author": "maskedjellybean",
+			"labels": [
+				"v4"
+			],
+			"createdAt": "2020-10-01T18:40:33Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/php/issues/5"
+		},
+		{
+			"title": "Allow a .htaccess-lando to override .htaccess",
+			"author": "web-assistant",
+			"labels": [
+				"bug",
+				"apache"
+			],
+			"createdAt": "2020-05-21T08:43:31Z",
+			"commentCount": 11,
+			"url": "https://github.com/lando/php/issues/38"
+		},
+		{
+			"title": "Drupal 8 Nginx blocks `/.well-known` routes, works on Apache",
+			"author": "dwkitchen",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-05-20T13:46:15Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/php/issues/7"
+		},
+		{
+			"title": "Lando + PHPStorm + PHPUnit",
+			"author": "Tigatok",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-05-08T15:15:09Z",
+			"commentCount": 21,
+			"url": "https://github.com/lando/php/issues/6"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump @lando/nginx from 1.5.0 to 1.6.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-23T18:53:26Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/235"
+		},
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:16Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/234"
+		},
+		{
+			"title": "Composer home quiet flag",
+			"author": "cursor",
+			"createdAt": "2026-02-20T16:11:23Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/233"
+		},
+		{
+			"title": "fix: prevent composer install script failure on prestissimo check",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-20T16:04:25Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/php/pull/232"
+		},
+		{
+			"title": "lando/lando#2718: Explicitly set client_port to 9003.",
+			"author": "reynoldsalec",
+			"createdAt": "2024-10-21T18:15:22Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/136"
+		},
+		{
+			"title": "issue #92 do not use config for Xdebug 2 (outdated - causes problems in xdebug3 eg on php 8.1)",
+			"author": "zuernBernhard",
+			"createdAt": "2024-01-26T14:18:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/93"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.11.1",
+			"publishedAt": "2026-02-20T03:50:35Z",
+			"url": "https://github.com/lando/php/releases/tag/v1.11.1"
+		},
+		{
+			"tagName": "v1.11.0",
+			"publishedAt": "2026-02-19T16:24:20Z",
+			"url": "https://github.com/lando/php/releases/tag/v1.11.0"
+		},
+		{
+			"tagName": "v1.10.0",
+			"publishedAt": "2026-02-18T23:17:15Z",
+			"url": "https://github.com/lando/php/releases/tag/v1.10.0"
+		},
+		{
+			"tagName": "v1.9.0",
+			"publishedAt": "2025-12-05T20:12:27Z",
+			"url": "https://github.com/lando/php/releases/tag/v1.9.0"
+		},
+		{
+			"tagName": "v1.8.0",
+			"publishedAt": "2025-09-02T15:45:43Z",
+			"url": "https://github.com/lando/php/releases/tag/v1.8.0"
+		}
+	]
 }

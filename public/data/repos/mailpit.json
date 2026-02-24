@@ -1,0 +1,42 @@
+{
+	"name": "lando/mailpit",
+	"description": "The official Mailpit integration plugin for Lando",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "Add changelog entries for dependabot updates",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-23T04:35:26Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailpit/pull/50"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.1.0",
+			"publishedAt": "2026-02-23T04:40:10Z",
+			"url": "https://github.com/lando/mailpit/releases/tag/v1.1.0"
+		},
+		{
+			"tagName": "v1.0.1",
+			"publishedAt": "2025-06-29T18:44:38Z",
+			"url": "https://github.com/lando/mailpit/releases/tag/v1.0.1"
+		},
+		{
+			"tagName": "v1.0.0",
+			"publishedAt": "2025-05-18T17:41:11Z",
+			"url": "https://github.com/lando/mailpit/releases/tag/v1.0.0"
+		},
+		{
+			"tagName": "v1.0.0-beta.6",
+			"publishedAt": "2025-03-01T16:34:20Z",
+			"url": "https://github.com/lando/mailpit/releases/tag/v1.0.0-beta.6"
+		},
+		{
+			"tagName": "v1.0.0-beta.5",
+			"publishedAt": "2025-02-12T00:04:21Z",
+			"url": "https://github.com/lando/mailpit/releases/tag/v1.0.0-beta.5"
+		}
+	]
+}

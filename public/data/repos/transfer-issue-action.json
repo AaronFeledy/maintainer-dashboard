@@ -1,0 +1,73 @@
+{
+	"name": "lando/transfer-issue-action",
+	"description": "A GitHub Action for transferring issues between github repos with the ability to create a stub issue in the original repo.",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Transfer Issue Action Test Issue",
+			"author": "github-actions",
+			"labels": [],
+			"createdAt": "2024-03-28T14:32:05Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/transfer-issue-action/issues/85"
+		},
+		{
+			"title": "Transfer Issue Action Test Issue",
+			"author": "github-actions",
+			"labels": [],
+			"createdAt": "2024-03-28T14:30:09Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/transfer-issue-action/issues/84"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump @octokit/request and @actions/github",
+			"author": "dependabot",
+			"createdAt": "2025-02-18T23:11:55Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/transfer-issue-action/pull/100"
+		},
+		{
+			"title": "Bump @octokit/plugin-paginate-rest and @actions/github",
+			"author": "dependabot",
+			"createdAt": "2025-02-18T23:10:38Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/transfer-issue-action/pull/99"
+		},
+		{
+			"title": "Bump @octokit/request-error and @actions/github",
+			"author": "dependabot",
+			"createdAt": "2025-02-14T23:54:49Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/transfer-issue-action/pull/98"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v2.1.0",
+			"publishedAt": "2024-03-28T14:46:49Z",
+			"url": "https://github.com/lando/transfer-issue-action/releases/tag/v2.1.0"
+		},
+		{
+			"tagName": "v2.0.5",
+			"publishedAt": "2023-06-18T14:30:08Z",
+			"url": "https://github.com/lando/transfer-issue-action/releases/tag/v2.0.5"
+		},
+		{
+			"tagName": "v2.0.4",
+			"publishedAt": "2023-04-27T20:00:39Z",
+			"url": "https://github.com/lando/transfer-issue-action/releases/tag/v2.0.4"
+		},
+		{
+			"tagName": "v2.0.3",
+			"publishedAt": "2021-10-26T19:24:40Z",
+			"url": "https://github.com/lando/transfer-issue-action/releases/tag/v2.0.3"
+		},
+		{
+			"tagName": "v2.0.0",
+			"publishedAt": "2021-10-26T19:14:33Z",
+			"url": "https://github.com/lando/transfer-issue-action/releases/tag/v2.0.0"
+		}
+	]
+}

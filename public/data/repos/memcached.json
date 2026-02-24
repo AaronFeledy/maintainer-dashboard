@@ -1,0 +1,77 @@
+{
+	"name": "lando/memcached",
+	"description": "The Official Memcached Lando Plugin",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:57Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/memcached/pull/55"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:31:18Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/memcached/pull/53"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:34:15Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/memcached/pull/52"
+		},
+		{
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-21T23:39:06Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/memcached/pull/51"
+		},
+		{
+			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
+			"author": "dependabot",
+			"createdAt": "2025-12-02T03:35:08Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/memcached/pull/50"
+		},
+		{
+			"title": "Bump vite from 5.4.20 to 5.4.21",
+			"author": "dependabot",
+			"createdAt": "2025-10-21T08:02:57Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/memcached/pull/49"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.4.2",
+			"publishedAt": "2025-08-28T19:28:14Z",
+			"url": "https://github.com/lando/memcached/releases/tag/v1.4.2"
+		},
+		{
+			"tagName": "v1.4.1",
+			"publishedAt": "2025-08-28T19:04:54Z",
+			"url": "https://github.com/lando/memcached/releases/tag/v1.4.1"
+		},
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2025-08-28T18:35:24Z",
+			"url": "https://github.com/lando/memcached/releases/tag/v1.4.0"
+		},
+		{
+			"tagName": "v1.3.3",
+			"publishedAt": "2024-12-06T19:41:17Z",
+			"url": "https://github.com/lando/memcached/releases/tag/v1.3.3"
+		},
+		{
+			"tagName": "v1.3.2",
+			"publishedAt": "2024-12-04T22:58:46Z",
+			"url": "https://github.com/lando/memcached/releases/tag/v1.3.2"
+		}
+	]
+}

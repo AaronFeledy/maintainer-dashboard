@@ -1,0 +1,219 @@
+{
+	"name": "lando/lagoon",
+	"description": "The Official Lagoon Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Cannot read properties of undefined (reading 'services')",
+			"author": "milkovsky",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-10-29T21:29:23Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lagoon/issues/83"
+		},
+		{
+			"title": "Lando changes uid/gid of the solr user, causing lando restart to fail",
+			"author": "tobybellwood",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-06-27T05:52:38Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/lagoon/issues/79"
+		},
+		{
+			"title": "Allow user to configure whether the {PWD} is always mounted into /app",
+			"author": "tobybellwood",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-10-18T02:48:14Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lagoon/issues/58"
+		},
+		{
+			"title": "Docker Compose v2 orchestrator doesn't work with Lando start",
+			"author": "tobybellwood",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-09-29T01:07:24Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lagoon/issues/53"
+		},
+		{
+			"title": "Lagoon integration does not work with custom domains",
+			"author": "serhat-ozkara",
+			"labels": [
+				"Feature",
+				"Lando 4"
+			],
+			"createdAt": "2022-01-17T18:20:02Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/lagoon/issues/20"
+		},
+		{
+			"title": "domains used in proxies aren't added to LAGOON_ROUTES",
+			"author": "tobybellwood",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2021-11-25T00:03:20Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lagoon/issues/14"
+		},
+		{
+			"title": "Unable to add route via proxy when using Lagoon integration",
+			"author": "tobybellwood",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2021-03-01T23:10:07Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/lagoon/issues/6"
+		},
+		{
+			"title": "Lando doesn't seem to respect build context with Lagoon",
+			"author": "mglaman",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2021-02-13T05:08:00Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lagoon/issues/7"
+		},
+		{
+			"title": "lando pull without lando init first doesnt work, lagoon",
+			"author": "pirog",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2021-02-02T01:01:52Z",
+			"commentCount": 7,
+			"url": "https://github.com/lando/lagoon/issues/5"
+		},
+		{
+			"title": "Lando rebuild with Lagoon integration fails with local-only docker images in docker-compose",
+			"author": "tobybellwood",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-11-13T01:03:17Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lagoon/issues/4"
+		},
+		{
+			"title": "Lagoon init/pull/push improvements",
+			"author": "pirog",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-11-12T15:39:52Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lagoon/issues/11"
+		},
+		{
+			"title": "Lagoon postgres push/pull works but outputs ERROR notices when dropping indexes/tables",
+			"author": "mikemilano",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-11-09T22:07:58Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/lagoon/issues/9"
+		},
+		{
+			"title": "Naming lagoon projects",
+			"author": "pirog",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-06-29T17:28:38Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/lagoon/issues/8"
+		},
+		{
+			"title": "Add support for other popular Lagoon services",
+			"author": "pirog",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-06-23T12:42:56Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/lagoon/issues/10"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:39Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lagoon/pull/106"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:08Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lagoon/pull/104"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2025-12-09T03:34:18Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lagoon/pull/100"
+		},
+		{
+			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
+			"author": "dependabot",
+			"createdAt": "2025-12-02T03:59:53Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lagoon/pull/98"
+		},
+		{
+			"title": "#53: Disable Docker Buildkit for Lagoon.",
+			"author": "reynoldsalec",
+			"createdAt": "2023-10-12T18:11:47Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lagoon/pull/57"
+		},
+		{
+			"title": "Lagoon cli",
+			"author": "labboy0276",
+			"createdAt": "2022-04-21T13:47:03Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lagoon/pull/31"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2024-12-11T02:08:03Z",
+			"url": "https://github.com/lando/lagoon/releases/tag/v1.4.0"
+		},
+		{
+			"tagName": "v1.3.3",
+			"publishedAt": "2024-12-06T19:40:43Z",
+			"url": "https://github.com/lando/lagoon/releases/tag/v1.3.3"
+		},
+		{
+			"tagName": "v1.3.2",
+			"publishedAt": "2024-12-04T22:58:13Z",
+			"url": "https://github.com/lando/lagoon/releases/tag/v1.3.2"
+		},
+		{
+			"tagName": "v1.3.1",
+			"publishedAt": "2024-11-04T21:02:27Z",
+			"url": "https://github.com/lando/lagoon/releases/tag/v1.3.1"
+		},
+		{
+			"tagName": "v1.3.0",
+			"publishedAt": "2024-10-25T19:57:33Z",
+			"url": "https://github.com/lando/lagoon/releases/tag/v1.3.0"
+		}
+	]
+}

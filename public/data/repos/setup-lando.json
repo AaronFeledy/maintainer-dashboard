@@ -1,0 +1,194 @@
+{
+	"name": "lando/setup-lando",
+	"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
+	"language": "Shell",
+	"issues": [
+		{
+			"title": "Fresh Install Throws ERROR ==> arg.match is not a function",
+			"author": "jessicalwilson",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2025-11-20T19:59:45Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/setup-lando/issues/106"
+		},
+		{
+			"title": "TypeError: Cannot read properties of undefined (reading 'pluginDirs')",
+			"author": "miiimooo",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2025-10-13T11:43:39Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/setup-lando/issues/103"
+		},
+		{
+			"title": "Lando Install fails on Linux Mint 22.04",
+			"author": "FullStackHoward",
+			"labels": [],
+			"createdAt": "2025-02-13T21:43:35Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/setup-lando/issues/90"
+		},
+		{
+			"title": "setup-lando.sh fails installation on laptop with groups managed via LDAP",
+			"author": "ktherage",
+			"labels": [],
+			"createdAt": "2025-01-21T11:26:46Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/setup-lando/issues/84"
+		},
+		{
+			"title": "  lando [COMPLETED] Downloading orchestrator Completed  +16349ms",
+			"author": "jagatjitsinghmunjal",
+			"labels": [],
+			"createdAt": "2025-01-08T14:30:05Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/setup-lando/issues/82"
+		},
+		{
+			"title": "  lando ERROR Error: A setup error occured! Rerun with lando setup --debug for more info.",
+			"author": "jagatjitsinghmunjal",
+			"labels": [],
+			"createdAt": "2025-01-08T12:06:48Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/setup-lando/issues/81"
+		},
+		{
+			"title": "'Invalid PEM formatted message.' Error during lando setup",
+			"author": "edurenye",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2024-11-13T10:19:07Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/setup-lando/issues/70"
+		},
+		{
+			"title": "Fresh lando installation fails to complete",
+			"author": "pvanhemmen",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2024-11-11T16:03:34Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/setup-lando/issues/69"
+		},
+		{
+			"title": "Improve install docs",
+			"author": "cgmonroe",
+			"labels": [],
+			"createdAt": "2024-10-11T17:23:53Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/setup-lando/issues/61"
+		},
+		{
+			"title": "Add to winget?",
+			"author": "tiziodcaio",
+			"labels": [],
+			"createdAt": "2024-08-28T10:02:33Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/setup-lando/issues/52"
+		},
+		{
+			"title": "Setup fails on GitHub Actions using Ubuntu",
+			"author": "edaemon",
+			"labels": [],
+			"createdAt": "2024-08-02T16:44:30Z",
+			"commentCount": 9,
+			"url": "https://github.com/lando/setup-lando/issues/50"
+		},
+		{
+			"title": "Error: Could not find a service builder called drupal10 in the builder registry!",
+			"author": "wesleymusgrove",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-07-18T02:21:05Z",
+			"commentCount": 18,
+			"url": "https://github.com/lando/setup-lando/issues/49"
+		},
+		{
+			"title": "Investigate an MSI Generator",
+			"author": "reynoldsalec",
+			"labels": [],
+			"createdAt": "2024-04-09T16:31:59Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/setup-lando/issues/34"
+		},
+		{
+			"title": "Research additional installation/distribution pathways",
+			"author": "pirog",
+			"labels": [
+				"flag"
+			],
+			"createdAt": "2024-04-09T15:41:10Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/setup-lando/issues/33"
+		},
+		{
+			"title": "Finally create some homebrew formula",
+			"author": "pirog",
+			"labels": [
+				"flag"
+			],
+			"createdAt": "2024-04-09T15:32:59Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/setup-lando/issues/32"
+		},
+		{
+			"title": "Windows installer script syncing",
+			"author": "pirog",
+			"labels": [
+				"flag"
+			],
+			"createdAt": "2024-04-09T15:18:15Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/setup-lando/issues/31"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: Compare versions in the right order so that lando setup is run if it is set and we are >= 3.24 and the -slim versions do not exist anymore",
+			"author": "florianPat",
+			"createdAt": "2026-01-02T14:56:23Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/setup-lando/pull/108"
+		},
+		{
+			"title": "Generate exe from ps1 in GHA",
+			"author": "AaronFeledy",
+			"createdAt": "2024-04-21T20:47:45Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/setup-lando/pull/37"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v3.7.5",
+			"publishedAt": "2025-08-31T20:57:45Z",
+			"url": "https://github.com/lando/setup-lando/releases/tag/v3.7.5"
+		},
+		{
+			"tagName": "v3.7.4",
+			"publishedAt": "2025-03-23T16:13:52Z",
+			"url": "https://github.com/lando/setup-lando/releases/tag/v3.7.4"
+		},
+		{
+			"tagName": "v3.7.3",
+			"publishedAt": "2025-02-16T01:23:30Z",
+			"url": "https://github.com/lando/setup-lando/releases/tag/v3.7.3"
+		},
+		{
+			"tagName": "v3.7.2",
+			"publishedAt": "2024-12-11T16:30:18Z",
+			"url": "https://github.com/lando/setup-lando/releases/tag/v3.7.2"
+		},
+		{
+			"tagName": "v3.7.1",
+			"publishedAt": "2024-12-07T01:42:56Z",
+			"url": "https://github.com/lando/setup-lando/releases/tag/v3.7.1"
+		}
+	]
+}

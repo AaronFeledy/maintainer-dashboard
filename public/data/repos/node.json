@@ -1,0 +1,153 @@
+{
+	"name": "lando/node",
+	"description": "The Official Node Lando plugin.",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Update default version to 20",
+			"author": "stebogit",
+			"labels": [],
+			"createdAt": "2024-03-29T07:36:26Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/node/issues/79"
+		},
+		{
+			"title": "[Help] Setting up Nextjs project",
+			"author": "Aniket-IN",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2024-02-10T19:10:01Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/node/issues/69"
+		},
+		{
+			"title": "Gulp watch tasks will not trigger when editing local files in the watch directory",
+			"author": "erichhaemmerle",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-11-17T22:10:38Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/node/issues/58"
+		},
+		{
+			"title": "Mount user npm config (~/.npmrc) to node containers",
+			"author": "dylf",
+			"labels": [],
+			"createdAt": "2023-02-08T19:38:20Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/node/issues/38"
+		},
+		{
+			"title": "Lando configuration for custom service with nodejs building for gatby fails",
+			"author": "AbhayPai",
+			"labels": [
+				"node",
+				"Needs Triage"
+			],
+			"createdAt": "2022-11-03T05:05:32Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/node/issues/19"
+		},
+		{
+			"title": "Node container can't get environment variables",
+			"author": "luispimentellopes",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-09-26T16:34:48Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/node/issues/18"
+		},
+		{
+			"title": "Add rsync",
+			"author": "benoitchantre",
+			"labels": [],
+			"createdAt": "2022-09-02T21:27:18Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/node/issues/16"
+		},
+		{
+			"title": "Node.js proxy not working",
+			"author": "felix-berlin",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-05-06T14:47:35Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/node/issues/13"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:57:06Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/115"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:07Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/113"
+		},
+		{
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:07Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/112"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:34:28Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/111"
+		},
+		{
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-21T23:36:09Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/110"
+		},
+		{
+			"title": "Bump tar from 4.4.8 to 4.4.19 in /examples/12",
+			"author": "dependabot",
+			"createdAt": "2026-01-17T12:49:03Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/109"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.6.0",
+			"publishedAt": "2025-12-06T00:49:38Z",
+			"url": "https://github.com/lando/node/releases/tag/v1.6.0"
+		},
+		{
+			"tagName": "v1.5.0",
+			"publishedAt": "2025-03-05T19:28:25Z",
+			"url": "https://github.com/lando/node/releases/tag/v1.5.0"
+		},
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2024-12-20T18:46:05Z",
+			"url": "https://github.com/lando/node/releases/tag/v1.4.0"
+		},
+		{
+			"tagName": "v1.3.3",
+			"publishedAt": "2024-12-06T19:41:41Z",
+			"url": "https://github.com/lando/node/releases/tag/v1.3.3"
+		},
+		{
+			"tagName": "v1.3.2",
+			"publishedAt": "2024-12-04T22:59:09Z",
+			"url": "https://github.com/lando/node/releases/tag/v1.3.2"
+		}
+	]
+}

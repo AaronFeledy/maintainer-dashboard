@@ -1,0 +1,42 @@
+{
+	"name": "lando/prepare-release-action",
+	"description": "Prepare a Lando plugin for publishing to a package registry.",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/add-to-project from 1.0.0 to 1.0.2 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:29:52Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/prepare-release-action/pull/28"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v3.3.4",
+			"publishedAt": "2025-12-06T00:13:54Z",
+			"url": "https://github.com/lando/prepare-release-action/releases/tag/v3.3.4"
+		},
+		{
+			"tagName": "v3.3.3",
+			"publishedAt": "2025-02-28T15:26:30Z",
+			"url": "https://github.com/lando/prepare-release-action/releases/tag/v3.3.3"
+		},
+		{
+			"tagName": "v3.3.2",
+			"publishedAt": "2024-05-25T12:51:33Z",
+			"url": "https://github.com/lando/prepare-release-action/releases/tag/v3.3.2"
+		},
+		{
+			"tagName": "v3.3.1",
+			"publishedAt": "2024-05-08T18:48:01Z",
+			"url": "https://github.com/lando/prepare-release-action/releases/tag/v3.3.1"
+		},
+		{
+			"tagName": "v3.3.0",
+			"publishedAt": "2024-05-08T17:44:18Z",
+			"url": "https://github.com/lando/prepare-release-action/releases/tag/v3.3.0"
+		}
+	]
+}

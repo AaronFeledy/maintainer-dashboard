@@ -1,0 +1,110 @@
+{
+	"name": "lando/hyperdrive",
+	"description": "Accelerate from zero to a Lando-based dev environment in less then 12 par-steps",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Its Easy!Nothing stays permanent in life! What is Dynamic Programming! A program which runs during the time of the memory! Agile Methodologies is the new Trick! What is Agile Methodologies",
+			"author": "SalahKariShishya",
+			"labels": [],
+			"createdAt": "2022-09-07T15:21:52Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/hyperdrive/issues/71"
+		},
+		{
+			"title": "Invalid response when pressing Enter on \"recommended actions\" prompt",
+			"author": "quentint",
+			"labels": [],
+			"createdAt": "2022-03-12T22:48:59Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/hyperdrive/issues/35"
+		},
+		{
+			"title": "Add Landofile",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2021-12-12T01:14:16Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/hyperdrive/issues/33"
+		},
+		{
+			"title": "placeholder for 0.7.0 pivot",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2021-08-06T13:26:39Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/hyperdrive/issues/25"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump the actions group with 8 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:37Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/hyperdrive/pull/86"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.0 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:19Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/hyperdrive/pull/85"
+		},
+		{
+			"title": "Bump @lando/leia from 0.6.4 to 0.6.7",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:13Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/hyperdrive/pull/84"
+		},
+		{
+			"title": "GHA has ended support for macos-12",
+			"author": "AaronFeledy",
+			"createdAt": "2024-12-04T04:22:53Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/hyperdrive/pull/83"
+		},
+		{
+			"title": "Bump word-wrap from 1.2.3 to 1.2.4",
+			"author": "dependabot",
+			"createdAt": "2023-07-19T03:36:30Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/hyperdrive/pull/82"
+		},
+		{
+			"title": "Bump semver from 7.3.7 to 7.5.2",
+			"author": "dependabot",
+			"createdAt": "2023-06-24T09:33:39Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/hyperdrive/pull/81"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v0.7.0-alpha.17",
+			"publishedAt": "2022-10-11T15:56:12Z",
+			"url": "https://github.com/lando/hyperdrive/releases/tag/v0.7.0-alpha.17"
+		},
+		{
+			"tagName": "v0.7.0-alpha.16",
+			"publishedAt": "2022-10-10T18:36:52Z",
+			"url": "https://github.com/lando/hyperdrive/releases/tag/v0.7.0-alpha.16"
+		},
+		{
+			"tagName": "v0.7.0-alpha.15",
+			"publishedAt": "2022-10-10T18:33:20Z",
+			"url": "https://github.com/lando/hyperdrive/releases/tag/v0.7.0-alpha.15"
+		},
+		{
+			"tagName": "v0.7.0-alpha.14",
+			"publishedAt": "2022-10-06T18:28:46Z",
+			"url": "https://github.com/lando/hyperdrive/releases/tag/v0.7.0-alpha.14"
+		},
+		{
+			"tagName": "v0.7.0-alpha.13",
+			"publishedAt": "2022-10-06T17:46:50Z",
+			"url": "https://github.com/lando/hyperdrive/releases/tag/v0.7.0-alpha.13"
+		}
+	]
+}

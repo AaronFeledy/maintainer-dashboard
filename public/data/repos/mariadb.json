@@ -1,0 +1,157 @@
+{
+	"name": "lando/mariadb",
+	"description": "The Official MariaDB Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Allow seamless update to new MariaDB versions",
+			"author": "Xilonz",
+			"labels": [],
+			"createdAt": "2025-07-21T09:24:50Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/mariadb/issues/78"
+		},
+		{
+			"title": "Wrong version of mariadb (causing sql-import errors)",
+			"author": "purdy",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-11-06T16:08:49Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/mariadb/issues/73"
+		},
+		{
+			"title": "mysql: Deprecated program name. It will be removed in a future release, use '/opt/bitnami/mariadb/bin/mariadb' instead",
+			"author": "ericmulder1980",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-09-03T16:15:32Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/mariadb/issues/64"
+		},
+		{
+			"title": "Better Healthcheck Testing/Blank dbname/user Testing",
+			"author": "reynoldsalec",
+			"labels": [
+				"good first issue"
+			],
+			"createdAt": "2024-03-11T22:12:31Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/mariadb/issues/44"
+		},
+		{
+			"title": "Fast backup",
+			"author": "hkirsman",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-12-28T13:32:12Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/mariadb/issues/37"
+		},
+		{
+			"title": "MariaDB 10.6: can't connect to the database after rebuild from MariaDB 10.4",
+			"author": "benoitchantre",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-12-18T11:21:09Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/mariadb/issues/36"
+		},
+		{
+			"title": "Upgrade the default version of MariaDB to a maintained version",
+			"author": "tormi",
+			"labels": [],
+			"createdAt": "2023-08-02T07:02:33Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/mariadb/issues/25"
+		},
+		{
+			"title": "Warnings when performing MySQL commands on mariadb:10.6",
+			"author": "DanielKulbe",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2023-07-14T05:22:56Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/mariadb/issues/23"
+		},
+		{
+			"title": "Mariadb is very slow with large database compared to mysql (Drupal 8)",
+			"author": "Asterovim",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-11-10T09:39:18Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/mariadb/issues/15"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:24Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mariadb/pull/95"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:12:15Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mariadb/pull/93"
+		},
+		{
+			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
+			"author": "dependabot",
+			"createdAt": "2025-12-09T03:52:20Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mariadb/pull/91"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2025-12-09T03:52:13Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mariadb/pull/90"
+		},
+		{
+			"title": "Update default MariaDB version to 10.6, resolves lando/mariadb#25.",
+			"author": "tormi",
+			"createdAt": "2023-08-02T07:21:20Z",
+			"reviewCount": 3,
+			"url": "https://github.com/lando/mariadb/pull/26"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.8.0",
+			"publishedAt": "2025-09-08T15:30:51Z",
+			"url": "https://github.com/lando/mariadb/releases/tag/v1.8.0"
+		},
+		{
+			"tagName": "v1.7.0",
+			"publishedAt": "2025-08-30T18:05:24Z",
+			"url": "https://github.com/lando/mariadb/releases/tag/v1.7.0"
+		},
+		{
+			"tagName": "v1.6.3",
+			"publishedAt": "2024-12-06T19:41:07Z",
+			"url": "https://github.com/lando/mariadb/releases/tag/v1.6.3"
+		},
+		{
+			"tagName": "v1.6.2",
+			"publishedAt": "2024-12-04T22:58:36Z",
+			"url": "https://github.com/lando/mariadb/releases/tag/v1.6.2"
+		},
+		{
+			"tagName": "v1.6.1",
+			"publishedAt": "2024-11-04T21:02:53Z",
+			"url": "https://github.com/lando/mariadb/releases/tag/v1.6.1"
+		}
+	]
+}

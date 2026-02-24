@@ -1,0 +1,155 @@
+{
+	"name": "lando/solr",
+	"description": "The Official Solr Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Add custom plugins like solr-analysis-extras-9.8.1",
+			"author": "AndreaCorda01",
+			"labels": [],
+			"createdAt": "2025-04-04T15:34:55Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/solr/issues/58"
+		},
+		{
+			"title": "Solr Cloud support with Search API Solr",
+			"author": "gitressa",
+			"labels": [],
+			"createdAt": "2023-05-11T15:58:04Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/solr/issues/30"
+		},
+		{
+			"title": "Support patch versions",
+			"author": "pfrenssen",
+			"labels": [],
+			"createdAt": "2023-04-18T11:57:23Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/solr/issues/27"
+		},
+		{
+			"title": "Two sites both running solr (different versions) collide",
+			"author": "seanr",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2022-06-13T20:23:09Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/solr/issues/14"
+		},
+		{
+			"title": "Solr core not installed",
+			"author": "nelsonsalves",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2021-08-13T18:02:37Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/solr/issues/4"
+		},
+		{
+			"title": "Drupal 9 unable to get solr up an running",
+			"author": "smustgrave",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2021-01-29T00:14:54Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/solr/issues/7"
+		},
+		{
+			"title": "Two sites sharing a single Solr core possible?",
+			"author": "gitressa",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-06-30T17:54:26Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/solr/issues/5"
+		},
+		{
+			"title": "Multiple solr cores in one solr service",
+			"author": "mrtronje",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-06-22T15:01:37Z",
+			"commentCount": 14,
+			"url": "https://github.com/lando/solr/issues/2"
+		},
+		{
+			"title": "How do i install Apache Tika?",
+			"author": "pirog",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2020-06-08T13:36:39Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/solr/issues/3"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:36Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/solr/pull/68"
+		},
+		{
+			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
+			"author": "dependabot",
+			"createdAt": "2026-02-20T05:03:14Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/solr/pull/67"
+		},
+		{
+			"title": "Bump actions/add-to-project from 1.0.0 to 1.0.2 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:05Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/solr/pull/64"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:04Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/solr/pull/63"
+		},
+		{
+			"title": "chore: update @lando/php to ^1.11.0",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-19T17:15:09Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/solr/pull/62"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.5.0",
+			"publishedAt": null,
+			"url": "https://github.com/lando/solr/releases/tag/untagged-f1aaab4c7415ee66bbc1"
+		},
+		{
+			"tagName": "v1.4.1",
+			"publishedAt": "2025-12-06T14:15:54Z",
+			"url": "https://github.com/lando/solr/releases/tag/v1.4.1"
+		},
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2025-12-06T14:11:40Z",
+			"url": "https://github.com/lando/solr/releases/tag/v1.4.0"
+		},
+		{
+			"tagName": "v1.3.3",
+			"publishedAt": "2024-12-06T19:42:21Z",
+			"url": "https://github.com/lando/solr/releases/tag/v1.3.3"
+		},
+		{
+			"tagName": "v1.3.2",
+			"publishedAt": "2024-12-04T22:59:49Z",
+			"url": "https://github.com/lando/solr/releases/tag/v1.3.2"
+		}
+	]
+}

@@ -1,0 +1,160 @@
+{
+	"name": "lando/devtool",
+	"description": "???",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Devtool: The Ultimate Monorepo Dev Tool 🐐",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T03:26:41Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/devtool/issues/29"
+		},
+		{
+			"title": "Universal Tooling/Aliases and Hierarchy",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T03:08:40Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/28"
+		},
+		{
+			"title": "Consider Bun plugins for faster tooling",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:52:24Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/devtool/issues/27"
+		},
+		{
+			"title": "First class support for running isolated AI agents",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:49:06Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/26"
+		},
+		{
+			"title": "Nested stdout rendering for tooling and install tasks",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:48:18Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/25"
+		},
+		{
+			"title": "Migrate rendering to OpenTUI",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:41:15Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/24"
+		},
+		{
+			"title": "Migrate CLI to OCLIF",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:40:27Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/23"
+		},
+		{
+			"title": "Migrate to Bun",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:38:57Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/22"
+		},
+		{
+			"title": "Implement \"BUN_BE_BUN\" for plugin management",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:34:52Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/21"
+		},
+		{
+			"title": "Host commands based on Bun $Shell",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:29:32Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/20"
+		},
+		{
+			"title": "Add templating/generation API",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:26:15Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/19"
+		},
+		{
+			"title": "Include template engine",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:22:44Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/18"
+		},
+		{
+			"title": "Establish expression notation for accessing runtime API",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:20:22Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/17"
+		},
+		{
+			"title": "Implement API that can be accessed in .devtool.yml and tooling",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T02:18:56Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/16"
+		},
+		{
+			"title": "Use Podman as Default Engine/Orchestrator",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-08-20T01:22:01Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/15"
+		},
+		{
+			"title": "Provide LLM-Friendly docs",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-06-06T11:37:28Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/devtool/issues/13"
+		},
+		{
+			"title": "Devtool Roadmap",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2025-06-04T13:06:28Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/devtool/issues/12"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump axios from 1.9.0 to 1.13.5",
+			"author": "dependabot",
+			"createdAt": "2026-02-11T16:08:26Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/devtool/pull/32"
+		},
+		{
+			"title": "fix: resolve CLI hanging and add basic functionality",
+			"author": "AaronFeledy",
+			"createdAt": "2025-08-20T03:59:20Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/devtool/pull/30"
+		}
+	],
+	"releases": []
+}

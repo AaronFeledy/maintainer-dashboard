@@ -1,0 +1,72 @@
+{
+	"name": "lando/website",
+	"description": "Lando's main website",
+	"language": "Vue",
+	"issues": [
+		{
+			"title": "DARK MODE",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2022-03-28T16:34:36Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/website/issues/25"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-23T07:25:55Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/website/pull/74"
+		},
+		{
+			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.34 to 1.0.0-beta.49",
+			"author": "dependabot",
+			"createdAt": "2026-02-20T07:12:47Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/website/pull/73"
+		},
+		{
+			"title": "Bump webpack from 5.90.0 to 5.105.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-06T21:48:23Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/website/pull/72"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:11:18Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/website/pull/71"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v4.0.3",
+			"publishedAt": "2025-09-03T18:25:33Z",
+			"url": "https://github.com/lando/website/releases/tag/v4.0.3"
+		},
+		{
+			"tagName": "v4.0.2",
+			"publishedAt": "2025-07-21T17:12:00Z",
+			"url": "https://github.com/lando/website/releases/tag/v4.0.2"
+		},
+		{
+			"tagName": "v4.0.1",
+			"publishedAt": "2024-01-30T22:14:26Z",
+			"url": "https://github.com/lando/website/releases/tag/v4.0.1"
+		},
+		{
+			"tagName": "v4.0.0",
+			"publishedAt": "2022-03-07T15:15:35Z",
+			"url": "https://github.com/lando/website/releases/tag/v4.0.0"
+		},
+		{
+			"tagName": "v1.0.3",
+			"publishedAt": "2021-11-10T14:09:14Z",
+			"url": "https://github.com/lando/website/releases/tag/v1.0.3"
+		}
+	]
+}

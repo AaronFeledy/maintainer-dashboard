@@ -1,6 +1,16 @@
-import { mkdirSync, writeFileSync } from "node:fs";
+import { existsSync, mkdirSync, readFileSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
+import { parseArgs } from "node:util";
 import { graphql } from "@octokit/graphql";
+import type {
+	RefreshStatus,
+	RepoRegistry,
+	RepoRegistryEntry,
+} from "../src/types/index.ts";
+
+// ============================================================================
+// Configuration
+// ============================================================================
 
 const GITHUB_TOKEN = process.env.GITHUB_TOKEN;
 if (!GITHUB_TOKEN) {
@@ -8,94 +18,162 @@ if (!GITHUB_TOKEN) {
 	process.exit(1);
 }
 
-const ORG = "lando";
-
 const gql = graphql.defaults({
 	headers: { authorization: `token ${GITHUB_TOKEN}` },
 });
 
-interface GraphQLRepo {
-	name: string;
-	description: string | null;
-	isArchived: boolean;
-	primaryLanguage: { name: string } | null;
-	issues: { totalCount: number };
-	pullRequests: { totalCount: number };
-	releases: {
-		nodes: Array<{
-			tagName: string;
-			publishedAt: string;
-		}>;
+// Paths
+const ROOT_DIR = join(import.meta.dirname ?? ".", "..");
+const REGISTRY_PATH = join(ROOT_DIR, "src", "config", "repos.json");
+const DATA_DIR = join(ROOT_DIR, "public", "data");
+const REFRESH_STATUS_PATH = join(DATA_DIR, "refresh-status.json");
+const REPOS_DIR = join(DATA_DIR, "repos");
+
+// ============================================================================
+// CLI Arguments
+// ============================================================================
+
+interface CliArgs {
+	maxAge: string | null; // e.g., "2h", "30m", "1d"
+	batchSize: number | null;
+	include: string[]; // Repos to always include regardless of age
+}
+
+function parseCliArgs(): CliArgs {
+	const { values } = parseArgs({
+		options: {
+			"max-age": { type: "string" },
+			"batch-size": { type: "string" },
+			include: { type: "string" },
+		},
+		allowPositionals: false,
+	});
+
+	return {
+		maxAge: values["max-age"] ?? null,
+		batchSize: values["batch-size"] ? Number(values["batch-size"]) : null,
+		include: values.include ? values.include.split(",") : [],
 	};
-	pushedAt: string;
-	defaultBranchRef: {
-		target: {
-			history: { totalCount: number };
-		};
-	} | null;
 }
 
-interface PageInfo {
-	hasNextPage: boolean;
-	endCursor: string | null;
+function parseDuration(duration: string): number {
+	const match = duration.match(/^(\d+)(m|h|d)$/);
+	if (!match) {
+		console.error(
+			`Invalid duration format: ${duration}. Use e.g., "30m", "2h", "1d"`,
+		);
+		process.exit(1);
+	}
+
+	const value = Number.parseInt(match[1], 10);
+	const unit = match[2];
+
+	switch (unit) {
+		case "m":
+			return value * 60 * 1000;
+		case "h":
+			return value * 60 * 60 * 1000;
+		case "d":
+			return value * 24 * 60 * 60 * 1000;
+		default:
+			return 0;
+	}
 }
 
-interface RepoOverview {
-	name: string;
-	description: string | null;
-	language: string | null;
-	openIssues: number;
-	openPRs: number;
-	lastRelease: string | null;
-	commitsSinceRelease: number;
-	lastPush: string;
-	attentionScore: number;
-	unengagedCount: number;
+// ============================================================================
+// Registry & Refresh Status
+// ============================================================================
+
+function loadRegistry(): RepoRegistry {
+	if (!existsSync(REGISTRY_PATH)) {
+		console.error(`Registry file not found: ${REGISTRY_PATH}`);
+		process.exit(1);
+	}
+	return JSON.parse(readFileSync(REGISTRY_PATH, "utf-8"));
 }
 
-interface DataMeta {
-	fetchedAt: string;
-	repoCount: number;
+function loadRefreshStatus(): RefreshStatus {
+	if (!existsSync(REFRESH_STATUS_PATH)) {
+		return { meta: { lastFullRefresh: null }, repos: {} };
+	}
+	return JSON.parse(readFileSync(REFRESH_STATUS_PATH, "utf-8"));
 }
 
-const REPOS_QUERY = `
-query($org: String!, $cursor: String) {
-  organization(login: $org) {
-    repositories(first: 100, after: $cursor, orderBy: {field: PUSHED_AT, direction: DESC}) {
-      pageInfo {
-        hasNextPage
-        endCursor
-      }
+function saveRefreshStatus(status: RefreshStatus): void {
+	writeFileSync(REFRESH_STATUS_PATH, JSON.stringify(status, null, "\t"));
+}
+
+function getReposToProcess(
+	registry: RepoRegistry,
+	refreshStatus: RefreshStatus,
+	args: CliArgs,
+): RepoRegistryEntry[] {
+	const now = Date.now();
+	const maxAgeMs = args.maxAge ? parseDuration(args.maxAge) : null;
+
+	// Start with active repos only
+	let repos = registry.repos.filter((r) => r.active);
+
+	// If batch mode is enabled, filter and sort by refresh time
+	if (maxAgeMs !== null || args.batchSize !== null) {
+		// Add refresh timestamp info for sorting
+		const reposWithTime = repos.map((repo) => {
+			const lastRefresh = refreshStatus.repos[repo.name]?.overview;
+			const lastRefreshTime = lastRefresh ? new Date(lastRefresh).getTime() : 0;
+			const isIncluded = args.include.includes(repo.name);
+			return { repo, lastRefreshTime, isIncluded };
+		});
+
+		// Filter by max age (skip recently refreshed, unless explicitly included)
+		if (maxAgeMs !== null) {
+			const cutoff = now - maxAgeMs;
+			repos = reposWithTime
+				.filter((r) => r.isIncluded || r.lastRefreshTime < cutoff)
+				.sort((a, b) => a.lastRefreshTime - b.lastRefreshTime)
+				.map((r) => r.repo);
+		} else {
+			// Just sort by oldest first
+			repos = reposWithTime
+				.sort((a, b) => a.lastRefreshTime - b.lastRefreshTime)
+				.map((r) => r.repo);
+		}
+
+		// Limit by batch size
+		if (args.batchSize !== null && repos.length > args.batchSize) {
+			repos = repos.slice(0, args.batchSize);
+		}
+	}
+
+	return repos;
+}
+
+// ============================================================================
+// GraphQL Queries
+// ============================================================================
+
+const REPO_OVERVIEW_QUERY = `
+query($owner: String!, $name: String!) {
+  repository(owner: $owner, name: $name) {
+    name
+    description
+    isArchived
+    primaryLanguage { name }
+    issues(states: OPEN) { totalCount }
+    pullRequests(states: OPEN) { totalCount }
+    releases(first: 1, orderBy: {field: CREATED_AT, direction: DESC}) {
       nodes {
-        name
-        description
-        isArchived
-        primaryLanguage { name }
-        issues(states: OPEN) { totalCount }
-        pullRequests(states: OPEN) { totalCount }
-        releases(first: 1, orderBy: {field: CREATED_AT, direction: DESC}) {
-          nodes {
-            tagName
-            publishedAt
-          }
-        }
-        pushedAt
-        defaultBranchRef {
-          target {
-            ... on Commit {
-              history { totalCount }
-            }
-          }
-        }
+        tagName
+        publishedAt
       }
     }
+    pushedAt
   }
 }
 `;
 
 const COMMITS_SINCE_QUERY = `
-query($org: String!, $repo: String!, $since: GitTimestamp!) {
-  repository(owner: $org, name: $repo) {
+query($owner: String!, $name: String!, $since: GitTimestamp!) {
+  repository(owner: $owner, name: $name) {
     defaultBranchRef {
       target {
         ... on Commit {
@@ -109,16 +187,6 @@ query($org: String!, $repo: String!, $since: GitTimestamp!) {
 }
 `;
 
-interface UrgentItem {
-	repo: string;
-	number: number;
-	title: string;
-	author: string;
-	createdAt: string;
-	url: string;
-	type: "issue" | "pr";
-}
-
 const UNENGAGED_ISSUES_QUERY = `
 query($searchQuery: String!, $cursor: String) {
   search(query: $searchQuery, type: ISSUE, first: 100, after: $cursor) {
@@ -128,7 +196,7 @@ query($searchQuery: String!, $cursor: String) {
     }
     nodes {
       ... on Issue {
-        repository { name }
+        repository { nameWithOwner }
         number
         title
         author { login }
@@ -149,7 +217,7 @@ query($searchQuery: String!, $cursor: String) {
     }
     nodes {
       ... on PullRequest {
-        repository { name }
+        repository { nameWithOwner }
         number
         title
         author { login }
@@ -161,35 +229,9 @@ query($searchQuery: String!, $cursor: String) {
 }
 `;
 
-interface RepoDetailData {
-	name: string;
-	description: string | null;
-	language: string | null;
-	issues: Array<{
-		title: string;
-		author: string;
-		labels: string[];
-		createdAt: string;
-		commentCount: number;
-		url: string;
-	}>;
-	pullRequests: Array<{
-		title: string;
-		author: string;
-		createdAt: string;
-		reviewCount: number;
-		url: string;
-	}>;
-	releases: Array<{
-		tagName: string;
-		publishedAt: string;
-		url: string;
-	}>;
-}
-
 const REPO_DETAIL_QUERY = `
-query($org: String!, $repo: String!) {
-  repository(owner: $org, name: $repo) {
+query($owner: String!, $name: String!) {
+  repository(owner: $owner, name: $name) {
     issues(first: 50, states: OPEN, orderBy: {field: CREATED_AT, direction: DESC}) {
       nodes {
         title
@@ -220,6 +262,94 @@ query($org: String!, $repo: String!) {
 }
 `;
 
+// ============================================================================
+// Types
+// ============================================================================
+
+interface GraphQLRepo {
+	name: string;
+	description: string | null;
+	isArchived: boolean;
+	primaryLanguage: { name: string } | null;
+	issues: { totalCount: number };
+	pullRequests: { totalCount: number };
+	releases: {
+		nodes: Array<{
+			tagName: string;
+			publishedAt: string;
+		}>;
+	};
+	pushedAt: string;
+}
+
+interface PageInfo {
+	hasNextPage: boolean;
+	endCursor: string | null;
+}
+
+interface RepoOverview {
+	name: string;
+	description: string | null;
+	language: string | null;
+	openIssues: number;
+	openPRs: number;
+	lastRelease: string | null;
+	commitsSinceRelease: number;
+	lastPush: string;
+	attentionScore: number;
+	unengagedCount: number;
+}
+
+interface DataMeta {
+	fetchedAt: string;
+	repoCount: number;
+}
+
+interface UrgentItem {
+	repo: string;
+	number: number;
+	title: string;
+	author: string;
+	createdAt: string;
+	url: string;
+	type: "issue" | "pr";
+}
+
+interface RepoDetailData {
+	name: string;
+	description: string | null;
+	language: string | null;
+	issues: Array<{
+		title: string;
+		author: string;
+		labels: string[];
+		createdAt: string;
+		commentCount: number;
+		url: string;
+	}>;
+	pullRequests: Array<{
+		title: string;
+		author: string;
+		createdAt: string;
+		reviewCount: number;
+		url: string;
+	}>;
+	releases: Array<{
+		tagName: string;
+		publishedAt: string;
+		url: string;
+	}>;
+}
+
+interface SearchNode {
+	repository: { nameWithOwner: string };
+	number: number;
+	title: string;
+	author: { login: string } | null;
+	createdAt: string;
+	url: string;
+}
+
 // Attention score weights
 const WEIGHTS = {
 	issues: 1,
@@ -228,36 +358,46 @@ const WEIGHTS = {
 	unengaged: 3,
 };
 
-async function fetchAllRepos(): Promise<GraphQLRepo[]> {
-	const repos: GraphQLRepo[] = [];
-	let cursor: string | null = null;
-	let hasNextPage = true;
+// ============================================================================
+// Data Fetching Functions
+// ============================================================================
 
-	while (hasNextPage) {
-		const result: {
-			organization: {
-				repositories: {
-					pageInfo: PageInfo;
-					nodes: GraphQLRepo[];
-				};
-			};
-		} = await gql(REPOS_QUERY, { org: ORG, cursor });
+interface FetchWarning {
+	repo: string;
+	message: string;
+}
 
-		const { nodes, pageInfo } = result.organization.repositories;
-		repos.push(...nodes);
-		hasNextPage = pageInfo.hasNextPage;
-		cursor = pageInfo.endCursor;
+const warnings: FetchWarning[] = [];
 
-		console.log(`Fetched ${repos.length} repos so far...`);
+function addWarning(repo: string, message: string): void {
+	warnings.push({ repo, message });
+	console.warn(`  Warning [${repo}]: ${message}`);
+}
+
+async function fetchRepoOverview(
+	repoFullName: string,
+): Promise<GraphQLRepo | null> {
+	const [owner, name] = repoFullName.split("/");
+
+	try {
+		const result: { repository: GraphQLRepo } = await gql(REPO_OVERVIEW_QUERY, {
+			owner,
+			name,
+		});
+		return result.repository;
+	} catch (err) {
+		const message = err instanceof Error ? err.message : "Unknown error";
+		addWarning(repoFullName, `Failed to fetch overview - ${message}`);
+		return null;
 	}
-
-	return repos.filter((r) => !r.isArchived);
 }
 
 async function getCommitsSinceRelease(
-	repoName: string,
+	repoFullName: string,
 	releaseDate: string,
 ): Promise<number> {
+	const [owner, name] = repoFullName.split("/");
+
 	try {
 		const result: {
 			repository: {
@@ -266,29 +406,25 @@ async function getCommitsSinceRelease(
 				} | null;
 			};
 		} = await gql(COMMITS_SINCE_QUERY, {
-			org: ORG,
-			repo: repoName,
+			owner,
+			name,
 			since: releaseDate,
 		});
 
 		return result.repository.defaultBranchRef?.target.history.totalCount ?? 0;
 	} catch {
-		console.warn(`Could not fetch commits since release for ${repoName}`);
 		return 0;
 	}
 }
 
-interface SearchNode {
-	repository: { name: string };
-	number: number;
-	title: string;
-	author: { login: string } | null;
-	createdAt: string;
-	url: string;
-}
+async function fetchUnengagedIssues(
+	repoNames: string[],
+	cutoffDate: string,
+): Promise<UrgentItem[]> {
+	// Build search query for specific repos
+	const repoQueries = repoNames.map((name) => `repo:${name}`).join(" ");
+	const searchQuery = `${repoQueries} is:issue is:open comments:0 created:<${cutoffDate}`;
 
-async function fetchUnengagedIssues(cutoffDate: string): Promise<UrgentItem[]> {
-	const searchQuery = `org:${ORG} is:issue is:open comments:0 created:<${cutoffDate}`;
 	const items: UrgentItem[] = [];
 	let cursor: string | null = null;
 	let hasNextPage = true;
@@ -303,7 +439,7 @@ async function fetchUnengagedIssues(cutoffDate: string): Promise<UrgentItem[]> {
 
 		for (const node of result.search.nodes) {
 			items.push({
-				repo: node.repository.name,
+				repo: node.repository.nameWithOwner,
 				number: node.number,
 				title: node.title,
 				author: node.author?.login ?? "unknown",
@@ -320,8 +456,13 @@ async function fetchUnengagedIssues(cutoffDate: string): Promise<UrgentItem[]> {
 	return items;
 }
 
-async function fetchUnengagedPRs(cutoffDate: string): Promise<UrgentItem[]> {
-	const searchQuery = `org:${ORG} is:pr is:open review:none created:<${cutoffDate}`;
+async function fetchUnengagedPRs(
+	repoNames: string[],
+	cutoffDate: string,
+): Promise<UrgentItem[]> {
+	const repoQueries = repoNames.map((name) => `repo:${name}`).join(" ");
+	const searchQuery = `${repoQueries} is:pr is:open review:none created:<${cutoffDate}`;
+
 	const items: UrgentItem[] = [];
 	let cursor: string | null = null;
 	let hasNextPage = true;
@@ -336,7 +477,7 @@ async function fetchUnengagedPRs(cutoffDate: string): Promise<UrgentItem[]> {
 
 		for (const node of result.search.nodes) {
 			items.push({
-				repo: node.repository.name,
+				repo: node.repository.nameWithOwner,
 				number: node.number,
 				title: node.title,
 				author: node.author?.login ?? "unknown",
@@ -354,67 +495,79 @@ async function fetchUnengagedPRs(cutoffDate: string): Promise<UrgentItem[]> {
 }
 
 async function fetchRepoDetail(
-	repoName: string,
+	repoFullName: string,
 	description: string | null,
 	language: string | null,
-): Promise<RepoDetailData> {
-	const result: {
-		repository: {
-			issues: {
-				nodes: Array<{
-					title: string;
-					author: { login: string } | null;
-					labels: { nodes: Array<{ name: string }> };
-					createdAt: string;
-					comments: { totalCount: number };
-					url: string;
-				}>;
-			};
-			pullRequests: {
-				nodes: Array<{
-					title: string;
-					author: { login: string } | null;
-					createdAt: string;
-					reviews: { totalCount: number };
-					url: string;
-				}>;
-			};
-			releases: {
-				nodes: Array<{
-					tagName: string;
-					publishedAt: string;
-					url: string;
-				}>;
-			};
-		};
-	} = await gql(REPO_DETAIL_QUERY, { org: ORG, repo: repoName });
+): Promise<RepoDetailData | null> {
+	const [owner, name] = repoFullName.split("/");
 
-	return {
-		name: repoName,
-		description,
-		language,
-		issues: result.repository.issues.nodes.map((issue) => ({
-			title: issue.title,
-			author: issue.author?.login ?? "unknown",
-			labels: issue.labels.nodes.map((l) => l.name),
-			createdAt: issue.createdAt,
-			commentCount: issue.comments.totalCount,
-			url: issue.url,
-		})),
-		pullRequests: result.repository.pullRequests.nodes.map((pr) => ({
-			title: pr.title,
-			author: pr.author?.login ?? "unknown",
-			createdAt: pr.createdAt,
-			reviewCount: pr.reviews.totalCount,
-			url: pr.url,
-		})),
-		releases: result.repository.releases.nodes.map((release) => ({
-			tagName: release.tagName,
-			publishedAt: release.publishedAt,
-			url: release.url,
-		})),
-	};
+	try {
+		const result: {
+			repository: {
+				issues: {
+					nodes: Array<{
+						title: string;
+						author: { login: string } | null;
+						labels: { nodes: Array<{ name: string }> };
+						createdAt: string;
+						comments: { totalCount: number };
+						url: string;
+					}>;
+				};
+				pullRequests: {
+					nodes: Array<{
+						title: string;
+						author: { login: string } | null;
+						createdAt: string;
+						reviews: { totalCount: number };
+						url: string;
+					}>;
+				};
+				releases: {
+					nodes: Array<{
+						tagName: string;
+						publishedAt: string;
+						url: string;
+					}>;
+				};
+			};
+		} = await gql(REPO_DETAIL_QUERY, { owner, name });
+
+		return {
+			name: repoFullName,
+			description,
+			language,
+			issues: result.repository.issues.nodes.map((issue) => ({
+				title: issue.title,
+				author: issue.author?.login ?? "unknown",
+				labels: issue.labels.nodes.map((l) => l.name),
+				createdAt: issue.createdAt,
+				commentCount: issue.comments.totalCount,
+				url: issue.url,
+			})),
+			pullRequests: result.repository.pullRequests.nodes.map((pr) => ({
+				title: pr.title,
+				author: pr.author?.login ?? "unknown",
+				createdAt: pr.createdAt,
+				reviewCount: pr.reviews.totalCount,
+				url: pr.url,
+			})),
+			releases: result.repository.releases.nodes.map((release) => ({
+				tagName: release.tagName,
+				publishedAt: release.publishedAt,
+				url: release.url,
+			})),
+		};
+	} catch (err) {
+		const message = err instanceof Error ? err.message : "Unknown error";
+		addWarning(repoFullName, `Failed to fetch detail - ${message}`);
+		return null;
+	}
 }
+
+// ============================================================================
+// Utilities
+// ============================================================================
 
 function daysSince(dateStr: string): number {
 	const date = new Date(dateStr);
@@ -422,25 +575,86 @@ function daysSince(dateStr: string): number {
 	return Math.floor((now.getTime() - date.getTime()) / (1000 * 60 * 60 * 24));
 }
 
-async function main() {
-	console.log(`Fetching repos for org: ${ORG}`);
+function getRepoShortName(fullName: string): string {
+	return fullName.split("/")[1];
+}
 
-	const repos = await fetchAllRepos();
-	console.log(`Found ${repos.length} non-archived repos`);
+// ============================================================================
+// Main
+// ============================================================================
+
+async function main() {
+	const args = parseCliArgs();
+
+	console.log("=".repeat(60));
+	console.log("Lando Maintainer Dashboard - Data Fetch");
+	console.log("=".repeat(60));
+
+	if (args.maxAge) console.log(`Max age: ${args.maxAge}`);
+	if (args.batchSize) console.log(`Batch size: ${args.batchSize}`);
+	if (args.include.length > 0)
+		console.log(`Force include: ${args.include.join(", ")}`);
+
+	// Load registry and refresh status
+	const registry = loadRegistry();
+	const refreshStatus = loadRefreshStatus();
+
+	console.log(
+		`\nLoaded registry with ${registry.repos.length} repos (${registry.repos.filter((r) => r.active).length} active)`,
+	);
+
+	// Determine which repos to process
+	const reposToProcess = getReposToProcess(registry, refreshStatus, args);
+
+	if (reposToProcess.length === 0) {
+		console.log("\nNo repos need refreshing based on current criteria.");
+		return;
+	}
+
+	console.log(`\nProcessing ${reposToProcess.length} repos...`);
+
+	// Ensure output directories exist
+	mkdirSync(DATA_DIR, { recursive: true });
+	mkdirSync(REPOS_DIR, { recursive: true });
+
+	const now = new Date().toISOString();
+	const fetchedRepos: Map<string, GraphQLRepo> = new Map();
+
+	// Fetch overview data for each repo
+	console.log("\n--- Fetching repo overviews ---");
+	for (const repoEntry of reposToProcess) {
+		console.log(`  Fetching ${repoEntry.name}...`);
+		const repoData = await fetchRepoOverview(repoEntry.name);
+		if (repoData) {
+			// Check if repo is archived (in case registry is out of date)
+			if (repoData.isArchived) {
+				addWarning(
+					repoEntry.name,
+					"Repository is archived but marked active in registry",
+				);
+			}
+			fetchedRepos.set(repoEntry.name, repoData);
+		}
+	}
+
+	console.log(
+		`\nSuccessfully fetched ${fetchedRepos.size}/${reposToProcess.length} repos`,
+	);
 
 	// Fetch unengaged issues and PRs (older than 3 days)
 	const threeDaysAgo = new Date();
 	threeDaysAgo.setDate(threeDaysAgo.getDate() - 3);
 	const cutoffDate = threeDaysAgo.toISOString().split("T")[0];
 
-	console.log(`Fetching unengaged items older than ${cutoffDate}...`);
+	const repoNames = Array.from(fetchedRepos.keys());
+
+	console.log(`\n--- Fetching unengaged items (older than ${cutoffDate}) ---`);
 	const [unengagedIssues, unengagedPRs] = await Promise.all([
-		fetchUnengagedIssues(cutoffDate),
-		fetchUnengagedPRs(cutoffDate),
+		fetchUnengagedIssues(repoNames, cutoffDate),
+		fetchUnengagedPRs(repoNames, cutoffDate),
 	]);
 
 	const allUrgentItems = [...unengagedIssues, ...unengagedPRs];
-	// Sort by created date ascending (oldest first)
 	allUrgentItems.sort(
 		(a, b) => new Date(a.createdAt).getTime() - new Date(b.createdAt).getTime(),
 	);
@@ -455,15 +669,17 @@ async function main() {
 		unengagedByRepo.set(item.repo, (unengagedByRepo.get(item.repo) ?? 0) + 1);
 	}
 
+	// Build overviews
+	console.log("\n--- Building repo overviews ---");
 	const overviews: RepoOverview[] = [];
 
-	for (const repo of repos) {
+	for (const [repoName, repo] of fetchedRepos) {
 		const lastRelease = repo.releases.nodes[0] ?? null;
 
 		let commitsSinceRelease = 0;
 		if (lastRelease) {
 			commitsSinceRelease = await getCommitsSinceRelease(
-				repo.name,
+				repoName,
 				lastRelease.publishedAt,
 			);
 		}
@@ -472,7 +688,7 @@ async function main() {
 			? daysSince(lastRelease.publishedAt)
 			: 365;
 
-		const unengagedCount = unengagedByRepo.get(repo.name) ?? 0;
+		const unengagedCount = unengagedByRepo.get(repoName) ?? 0;
 
 		const attentionScore =
 			repo.issues.totalCount * WEIGHTS.issues +
@@ -481,7 +697,7 @@ async function main() {
 			unengagedCount * WEIGHTS.unengaged;
 
 		overviews.push({
-			name: repo.name,
+			name: repoName,
 			description: repo.description,
 			language: repo.primaryLanguage?.name ?? null,
 			openIssues: repo.issues.totalCount,
@@ -492,69 +708,100 @@ async function main() {
 			attentionScore: Math.round(attentionScore * 10) / 10,
 			unengagedCount,
 		});
+
+		// Update refresh status for overview
+		if (!refreshStatus.repos[repoName]) {
+			refreshStatus.repos[repoName] = { overview: null, detail: null };
+		}
+		refreshStatus.repos[repoName].overview = now;
 	}
 
 	// Sort by attention score descending
 	overviews.sort((a, b) => b.attentionScore - a.attentionScore);
 
 	const meta: DataMeta = {
-		fetchedAt: new Date().toISOString(),
+		fetchedAt: now,
 		repoCount: overviews.length,
 	};
 
-	const outDir = join(import.meta.dirname ?? ".", "..", "public", "data");
-	mkdirSync(outDir, { recursive: true });
-
-	const reposOutput = { meta, repos: overviews };
+	// Write overview data
 	writeFileSync(
-		join(outDir, "repos-overview.json"),
-		JSON.stringify(reposOutput, null, 2),
+		join(DATA_DIR, "repos-overview.json"),
+		JSON.stringify({ meta, repos: overviews }, null, "\t"),
 	);
-
-	writeFileSync(
-		join(outDir, "urgent-items.json"),
-		JSON.stringify({ meta, items: allUrgentItems }, null, 2),
-	);
-
 	console.log(
 		`Wrote ${overviews.length} repos to public/data/repos-overview.json`,
+	);
+
+	// Write urgent items
+	writeFileSync(
+		join(DATA_DIR, "urgent-items.json"),
+		JSON.stringify({ meta, items: allUrgentItems }, null, "\t"),
 	);
 	console.log(
 		`Wrote ${allUrgentItems.length} urgent items to public/data/urgent-items.json`,
 	);
 
 	// Fetch per-repo detail data for repos with issues or PRs
-	const reposDir = join(outDir, "repos");
-	mkdirSync(reposDir, { recursive: true });
-
-	const reposWithActivity = repos.filter(
-		(r) => r.issues.totalCount > 0 || r.pullRequests.totalCount > 0,
+	const reposWithActivity = Array.from(fetchedRepos.entries()).filter(
+		([_, r]) => r.issues.totalCount > 0 || r.pullRequests.totalCount > 0,
 	);
+
 	console.log(
-		`Fetching detail data for ${reposWithActivity.length} repos with activity...`,
+		`\n--- Fetching detail for ${reposWithActivity.length} repos with activity ---`,
 	);
 
 	let detailCount = 0;
-	for (const repo of reposWithActivity) {
-		try {
-			const detail = await fetchRepoDetail(
-				repo.name,
-				repo.description,
-				repo.primaryLanguage?.name ?? null,
-			);
+	for (const [repoName, repo] of reposWithActivity) {
+		console.log(`  Fetching detail for ${repoName}...`);
+		const detail = await fetchRepoDetail(
+			repoName,
+			repo.description,
+			repo.primaryLanguage?.name ?? null,
+		);
+		if (detail) {
+			const shortName = getRepoShortName(repoName);
 			writeFileSync(
-				join(reposDir, `${repo.name}.json`),
-				JSON.stringify(detail, null, 2),
+				join(REPOS_DIR, `${shortName}.json`),
+				JSON.stringify(detail, null, "\t"),
 			);
 			detailCount++;
-		} catch (err) {
-			console.warn(`Failed to fetch detail for ${repo.name}:`, err);
+
+			// Update refresh status for detail
+			refreshStatus.repos[repoName].detail = now;
 		}
 	}
 
 	console.log(
 		`Wrote detail data for ${detailCount} repos to public/data/repos/`,
 	);
+
+	// Update refresh status metadata
+	const isFullRefresh = args.maxAge === null && args.batchSize === null;
+	if (isFullRefresh) {
+		refreshStatus.meta.lastFullRefresh = now;
+	}
+
+	saveRefreshStatus(refreshStatus);
+	console.log("Updated refresh status");
+
+	// Summary
+	console.log(`\n${"=".repeat(60)}`);
+	console.log("Summary");
+	console.log("=".repeat(60));
+	console.log(`Repos processed: ${fetchedRepos.size}`);
+	console.log(`Detail files written: ${detailCount}`);
+	console.log(`Urgent items found: ${allUrgentItems.length}`);
+
+	if (warnings.length > 0) {
+		console.log(`\nWarnings (${warnings.length}):`);
+		for (const w of warnings) {
+			console.log(`  - [${w.repo}] ${w.message}`);
+		}
+		console.log(
+			"\nThese warnings are informational and do not affect other repos.",
+		);
+	}
 }
 
 main().catch((err) => {

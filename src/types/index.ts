@@ -1,3 +1,39 @@
+// Repository registry types (config)
+export type RepoCategory =
+	| "plugin-service"
+	| "plugin-recipe"
+	| "plugin-hosting"
+	| "core"
+	| "action"
+	| "website"
+	| "tooling"
+	| "other";
+
+export interface RepoRegistryEntry {
+	name: string; // Full name: "lando/php"
+	category: RepoCategory;
+	active: boolean; // false for archived repos
+	description: string;
+}
+
+export interface RepoRegistry {
+	repos: RepoRegistryEntry[];
+}
+
+// Refresh status tracking (data)
+export interface RepoRefreshTimestamps {
+	overview: string | null; // ISO timestamp
+	detail: string | null; // ISO timestamp, null if no detail file
+}
+
+export interface RefreshStatus {
+	meta: {
+		lastFullRefresh: string | null;
+	};
+	repos: Record<string, RepoRefreshTimestamps>;
+}
+
+// Repository overview types
 export interface RepoOverview {
 	name: string;
 	description: string | null;

@@ -1,0 +1,23 @@
+{
+	"name": "lando/lando-dev-container-feature",
+	"description": null,
+	"language": "Shell",
+	"issues": [
+		{
+			"title": "about this project",
+			"author": "delacosta456",
+			"labels": [],
+			"createdAt": "2025-02-18T14:55:03Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando-dev-container-feature/issues/1"
+		}
+	],
+	"pullRequests": [],
+	"releases": [
+		{
+			"tagName": "v0.0.1",
+			"publishedAt": "2022-02-03T19:56:16Z",
+			"url": "https://github.com/lando/lando-dev-container-feature/releases/tag/v0.0.1"
+		}
+	]
+}

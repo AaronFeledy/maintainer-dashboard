@@ -1,0 +1,109 @@
+{
+	"name": "lando/blog",
+	"description": "Lando's Blog Subsite",
+	"language": "Vue",
+	"issues": [
+		{
+			"title": "Where is the / Is there a quick start guide to CI/CD ?",
+			"author": "silverham",
+			"labels": [],
+			"createdAt": "2024-12-15T20:58:29Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/blog/issues/48"
+		},
+		{
+			"title": "Clarity for Windows users who run it all in WSL2",
+			"author": "danksearle",
+			"labels": [],
+			"createdAt": "2023-02-08T11:44:28Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/blog/issues/32"
+		},
+		{
+			"title": "DARK MODE",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2022-03-28T16:34:58Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/blog/issues/12"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.44 to 1.0.0-beta.49",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:07Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/blog/pull/57"
+		},
+		{
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:10:59Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/blog/pull/56"
+		},
+		{
+			"title": "Bump webpack from 5.101.3 to 5.105.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-07T16:32:21Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/blog/pull/55"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:11:21Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/blog/pull/54"
+		},
+		{
+			"title": "Bump esbuild and vuepress",
+			"author": "dependabot",
+			"createdAt": "2025-11-23T23:41:47Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/blog/pull/53"
+		},
+		{
+			"title": "Bump prismjs from 1.29.0 to 1.30.0",
+			"author": "dependabot",
+			"createdAt": "2025-11-23T23:41:26Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/blog/pull/52"
+		},
+		{
+			"title": "Update 2021-01-26-pantheon-localdev-launch.md",
+			"author": "codyfishman",
+			"createdAt": "2024-09-10T18:33:46Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/blog/pull/47"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v4.0.1",
+			"publishedAt": "2025-09-03T19:41:18Z",
+			"url": "https://github.com/lando/blog/releases/tag/v4.0.1"
+		},
+		{
+			"tagName": "v1.0.6",
+			"publishedAt": "2021-11-10T14:33:18Z",
+			"url": "https://github.com/lando/blog/releases/tag/v1.0.6"
+		},
+		{
+			"tagName": "v1.0.5",
+			"publishedAt": "2021-11-10T14:27:23Z",
+			"url": "https://github.com/lando/blog/releases/tag/v1.0.5"
+		},
+		{
+			"tagName": "v1.0.4",
+			"publishedAt": "2021-11-10T14:27:10Z",
+			"url": "https://github.com/lando/blog/releases/tag/v1.0.4"
+		},
+		{
+			"tagName": "v1.0.3",
+			"publishedAt": "2021-11-10T13:11:30Z",
+			"url": "https://github.com/lando/blog/releases/tag/v1.0.3"
+		}
+	]
+}

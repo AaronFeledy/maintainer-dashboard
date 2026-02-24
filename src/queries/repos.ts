@@ -35,11 +35,18 @@ export function useUrgentItems() {
 	}));
 }
 
+// Extract short name from full name (e.g., "lando/php" -> "php")
+function getShortName(fullName: string): string {
+	const parts = fullName.split("/");
+	return parts.length > 1 ? parts[1] : fullName;
+}
+
 export function useRepoDetail(name: () => string) {
 	return createQuery(() => ({
 		queryKey: ["repo-detail", name()],
 		queryFn: async (): Promise<RepoDetail> => {
-			const res = await fetch(`/data/repos/${name()}.json`);
+			const shortName = getShortName(name());
+			const res = await fetch(`/data/repos/${shortName}.json`);
 			if (!res.ok) throw new Error(`Failed to fetch repo detail: ${name()}`);
 			return res.json();
 		},

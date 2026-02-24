@@ -1,0 +1,42 @@
+{
+	"name": "lando/backdrop",
+	"description": "The Official Backdrop Lando Plugin",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:50Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/backdrop/pull/89"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.9.2",
+			"publishedAt": "2026-02-22T03:14:52Z",
+			"url": "https://github.com/lando/backdrop/releases/tag/v1.9.2"
+		},
+		{
+			"tagName": "v1.9.1",
+			"publishedAt": "2026-02-19T17:09:24Z",
+			"url": "https://github.com/lando/backdrop/releases/tag/v1.9.1"
+		},
+		{
+			"tagName": "v1.9.0",
+			"publishedAt": "2026-02-18T23:57:43Z",
+			"url": "https://github.com/lando/backdrop/releases/tag/v1.9.0"
+		},
+		{
+			"tagName": "v1.8.0",
+			"publishedAt": "2025-09-04T16:54:45Z",
+			"url": "https://github.com/lando/backdrop/releases/tag/v1.8.0"
+		},
+		{
+			"tagName": "v1.7.0",
+			"publishedAt": "2024-12-09T13:35:29Z",
+			"url": "https://github.com/lando/backdrop/releases/tag/v1.7.0"
+		}
+	]
+}

@@ -1,0 +1,105 @@
+{
+	"name": "lando/python",
+	"description": "The Official Python Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Unable to get Django up and running",
+			"author": "BWBama85",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-10-14T08:31:48Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/python/issues/27"
+		},
+		{
+			"title": "Lando rebuild, python 2.7 grammar.txt issue - drupal 9, php 8.1",
+			"author": "Dave829Studios",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-10-31T14:16:05Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/python/issues/14"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:46Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/python/pull/62"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:03Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/python/pull/60"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:10:48Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/python/pull/59"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:33:43Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/python/pull/58"
+		},
+		{
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-21T23:25:07Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/python/pull/57"
+		},
+		{
+			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
+			"author": "dependabot",
+			"createdAt": "2025-12-02T03:42:55Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/python/pull/56"
+		},
+		{
+			"title": "Bump vite from 5.4.20 to 5.4.21",
+			"author": "dependabot",
+			"createdAt": "2025-10-21T08:06:11Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/python/pull/55"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.4.3",
+			"publishedAt": "2024-12-06T19:42:06Z",
+			"url": "https://github.com/lando/python/releases/tag/v1.4.3"
+		},
+		{
+			"tagName": "v1.4.2",
+			"publishedAt": "2024-12-04T22:59:35Z",
+			"url": "https://github.com/lando/python/releases/tag/v1.4.2"
+		},
+		{
+			"tagName": "v1.4.1",
+			"publishedAt": "2024-11-04T21:04:05Z",
+			"url": "https://github.com/lando/python/releases/tag/v1.4.1"
+		},
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2024-10-25T20:21:54Z",
+			"url": "https://github.com/lando/python/releases/tag/v1.4.0"
+		},
+		{
+			"tagName": "v1.3.0",
+			"publishedAt": "2024-10-15T17:40:53Z",
+			"url": "https://github.com/lando/python/releases/tag/v1.3.0"
+		}
+	]
+}

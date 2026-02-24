@@ -1,0 +1,157 @@
+{
+	"name": "lando/wordpress",
+	"description": "The Official WordPress Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "expire_logs_days not supported under MySQL 8.2+",
+			"author": "slam-campup",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-10-26T01:00:40Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/wordpress/issues/107"
+		},
+		{
+			"title": "Allow creating wordpress recipe without database",
+			"author": "pauguri",
+			"labels": [],
+			"createdAt": "2025-09-19T13:05:31Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/wordpress/issues/104"
+		},
+		{
+			"title": "Tools like composer or wp cli are not working anymore",
+			"author": "alesub",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2025-09-10T14:10:32Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/wordpress/issues/102"
+		},
+		{
+			"title": "Lando MySQL connection does not persist between stop/start of containers",
+			"author": "jlundoe",
+			"labels": [
+				"wordpress",
+				"Needs Triage"
+			],
+			"createdAt": "2025-01-23T12:24:13Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/wordpress/issues/95"
+		},
+		{
+			"title": "Unable to Connect error in browser on Ubuntu",
+			"author": "shango",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-08-15T17:40:58Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/wordpress/issues/22"
+		},
+		{
+			"title": "Unable to load a custom php.ini configuration with wordpress recipes",
+			"author": "Rufus13apostol",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-06-02T08:10:44Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/wordpress/issues/20"
+		},
+		{
+			"title": "WP CLI not installed in container (/bin/sh: 1: wp: not found wp: not found)",
+			"author": "unknown",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2022-05-12T10:00:02Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/wordpress/issues/15"
+		},
+		{
+			"title": "Different cache setting required for css + image assets",
+			"author": "knowler",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2022-04-27T14:25:23Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/wordpress/issues/11"
+		},
+		{
+			"title": "lando wp cli search-replace fails",
+			"author": "matbrady",
+			"labels": [
+				"Need More Info"
+			],
+			"createdAt": "2022-02-01T21:23:57Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/wordpress/issues/3"
+		},
+		{
+			"title": "Improve WordPress Multi-site Support",
+			"author": "evandiamond",
+			"labels": [
+				"wordpress",
+				"Needs Triage"
+			],
+			"createdAt": "2017-07-10T20:33:36Z",
+			"commentCount": 13,
+			"url": "https://github.com/lando/wordpress/issues/38"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump @lando/nginx from 1.5.0 to 1.6.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-23T12:46:10Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/wordpress/pull/132"
+		},
+		{
+			"title": "Update index.md to tell php 8.5 is supported",
+			"author": "miikkamakela-into",
+			"createdAt": "2026-02-23T08:25:36Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/wordpress/pull/131"
+		},
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:38Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/wordpress/pull/130"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.10.1",
+			"publishedAt": "2026-02-22T17:30:32Z",
+			"url": "https://github.com/lando/wordpress/releases/tag/v1.10.1"
+		},
+		{
+			"tagName": "v1.10.0",
+			"publishedAt": "2026-02-20T01:39:10Z",
+			"url": "https://github.com/lando/wordpress/releases/tag/v1.10.0"
+		},
+		{
+			"tagName": "v1.9.0",
+			"publishedAt": "2025-09-02T18:16:07Z",
+			"url": "https://github.com/lando/wordpress/releases/tag/v1.9.0"
+		},
+		{
+			"tagName": "v1.8.0",
+			"publishedAt": "2024-12-09T14:50:34Z",
+			"url": "https://github.com/lando/wordpress/releases/tag/v1.8.0"
+		},
+		{
+			"tagName": "v1.7.3",
+			"publishedAt": "2024-12-06T19:42:40Z",
+			"url": "https://github.com/lando/wordpress/releases/tag/v1.7.3"
+		}
+	]
+}

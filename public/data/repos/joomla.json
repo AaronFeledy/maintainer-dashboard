@@ -1,0 +1,49 @@
+{
+	"name": "lando/joomla",
+	"description": "The Official Joomla Lando Plugin",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:11Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/joomla/pull/72"
+		},
+		{
+			"title": "Init defaults1",
+			"author": "reynoldsalec",
+			"createdAt": "2024-12-20T22:34:51Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/joomla/pull/57"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.10.0",
+			"publishedAt": "2026-02-20T16:27:34Z",
+			"url": "https://github.com/lando/joomla/releases/tag/v1.10.0"
+		},
+		{
+			"tagName": "v1.9.0",
+			"publishedAt": "2025-09-04T16:26:03Z",
+			"url": "https://github.com/lando/joomla/releases/tag/v1.9.0"
+		},
+		{
+			"tagName": "v1.8.0",
+			"publishedAt": "2024-12-09T15:12:09Z",
+			"url": "https://github.com/lando/joomla/releases/tag/v1.8.0"
+		},
+		{
+			"tagName": "v1.7.3",
+			"publishedAt": "2024-12-06T19:40:39Z",
+			"url": "https://github.com/lando/joomla/releases/tag/v1.7.3"
+		},
+		{
+			"tagName": "v1.7.2",
+			"publishedAt": "2024-12-04T22:58:09Z",
+			"url": "https://github.com/lando/joomla/releases/tag/v1.7.2"
+		}
+	]
+}

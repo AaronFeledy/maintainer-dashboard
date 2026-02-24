@@ -1,0 +1,310 @@
+{
+	"name": "lando/desktop",
+	"description": null,
+	"language": "Vue",
+	"issues": [
+		{
+			"title": "API ",
+			"author": "labboy0276",
+			"labels": [],
+			"createdAt": "2022-06-03T17:28:16Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/62"
+		},
+		{
+			"title": "Adapt electron-deeplink code as an interface for our app",
+			"author": "reynoldsalec",
+			"labels": [],
+			"createdAt": "2022-05-25T18:52:43Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/desktop/issues/59"
+		},
+		{
+			"title": "Save Config Values to Auth Provider",
+			"author": "reynoldsalec",
+			"labels": [
+				"account management",
+				"feature"
+			],
+			"createdAt": "2022-05-03T15:10:07Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/52"
+		},
+		{
+			"title": "Registration/Profile Page",
+			"author": "reynoldsalec",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2022-05-03T15:06:33Z",
+			"commentCount": 9,
+			"url": "https://github.com/lando/desktop/issues/51"
+		},
+		{
+			"title": "installer interface",
+			"author": "pirog",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2022-04-07T18:10:09Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/47"
+		},
+		{
+			"title": "plugin-installer",
+			"author": "pirog",
+			"labels": [
+				"plugin/update management",
+				"feature"
+			],
+			"createdAt": "2022-04-07T18:08:25Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/46"
+		},
+		{
+			"title": "hyperdrive-installer",
+			"author": "pirog",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2022-04-07T18:07:14Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/45"
+		},
+		{
+			"title": "lando-cli-installer",
+			"author": "pirog",
+			"labels": [
+				"installer",
+				"feature"
+			],
+			"createdAt": "2022-04-07T18:06:27Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/44"
+		},
+		{
+			"title": "Release channel support",
+			"author": "pirog",
+			"labels": [
+				"ux",
+				"plugin/update management",
+				"account management",
+				"feature"
+			],
+			"createdAt": "2022-04-07T18:04:51Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/43"
+		},
+		{
+			"title": "lando-ca installer",
+			"author": "pirog",
+			"labels": [
+				"installer",
+				"feature"
+			],
+			"createdAt": "2022-04-07T17:56:47Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/42"
+		},
+		{
+			"title": "docker-compose cli installer",
+			"author": "pirog",
+			"labels": [
+				"installer",
+				"feature"
+			],
+			"createdAt": "2022-04-07T17:54:15Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/41"
+		},
+		{
+			"title": "docker-engine installer",
+			"author": "pirog",
+			"labels": [
+				"installer",
+				"feature"
+			],
+			"createdAt": "2022-04-07T17:52:49Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/40"
+		},
+		{
+			"title": "docker-desktop installer",
+			"author": "pirog",
+			"labels": [
+				"installer",
+				"feature"
+			],
+			"createdAt": "2022-04-07T17:51:12Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/39"
+		},
+		{
+			"title": "Integrate Authentication System with Electron App",
+			"author": "reynoldsalec",
+			"labels": [
+				"account management"
+			],
+			"createdAt": "2022-04-07T15:41:43Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/desktop/issues/38"
+		},
+		{
+			"title": "Usage Stats Opt Out",
+			"author": "reynoldsalec",
+			"labels": [
+				"installer"
+			],
+			"createdAt": "2022-04-06T21:56:29Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/36"
+		},
+		{
+			"title": "Whitelist Lando CA",
+			"author": "reynoldsalec",
+			"labels": [
+				"installer"
+			],
+			"createdAt": "2022-04-06T21:55:28Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/35"
+		},
+		{
+			"title": "Mac Installer Install Docker Compose Separately",
+			"author": "reynoldsalec",
+			"labels": [
+				"installer"
+			],
+			"createdAt": "2022-04-06T21:54:21Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/34"
+		},
+		{
+			"title": "Mac Operating System Check",
+			"author": "reynoldsalec",
+			"labels": [
+				"installer"
+			],
+			"createdAt": "2022-04-06T21:53:22Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/33"
+		},
+		{
+			"title": "Mac Docker Desktop Installation Check",
+			"author": "reynoldsalec",
+			"labels": [
+				"installer"
+			],
+			"createdAt": "2022-04-06T21:52:41Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/32"
+		},
+		{
+			"title": "Authentication + Authorization for Lando Accounts",
+			"author": "reynoldsalec",
+			"labels": [
+				"account management"
+			],
+			"createdAt": "2022-03-18T16:02:11Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/desktop/issues/19"
+		},
+		{
+			"title": "Storing Data Locally",
+			"author": "reynoldsalec",
+			"labels": [],
+			"createdAt": "2022-03-18T15:59:40Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/18"
+		},
+		{
+			"title": "Update Page Prototype",
+			"author": "reynoldsalec",
+			"labels": [],
+			"createdAt": "2022-03-14T18:04:10Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/9"
+		},
+		{
+			"title": "Lando Desktop Auto Update",
+			"author": "reynoldsalec",
+			"labels": [
+				"plugin/update management"
+			],
+			"createdAt": "2022-03-14T16:20:29Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/8"
+		},
+		{
+			"title": "Installation \"Interface\"/Flow",
+			"author": "reynoldsalec",
+			"labels": [
+				"ux"
+			],
+			"createdAt": "2022-03-14T16:15:33Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/desktop/issues/5"
+		},
+		{
+			"title": "Initial Account-based features",
+			"author": "reynoldsalec",
+			"labels": [],
+			"createdAt": "2022-03-14T16:10:03Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/4"
+		},
+		{
+			"title": "Configurations Page Prototype",
+			"author": "reynoldsalec",
+			"labels": [],
+			"createdAt": "2022-03-14T15:49:02Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/3"
+		},
+		{
+			"title": "Plugin Management Page Prototype",
+			"author": "reynoldsalec",
+			"labels": [],
+			"createdAt": "2022-03-14T15:43:02Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/desktop/issues/2"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump json5 from 2.2.1 to 2.2.3",
+			"author": "dependabot",
+			"createdAt": "2023-01-08T13:49:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/desktop/pull/66"
+		},
+		{
+			"title": "Bump decode-uri-component from 0.2.0 to 0.2.2",
+			"author": "dependabot",
+			"createdAt": "2022-12-08T16:02:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/desktop/pull/65"
+		},
+		{
+			"title": "Bump electron from 17.4.6 to 18.3.7",
+			"author": "dependabot",
+			"createdAt": "2022-11-10T14:43:17Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/desktop/pull/64"
+		},
+		{
+			"title": "Bump vite from 2.9.9 to 2.9.13",
+			"author": "dependabot",
+			"createdAt": "2022-08-30T22:31:20Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/desktop/pull/63"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v0.0.10",
+			"publishedAt": null,
+			"url": "https://github.com/lando/desktop/releases/tag/untagged-81fe598b1295505c1a01"
+		}
+	]
+}

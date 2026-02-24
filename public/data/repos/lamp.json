@@ -1,0 +1,90 @@
+{
+	"name": "lando/lamp",
+	"description": "The Official LAMP Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "Update default versions",
+			"author": "stebogit",
+			"labels": [],
+			"createdAt": "2024-03-29T07:26:46Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lamp/issues/55"
+		},
+		{
+			"title": "healthcheck  Access denied to database(s)",
+			"author": "zdenekgebauer",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2024-03-03T08:30:21Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/lamp/issues/51"
+		},
+		{
+			"title": "recipe: lamp: Cannot seem to get php.ini error_reporting to register, and it's unclear why",
+			"author": "bronius",
+			"labels": [],
+			"createdAt": "2023-10-24T21:15:48Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lamp/issues/37"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:31Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lamp/pull/101"
+		},
+		{
+			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
+			"author": "dependabot",
+			"createdAt": "2026-02-20T05:26:24Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lamp/pull/100"
+		},
+		{
+			"title": "chore: update @lando/php to ^1.11.0",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-19T17:14:21Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lamp/pull/96"
+		},
+		{
+			"title": "Added init defaults.",
+			"author": "reynoldsalec",
+			"createdAt": "2024-12-19T22:42:16Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lamp/pull/75"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.10.0",
+			"publishedAt": null,
+			"url": "https://github.com/lando/lamp/releases/tag/untagged-1de5fd90ff6122efb6b0"
+		},
+		{
+			"tagName": "v1.9.0",
+			"publishedAt": "2025-09-02T19:14:33Z",
+			"url": "https://github.com/lando/lamp/releases/tag/v1.9.0"
+		},
+		{
+			"tagName": "v1.8.1",
+			"publishedAt": "2024-12-09T13:20:42Z",
+			"url": "https://github.com/lando/lamp/releases/tag/v1.8.1"
+		},
+		{
+			"tagName": "v1.8.0",
+			"publishedAt": "2024-12-07T23:15:54Z",
+			"url": "https://github.com/lando/lamp/releases/tag/v1.8.0"
+		},
+		{
+			"tagName": "v1.7.3",
+			"publishedAt": "2024-12-06T19:40:48Z",
+			"url": "https://github.com/lando/lamp/releases/tag/v1.7.3"
+		}
+	]
+}

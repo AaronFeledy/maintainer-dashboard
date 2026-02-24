@@ -1,0 +1,79 @@
+{
+	"name": "lando/events",
+	"description": "Lando's Event Subsite",
+	"language": "Vue",
+	"issues": [
+		{
+			"title": "Dark mode",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2022-03-28T16:08:08Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/events/issues/10"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.44 to 1.0.0-beta.49",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:12:59Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/events/pull/52"
+		},
+		{
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:12:35Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/events/pull/51"
+		},
+		{
+			"title": "Bump webpack from 5.101.3 to 5.105.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-07T16:32:30Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/events/pull/50"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:11:41Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/events/pull/49"
+		},
+		{
+			"title": "Bump vite and vuepress",
+			"author": "dependabot",
+			"createdAt": "2025-11-23T23:52:17Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/events/pull/48"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v4.0.2",
+			"publishedAt": "2025-09-03T20:19:55Z",
+			"url": "https://github.com/lando/events/releases/tag/v4.0.2"
+		},
+		{
+			"tagName": "v4.0.1",
+			"publishedAt": "2025-09-03T20:15:55Z",
+			"url": "https://github.com/lando/events/releases/tag/v4.0.1"
+		},
+		{
+			"tagName": "v4.0.0",
+			"publishedAt": "2022-03-25T03:55:55Z",
+			"url": "https://github.com/lando/events/releases/tag/v4.0.0"
+		},
+		{
+			"tagName": "v1.0.4",
+			"publishedAt": "2021-11-10T14:35:10Z",
+			"url": "https://github.com/lando/events/releases/tag/v1.0.4"
+		},
+		{
+			"tagName": "v1.0.3",
+			"publishedAt": "2021-11-10T14:31:15Z",
+			"url": "https://github.com/lando/events/releases/tag/v1.0.3"
+		}
+	]
+}

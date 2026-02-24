@@ -68,7 +68,7 @@ export default function RepoDetailPage() {
 									{(desc) => <p class="mt-1 text-sm text-fg-muted">{desc()}</p>}
 								</Show>
 								<a
-									href={`https://github.com/lando/${data().name}`}
+									href={`https://github.com/${data().name.includes("/") ? data().name : `lando/${data().name}`}`}
 									target="_blank"
 									rel="noopener noreferrer"
 									class="mt-2 inline-flex items-center gap-1 text-sm text-accent-fg no-underline hover:underline"

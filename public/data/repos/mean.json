@@ -1,0 +1,73 @@
+{
+	"name": "lando/mean",
+	"description": "The Official MEAN Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "cannot install newer versions of mongo",
+			"author": "Stargate-a11y",
+			"labels": [],
+			"createdAt": "2025-08-22T06:28:32Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/mean/issues/51"
+		},
+		{
+			"title": "Support for debugging node from Visual Studio code (etc)",
+			"author": "badrange",
+			"labels": [],
+			"createdAt": "2022-03-21T16:02:37Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/mean/issues/5"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:57:11Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mean/pull/66"
+		},
+		{
+			"title": "Bump actions/cache from 4 to 5",
+			"author": "dependabot",
+			"createdAt": "2025-12-15T22:09:16Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mean/pull/64"
+		},
+		{
+			"title": "Bump @lando/postgres from 1.5.0 to 1.6.0",
+			"author": "dependabot",
+			"createdAt": "2025-12-10T21:03:43Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/mean/pull/63"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.5.0",
+			"publishedAt": "2025-09-04T19:14:42Z",
+			"url": "https://github.com/lando/mean/releases/tag/v1.5.0"
+		},
+		{
+			"tagName": "v1.4.3",
+			"publishedAt": "2024-12-06T19:41:12Z",
+			"url": "https://github.com/lando/mean/releases/tag/v1.4.3"
+		},
+		{
+			"tagName": "v1.4.2",
+			"publishedAt": "2024-12-04T22:58:41Z",
+			"url": "https://github.com/lando/mean/releases/tag/v1.4.2"
+		},
+		{
+			"tagName": "v1.4.1",
+			"publishedAt": "2024-11-04T21:02:58Z",
+			"url": "https://github.com/lando/mean/releases/tag/v1.4.1"
+		},
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2024-10-25T19:58:01Z",
+			"url": "https://github.com/lando/mean/releases/tag/v1.4.0"
+		}
+	]
+}

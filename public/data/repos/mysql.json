@@ -1,0 +1,147 @@
+{
+	"name": "lando/mysql",
+	"description": "The Official MySQL Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "MySQL 8.4 can't connect",
+			"author": "kenowak",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-04-14T22:19:58Z",
+			"commentCount": 7,
+			"url": "https://github.com/lando/mysql/issues/72"
+		},
+		{
+			"title": "lando mysql, lando db-export and db-import all of a sudden seem to crash on al my projects",
+			"author": "erwindeclerck",
+			"labels": [],
+			"createdAt": "2025-01-29T22:51:29Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/mysql/issues/71"
+		},
+		{
+			"title": "MySQL 8.4 fails to start using LEMP or WordPress recipe",
+			"author": "webbedfeet-stu",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2025-01-15T12:34:45Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/mysql/issues/69"
+		},
+		{
+			"title": "Adding pv in the docker container",
+			"author": "Bouhnosaure",
+			"labels": [],
+			"createdAt": "2024-07-26T08:15:12Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/mysql/issues/54"
+		},
+		{
+			"title": "Database healthcheck throws warning",
+			"author": "yorkshire-pudding",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-05-02T19:17:59Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/mysql/issues/51"
+		},
+		{
+			"title": "Update default version to 8.0",
+			"author": "stebogit",
+			"labels": [],
+			"createdAt": "2024-03-29T06:37:46Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/mysql/issues/48"
+		},
+		{
+			"title": "Better Healthcheck Testing/Blank dbname/user Testing",
+			"author": "reynoldsalec",
+			"labels": [],
+			"createdAt": "2024-03-11T22:12:05Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/mysql/issues/45"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:52Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/89"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:08Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/87"
+		},
+		{
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:10:55Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/86"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:27:38Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/85"
+		},
+		{
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-21T23:19:46Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/84"
+		},
+		{
+			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
+			"author": "dependabot",
+			"createdAt": "2025-12-02T04:10:51Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/83"
+		},
+		{
+			"title": "Bump vite from 5.4.20 to 5.4.21",
+			"author": "dependabot",
+			"createdAt": "2025-10-21T08:05:57Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/82"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.6.0",
+			"publishedAt": "2025-08-31T14:00:11Z",
+			"url": "https://github.com/lando/mysql/releases/tag/v1.6.0"
+		},
+		{
+			"tagName": "v1.5.0",
+			"publishedAt": "2025-01-06T21:21:49Z",
+			"url": "https://github.com/lando/mysql/releases/tag/v1.5.0"
+		},
+		{
+			"tagName": "v1.4.4",
+			"publishedAt": "2024-12-07T15:16:49Z",
+			"url": "https://github.com/lando/mysql/releases/tag/v1.4.4"
+		},
+		{
+			"tagName": "v1.4.3",
+			"publishedAt": "2024-12-06T19:41:31Z",
+			"url": "https://github.com/lando/mysql/releases/tag/v1.4.3"
+		},
+		{
+			"tagName": "v1.4.2",
+			"publishedAt": "2024-12-04T22:58:59Z",
+			"url": "https://github.com/lando/mysql/releases/tag/v1.4.2"
+		}
+	]
+}

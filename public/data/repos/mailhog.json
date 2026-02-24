@@ -1,0 +1,135 @@
+{
+	"name": "lando/mailhog",
+	"description": "The Official MailHog Lando Plugin",
+	"language": "JavaScript",
+	"issues": [
+		{
+			"title": "cURL not universally available",
+			"author": "pirog",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2024-04-02T13:13:46Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/mailhog/issues/35"
+		},
+		{
+			"title": "switch to mailpit which supports testing CC and is maintained",
+			"author": "chrillep",
+			"labels": [],
+			"createdAt": "2024-02-06T19:01:40Z",
+			"commentCount": 9,
+			"url": "https://github.com/lando/mailhog/issues/31"
+		},
+		{
+			"title": "Mailhog SSL support",
+			"author": "MichelJonkman",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2024-02-05T12:53:34Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/mailhog/issues/30"
+		},
+		{
+			"title": "Mailhog and ARM64 support",
+			"author": "almunnings",
+			"labels": [],
+			"createdAt": "2023-10-07T10:51:30Z",
+			"commentCount": 4,
+			"url": "https://github.com/lando/mailhog/issues/22"
+		}
+	],
+	"pullRequests": [
+		{
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:56Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/54"
+		},
+		{
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:31:10Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/51"
+		},
+		{
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:34:07Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/50"
+		},
+		{
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-21T23:29:50Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/49"
+		},
+		{
+			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
+			"author": "dependabot",
+			"createdAt": "2025-12-02T03:43:17Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/48"
+		},
+		{
+			"title": "Bump vite from 5.4.8 to 5.4.21",
+			"author": "dependabot",
+			"createdAt": "2025-10-21T05:13:13Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/47"
+		},
+		{
+			"title": "Bump form-data from 4.0.1 to 4.0.4",
+			"author": "dependabot",
+			"createdAt": "2025-09-11T14:24:43Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/45"
+		},
+		{
+			"title": "Bump axios from 1.7.7 to 1.11.0",
+			"author": "dependabot",
+			"createdAt": "2025-09-11T14:24:41Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/44"
+		},
+		{
+			"title": "35 curl me",
+			"author": "pirog",
+			"createdAt": "2024-04-02T13:26:31Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/36"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.2.3",
+			"publishedAt": "2024-12-06T19:41:02Z",
+			"url": "https://github.com/lando/mailhog/releases/tag/v1.2.3"
+		},
+		{
+			"tagName": "v1.2.2",
+			"publishedAt": "2024-12-04T22:58:32Z",
+			"url": "https://github.com/lando/mailhog/releases/tag/v1.2.2"
+		},
+		{
+			"tagName": "v1.2.1",
+			"publishedAt": "2024-11-04T21:02:48Z",
+			"url": "https://github.com/lando/mailhog/releases/tag/v1.2.1"
+		},
+		{
+			"tagName": "v1.2.0",
+			"publishedAt": "2024-10-25T19:57:52Z",
+			"url": "https://github.com/lando/mailhog/releases/tag/v1.2.0"
+		},
+		{
+			"tagName": "v1.1.0",
+			"publishedAt": "2024-03-11T17:55:53Z",
+			"url": "https://github.com/lando/mailhog/releases/tag/v1.1.0"
+		}
+	]
+}
