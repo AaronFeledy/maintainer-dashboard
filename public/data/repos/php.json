@@ -4,6 +4,16 @@
 	"language": "Dockerfile",
 	"issues": [
 		{
+			"title": "Running mysqldump on mariadb (11.4/11.8) gives Warning for unknown option '--loose-skip-column-statistics'",
+			"author": "yorkshire-pudding",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-02-24T10:12:15Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/php/issues/237"
+		},
+		{
 			"title": "1.10.0+ breaks corporate proxy solution",
 			"author": "jacobsaw",
 			"labels": [

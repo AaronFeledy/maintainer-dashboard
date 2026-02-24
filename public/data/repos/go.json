@@ -1,0 +1,42 @@
+{
+	"name": "lando/go",
+	"description": "The Official Go Lando plugin.",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
+			"author": "dependabot",
+			"createdAt": "2026-02-24T10:14:10Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/go/pull/78"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2026-02-23T17:48:12Z",
+			"url": "https://github.com/lando/go/releases/tag/v1.4.0"
+		},
+		{
+			"tagName": "v1.3.0",
+			"publishedAt": "2025-06-29T18:59:17Z",
+			"url": "https://github.com/lando/go/releases/tag/v1.3.0"
+		},
+		{
+			"tagName": "v1.2.3",
+			"publishedAt": "2024-12-06T19:40:34Z",
+			"url": "https://github.com/lando/go/releases/tag/v1.2.3"
+		},
+		{
+			"tagName": "v1.2.2",
+			"publishedAt": "2024-12-04T22:58:04Z",
+			"url": "https://github.com/lando/go/releases/tag/v1.2.2"
+		},
+		{
+			"tagName": "v1.2.1",
+			"publishedAt": "2024-11-04T21:02:17Z",
+			"url": "https://github.com/lando/go/releases/tag/v1.2.1"
+		}
+	]
+}
