@@ -60,6 +60,11 @@
 	],
 	"releases": [
 		{
+			"tagName": "v1.8.1",
+			"publishedAt": "2026-02-24T04:45:09Z",
+			"url": "https://github.com/lando/acquia/releases/tag/v1.8.1"
+		},
+		{
 			"tagName": "v1.8.0",
 			"publishedAt": "2026-02-22T20:12:36Z",
 			"url": "https://github.com/lando/acquia/releases/tag/v1.8.0"
@@ -78,11 +83,6 @@
 			"tagName": "v1.6.2",
 			"publishedAt": "2025-05-08T05:42:34Z",
 			"url": "https://github.com/lando/acquia/releases/tag/v1.6.2"
-		},
-		{
-			"tagName": "v1.6.1",
-			"publishedAt": "2024-12-11T12:45:12Z",
-			"url": "https://github.com/lando/acquia/releases/tag/v1.6.1"
 		}
 	]
 }

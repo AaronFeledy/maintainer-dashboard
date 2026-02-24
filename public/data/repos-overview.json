@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-24T04:37:39.973Z",
+		"fetchedAt": "2026-02-24T06:23:26.771Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -645,11 +645,11 @@
 			"description": "The Official WordPress Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 10,
-			"openPRs": 3,
+			"openPRs": 2,
 			"lastRelease": "2026-02-22T17:30:32Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-02-23T12:46:09Z",
-			"attentionScore": 28.5,
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-02-24T06:09:40Z",
+			"attentionScore": 26.5,
 			"unengagedCount": 4
 		},
 		{
@@ -682,10 +682,10 @@
 			"language": "JavaScript",
 			"openIssues": 4,
 			"openPRs": 2,
-			"lastRelease": "2026-02-22T20:12:36Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-24T04:10:59Z",
-			"attentionScore": 20.5,
+			"lastRelease": "2026-02-24T04:45:09Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-02-24T04:45:39Z",
+			"attentionScore": 20,
 			"unengagedCount": 4
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-02-24T03:48:16Z",
-			"attentionScore": 2,
+			"attentionScore": 2.5,
 			"unengagedCount": 0
 		},
 		{

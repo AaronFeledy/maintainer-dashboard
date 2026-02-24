@@ -113,13 +113,6 @@
 			"url": "https://github.com/lando/wordpress/pull/132"
 		},
 		{
-			"title": "Update index.md to tell php 8.5 is supported",
-			"author": "miikkamakela-into",
-			"createdAt": "2026-02-23T08:25:36Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/wordpress/pull/131"
-		},
-		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:54:38Z",
