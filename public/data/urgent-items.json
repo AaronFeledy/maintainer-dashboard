@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-23T21:48:12.680Z",
+		"fetchedAt": "2026-02-24T03:01:41.084Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3584,6 +3584,60 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:31:18Z",
 			"url": "https://github.com/lando/memcached/pull/53",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/solr",
+			"number": 67,
+			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
+			"author": "dependabot",
+			"createdAt": "2026-02-20T05:03:14Z",
+			"url": "https://github.com/lando/solr/pull/67",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lamp",
+			"number": 100,
+			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
+			"author": "dependabot",
+			"createdAt": "2026-02-20T05:26:24Z",
+			"url": "https://github.com/lando/lamp/pull/100",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lemp",
+			"number": 81,
+			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
+			"author": "dependabot",
+			"createdAt": "2026-02-20T05:42:48Z",
+			"url": "https://github.com/lando/lemp/pull/81",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/website",
+			"number": 73,
+			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.34 to 1.0.0-beta.49",
+			"author": "dependabot",
+			"createdAt": "2026-02-20T07:12:47Z",
+			"url": "https://github.com/lando/website/pull/73",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/php",
+			"number": 232,
+			"title": "fix: prevent composer install script failure on prestissimo check",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-20T16:04:25Z",
+			"url": "https://github.com/lando/php/pull/232",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/php",
+			"number": 233,
+			"title": "Composer home quiet flag",
+			"author": "cursor",
+			"createdAt": "2026-02-20T16:11:23Z",
+			"url": "https://github.com/lando/php/pull/233",
 			"type": "pr"
 		}
 	]

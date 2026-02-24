@@ -4,6 +4,16 @@
 	"language": "Dockerfile",
 	"issues": [
 		{
+			"title": "1.10.0+ breaks corporate proxy solution",
+			"author": "jacobsaw",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-02-24T01:49:13Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/php/issues/236"
+		},
+		{
 			"title": "Setting PHP to version 8.1 with a drupal7/8 recipes makes Drush fail",
 			"author": "f1rf1n",
 			"labels": [
@@ -129,13 +139,6 @@
 		}
 	],
 	"pullRequests": [
-		{
-			"title": "Bump @lando/nginx from 1.5.0 to 1.6.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-23T18:53:26Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/php/pull/235"
-		},
 		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",

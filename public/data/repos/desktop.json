@@ -300,11 +300,5 @@
 			"url": "https://github.com/lando/desktop/pull/63"
 		}
 	],
-	"releases": [
-		{
-			"tagName": "v0.0.10",
-			"publishedAt": null,
-			"url": "https://github.com/lando/desktop/releases/tag/untagged-81fe598b1295505c1a01"
-		}
-	]
+	"releases": []
 }

@@ -127,11 +127,6 @@
 	],
 	"releases": [
 		{
-			"tagName": "v1.5.0",
-			"publishedAt": null,
-			"url": "https://github.com/lando/solr/releases/tag/untagged-f1aaab4c7415ee66bbc1"
-		},
-		{
 			"tagName": "v1.4.1",
 			"publishedAt": "2025-12-06T14:15:54Z",
 			"url": "https://github.com/lando/solr/releases/tag/v1.4.1"
@@ -150,6 +145,11 @@
 			"tagName": "v1.3.2",
 			"publishedAt": "2024-12-04T22:59:49Z",
 			"url": "https://github.com/lando/solr/releases/tag/v1.3.2"
+		},
+		{
+			"tagName": "v1.3.1",
+			"publishedAt": "2024-11-04T21:04:19Z",
+			"url": "https://github.com/lando/solr/releases/tag/v1.3.1"
 		}
 	]
 }
