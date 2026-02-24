@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-24T20:11:02.010Z",
+		"fetchedAt": "2026-02-24T22:09:27.312Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2025-07-23T20:47:11Z",
-			"attentionScore": 787,
+			"attentionScore": 787.5,
 			"unengagedCount": 3
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-02-22T20:55:40Z",
-			"attentionScore": 468,
+			"attentionScore": 468.5,
 			"unengagedCount": 43
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 317.5,
+			"attentionScore": 318,
 			"unengagedCount": 5
 		},
 		{
@@ -105,11 +105,11 @@
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
 			"openIssues": 54,
-			"openPRs": 30,
+			"openPRs": 29,
 			"lastRelease": "2025-12-17T13:41:05Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-24T16:53:51Z",
-			"attentionScore": 310.5,
+			"commitsSinceRelease": 4,
+			"lastPush": "2026-02-24T22:05:57Z",
+			"attentionScore": 308.5,
 			"unengagedCount": 54
 		},
 		{
@@ -144,7 +144,7 @@
 			"openPRs": 3,
 			"lastRelease": "2025-12-17T13:47:32Z",
 			"commitsSinceRelease": 2,
-			"lastPush": "2026-02-19T22:18:55Z",
+			"lastPush": "2026-02-24T21:10:02Z",
 			"attentionScore": 283.5,
 			"unengagedCount": 24
 		},
@@ -385,7 +385,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-02-19T22:19:25Z",
-			"attentionScore": 129,
+			"attentionScore": 129.5,
 			"unengagedCount": 7
 		},
 		{
@@ -469,7 +469,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-23T08:46:23Z",
-			"attentionScore": 115.5,
+			"attentionScore": 116,
 			"unengagedCount": 6
 		},
 		{
@@ -632,12 +632,12 @@
 			"name": "lando/php",
 			"description": "The Official Lando PHP plugin.",
 			"language": "Dockerfile",
-			"openIssues": 13,
-			"openPRs": 6,
+			"openIssues": 12,
+			"openPRs": 4,
 			"lastRelease": "2026-02-20T03:50:35Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-24T18:14:26Z",
-			"attentionScore": 42,
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-02-24T22:02:58Z",
+			"attentionScore": 37,
 			"unengagedCount": 5
 		},
 		{
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-02-22T20:24:02Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-02-22T21:03:50Z",
-			"attentionScore": 12.5,
+			"attentionScore": 13,
 			"unengagedCount": 1
 		},
 		{

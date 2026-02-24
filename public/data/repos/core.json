@@ -469,13 +469,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "docs: add workaround for PHP plugin tool install order with corporate certs",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-24T16:53:58Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/437"
-		},
-		{
 			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-02-22T10:46:28Z",

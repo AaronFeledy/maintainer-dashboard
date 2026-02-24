@@ -4,16 +4,6 @@
 	"language": "Dockerfile",
 	"issues": [
 		{
-			"title": "1.10.0+ breaks corporate proxy solution",
-			"author": "jacobsaw",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2026-02-24T01:49:13Z",
-			"commentCount": 3,
-			"url": "https://github.com/lando/php/issues/236"
-		},
-		{
 			"title": "Setting PHP to version 8.1 with a drupal7/8 recipes makes Drush fail",
 			"author": "f1rf1n",
 			"labels": [
@@ -139,20 +129,6 @@
 		}
 	],
 	"pullRequests": [
-		{
-			"title": "fix: default to latest stable composer when no version specified",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-24T18:14:33Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/php/pull/239"
-		},
-		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:16Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/php/pull/234"
-		},
 		{
 			"title": "Composer home quiet flag",
 			"author": "cursor",
