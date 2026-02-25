@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-25T20:11:30.348Z",
+		"fetchedAt": "2026-02-25T22:08:21.887Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2025-07-23T20:47:11Z",
-			"attentionScore": 787.5,
+			"attentionScore": 788,
 			"unengagedCount": 3
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-02-22T20:55:40Z",
-			"attentionScore": 468.5,
+			"attentionScore": 469,
 			"unengagedCount": 43
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 318,
+			"attentionScore": 318.5,
 			"unengagedCount": 5
 		},
 		{
@@ -409,7 +409,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-02-19T22:19:25Z",
-			"attentionScore": 125.5,
+			"attentionScore": 126,
 			"unengagedCount": 6
 		},
 		{
@@ -469,7 +469,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-23T08:46:23Z",
-			"attentionScore": 116,
+			"attentionScore": 116.5,
 			"unengagedCount": 6
 		},
 		{
@@ -585,11 +585,11 @@
 			"description": "The Official Lando Pantheon plugin.",
 			"language": "JavaScript",
 			"openIssues": 18,
-			"openPRs": 1,
+			"openPRs": 2,
 			"lastRelease": "2026-02-22T04:34:05Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-02-22T20:54:43Z",
-			"attentionScore": 48.5,
+			"lastPush": "2026-02-25T21:52:59Z",
+			"attentionScore": 50.5,
 			"unengagedCount": 9
 		},
 		{
