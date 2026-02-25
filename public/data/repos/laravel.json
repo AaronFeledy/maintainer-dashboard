@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Could not read ./composer.json",
+			"author": "vaggelis-net",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-02-25T14:27:53Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/laravel/issues/105"
+		},
+		{
 			"title": "Lando scanners scans .lndo.site urls which are not in config",
 			"author": "eldair",
 			"labels": [
