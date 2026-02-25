@@ -4,16 +4,6 @@
 	"language": "Dockerfile",
 	"issues": [
 		{
-			"title": "Setting PHP to version 8.1 with a drupal7/8 recipes makes Drush fail",
-			"author": "f1rf1n",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2024-12-13T19:44:23Z",
-			"commentCount": 2,
-			"url": "https://github.com/lando/php/issues/152"
-		},
-		{
 			"title": "Update default version to 8.3",
 			"author": "stebogit",
 			"labels": [
@@ -130,27 +120,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: remove legacy prestissimo cleanup causing composer crash",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-25T06:31:53Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/php/pull/240"
-		},
-		{
-			"title": "Composer home quiet flag",
-			"author": "cursor",
-			"createdAt": "2026-02-20T16:11:23Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/php/pull/233"
-		},
-		{
-			"title": "fix: prevent composer install script failure on prestissimo check",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-20T16:04:25Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/php/pull/232"
-		},
-		{
 			"title": "lando/lando#2718: Explicitly set client_port to 9003.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-10-21T18:15:22Z",
@@ -166,6 +135,11 @@
 		}
 	],
 	"releases": [
+		{
+			"tagName": "v1.11.2",
+			"publishedAt": "2026-02-25T17:50:33Z",
+			"url": "https://github.com/lando/php/releases/tag/v1.11.2"
+		},
 		{
 			"tagName": "v1.11.1",
 			"publishedAt": "2026-02-20T03:50:35Z",
@@ -185,11 +159,6 @@
 			"tagName": "v1.9.0",
 			"publishedAt": "2025-12-05T20:12:27Z",
 			"url": "https://github.com/lando/php/releases/tag/v1.9.0"
-		},
-		{
-			"tagName": "v1.8.0",
-			"publishedAt": "2025-09-02T15:45:43Z",
-			"url": "https://github.com/lando/php/releases/tag/v1.8.0"
 		}
 	]
 }
