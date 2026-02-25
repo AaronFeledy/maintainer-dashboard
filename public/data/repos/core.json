@@ -469,6 +469,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump minimatch from 5.1.6 to 5.1.8 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-25T00:28:01Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/438"
+		},
+		{
 			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-02-22T10:46:28Z",

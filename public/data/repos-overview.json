@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-25T00:25:14.819Z",
+		"fetchedAt": "2026-02-25T03:02:13.303Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -105,11 +105,11 @@
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
 			"openIssues": 54,
-			"openPRs": 29,
+			"openPRs": 30,
 			"lastRelease": "2025-12-17T13:41:05Z",
 			"commitsSinceRelease": 4,
-			"lastPush": "2026-02-24T22:05:57Z",
-			"attentionScore": 308.5,
+			"lastPush": "2026-02-25T00:28:00Z",
+			"attentionScore": 310.5,
 			"unengagedCount": 54
 		},
 		{
@@ -169,7 +169,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-02-22T20:56:38Z",
-			"attentionScore": 267,
+			"attentionScore": 267.5,
 			"unengagedCount": 7
 		},
 		{
@@ -401,6 +401,18 @@
 			"unengagedCount": 8
 		},
 		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 19,
+			"openPRs": 13,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-02-25T01:03:28Z",
+			"attentionScore": 125.5,
+			"unengagedCount": 14
+		},
+		{
 			"name": "lando/apache",
 			"description": "The Official Apache Lando Plugin",
 			"language": "JavaScript",
@@ -423,18 +435,6 @@
 			"lastPush": "2026-02-22T20:56:01Z",
 			"attentionScore": 121.5,
 			"unengagedCount": 7
-		},
-		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 19,
-			"openPRs": 11,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-02-22T11:44:44Z",
-			"attentionScore": 121.5,
-			"unengagedCount": 14
 		},
 		{
 			"name": "lando/mongo",
@@ -541,7 +541,7 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-02-22T20:57:05Z",
-			"attentionScore": 87,
+			"attentionScore": 87.5,
 			"unengagedCount": 9
 		},
 		{
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-02-22T20:57:26Z",
-			"attentionScore": 23,
+			"attentionScore": 23.5,
 			"unengagedCount": 1
 		},
 		{
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-23T00:37:45Z",
-			"attentionScore": 0.5,
+			"attentionScore": 1,
 			"unengagedCount": 0
 		}
 	]
