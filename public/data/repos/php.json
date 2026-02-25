@@ -130,6 +130,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: remove legacy prestissimo cleanup causing composer crash",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-25T06:31:53Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/240"
+		},
+		{
 			"title": "Composer home quiet flag",
 			"author": "cursor",
 			"createdAt": "2026-02-20T16:11:23Z",

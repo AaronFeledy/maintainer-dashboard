@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-25T06:25:39.390Z",
+		"fetchedAt": "2026-02-25T08:15:31.601Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -181,8 +181,8 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-02-22T20:55:45Z",
-			"attentionScore": 265.5,
-			"unengagedCount": 9
+			"attentionScore": 262.5,
+			"unengagedCount": 8
 		},
 		{
 			"name": "lando/vitepress-theme-default-plus",
@@ -633,11 +633,11 @@
 			"description": "The Official Lando PHP plugin.",
 			"language": "Dockerfile",
 			"openIssues": 12,
-			"openPRs": 4,
+			"openPRs": 5,
 			"lastRelease": "2026-02-20T03:50:35Z",
 			"commitsSinceRelease": 5,
-			"lastPush": "2026-02-24T22:02:58Z",
-			"attentionScore": 37.5,
+			"lastPush": "2026-02-25T07:10:00Z",
+			"attentionScore": 39.5,
 			"unengagedCount": 5
 		},
 		{
