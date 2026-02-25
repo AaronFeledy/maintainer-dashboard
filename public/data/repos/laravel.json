@@ -57,22 +57,7 @@
 			"url": "https://github.com/lando/laravel/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Npm dist-tag error handling",
-			"author": "cursor",
-			"createdAt": "2026-02-22T21:04:13Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/laravel/pull/104"
-		},
-		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:54:27Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/laravel/pull/103"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.12.1",

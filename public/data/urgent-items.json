@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-25T04:38:47.347Z",
+		"fetchedAt": "2026-02-25T06:25:39.390Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1101,6 +1101,15 @@
 			"createdAt": "2023-10-12T18:11:47Z",
 			"url": "https://github.com/lando/lagoon/pull/57",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/python",
+			"number": 27,
+			"title": "Unable to get Django up and running",
+			"author": "BWBama85",
+			"createdAt": "2023-10-14T08:31:48Z",
+			"url": "https://github.com/lando/python/issues/27",
+			"type": "issue"
 		},
 		{
 			"repo": "lando/python",
@@ -2291,12 +2300,12 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/setup-lando",
-			"number": 103,
+			"repo": "lando/core",
+			"number": 439,
 			"title": "TypeError: Cannot read properties of undefined (reading 'pluginDirs')",
 			"author": "miiimooo",
 			"createdAt": "2025-10-13T11:43:39Z",
-			"url": "https://github.com/lando/setup-lando/issues/103",
+			"url": "https://github.com/lando/core/issues/439",
 			"type": "issue"
 		},
 		{
@@ -3281,15 +3290,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/solr",
-			"number": 64,
-			"title": "Bump actions/add-to-project from 1.0.0 to 1.0.2 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:05Z",
-			"url": "https://github.com/lando/solr/pull/64",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/blog",
 			"number": 57,
 			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.44 to 1.0.0-beta.49",
@@ -3407,15 +3407,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/elasticsearch",
-			"number": 46,
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:57Z",
-			"url": "https://github.com/lando/elasticsearch/pull/46",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/dotnet",
 			"number": 63,
 			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
@@ -3431,15 +3422,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:12:00Z",
 			"url": "https://github.com/lando/leia/pull/52",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/elasticsearch",
-			"number": 47,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:02Z",
-			"url": "https://github.com/lando/elasticsearch/pull/47",
 			"type": "pr"
 		},
 		{

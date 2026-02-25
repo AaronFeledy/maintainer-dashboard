@@ -190,6 +190,20 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: add --load to buildx to ensure images are available locally",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-25T05:00:48Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/133"
+		},
+		{
+			"title": "fix: handle empty YAML config files gracefully",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-25T04:56:48Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/132"
+		},
+		{
 			"title": "Bump minimatch from 5.1.6 to 5.1.8 in /examples/entrypoint",
 			"author": "dependabot",
 			"createdAt": "2026-02-25T01:03:28Z",

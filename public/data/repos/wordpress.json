@@ -104,22 +104,7 @@
 			"url": "https://github.com/lando/wordpress/issues/38"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump @lando/nginx from 1.5.0 to 1.6.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-23T12:46:10Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/wordpress/pull/132"
-		},
-		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:54:38Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/wordpress/pull/130"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.10.1",

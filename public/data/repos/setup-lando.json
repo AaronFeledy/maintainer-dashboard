@@ -14,16 +14,6 @@
 			"url": "https://github.com/lando/setup-lando/issues/106"
 		},
 		{
-			"title": "TypeError: Cannot read properties of undefined (reading 'pluginDirs')",
-			"author": "miiimooo",
-			"labels": [
-				"Needs Triage"
-			],
-			"createdAt": "2025-10-13T11:43:39Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/setup-lando/issues/103"
-		},
-		{
 			"title": "Lando Install fails on Linux Mint 22.04",
 			"author": "FullStackHoward",
 			"labels": [],
