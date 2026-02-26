@@ -44,6 +44,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump @lando/php from 1.11.1 to 1.11.2",
+			"author": "dependabot",
+			"createdAt": "2026-02-26T15:32:16Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/acquia/pull/162"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:54:33Z",

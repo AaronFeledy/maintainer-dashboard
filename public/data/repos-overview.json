@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-26T14:21:47.398Z",
+		"fetchedAt": "2026-02-26T16:20:08.282Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 662.5,
+			"attentionScore": 663,
 			"unengagedCount": 10
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 372.5,
+			"attentionScore": 373,
 			"unengagedCount": 5
 		},
 		{
@@ -349,7 +349,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 139.5,
+			"attentionScore": 140,
 			"unengagedCount": 2
 		},
 		{
@@ -377,6 +377,18 @@
 			"unengagedCount": 8
 		},
 		{
+			"name": "lando/mariadb",
+			"description": "The Official MariaDB Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 9,
+			"openPRs": 5,
+			"lastRelease": "2025-09-08T15:30:51Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-02-22T20:56:23Z",
+			"attentionScore": 131.5,
+			"unengagedCount": 9
+		},
+		{
 			"name": "lando/blog",
 			"description": "Lando's Blog Subsite",
 			"language": "Vue",
@@ -386,18 +398,6 @@
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-02-23T08:38:41Z",
 			"attentionScore": 131.5,
-			"unengagedCount": 9
-		},
-		{
-			"name": "lando/mariadb",
-			"description": "The Official MariaDB Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 9,
-			"openPRs": 5,
-			"lastRelease": "2025-09-08T15:30:51Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-02-22T20:56:23Z",
-			"attentionScore": 131,
 			"unengagedCount": 9
 		},
 		{
@@ -413,6 +413,18 @@
 			"unengagedCount": 6
 		},
 		{
+			"name": "lando/postgres",
+			"description": "The Official Postgres Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 2,
+			"openPRs": 7,
+			"lastRelease": "2025-09-08T15:41:04Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-02-22T20:56:01Z",
+			"attentionScore": 125.5,
+			"unengagedCount": 8
+		},
+		{
 			"name": "lando/apache",
 			"description": "The Official Apache Lando Plugin",
 			"language": "JavaScript",
@@ -425,18 +437,6 @@
 			"unengagedCount": 7
 		},
 		{
-			"name": "lando/postgres",
-			"description": "The Official Postgres Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 2,
-			"openPRs": 7,
-			"lastRelease": "2025-09-08T15:41:04Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-02-22T20:56:01Z",
-			"attentionScore": 125,
-			"unengagedCount": 8
-		},
-		{
 			"name": "lando/mongo",
 			"description": "The Official MongoDB Lando Plugin",
 			"language": "JavaScript",
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-02-22T20:56:28Z",
-			"attentionScore": 123.5,
+			"attentionScore": 124,
 			"unengagedCount": 7
 		},
 		{
@@ -617,6 +617,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/acquia",
+			"description": "The Official Acquia Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 4,
+			"openPRs": 3,
+			"lastRelease": "2026-02-24T04:45:09Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-02-26T15:32:15Z",
+			"attentionScore": 26,
+			"unengagedCount": 5
+		},
+		{
 			"name": "lando/wordpress",
 			"description": "The Official WordPress Lando Plugin",
 			"language": "JavaScript",
@@ -639,18 +651,6 @@
 			"lastPush": "2026-02-25T17:51:11Z",
 			"attentionScore": 24,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/acquia",
-			"description": "The Official Acquia Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 4,
-			"openPRs": 2,
-			"lastRelease": "2026-02-24T04:45:09Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-02-24T04:45:39Z",
-			"attentionScore": 24,
-			"unengagedCount": 5
 		},
 		{
 			"name": "lando/nginx",
