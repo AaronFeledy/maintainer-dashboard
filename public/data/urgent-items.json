@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-26T04:36:33.388Z",
+		"fetchedAt": "2026-02-26T06:22:36.080Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3155,15 +3155,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/lemp",
-			"number": 78,
-			"title": "chore: update @lando/php to ^1.11.0",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-19T17:14:19Z",
-			"url": "https://github.com/lando/lemp/pull/78",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lamp",
 			"number": 96,
 			"title": "chore: update @lando/php to ^1.11.0",
@@ -3560,33 +3551,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/solr",
-			"number": 67,
-			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
-			"author": "dependabot",
-			"createdAt": "2026-02-20T05:03:14Z",
-			"url": "https://github.com/lando/solr/pull/67",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lamp",
-			"number": 100,
-			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
-			"author": "dependabot",
-			"createdAt": "2026-02-20T05:26:24Z",
-			"url": "https://github.com/lando/lamp/pull/100",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lemp",
-			"number": 81,
-			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
-			"author": "dependabot",
-			"createdAt": "2026-02-20T05:42:48Z",
-			"url": "https://github.com/lando/lemp/pull/81",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/website",
 			"number": 73,
 			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.34 to 1.0.0-beta.49",
@@ -3683,42 +3647,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:11Z",
 			"url": "https://github.com/lando/joomla/pull/72",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/redis",
-			"number": 58,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:21Z",
-			"url": "https://github.com/lando/redis/pull/58",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lemp",
-			"number": 82,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:26Z",
-			"url": "https://github.com/lando/lemp/pull/82",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lamp",
-			"number": 101,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:31Z",
-			"url": "https://github.com/lando/lamp/pull/101",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/solr",
-			"number": 68,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:36Z",
-			"url": "https://github.com/lando/solr/pull/68",
 			"type": "pr"
 		},
 		{

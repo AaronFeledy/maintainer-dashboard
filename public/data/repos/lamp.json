@@ -32,20 +32,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:31Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lamp/pull/101"
-		},
-		{
-			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
-			"author": "dependabot",
-			"createdAt": "2026-02-20T05:26:24Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lamp/pull/100"
-		},
-		{
 			"title": "chore: update @lando/php to ^1.11.0",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-19T17:14:21Z",
@@ -61,6 +47,11 @@
 		}
 	],
 	"releases": [
+		{
+			"tagName": "v1.10.0",
+			"publishedAt": "2026-02-26T05:47:10Z",
+			"url": "https://github.com/lando/lamp/releases/tag/v1.10.0"
+		},
 		{
 			"tagName": "v1.9.0",
 			"publishedAt": "2025-09-02T19:14:33Z",
@@ -80,11 +71,6 @@
 			"tagName": "v1.7.3",
 			"publishedAt": "2024-12-06T19:40:48Z",
 			"url": "https://github.com/lando/lamp/releases/tag/v1.7.3"
-		},
-		{
-			"tagName": "v1.7.2",
-			"publishedAt": "2024-12-04T22:58:18Z",
-			"url": "https://github.com/lando/lamp/releases/tag/v1.7.2"
 		}
 	]
 }

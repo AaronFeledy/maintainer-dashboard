@@ -53,30 +53,13 @@
 			"url": "https://github.com/lando/lemp/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:26Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lemp/pull/82"
-		},
-		{
-			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
-			"author": "dependabot",
-			"createdAt": "2026-02-20T05:42:48Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lemp/pull/81"
-		},
-		{
-			"title": "chore: update @lando/php to ^1.11.0",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-19T17:14:19Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lemp/pull/78"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
+		{
+			"tagName": "v1.10.0",
+			"publishedAt": "2026-02-26T05:56:44Z",
+			"url": "https://github.com/lando/lemp/releases/tag/v1.10.0"
+		},
 		{
 			"tagName": "v1.9.1",
 			"publishedAt": "2025-09-03T14:47:30Z",
@@ -96,11 +79,6 @@
 			"tagName": "v1.7.3",
 			"publishedAt": "2024-12-06T19:40:58Z",
 			"url": "https://github.com/lando/lemp/releases/tag/v1.7.3"
-		},
-		{
-			"tagName": "v1.7.2",
-			"publishedAt": "2024-12-04T22:58:27Z",
-			"url": "https://github.com/lando/lemp/releases/tag/v1.7.2"
 		}
 	]
 }

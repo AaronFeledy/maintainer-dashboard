@@ -90,20 +90,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:36Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/solr/pull/68"
-		},
-		{
-			"title": "Bump @lando/php from 1.10.0 to 1.11.1",
-			"author": "dependabot",
-			"createdAt": "2026-02-20T05:03:14Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/solr/pull/67"
-		},
-		{
 			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:04Z",
