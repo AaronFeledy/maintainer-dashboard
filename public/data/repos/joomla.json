@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump @lando/php from 1.11.1 to 1.11.2",
+			"author": "dependabot",
+			"createdAt": "2026-02-26T11:03:27Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/joomla/pull/73"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:11Z",

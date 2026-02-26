@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-26T10:17:57.336Z",
+		"fetchedAt": "2026-02-26T12:15:15.160Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -617,6 +617,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/wordpress",
+			"description": "The Official WordPress Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 10,
+			"openPRs": 1,
+			"lastRelease": "2026-02-22T17:30:32Z",
+			"commitsSinceRelease": 4,
+			"lastPush": "2026-02-26T12:03:28Z",
+			"attentionScore": 25.5,
+			"unengagedCount": 4
+		},
+		{
 			"name": "lando/php",
 			"description": "The Official Lando PHP plugin.",
 			"language": "Dockerfile",
@@ -651,18 +663,6 @@
 			"lastPush": "2026-02-23T04:24:51Z",
 			"attentionScore": 23.5,
 			"unengagedCount": 5
-		},
-		{
-			"name": "lando/wordpress",
-			"description": "The Official WordPress Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 10,
-			"openPRs": 0,
-			"lastRelease": "2026-02-22T17:30:32Z",
-			"commitsSinceRelease": 4,
-			"lastPush": "2026-02-25T05:44:01Z",
-			"attentionScore": 23.5,
-			"unengagedCount": 4
 		},
 		{
 			"name": "lando/lamp",
@@ -701,6 +701,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/joomla",
+			"description": "The Official Joomla Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 3,
+			"lastRelease": "2026-02-20T16:27:34Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-02-26T11:03:26Z",
+			"attentionScore": 14.5,
+			"unengagedCount": 2
+		},
+		{
 			"name": "lando/lemp",
 			"description": "The Official LEMP Lando Plugin",
 			"language": "JavaScript",
@@ -713,27 +725,15 @@
 			"unengagedCount": 3
 		},
 		{
-			"name": "lando/joomla",
-			"description": "The Official Joomla Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 2,
-			"lastRelease": "2026-02-20T16:27:34Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-02-22T20:55:09Z",
-			"attentionScore": 12.5,
-			"unengagedCount": 2
-		},
-		{
 			"name": "lando/laravel",
 			"description": "The Official Laravel Lando Plugin",
 			"language": "JavaScript",
-			"openIssues": 6,
+			"openIssues": 5,
 			"openPRs": 0,
 			"lastRelease": "2026-02-25T18:35:17Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-25T18:35:58Z",
-			"attentionScore": 9,
+			"attentionScore": 8,
 			"unengagedCount": 1
 		},
 		{

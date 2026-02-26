@@ -104,7 +104,15 @@
 			"url": "https://github.com/lando/wordpress/issues/38"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump @lando/php from 1.11.1 to 1.11.2",
+			"author": "dependabot",
+			"createdAt": "2026-02-26T12:03:28Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/wordpress/pull/133"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.10.1",
