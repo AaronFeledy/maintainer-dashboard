@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "build(deps): bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-26T04:35:43Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/redis/pull/59"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:21Z",

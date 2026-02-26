@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-26T02:59:51.962Z",
+		"fetchedAt": "2026-02-26T04:36:33.388Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -261,11 +261,11 @@
 			"description": "The Official Redis Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 0,
-			"openPRs": 1,
+			"openPRs": 2,
 			"lastRelease": "2024-12-06T19:42:11Z",
 			"commitsSinceRelease": 31,
-			"lastPush": "2026-02-22T20:55:20Z",
-			"attentionScore": 228,
+			"lastPush": "2026-02-26T04:35:42Z",
+			"attentionScore": 230,
 			"unengagedCount": 1
 		},
 		{
@@ -569,6 +569,18 @@
 			"unengagedCount": 6
 		},
 		{
+			"name": "lando/pantheon",
+			"description": "The Official Lando Pantheon plugin.",
+			"language": "JavaScript",
+			"openIssues": 18,
+			"openPRs": 2,
+			"lastRelease": "2026-02-22T04:34:05Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-02-25T21:52:59Z",
+			"attentionScore": 57,
+			"unengagedCount": 11
+		},
+		{
 			"name": "lando/varnish",
 			"description": "The Official Varnish Lando Plugin",
 			"language": "JavaScript",
@@ -579,18 +591,6 @@
 			"lastPush": "2026-02-22T21:00:54Z",
 			"attentionScore": 56.5,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/pantheon",
-			"description": "The Official Lando Pantheon plugin.",
-			"language": "JavaScript",
-			"openIssues": 18,
-			"openPRs": 2,
-			"lastRelease": "2026-02-22T04:34:05Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-02-25T21:52:59Z",
-			"attentionScore": 56.5,
-			"unengagedCount": 11
 		},
 		{
 			"name": "lando/prepare-release-action",
@@ -653,6 +653,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/nginx",
+			"description": "The Official NGINX Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 7,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T04:24:29Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-02-23T04:24:51Z",
+			"attentionScore": 23.5,
+			"unengagedCount": 5
+		},
+		{
 			"name": "lando/wordpress",
 			"description": "The Official WordPress Lando Plugin",
 			"language": "JavaScript",
@@ -677,18 +689,6 @@
 			"unengagedCount": 5
 		},
 		{
-			"name": "lando/nginx",
-			"description": "The Official NGINX Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 7,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T04:24:29Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-02-23T04:24:51Z",
-			"attentionScore": 23,
-			"unengagedCount": 5
-		},
-		{
 			"name": "lando/drupal",
 			"description": "The Official Drupal Lando plugin",
 			"language": "JavaScript",
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-02-20T04:30:49Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-02-22T20:54:54Z",
-			"attentionScore": 15.5,
+			"attentionScore": 16,
 			"unengagedCount": 2
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-22T20:54:48Z",
-			"attentionScore": 6.5,
+			"attentionScore": 7,
 			"unengagedCount": 1
 		},
 		{
