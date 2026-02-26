@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-26T20:11:32.016Z",
+		"fetchedAt": "2026-02-26T22:09:27.118Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2025-07-23T20:47:11Z",
-			"attentionScore": 788,
+			"attentionScore": 788.5,
 			"unengagedCount": 3
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-02-22T20:55:40Z",
-			"attentionScore": 472,
+			"attentionScore": 472.5,
 			"unengagedCount": 44
 		},
 		{
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 321.5,
+			"attentionScore": 322,
 			"unengagedCount": 6
 		},
 		{
@@ -401,6 +401,18 @@
 			"unengagedCount": 9
 		},
 		{
+			"name": "lando/setup-lando",
+			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
+			"language": "Shell",
+			"openIssues": 15,
+			"openPRs": 2,
+			"lastRelease": "2025-08-31T20:57:45Z",
+			"commitsSinceRelease": 17,
+			"lastPush": "2026-02-19T22:19:25Z",
+			"attentionScore": 126.5,
+			"unengagedCount": 6
+		},
+		{
 			"name": "lando/apache",
 			"description": "The Official Apache Lando Plugin",
 			"language": "JavaScript",
@@ -411,18 +423,6 @@
 			"lastPush": "2026-02-22T20:56:49Z",
 			"attentionScore": 126,
 			"unengagedCount": 7
-		},
-		{
-			"name": "lando/setup-lando",
-			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
-			"language": "Shell",
-			"openIssues": 15,
-			"openPRs": 2,
-			"lastRelease": "2025-08-31T20:57:45Z",
-			"commitsSinceRelease": 17,
-			"lastPush": "2026-02-19T22:19:25Z",
-			"attentionScore": 126,
-			"unengagedCount": 6
 		},
 		{
 			"name": "lando/postgres",
@@ -469,7 +469,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-23T08:46:23Z",
-			"attentionScore": 116.5,
+			"attentionScore": 117,
 			"unengagedCount": 6
 		},
 		{
@@ -677,18 +677,6 @@
 			"unengagedCount": 4
 		},
 		{
-			"name": "lando/drupal",
-			"description": "The Official Drupal Lando plugin",
-			"language": "JavaScript",
-			"openIssues": 5,
-			"openPRs": 1,
-			"lastRelease": "2026-02-20T04:30:49Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-22T20:54:54Z",
-			"attentionScore": 16,
-			"unengagedCount": 2
-		},
-		{
 			"name": "lando/symfony",
 			"description": "The Official Symfony Lando Plugin",
 			"language": "JavaScript",
@@ -723,6 +711,18 @@
 			"lastPush": "2026-02-26T05:57:07Z",
 			"attentionScore": 14,
 			"unengagedCount": 3
+		},
+		{
+			"name": "lando/drupal",
+			"description": "The Official Drupal Lando plugin",
+			"language": "JavaScript",
+			"openIssues": 5,
+			"openPRs": 0,
+			"lastRelease": "2026-02-20T04:30:49Z",
+			"commitsSinceRelease": 4,
+			"lastPush": "2026-02-26T20:56:46Z",
+			"attentionScore": 11,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/laravel",

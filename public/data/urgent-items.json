@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-26T20:11:32.016Z",
+		"fetchedAt": "2026-02-26T22:09:27.118Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3620,15 +3620,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:54:50Z",
 			"url": "https://github.com/lando/backdrop/pull/89",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/drupal",
-			"number": 182,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:54:55Z",
-			"url": "https://github.com/lando/drupal/pull/182",
 			"type": "pr"
 		},
 		{
