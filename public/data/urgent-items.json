@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-25T22:08:21.887Z",
+		"fetchedAt": "2026-02-26T00:21:04.134Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3594,6 +3594,321 @@
 			"createdAt": "2026-02-20T07:12:47Z",
 			"url": "https://github.com/lando/website/pull/73",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 435,
+			"title": "Bump minimatch and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-22T01:31:01Z",
+			"url": "https://github.com/lando/core/pull/435",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 128,
+			"title": "Bump minimatch and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-22T02:14:25Z",
+			"url": "https://github.com/lando/core-next/pull/128",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 436,
+			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-22T10:46:28Z",
+			"url": "https://github.com/lando/core/pull/436",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 129,
+			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-02-22T11:44:44Z",
+			"url": "https://github.com/lando/core-next/pull/129",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/acquia",
+			"number": 159,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:33Z",
+			"url": "https://github.com/lando/acquia/pull/159",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 342,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:44Z",
+			"url": "https://github.com/lando/pantheon/pull/342",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/backdrop",
+			"number": 89,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:50Z",
+			"url": "https://github.com/lando/backdrop/pull/89",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/drupal",
+			"number": 182,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:55Z",
+			"url": "https://github.com/lando/drupal/pull/182",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/symfony",
+			"number": 85,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:05Z",
+			"url": "https://github.com/lando/symfony/pull/85",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/joomla",
+			"number": 72,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:11Z",
+			"url": "https://github.com/lando/joomla/pull/72",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/redis",
+			"number": 58,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:21Z",
+			"url": "https://github.com/lando/redis/pull/58",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lemp",
+			"number": 82,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:26Z",
+			"url": "https://github.com/lando/lemp/pull/82",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lamp",
+			"number": 101,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:31Z",
+			"url": "https://github.com/lando/lamp/pull/101",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/solr",
+			"number": 68,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:36Z",
+			"url": "https://github.com/lando/solr/pull/68",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/platformsh",
+			"number": 220,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:41Z",
+			"url": "https://github.com/lando/platformsh/pull/220",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/python",
+			"number": 62,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:46Z",
+			"url": "https://github.com/lando/python/pull/62",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mysql",
+			"number": 89,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:52Z",
+			"url": "https://github.com/lando/mysql/pull/89",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/memcached",
+			"number": 55,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:57Z",
+			"url": "https://github.com/lando/memcached/pull/55",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/postgres",
+			"number": 71,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:02Z",
+			"url": "https://github.com/lando/postgres/pull/71",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/vitepress-theme-default-plus",
+			"number": 97,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:08Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/97",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mssql",
+			"number": 49,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:14Z",
+			"url": "https://github.com/lando/mssql/pull/49",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/tomcat",
+			"number": 51,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:19Z",
+			"url": "https://github.com/lando/tomcat/pull/51",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mariadb",
+			"number": 95,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:24Z",
+			"url": "https://github.com/lando/mariadb/pull/95",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mongo",
+			"number": 60,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:29Z",
+			"url": "https://github.com/lando/mongo/pull/60",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lagoon",
+			"number": 106,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:39Z",
+			"url": "https://github.com/lando/lagoon/pull/106",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/dotnet",
+			"number": 66,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:44Z",
+			"url": "https://github.com/lando/dotnet/pull/66",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/apache",
+			"number": 58,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:51Z",
+			"url": "https://github.com/lando/apache/pull/58",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mailhog",
+			"number": 54,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:56:56Z",
+			"url": "https://github.com/lando/mailhog/pull/54",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 55,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:57:01Z",
+			"url": "https://github.com/lando/leia/pull/55",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/node",
+			"number": 115,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:57:06Z",
+			"url": "https://github.com/lando/node/pull/115",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mean",
+			"number": 66,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:57:11Z",
+			"url": "https://github.com/lando/mean/pull/66",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/varnish",
+			"number": 65,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:57:22Z",
+			"url": "https://github.com/lando/varnish/pull/65",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/ruby",
+			"number": 68,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:57:27Z",
+			"url": "https://github.com/lando/ruby/pull/68",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/varnish",
+			"number": 66,
+			"title": "Release workflow robustness",
+			"author": "cursor",
+			"createdAt": "2026-02-22T21:01:17Z",
+			"url": "https://github.com/lando/varnish/pull/66",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 343,
+			"title": "Add Tesseract OCR support for PHP Runtime Generation 2 parity",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T21:14:23Z",
+			"url": "https://github.com/lando/pantheon/issues/343",
+			"type": "issue"
 		}
 	]
 }
