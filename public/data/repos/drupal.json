@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Post-scaffold patch fails",
+			"author": "jmcintyresage",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-02-27T19:26:49Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/drupal/issues/183"
+		},
+		{
 			"title": "composer always prints escape codes",
 			"author": "danielcavanagh",
 			"labels": [
