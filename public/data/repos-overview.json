@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-27T00:23:51.285Z",
+		"fetchedAt": "2026-02-27T02:58:51.912Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -169,7 +169,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-02-22T20:56:38Z",
-			"attentionScore": 271,
+			"attentionScore": 271.5,
 			"unengagedCount": 8
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-02-26T06:55:21Z",
-			"attentionScore": 91,
+			"attentionScore": 91.5,
 			"unengagedCount": 10
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-02-22T20:57:26Z",
-			"attentionScore": 27,
+			"attentionScore": 27.5,
 			"unengagedCount": 2
 		},
 		{
@@ -761,18 +761,6 @@
 			"unengagedCount": 0
 		},
 		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-02-25T05:34:54Z",
-			"attentionScore": 1.5,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -781,6 +769,18 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-23T00:37:45Z",
+			"attentionScore": 2,
+			"unengagedCount": 0
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-02-25T05:34:54Z",
 			"attentionScore": 1.5,
 			"unengagedCount": 0
 		}
