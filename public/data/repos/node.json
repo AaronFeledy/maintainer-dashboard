@@ -79,50 +79,7 @@
 			"url": "https://github.com/lando/node/issues/13"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:57:06Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/115"
-		},
-		{
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:07Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/113"
-		},
-		{
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:07Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/112"
-		},
-		{
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:34:28Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/111"
-		},
-		{
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:36:09Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/110"
-		},
-		{
-			"title": "Bump tar from 4.4.8 to 4.4.19 in /examples/12",
-			"author": "dependabot",
-			"createdAt": "2026-01-17T12:49:03Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/109"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.6.0",

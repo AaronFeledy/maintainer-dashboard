@@ -5,13 +5,6 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:44Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/dotnet/pull/66"
-		},
-		{
 			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:12:04Z",

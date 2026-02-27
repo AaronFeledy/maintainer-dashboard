@@ -22,13 +22,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:57:11Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mean/pull/66"
-		},
-		{
 			"title": "Bump actions/cache from 4 to 5",
 			"author": "dependabot",
 			"createdAt": "2025-12-15T22:09:16Z",

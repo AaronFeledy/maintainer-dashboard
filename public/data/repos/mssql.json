@@ -24,13 +24,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:14Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mssql/pull/49"
-		},
-		{
 			"title": "Bump the actions group with 4 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:09Z",

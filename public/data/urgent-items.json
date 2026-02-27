@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-27T04:34:55.764Z",
+		"fetchedAt": "2026-02-27T06:18:56.407Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2669,15 +2669,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/node",
-			"number": 109,
-			"title": "Bump tar from 4.4.8 to 4.4.19 in /examples/12",
-			"author": "dependabot",
-			"createdAt": "2026-01-17T12:49:03Z",
-			"url": "https://github.com/lando/node/pull/109",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3834,
 			"title": "Cannot install lando on Windows 11 25H2 due to powershell Syntax error: \"(\" unexpected (expecting \")\")  FAILED",
@@ -2756,15 +2747,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-01-21T23:32:02Z",
 			"url": "https://github.com/lando/apache/pull/53",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/node",
-			"number": 110,
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:36:09Z",
-			"url": "https://github.com/lando/node/pull/110",
 			"type": "pr"
 		},
 		{
@@ -2891,15 +2873,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-01-22T02:34:20Z",
 			"url": "https://github.com/lando/mongo/pull/56",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/node",
-			"number": 111,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:34:28Z",
-			"url": "https://github.com/lando/node/pull/111",
 			"type": "pr"
 		},
 		{
@@ -3278,24 +3251,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:07Z",
 			"url": "https://github.com/lando/blog/pull/57",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/node",
-			"number": 113,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:07Z",
-			"url": "https://github.com/lando/node/pull/113",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/node",
-			"number": 112,
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:07Z",
-			"url": "https://github.com/lando/node/pull/112",
 			"type": "pr"
 		},
 		{
@@ -3695,129 +3650,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mssql",
-			"number": 49,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:14Z",
-			"url": "https://github.com/lando/mssql/pull/49",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/tomcat",
-			"number": 51,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:19Z",
-			"url": "https://github.com/lando/tomcat/pull/51",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mariadb",
-			"number": 95,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:24Z",
-			"url": "https://github.com/lando/mariadb/pull/95",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mongo",
-			"number": 60,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:29Z",
-			"url": "https://github.com/lando/mongo/pull/60",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lagoon",
-			"number": 106,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:39Z",
-			"url": "https://github.com/lando/lagoon/pull/106",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/dotnet",
-			"number": 66,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:44Z",
-			"url": "https://github.com/lando/dotnet/pull/66",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/apache",
-			"number": 58,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:51Z",
-			"url": "https://github.com/lando/apache/pull/58",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailhog",
-			"number": 54,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:56Z",
-			"url": "https://github.com/lando/mailhog/pull/54",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/leia",
 			"number": 55,
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:57:01Z",
 			"url": "https://github.com/lando/leia/pull/55",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/node",
-			"number": 115,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:57:06Z",
-			"url": "https://github.com/lando/node/pull/115",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mean",
-			"number": 66,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:57:11Z",
-			"url": "https://github.com/lando/mean/pull/66",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/varnish",
-			"number": 65,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:57:22Z",
-			"url": "https://github.com/lando/varnish/pull/65",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/ruby",
-			"number": 68,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:57:27Z",
-			"url": "https://github.com/lando/ruby/pull/68",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/varnish",
-			"number": 66,
-			"title": "Release workflow robustness",
-			"author": "cursor",
-			"createdAt": "2026-02-22T21:01:17Z",
-			"url": "https://github.com/lando/varnish/pull/66",
 			"type": "pr"
 		},
 		{
