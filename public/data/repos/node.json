@@ -4,14 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "Update default version to 20",
-			"author": "stebogit",
-			"labels": [],
-			"createdAt": "2024-03-29T07:36:26Z",
-			"commentCount": 2,
-			"url": "https://github.com/lando/node/issues/79"
-		},
-		{
 			"title": "[Help] Setting up Nextjs project",
 			"author": "Aniket-IN",
 			"labels": [
