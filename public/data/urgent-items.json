@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-26T22:09:27.118Z",
+		"fetchedAt": "2026-02-27T00:23:51.285Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3828,6 +3828,15 @@
 			"createdAt": "2026-02-22T21:14:23Z",
 			"url": "https://github.com/lando/pantheon/issues/343",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/website",
+			"number": 74,
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-23T07:25:55Z",
+			"url": "https://github.com/lando/website/pull/74",
+			"type": "pr"
 		}
 	]
 }
