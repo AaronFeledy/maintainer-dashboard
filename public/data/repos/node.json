@@ -71,7 +71,15 @@
 			"url": "https://github.com/lando/node/issues/13"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "feat: add Node 25 support, update versions and docs",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-27T14:59:14Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/118"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.6.0",
