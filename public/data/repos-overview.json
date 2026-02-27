@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-27T02:58:51.912Z",
+		"fetchedAt": "2026-02-27T04:34:55.764Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -545,6 +545,18 @@
 			"unengagedCount": 4
 		},
 		{
+			"name": "lando/pantheon",
+			"description": "The Official Lando Pantheon plugin.",
+			"language": "JavaScript",
+			"openIssues": 18,
+			"openPRs": 2,
+			"lastRelease": "2026-02-22T04:34:05Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-02-25T21:52:59Z",
+			"attentionScore": 57.5,
+			"unengagedCount": 11
+		},
+		{
 			"name": "lando/varnish",
 			"description": "The Official Varnish Lando Plugin",
 			"language": "JavaScript",
@@ -555,18 +567,6 @@
 			"lastPush": "2026-02-22T21:00:54Z",
 			"attentionScore": 57,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/pantheon",
-			"description": "The Official Lando Pantheon plugin.",
-			"language": "JavaScript",
-			"openIssues": 18,
-			"openPRs": 2,
-			"lastRelease": "2026-02-22T04:34:05Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-02-25T21:52:59Z",
-			"attentionScore": 57,
-			"unengagedCount": 11
 		},
 		{
 			"name": "lando/prepare-release-action",
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-23T04:24:51Z",
-			"attentionScore": 23.5,
+			"attentionScore": 24,
 			"unengagedCount": 5
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-02-20T04:30:49Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-26T20:56:46Z",
-			"attentionScore": 11,
+			"attentionScore": 11.5,
 			"unengagedCount": 1
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-22T20:54:48Z",
-			"attentionScore": 7,
+			"attentionScore": 7.5,
 			"unengagedCount": 1
 		},
 		{
