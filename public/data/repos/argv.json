@@ -1,0 +1,42 @@
+{
+	"name": "lando/argv",
+	"description": "A small utility for argv parsing",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "Bump minimatch",
+			"author": "dependabot",
+			"createdAt": "2026-02-28T10:36:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/argv/pull/14"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.2.0",
+			"publishedAt": "2025-07-19T00:12:10Z",
+			"url": "https://github.com/lando/argv/releases/tag/v1.2.0"
+		},
+		{
+			"tagName": "v1.1.2",
+			"publishedAt": "2023-06-16T20:21:10Z",
+			"url": "https://github.com/lando/argv/releases/tag/v1.1.2"
+		},
+		{
+			"tagName": "v1.1.1",
+			"publishedAt": "2023-06-16T20:18:32Z",
+			"url": "https://github.com/lando/argv/releases/tag/v1.1.1"
+		},
+		{
+			"tagName": "v1.1.0",
+			"publishedAt": "2022-03-31T16:58:13Z",
+			"url": "https://github.com/lando/argv/releases/tag/v1.1.0"
+		},
+		{
+			"tagName": "v1.1.0-beta.1",
+			"publishedAt": "2022-03-31T16:54:52Z",
+			"url": "https://github.com/lando/argv/releases/tag/v1.1.0-beta.1"
+		}
+	]
+}
