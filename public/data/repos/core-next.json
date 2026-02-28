@@ -190,6 +190,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-28T07:07:17Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/134"
+		},
+		{
 			"title": "fix: add --load to buildx to ensure images are available locally",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-25T05:00:48Z",
@@ -209,13 +216,6 @@
 			"createdAt": "2026-02-25T01:03:28Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core-next/pull/131"
-		},
-		{
-			"title": "Bump minimatch from 5.1.6 to 5.1.8 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-25T01:02:12Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/130"
 		},
 		{
 			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/entrypoint",
