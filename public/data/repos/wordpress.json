@@ -106,13 +106,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "test: validate ANSI escape codes are not in redirected composer output",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-27T23:58:59Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/wordpress/pull/134"
-		},
-		{
 			"title": "Bump @lando/php from 1.11.1 to 1.11.2",
 			"author": "dependabot",
 			"createdAt": "2026-02-26T12:03:28Z",

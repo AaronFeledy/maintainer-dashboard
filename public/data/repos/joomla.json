@@ -5,13 +5,6 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "test: validate ANSI escape codes are not in redirected composer output",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-27T23:59:01Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/joomla/pull/74"
-		},
-		{
 			"title": "Bump @lando/php from 1.11.1 to 1.11.2",
 			"author": "dependabot",
 			"createdAt": "2026-02-26T11:03:27Z",

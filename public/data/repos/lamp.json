@@ -32,13 +32,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "test: validate ANSI escape codes are not in redirected composer output",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-27T23:59:03Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/lamp/pull/103"
-		},
-		{
 			"title": "chore: update @lando/php to ^1.11.0",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-19T17:14:21Z",

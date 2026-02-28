@@ -53,15 +53,7 @@
 			"url": "https://github.com/lando/lemp/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "test: validate ANSI escape codes are not in redirected composer output",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-27T23:59:06Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lemp/pull/84"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.10.0",

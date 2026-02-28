@@ -4,16 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "composer always prints escape codes",
-			"author": "danielcavanagh",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2025-02-26T10:22:06Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/drupal/issues/157"
-		},
-		{
 			"title": "Error: Service \"edge\" depends on undefined service \"appserver_nginx\":",
 			"author": "ravearvind",
 			"labels": [
@@ -56,15 +46,7 @@
 			"url": "https://github.com/lando/drupal/issues/27"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "test: validate ANSI escape codes are not in redirected composer output",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-27T23:57:42Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/drupal/pull/184"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.14.1",

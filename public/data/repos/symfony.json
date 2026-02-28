@@ -45,13 +45,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "test: validate ANSI escape codes are not in redirected composer output",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-27T23:59:08Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/symfony/pull/86"
-		},
-		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:05Z",
