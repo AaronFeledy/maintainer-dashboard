@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-28T14:05:04.030Z",
+		"fetchedAt": "2026-02-28T16:05:39.666Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 663.5,
+			"attentionScore": 664,
 			"unengagedCount": 10
 		},
 		{
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2025-07-23T20:47:06Z",
-			"attentionScore": 516.5,
+			"attentionScore": 517,
 			"unengagedCount": 5
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 373.5,
+			"attentionScore": 374,
 			"unengagedCount": 5
 		},
 		{
@@ -349,7 +349,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 140.5,
+			"attentionScore": 141,
 			"unengagedCount": 2
 		},
 		{
@@ -361,7 +361,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-02-28T07:07:20Z",
-			"attentionScore": 137,
+			"attentionScore": 137.5,
 			"unengagedCount": 16
 		},
 		{
@@ -397,7 +397,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-27T05:47:55Z",
-			"attentionScore": 127,
+			"attentionScore": 127.5,
 			"unengagedCount": 8
 		},
 		{
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-02-22T20:56:01Z",
-			"attentionScore": 126,
+			"attentionScore": 126.5,
 			"unengagedCount": 8
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-27T05:47:49Z",
-			"attentionScore": 119.5,
+			"attentionScore": 120,
 			"unengagedCount": 6
 		},
 		{
@@ -529,7 +529,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-02-26T05:58:50Z",
-			"attentionScore": 66.5,
+			"attentionScore": 67,
 			"unengagedCount": 4
 		},
 		{
