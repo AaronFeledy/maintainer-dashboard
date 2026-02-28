@@ -4,16 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "Post-scaffold patch fails",
-			"author": "jmcintyresage",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2026-02-27T19:26:49Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/drupal/issues/183"
-		},
-		{
 			"title": "composer always prints escape codes",
 			"author": "danielcavanagh",
 			"labels": [
@@ -66,7 +56,15 @@
 			"url": "https://github.com/lando/drupal/issues/27"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "test: validate ANSI escape codes are not in redirected composer output",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-27T23:57:42Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/drupal/pull/184"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.14.1",

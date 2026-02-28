@@ -57,7 +57,15 @@
 			"url": "https://github.com/lando/laravel/issues/4"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "test: validate ANSI escape codes are not in redirected composer output",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-27T23:59:05Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/laravel/pull/107"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.12.2",
