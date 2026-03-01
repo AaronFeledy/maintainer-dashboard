@@ -30,6 +30,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump minimatch from 9.0.5 to 9.0.9",
+			"author": "dependabot",
+			"createdAt": "2026-03-01T10:31:30Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/code-sign-action/pull/24"
+		},
+		{
 			"title": "Bump tar from 7.4.3 to 7.5.9",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T15:29:30Z",
