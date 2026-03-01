@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-01T04:39:33.107Z",
+		"fetchedAt": "2026-03-01T06:15:50.179Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -605,6 +605,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/acquia",
+			"description": "The Official Acquia Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 4,
+			"openPRs": 3,
+			"lastRelease": "2026-02-24T04:45:09Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-02-28T02:29:25Z",
+			"attentionScore": 27.5,
+			"unengagedCount": 5
+		},
+		{
 			"name": "lando/wordpress",
 			"description": "The Official WordPress Lando Plugin",
 			"language": "JavaScript",
@@ -615,18 +627,6 @@
 			"lastPush": "2026-02-28T02:29:00Z",
 			"attentionScore": 27,
 			"unengagedCount": 4
-		},
-		{
-			"name": "lando/acquia",
-			"description": "The Official Acquia Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 4,
-			"openPRs": 3,
-			"lastRelease": "2026-02-24T04:45:09Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-02-28T02:29:25Z",
-			"attentionScore": 27,
-			"unengagedCount": 5
 		},
 		{
 			"name": "lando/php",
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-02-28T02:29:09Z",
-			"attentionScore": 20,
+			"attentionScore": 20.5,
 			"unengagedCount": 4
 		},
 		{
@@ -709,7 +709,7 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-02-28T02:29:16Z",
-			"attentionScore": 15,
+			"attentionScore": 15.5,
 			"unengagedCount": 3
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-02-24T03:48:16Z",
-			"attentionScore": 7.5,
+			"attentionScore": 8,
 			"unengagedCount": 1
 		},
 		{
