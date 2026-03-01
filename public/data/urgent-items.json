@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-28T22:04:34.571Z",
+		"fetchedAt": "2026-03-01T00:25:03.155Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3683,6 +3683,51 @@
 			"author": "github-actions",
 			"createdAt": "2026-02-24T03:48:17Z",
 			"url": "https://github.com/lando/mailpit/pull/52",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 131,
+			"title": "Bump minimatch from 5.1.6 to 5.1.8 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-02-25T01:03:28Z",
+			"url": "https://github.com/lando/core-next/pull/131",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 440,
+			"title": "fix: handle empty YAML config files gracefully",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-25T04:48:32Z",
+			"url": "https://github.com/lando/core/pull/440",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 132,
+			"title": "fix: handle empty YAML config files gracefully",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-25T04:56:48Z",
+			"url": "https://github.com/lando/core-next/pull/132",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 133,
+			"title": "fix: add --load to buildx to ensure images are available locally",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-25T05:00:48Z",
+			"url": "https://github.com/lando/core-next/pull/133",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 344,
+			"title": "build(deps): bump @lando/php from 1.11.1 to 1.11.2",
+			"author": "dependabot",
+			"createdAt": "2026-02-25T21:52:59Z",
+			"url": "https://github.com/lando/pantheon/pull/344",
 			"type": "pr"
 		}
 	]

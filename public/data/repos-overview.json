@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-02-28T22:04:34.571Z",
+		"fetchedAt": "2026-03-01T00:25:03.155Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -97,8 +97,8 @@
 			"lastRelease": "2025-12-17T13:41:05Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-28T05:02:58Z",
-			"attentionScore": 328.5,
-			"unengagedCount": 57
+			"attentionScore": 331.5,
+			"unengagedCount": 58
 		},
 		{
 			"name": "lando/leia",
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 322.5,
+			"attentionScore": 323,
 			"unengagedCount": 6
 		},
 		{
@@ -121,7 +121,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-01-22T11:41:37Z",
-			"attentionScore": 302.5,
+			"attentionScore": 303,
 			"unengagedCount": 2
 		},
 		{
@@ -341,6 +341,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 19,
+			"openPRs": 15,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-02-28T07:07:20Z",
+			"attentionScore": 146.5,
+			"unengagedCount": 19
+		},
+		{
 			"name": "lando/auto-deploy-action",
 			"description": "A GitHub action that auto deploys new versions of (currently only) node packages from their source repo to various target repos.",
 			"language": null,
@@ -351,18 +363,6 @@
 			"lastPush": "2025-07-23T20:46:52Z",
 			"attentionScore": 141,
 			"unengagedCount": 2
-		},
-		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 19,
-			"openPRs": 15,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-02-28T07:07:20Z",
-			"attentionScore": 137.5,
-			"unengagedCount": 16
 		},
 		{
 			"name": "lando/mysql",
@@ -481,7 +481,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-02-28T10:36:40Z",
-			"attentionScore": 114,
+			"attentionScore": 114.5,
 			"unengagedCount": 0
 		},
 		{
@@ -553,8 +553,8 @@
 			"lastRelease": "2026-02-22T04:34:05Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-25T21:52:59Z",
-			"attentionScore": 58,
-			"unengagedCount": 11
+			"attentionScore": 61,
+			"unengagedCount": 12
 		},
 		{
 			"name": "lando/varnish",
@@ -577,7 +577,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-02-19T22:40:58Z",
-			"attentionScore": 47,
+			"attentionScore": 47.5,
 			"unengagedCount": 1
 		},
 		{
