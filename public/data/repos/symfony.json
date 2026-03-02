@@ -45,13 +45,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: remove hardcoded mysql_native_password for MySQL 8.4 compat",
-			"author": "AaronFeledy",
-			"createdAt": "2026-03-01T23:59:11Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/symfony/pull/87"
-		},
-		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:05Z",
