@@ -28,7 +28,7 @@
 				"bug"
 			],
 			"createdAt": "2025-01-15T12:34:45Z",
-			"commentCount": 2,
+			"commentCount": 3,
 			"url": "https://github.com/lando/mysql/issues/69"
 		},
 		{
@@ -67,6 +67,13 @@
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "fix: conditionally set MYSQL_AUTHENTICATION_PLUGIN for MySQL 8.4 compat",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-01T23:59:07Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/90"
+		},
 		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",

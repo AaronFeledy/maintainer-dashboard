@@ -32,6 +32,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: remove hardcoded mysql_native_password for MySQL 8.4 compat",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-01T23:59:14Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lamp/pull/104"
+		},
+		{
 			"title": "chore: update @lando/php to ^1.11.0",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-19T17:14:21Z",

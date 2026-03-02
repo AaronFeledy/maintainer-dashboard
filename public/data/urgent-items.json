@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-01T22:04:53.006Z",
+		"fetchedAt": "2026-03-02T00:22:36.188Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3728,6 +3728,24 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-25T21:52:59Z",
 			"url": "https://github.com/lando/pantheon/pull/344",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/joomla",
+			"number": 73,
+			"title": "Bump @lando/php from 1.11.1 to 1.11.2",
+			"author": "dependabot",
+			"createdAt": "2026-02-26T11:03:27Z",
+			"url": "https://github.com/lando/joomla/pull/73",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/acquia",
+			"number": 162,
+			"title": "Bump @lando/php from 1.11.1 to 1.11.2",
+			"author": "dependabot",
+			"createdAt": "2026-02-26T15:32:16Z",
+			"url": "https://github.com/lando/acquia/pull/162",
 			"type": "pr"
 		}
 	]
