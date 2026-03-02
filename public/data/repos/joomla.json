@@ -5,27 +5,6 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "fix: remove hardcoded mysql_native_password for MySQL 8.4 compat",
-			"author": "AaronFeledy",
-			"createdAt": "2026-03-01T23:59:18Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/joomla/pull/75"
-		},
-		{
-			"title": "Bump @lando/php from 1.11.1 to 1.11.2",
-			"author": "dependabot",
-			"createdAt": "2026-02-26T11:03:27Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/joomla/pull/73"
-		},
-		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:11Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/joomla/pull/72"
-		},
-		{
 			"title": "Init defaults1",
 			"author": "reynoldsalec",
 			"createdAt": "2024-12-20T22:34:51Z",

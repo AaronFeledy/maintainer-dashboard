@@ -57,15 +57,7 @@
 			"url": "https://github.com/lando/laravel/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "fix: remove hardcoded mysql_native_password for MySQL 8.4 compat",
-			"author": "AaronFeledy",
-			"createdAt": "2026-03-01T23:59:12Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/laravel/pull/108"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.12.2",

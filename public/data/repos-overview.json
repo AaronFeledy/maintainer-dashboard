@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-02T04:35:53.830Z",
+		"fetchedAt": "2026-03-02T06:20:08.365Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -368,12 +368,12 @@
 			"name": "lando/mysql",
 			"description": "The Official MySQL Lando Plugin",
 			"language": "JavaScript",
-			"openIssues": 6,
+			"openIssues": 5,
 			"openPRs": 7,
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-03-02T01:25:25Z",
-			"attentionScore": 135,
+			"attentionScore": 134,
 			"unengagedCount": 8
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-03-02T02:18:22Z",
-			"attentionScore": 30.5,
+			"attentionScore": 31,
 			"unengagedCount": 6
 		},
 		{
@@ -632,12 +632,12 @@
 			"name": "lando/php",
 			"description": "The Official Lando PHP plugin.",
 			"language": "Dockerfile",
-			"openIssues": 11,
+			"openIssues": 12,
 			"openPRs": 2,
 			"lastRelease": "2026-02-25T17:50:33Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-25T17:51:11Z",
-			"attentionScore": 26,
+			"attentionScore": 27,
 			"unengagedCount": 3
 		},
 		{
@@ -669,23 +669,11 @@
 			"description": "The Official LAMP Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 3,
-			"openPRs": 3,
+			"openPRs": 1,
 			"lastRelease": "2026-02-26T05:47:10Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-03-02T03:20:01Z",
-			"attentionScore": 22.5,
-			"unengagedCount": 4
-		},
-		{
-			"name": "lando/joomla",
-			"description": "The Official Joomla Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 4,
-			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 3,
-			"lastPush": "2026-03-02T03:05:54Z",
-			"attentionScore": 21.5,
+			"lastPush": "2026-03-02T05:02:43Z",
+			"attentionScore": 16,
 			"unengagedCount": 3
 		},
 		{
@@ -693,24 +681,12 @@
 			"description": "The Official LEMP Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 5,
-			"openPRs": 1,
+			"openPRs": 0,
 			"lastRelease": "2026-02-26T05:56:44Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-03-02T03:17:01Z",
-			"attentionScore": 17.5,
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-03-02T05:02:02Z",
+			"attentionScore": 16,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/symfony",
-			"description": "The Official Symfony Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 4,
-			"openPRs": 1,
-			"lastRelease": "2026-02-20T18:35:47Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-03-02T01:28:31Z",
-			"attentionScore": 16.5,
-			"unengagedCount": 2
 		},
 		{
 			"name": "lando/drupal",
@@ -729,11 +705,23 @@
 			"description": "The Official Laravel Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 5,
-			"openPRs": 1,
+			"openPRs": 0,
 			"lastRelease": "2026-02-25T18:35:17Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-03-02T03:13:21Z",
-			"attentionScore": 12,
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-03-02T05:00:32Z",
+			"attentionScore": 10,
+			"unengagedCount": 1
+		},
+		{
+			"name": "lando/joomla",
+			"description": "The Official Joomla Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-20T16:27:34Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-03-02T05:08:40Z",
+			"attentionScore": 9.5,
 			"unengagedCount": 1
 		},
 		{
@@ -757,7 +745,7 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-02-24T03:48:16Z",
-			"attentionScore": 8,
+			"attentionScore": 8.5,
 			"unengagedCount": 1
 		},
 		{
@@ -781,6 +769,18 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-02-25T05:34:54Z",
+			"attentionScore": 3,
+			"unengagedCount": 0
+		},
+		{
+			"name": "lando/symfony",
+			"description": "The Official Symfony Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 3,
+			"openPRs": 0,
+			"lastRelease": "2026-03-02T06:01:17Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-03-02T06:01:43Z",
 			"attentionScore": 3,
 			"unengagedCount": 0
 		}

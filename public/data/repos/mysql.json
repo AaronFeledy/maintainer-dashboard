@@ -4,16 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "MySQL 8.4 can't connect",
-			"author": "kenowak",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2025-04-14T22:19:58Z",
-			"commentCount": 7,
-			"url": "https://github.com/lando/mysql/issues/72"
-		},
-		{
 			"title": "lando mysql, lando db-export and db-import all of a sudden seem to crash on al my projects",
 			"author": "erwindeclerck",
 			"labels": [],

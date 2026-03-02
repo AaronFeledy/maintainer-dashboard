@@ -4,14 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "FrankenPHP support",
-			"author": "ttk",
-			"labels": [],
-			"createdAt": "2025-08-19T15:24:17Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/symfony/issues/71"
-		},
-		{
 			"title": "Incorrect volume path when using nginx volume override",
 			"author": "ttk",
 			"labels": [
@@ -43,16 +35,13 @@
 			"url": "https://github.com/lando/symfony/issues/17"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:05Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/symfony/pull/85"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
+		{
+			"tagName": "v1.12.2",
+			"publishedAt": "2026-03-02T06:01:17Z",
+			"url": "https://github.com/lando/symfony/releases/tag/v1.12.2"
+		},
 		{
 			"tagName": "v1.12.1",
 			"publishedAt": "2026-02-20T18:35:47Z",
@@ -72,11 +61,6 @@
 			"tagName": "v1.10.0",
 			"publishedAt": "2025-05-12T12:32:51Z",
 			"url": "https://github.com/lando/symfony/releases/tag/v1.10.0"
-		},
-		{
-			"tagName": "v1.9.0",
-			"publishedAt": "2024-12-09T15:35:04Z",
-			"url": "https://github.com/lando/symfony/releases/tag/v1.9.0"
 		}
 	]
 }

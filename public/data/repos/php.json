@@ -4,6 +4,14 @@
 	"language": "Dockerfile",
 	"issues": [
 		{
+			"title": "FrankenPHP support",
+			"author": "ttk",
+			"labels": [],
+			"createdAt": "2025-08-19T15:24:17Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/php/issues/241"
+		},
+		{
 			"title": "Update default version to 8.3",
 			"author": "stebogit",
 			"labels": [
