@@ -1,7 +1,9 @@
 import { Link, useParams } from "@tanstack/solid-router";
-import { For, Show } from "solid-js";
+import { createMemo, For, Show } from "solid-js";
 import { useRepoDetail } from "../queries/repos";
 import type { RepoIssue, RepoPR, RepoRelease } from "../types";
+
+const DISPLAY_LIMIT = 10;
 
 function relativeAge(dateStr: string): string {
 	const date = new Date(dateStr);
@@ -78,8 +80,8 @@ export default function RepoDetailPage() {
 							</div>
 
 							<div class="grid gap-6 lg:grid-cols-2">
-								<IssuesList issues={data().issues} />
-								<PRsList prs={data().pullRequests} />
+								<IssuesList issues={data().issues} repoName={data().name} />
+								<PRsList prs={data().pullRequests} repoName={data().name} />
 							</div>
 
 							<div class="mt-6">
@@ -93,7 +95,12 @@ export default function RepoDetailPage() {
 	);
 }
 
-function IssuesList(props: { issues: RepoIssue[] }) {
+function IssuesList(props: { issues: RepoIssue[]; repoName: string }) {
+	const displayedIssues = createMemo(() =>
+		props.issues.slice(0, DISPLAY_LIMIT),
+	);
+	const hasMore = createMemo(() => props.issues.length > DISPLAY_LIMIT);
+
 	return (
 		<div class="rounded-md border border-border-default">
 			<div class="border-b border-border-default bg-canvas-subtle px-4 py-3">
@@ -110,7 +117,7 @@ function IssuesList(props: { issues: RepoIssue[] }) {
 				}
 			>
 				<ul class="divide-y divide-border-muted">
-					<For each={props.issues}>
+					<For each={displayedIssues()}>
 						{(issue) => (
 							<li class="px-4 py-3 transition-colors hover:bg-canvas-subtle">
 								<a
@@ -148,12 +155,26 @@ function IssuesList(props: { issues: RepoIssue[] }) {
 						)}
 					</For>
 				</ul>
+				<Show when={hasMore()}>
+					<div class="border-t border-border-muted px-4 py-3">
+						<Link
+							to="/repo/$name/issues"
+							params={{ name: props.repoName }}
+							class="text-sm font-medium text-accent-fg hover:underline"
+						>
+							View all {props.issues.length} issues &rarr;
+						</Link>
+					</div>
+				</Show>
 			</Show>
 		</div>
 	);
 }
 
-function PRsList(props: { prs: RepoPR[] }) {
+function PRsList(props: { prs: RepoPR[]; repoName: string }) {
+	const displayedPRs = createMemo(() => props.prs.slice(0, DISPLAY_LIMIT));
+	const hasMore = createMemo(() => props.prs.length > DISPLAY_LIMIT);
+
 	return (
 		<div class="rounded-md border border-border-default">
 			<div class="border-b border-border-default bg-canvas-subtle px-4 py-3">
@@ -168,7 +189,7 @@ function PRsList(props: { prs: RepoPR[] }) {
 				}
 			>
 				<ul class="divide-y divide-border-muted">
-					<For each={props.prs}>
+					<For each={displayedPRs()}>
 						{(pr) => (
 							<li class="px-4 py-3 transition-colors hover:bg-canvas-subtle">
 								<a
@@ -193,6 +214,17 @@ function PRsList(props: { prs: RepoPR[] }) {
 						)}
 					</For>
 				</ul>
+				<Show when={hasMore()}>
+					<div class="border-t border-border-muted px-4 py-3">
+						<Link
+							to="/repo/$name/prs"
+							params={{ name: props.repoName }}
+							class="text-sm font-medium text-accent-fg hover:underline"
+						>
+							View all {props.prs.length} PRs &rarr;
+						</Link>
+					</div>
+				</Show>
 			</Show>
 		</div>
 	);

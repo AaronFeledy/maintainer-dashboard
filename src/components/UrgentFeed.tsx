@@ -1,6 +1,9 @@
+import { Link } from "@tanstack/solid-router";
 import { createMemo, createSignal, For, Show } from "solid-js";
 import { useUrgentItems } from "../queries/repos";
 import type { UrgentItem } from "../types";
+
+const DISPLAY_LIMIT = 10;
 
 type FilterType = "all" | "issue" | "pr";
 
@@ -47,6 +50,11 @@ export default function UrgentFeed() {
 		return items.filter((item) => item.type === currentFilter);
 	});
 
+	const displayedItems = createMemo(() =>
+		filteredItems().slice(0, DISPLAY_LIMIT),
+	);
+	const hasMore = createMemo(() => filteredItems().length > DISPLAY_LIMIT);
+
 	return (
 		<div class="rounded-md border border-border-default bg-canvas-default">
 			<div class="flex items-center justify-between border-b border-border-default bg-canvas-subtle px-4 py-3">
@@ -81,10 +89,20 @@ export default function UrgentFeed() {
 			<Show when={!query.isLoading} fallback={<LoadingState />}>
 				<Show when={filteredItems().length > 0} fallback={<EmptyState />}>
 					<ul class="divide-y divide-border-muted">
-						<For each={filteredItems()}>
+						<For each={displayedItems()}>
 							{(item) => <UrgentItemRow item={item} />}
 						</For>
 					</ul>
+					<Show when={hasMore()}>
+						<div class="border-t border-border-muted px-4 py-3">
+							<Link
+								to="/urgent"
+								class="text-sm font-medium text-accent-fg hover:underline"
+							>
+								View all {filteredItems().length} urgent items &rarr;
+							</Link>
+						</div>
+					</Show>
 				</Show>
 			</Show>
 		</div>

@@ -6,6 +6,9 @@ import {
 } from "@tanstack/solid-router";
 import OverviewPage from "./routes/overview";
 import RepoDetailPage from "./routes/repo-detail";
+import RepoIssuesPage from "./routes/repo-issues";
+import RepoPRsPage from "./routes/repo-prs";
+import UrgentListPage from "./routes/urgent";
 
 const rootRoute = createRootRoute({
 	component: () => (
@@ -41,7 +44,59 @@ const repoDetailRoute = createRoute({
 	component: RepoDetailPage,
 });
 
-const routeTree = rootRoute.addChildren([overviewRoute, repoDetailRoute]);
+export interface PaginatedSearch {
+	page?: number;
+}
+
+const urgentRoute = createRoute({
+	getParentRoute: () => rootRoute,
+	path: "/urgent",
+	component: UrgentListPage,
+	validateSearch: (input: Record<string, unknown>): PaginatedSearch => ({
+		page:
+			typeof input.page === "number"
+				? input.page
+				: typeof input.page === "string"
+					? Number.parseInt(input.page, 10) || 1
+					: undefined,
+	}),
+});
+
+const repoIssuesRoute = createRoute({
+	getParentRoute: () => rootRoute,
+	path: "/repo/$name/issues",
+	component: RepoIssuesPage,
+	validateSearch: (input: Record<string, unknown>): PaginatedSearch => ({
+		page:
+			typeof input.page === "number"
+				? input.page
+				: typeof input.page === "string"
+					? Number.parseInt(input.page, 10) || 1
+					: undefined,
+	}),
+});
+
+const repoPRsRoute = createRoute({
+	getParentRoute: () => rootRoute,
+	path: "/repo/$name/prs",
+	component: RepoPRsPage,
+	validateSearch: (input: Record<string, unknown>): PaginatedSearch => ({
+		page:
+			typeof input.page === "number"
+				? input.page
+				: typeof input.page === "string"
+					? Number.parseInt(input.page, 10) || 1
+					: undefined,
+	}),
+});
+
+const routeTree = rootRoute.addChildren([
+	overviewRoute,
+	repoDetailRoute,
+	urgentRoute,
+	repoIssuesRoute,
+	repoPRsRoute,
+]);
 
 export const router = createRouter({ routeTree });
 
