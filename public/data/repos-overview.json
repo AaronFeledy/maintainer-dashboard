@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-03T16:17:08.227Z",
+		"fetchedAt": "2026-03-03T18:16:01.606Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -229,7 +229,7 @@
 			"lastRelease": "2024-11-19T16:43:40Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-03-01T10:31:30Z",
-			"attentionScore": 247,
+			"attentionScore": 247.5,
 			"unengagedCount": 2
 		},
 		{
@@ -241,7 +241,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 240,
+			"attentionScore": 240.5,
 			"unengagedCount": 1
 		},
 		{
@@ -425,18 +425,6 @@
 			"unengagedCount": 8
 		},
 		{
-			"name": "lando/memcached",
-			"description": "The Official Memcached Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 6,
-			"lastRelease": "2025-08-28T19:28:14Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-02-22T20:55:56Z",
-			"attentionScore": 123,
-			"unengagedCount": 6
-		},
-		{
 			"name": "lando/apache",
 			"description": "The Official Apache Lando Plugin",
 			"language": "JavaScript",
@@ -445,6 +433,18 @@
 			"lastRelease": "2025-08-30T17:08:19Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-28T01:03:24Z",
+			"attentionScore": 123.5,
+			"unengagedCount": 6
+		},
+		{
+			"name": "lando/memcached",
+			"description": "The Official Memcached Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 6,
+			"lastRelease": "2025-08-28T19:28:14Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-02-22T20:55:56Z",
 			"attentionScore": 123,
 			"unengagedCount": 6
 		},
@@ -601,7 +601,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-02-25T05:47:49Z",
-			"attentionScore": 43,
+			"attentionScore": 43.5,
 			"unengagedCount": 0
 		},
 		{
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-02-22T17:30:32Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-02T01:27:38Z",
-			"attentionScore": 28,
+			"attentionScore": 28.5,
 			"unengagedCount": 4
 		},
 		{
@@ -637,7 +637,7 @@
 			"lastRelease": "2026-02-25T17:50:33Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-25T17:51:11Z",
-			"attentionScore": 27.5,
+			"attentionScore": 28,
 			"unengagedCount": 3
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-02T05:08:40Z",
-			"attentionScore": 10,
+			"attentionScore": 10.5,
 			"unengagedCount": 1
 		},
 		{
@@ -761,6 +761,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-02-25T05:34:54Z",
+			"attentionScore": 4,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -770,18 +782,6 @@
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-23T00:37:45Z",
 			"attentionScore": 4,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-02-25T05:34:54Z",
-			"attentionScore": 3.5,
 			"unengagedCount": 0
 		}
 	]
