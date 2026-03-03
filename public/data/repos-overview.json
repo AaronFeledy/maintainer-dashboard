@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-02T22:08:22.400Z",
+		"fetchedAt": "2026-03-03T00:23:43.266Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -121,7 +121,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-01-22T11:41:37Z",
-			"attentionScore": 303.5,
+			"attentionScore": 304,
 			"unengagedCount": 2
 		},
 		{
@@ -481,7 +481,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-02-28T10:36:40Z",
-			"attentionScore": 115,
+			"attentionScore": 115.5,
 			"unengagedCount": 0
 		},
 		{
@@ -541,8 +541,8 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-02-27T15:02:42Z",
-			"attentionScore": 64,
-			"unengagedCount": 4
+			"attentionScore": 67,
+			"unengagedCount": 5
 		},
 		{
 			"name": "lando/pantheon",
@@ -577,7 +577,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-02-19T22:40:58Z",
-			"attentionScore": 48,
+			"attentionScore": 48.5,
 			"unengagedCount": 1
 		},
 		{
@@ -749,6 +749,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/symfony",
+			"description": "The Official Symfony Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 4,
+			"openPRs": 0,
+			"lastRelease": "2026-03-02T06:01:17Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-03-02T06:01:43Z",
+			"attentionScore": 4,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/go",
 			"description": "The Official Go Lando plugin.",
 			"language": "JavaScript",
@@ -770,18 +782,6 @@
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-02-23T00:37:45Z",
 			"attentionScore": 3.5,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/symfony",
-			"description": "The Official Symfony Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 3,
-			"openPRs": 0,
-			"lastRelease": "2026-03-02T06:01:17Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-03-02T06:01:43Z",
-			"attentionScore": 3,
 			"unengagedCount": 0
 		}
 	]
