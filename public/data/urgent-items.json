@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-03T22:06:58.283Z",
+		"fetchedAt": "2026-03-04T00:22:39.239Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3710,6 +3710,51 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-27T14:59:14Z",
 			"url": "https://github.com/lando/node/pull/118",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 441,
+			"title": "fix: only allocate TTY when both stdin and stdout are terminals",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-28T00:25:54Z",
+			"url": "https://github.com/lando/core/pull/441",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 442,
+			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-28T04:50:39Z",
+			"url": "https://github.com/lando/core/pull/442",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 443,
+			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-02-28T05:02:58Z",
+			"url": "https://github.com/lando/core/pull/443",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 134,
+			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-02-28T07:07:17Z",
+			"url": "https://github.com/lando/core-next/pull/134",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/argv",
+			"number": 14,
+			"title": "Bump minimatch",
+			"author": "dependabot",
+			"createdAt": "2026-02-28T10:36:40Z",
+			"url": "https://github.com/lando/argv/pull/14",
 			"type": "pr"
 		}
 	]

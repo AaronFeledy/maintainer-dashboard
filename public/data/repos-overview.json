@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-03T22:06:58.283Z",
+		"fetchedAt": "2026-03-04T00:22:39.239Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -97,8 +97,8 @@
 			"lastRelease": "2025-12-17T13:41:05Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-28T05:02:58Z",
-			"attentionScore": 333,
-			"unengagedCount": 58
+			"attentionScore": 342,
+			"unengagedCount": 61
 		},
 		{
 			"name": "lando/leia",
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 324,
+			"attentionScore": 324.5,
 			"unengagedCount": 6
 		},
 		{
@@ -121,7 +121,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-01-22T11:41:37Z",
-			"attentionScore": 304,
+			"attentionScore": 304.5,
 			"unengagedCount": 2
 		},
 		{
@@ -349,8 +349,8 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-02-28T07:07:20Z",
-			"attentionScore": 148,
-			"unengagedCount": 19
+			"attentionScore": 151,
+			"unengagedCount": 20
 		},
 		{
 			"name": "lando/auto-deploy-action",
@@ -481,8 +481,8 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-02-28T10:36:40Z",
-			"attentionScore": 115.5,
-			"unengagedCount": 0
+			"attentionScore": 119,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/website",
@@ -577,7 +577,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-02-19T22:40:58Z",
-			"attentionScore": 48.5,
+			"attentionScore": 49,
 			"unengagedCount": 1
 		},
 		{
