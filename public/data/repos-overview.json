@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-05T20:12:48.560Z",
+		"fetchedAt": "2026-03-05T22:07:45.244Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2025-07-23T20:47:11Z",
-			"attentionScore": 791.5,
+			"attentionScore": 792,
 			"unengagedCount": 3
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-03-05T14:34:38Z",
-			"attentionScore": 475.5,
+			"attentionScore": 476,
 			"unengagedCount": 44
 		},
 		{
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 325,
+			"attentionScore": 325.5,
 			"unengagedCount": 6
 		},
 		{
@@ -384,7 +384,7 @@
 			"openPRs": 4,
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 11,
-			"lastPush": "2026-03-05T14:34:43Z",
+			"lastPush": "2026-03-05T20:46:29Z",
 			"attentionScore": 130,
 			"unengagedCount": 8
 		},
@@ -397,7 +397,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 129.5,
+			"attentionScore": 130,
 			"unengagedCount": 6
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-23T08:46:23Z",
-			"attentionScore": 120,
+			"attentionScore": 120.5,
 			"unengagedCount": 6
 		},
 		{
@@ -537,11 +537,11 @@
 			"description": "The Official Lando Pantheon plugin.",
 			"language": "JavaScript",
 			"openIssues": 18,
-			"openPRs": 2,
+			"openPRs": 3,
 			"lastRelease": "2026-02-22T04:34:05Z",
 			"commitsSinceRelease": 5,
-			"lastPush": "2026-03-05T14:34:43Z",
-			"attentionScore": 63.5,
+			"lastPush": "2026-03-05T21:55:43Z",
+			"attentionScore": 65.5,
 			"unengagedCount": 12
 		},
 		{
@@ -635,8 +635,8 @@
 			"openIssues": 12,
 			"openPRs": 2,
 			"lastRelease": "2026-02-25T17:50:33Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-03-05T14:34:39Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-03-05T22:01:50Z",
 			"attentionScore": 29,
 			"unengagedCount": 3
 		},
