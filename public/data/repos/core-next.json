@@ -190,6 +190,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-03-05T15:47:31Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/135"
+		},
+		{
 			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-02-28T07:07:17Z",

@@ -471,6 +471,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-03-05T15:49:44Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/444"
+		},
+		{
 			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/command",
 			"author": "dependabot",
 			"createdAt": "2026-02-28T05:02:58Z",
