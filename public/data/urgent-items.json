@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-05T04:34:46.558Z",
+		"fetchedAt": "2026-03-05T06:17:25.243Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2327,15 +2327,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mongo",
-			"number": 53,
-			"title": "Bump vite from 5.4.20 to 5.4.21",
-			"author": "dependabot",
-			"createdAt": "2025-10-21T08:02:50Z",
-			"url": "https://github.com/lando/mongo/pull/53",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/memcached",
 			"number": 49,
 			"title": "Bump vite from 5.4.20 to 5.4.21",
@@ -2486,15 +2477,6 @@
 			"author": "dependabot",
 			"createdAt": "2025-12-02T03:43:17Z",
 			"url": "https://github.com/lando/mailhog/pull/48",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mongo",
-			"number": 54,
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T03:50:25Z",
-			"url": "https://github.com/lando/mongo/pull/54",
 			"type": "pr"
 		},
 		{
@@ -2723,15 +2705,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mongo",
-			"number": 55,
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:30:15Z",
-			"url": "https://github.com/lando/mongo/pull/55",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/apache",
 			"number": 53,
 			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
@@ -2855,15 +2828,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-01-22T02:34:15Z",
 			"url": "https://github.com/lando/memcached/pull/52",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mongo",
-			"number": 56,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:34:20Z",
-			"url": "https://github.com/lando/mongo/pull/56",
 			"type": "pr"
 		},
 		{
@@ -3155,15 +3119,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mongo",
-			"number": 57,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:53Z",
-			"url": "https://github.com/lando/mongo/pull/57",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/mysql",
 			"number": 86,
 			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
@@ -3260,15 +3215,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:09Z",
 			"url": "https://github.com/lando/mssql/pull/47",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mongo",
-			"number": 58,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:09Z",
-			"url": "https://github.com/lando/mongo/pull/58",
 			"type": "pr"
 		},
 		{
