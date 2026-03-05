@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-04T22:08:21.103Z",
+		"fetchedAt": "2026-03-05T00:23:12.954Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3755,6 +3755,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-28T10:36:40Z",
 			"url": "https://github.com/lando/argv/pull/14",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/code-sign-action",
+			"number": 24,
+			"title": "Bump minimatch from 9.0.5 to 9.0.9",
+			"author": "dependabot",
+			"createdAt": "2026-03-01T10:31:30Z",
+			"url": "https://github.com/lando/code-sign-action/pull/24",
 			"type": "pr"
 		}
 	]
