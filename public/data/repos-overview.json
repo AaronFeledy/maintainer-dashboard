@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-05T00:23:12.954Z",
+		"fetchedAt": "2026-03-05T02:58:52.730Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -181,7 +181,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-02T15:34:30Z",
-			"attentionScore": 269,
+			"attentionScore": 269.5,
 			"unengagedCount": 7
 		},
 		{
@@ -541,7 +541,7 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-02-27T15:02:42Z",
-			"attentionScore": 68,
+			"attentionScore": 68.5,
 			"unengagedCount": 5
 		},
 		{
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-02-27T05:46:41Z",
-			"attentionScore": 25,
+			"attentionScore": 25.5,
 			"unengagedCount": 1
 		},
 		{
@@ -749,6 +749,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/phpmyadmin",
+			"description": "The Official phpMyAdmin Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T00:37:20Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-02-23T00:37:45Z",
+			"attentionScore": 5,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/symfony",
 			"description": "The Official Symfony Lando Plugin",
 			"language": "JavaScript",
@@ -769,18 +781,6 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-02-25T05:34:54Z",
-			"attentionScore": 4.5,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/phpmyadmin",
-			"description": "The Official phpMyAdmin Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T00:37:20Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-02-23T00:37:45Z",
 			"attentionScore": 4.5,
 			"unengagedCount": 0
 		}
