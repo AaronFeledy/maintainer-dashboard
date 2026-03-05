@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-05T12:12:43.479Z",
+		"fetchedAt": "2026-03-05T14:17:54.562Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2507,15 +2507,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/vitepress-theme-default-plus",
-			"number": 89,
-			"title": "Bump js-yaml from 3.14.1 to 3.14.2",
-			"author": "dependabot",
-			"createdAt": "2025-12-04T15:04:59Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/89",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lagoon",
 			"number": 100,
 			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
@@ -2732,15 +2723,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/vitepress-theme-default-plus",
-			"number": 91,
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T00:03:06Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/91",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/website",
 			"number": 71,
 			"title": "Bump lodash from 4.17.21 to 4.17.23",
@@ -2864,15 +2846,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-01-22T12:54:24Z",
 			"url": "https://github.com/lando/plugin-test/pull/7",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/vitepress-theme-default-plus",
-			"number": 92,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T21:27:27Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/92",
 			"type": "pr"
 		},
 		{
@@ -3017,33 +2990,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-11T16:08:26Z",
 			"url": "https://github.com/lando/devtool/pull/32",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 430,
-			"title": "Bump axios from 1.12.1 to 1.13.5",
-			"author": "dependabot",
-			"createdAt": "2026-02-11T18:10:02Z",
-			"url": "https://github.com/lando/core/pull/430",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/vitepress-theme-default-plus",
-			"number": 94,
-			"title": "Bump axios from 1.12.1 to 1.13.5",
-			"author": "dependabot",
-			"createdAt": "2026-02-11T18:12:40Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/94",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 125,
-			"title": "Bump axios from 1.13.2 to 1.13.5",
-			"author": "dependabot",
-			"createdAt": "2026-02-11T19:38:41Z",
-			"url": "https://github.com/lando/core-next/pull/125",
 			"type": "pr"
 		},
 		{
@@ -3317,15 +3263,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/vitepress-theme-default-plus",
-			"number": 95,
-			"title": "Bump the actions group with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:21Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/95",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/postgres",
 			"number": 67,
 			"title": "Bump @lando/leia from 0.6.5 to 0.6.7",
@@ -3548,15 +3485,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:56:02Z",
 			"url": "https://github.com/lando/postgres/pull/71",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/vitepress-theme-default-plus",
-			"number": 97,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:56:08Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/97",
 			"type": "pr"
 		},
 		{

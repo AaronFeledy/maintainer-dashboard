@@ -246,13 +246,6 @@
 			"url": "https://github.com/lando/core-next/pull/126"
 		},
 		{
-			"title": "Bump axios from 1.13.2 to 1.13.5",
-			"author": "dependabot",
-			"createdAt": "2026-02-11T19:38:41Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/125"
-		},
-		{
 			"title": "Bump fastify and fastify-cli in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-02-02T23:50:36Z",

@@ -527,13 +527,6 @@
 			"url": "https://github.com/lando/core/pull/433"
 		},
 		{
-			"title": "Bump axios from 1.12.1 to 1.13.5",
-			"author": "dependabot",
-			"createdAt": "2026-02-11T18:10:02Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/430"
-		},
-		{
 			"title": "chore: revise Lando usage guide with Orbstack instructions",
 			"author": "arzola",
 			"createdAt": "2026-02-10T21:57:01Z",
