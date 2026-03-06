@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-06T02:58:50.557Z",
+		"fetchedAt": "2026-03-06T04:34:02.346Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -503,8 +503,8 @@
 			"openIssues": 7,
 			"openPRs": 2,
 			"lastRelease": "2025-12-06T00:49:38Z",
-			"commitsSinceRelease": 19,
-			"lastPush": "2026-03-06T02:02:10Z",
+			"commitsSinceRelease": 20,
+			"lastPush": "2026-03-06T04:17:05Z",
 			"attentionScore": 71,
 			"unengagedCount": 5
 		},
@@ -541,7 +541,7 @@
 			"lastRelease": "2026-02-22T04:34:05Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-03-05T22:35:01Z",
-			"attentionScore": 63.5,
+			"attentionScore": 64,
 			"unengagedCount": 12
 		},
 		{
@@ -649,7 +649,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 27,
+			"attentionScore": 27.5,
 			"unengagedCount": 5
 		},
 		{
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-02-20T04:30:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-05T14:34:48Z",
-			"attentionScore": 13.5,
+			"attentionScore": 14,
 			"unengagedCount": 1
 		},
 		{
@@ -721,19 +721,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-03-05T14:34:49Z",
-			"attentionScore": 10.5,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 7,
-			"lastPush": "2026-03-05T14:34:51Z",
-			"attentionScore": 10,
+			"attentionScore": 11,
 			"unengagedCount": 1
 		},
 		{
@@ -781,6 +769,18 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-03-05T14:34:45Z",
+			"attentionScore": 5,
+			"unengagedCount": 0
+		},
+		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-03-06T04:13:10Z",
 			"attentionScore": 5,
 			"unengagedCount": 0
 		}

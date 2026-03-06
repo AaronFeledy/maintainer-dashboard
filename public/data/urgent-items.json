@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-06T02:58:50.557Z",
+		"fetchedAt": "2026-03-06T04:34:02.346Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3503,15 +3503,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-23T07:25:55Z",
 			"url": "https://github.com/lando/website/pull/74",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailpit",
-			"number": 52,
-			"title": "Updated Mailpit to v1.29",
-			"author": "github-actions",
-			"createdAt": "2026-02-24T03:48:17Z",
-			"url": "https://github.com/lando/mailpit/pull/52",
 			"type": "pr"
 		},
 		{
