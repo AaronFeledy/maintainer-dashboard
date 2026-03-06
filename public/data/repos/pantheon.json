@@ -183,13 +183,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "build(deps): bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-03-05T21:55:43Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/pantheon/pull/345"
-		},
-		{
 			"title": "build(deps): bump @lando/php from 1.11.1 to 1.11.2",
 			"author": "dependabot",
 			"createdAt": "2026-02-25T21:52:59Z",
