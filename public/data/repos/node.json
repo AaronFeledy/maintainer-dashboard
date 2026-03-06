@@ -73,11 +73,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump minimatch from 3.1.2 to 3.1.5 in /examples/14",
+			"title": "Bump minimatch from 3.1.2 to 3.1.5 in /examples/12",
 			"author": "dependabot",
-			"createdAt": "2026-03-05T15:53:29Z",
+			"createdAt": "2026-03-06T02:02:11Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/119"
+			"url": "https://github.com/lando/node/pull/120"
 		},
 		{
 			"title": "feat: add Node 25 support, update versions and docs",

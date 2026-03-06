@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-06T00:26:57.151Z",
+		"fetchedAt": "2026-03-06T02:58:50.557Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3251,15 +3251,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:12:09Z",
 			"url": "https://github.com/lando/lando/pull/3836",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mariadb",
-			"number": 93,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:15Z",
-			"url": "https://github.com/lando/mariadb/pull/93",
 			"type": "pr"
 		},
 		{
