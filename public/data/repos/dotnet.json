@@ -12,13 +12,6 @@
 			"url": "https://github.com/lando/dotnet/pull/64"
 		},
 		{
-			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:59Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/dotnet/pull/63"
-		},
-		{
 			"title": "Bump the actions group with 4 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:52Z",

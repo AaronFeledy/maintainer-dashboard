@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-06T06:15:51.012Z",
+		"fetchedAt": "2026-03-06T08:10:09.692Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -509,18 +509,6 @@
 			"unengagedCount": 5
 		},
 		{
-			"name": "lando/dotnet",
-			"description": "The Official Dotnet Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 5,
-			"lastRelease": "2025-12-05T19:46:36Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-03-05T14:36:16Z",
-			"attentionScore": 70,
-			"unengagedCount": 5
-		},
-		{
 			"name": "lando/solr",
 			"description": "The Official Solr Lando Plugin",
 			"language": "JavaScript",
@@ -530,6 +518,18 @@
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-03-05T14:34:41Z",
 			"attentionScore": 69.5,
+			"unengagedCount": 4
+		},
+		{
+			"name": "lando/dotnet",
+			"description": "The Official Dotnet Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 4,
+			"lastRelease": "2025-12-05T19:46:36Z",
+			"commitsSinceRelease": 14,
+			"lastPush": "2026-03-06T07:26:51Z",
+			"attentionScore": 65,
 			"unengagedCount": 4
 		},
 		{

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-06T06:15:51.012Z",
+		"fetchedAt": "2026-03-06T08:10:09.692Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3215,15 +3215,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:52Z",
 			"url": "https://github.com/lando/dotnet/pull/62",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/dotnet",
-			"number": 63,
-			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:59Z",
-			"url": "https://github.com/lando/dotnet/pull/63",
 			"type": "pr"
 		},
 		{
