@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-06T14:13:47.464Z",
+		"fetchedAt": "2026-03-06T16:12:01.937Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 666.5,
+			"attentionScore": 667,
 			"unengagedCount": 10
 		},
 		{
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2025-07-23T20:47:06Z",
-			"attentionScore": 519.5,
+			"attentionScore": 520,
 			"unengagedCount": 5
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 376.5,
+			"attentionScore": 377,
 			"unengagedCount": 5
 		},
 		{
@@ -337,7 +337,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-03-05T15:47:31Z",
-			"attentionScore": 149,
+			"attentionScore": 149.5,
 			"unengagedCount": 19
 		},
 		{
@@ -349,7 +349,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 143.5,
+			"attentionScore": 144,
 			"unengagedCount": 2
 		},
 		{
@@ -397,7 +397,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-03-05T14:36:25Z",
-			"attentionScore": 129,
+			"attentionScore": 129.5,
 			"unengagedCount": 8
 		},
 		{
@@ -409,7 +409,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-03-06T02:00:20Z",
-			"attentionScore": 127,
+			"attentionScore": 127.5,
 			"unengagedCount": 7
 		},
 		{
@@ -493,7 +493,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-03-05T14:34:39Z",
-			"attentionScore": 92.5,
+			"attentionScore": 93,
 			"unengagedCount": 0
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-03-05T14:34:41Z",
-			"attentionScore": 69.5,
+			"attentionScore": 70,
 			"unengagedCount": 4
 		},
 		{
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-03-05T14:33:33Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-05T14:34:00Z",
-			"attentionScore": 45,
+			"attentionScore": 45.5,
 			"unengagedCount": 10
 		},
 		{
