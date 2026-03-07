@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-07T04:31:35.360Z",
+		"fetchedAt": "2026-03-07T06:10:36.868Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -541,7 +541,7 @@
 			"lastRelease": "2026-02-22T04:34:05Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-03-05T22:35:01Z",
-			"attentionScore": 64,
+			"attentionScore": 64.5,
 			"unengagedCount": 12
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-03-05T14:34:42Z",
-			"attentionScore": 33,
+			"attentionScore": 33.5,
 			"unengagedCount": 6
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-03-05T14:34:44Z",
-			"attentionScore": 18,
+			"attentionScore": 18.5,
 			"unengagedCount": 3
 		},
 		{
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-03-05T14:34:40Z",
-			"attentionScore": 18,
+			"attentionScore": 18.5,
 			"unengagedCount": 3
 		},
 		{
@@ -733,7 +733,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-03-05T14:34:49Z",
-			"attentionScore": 9,
+			"attentionScore": 9.5,
 			"unengagedCount": 1
 		},
 		{
@@ -747,6 +747,18 @@
 			"lastPush": "2026-03-05T17:58:47Z",
 			"attentionScore": 8.5,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-03-06T04:13:10Z",
+			"attentionScore": 6,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/phpmyadmin",
@@ -769,18 +781,6 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-03-05T14:34:45Z",
-			"attentionScore": 5.5,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-03-06T04:13:10Z",
 			"attentionScore": 5.5,
 			"unengagedCount": 0
 		}
