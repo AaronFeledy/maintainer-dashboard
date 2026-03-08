@@ -46,7 +46,15 @@
 			"url": "https://github.com/lando/drupal/issues/27"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "test: add mod_headers and mod_expires verification tests",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-07T23:36:39Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/drupal/pull/185"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.14.1",

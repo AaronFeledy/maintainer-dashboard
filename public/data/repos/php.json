@@ -75,6 +75,16 @@
 			"url": "https://github.com/lando/php/issues/2"
 		},
 		{
+			"title": "Enable mod_headers by default",
+			"author": "hailwood",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2021-07-12T00:04:33Z",
+			"commentCount": 5,
+			"url": "https://github.com/lando/php/issues/243"
+		},
+		{
 			"title": "Open up port 6001 for laravel-websockets (php via cli service)",
 			"author": "eminos",
 			"labels": [
@@ -127,6 +137,13 @@
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "test: add mod_headers and mod_expires verification tests",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-08T00:08:55Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/244"
+		},
 		{
 			"title": "lando/lando#2718: Explicitly set client_port to 9003.",
 			"author": "reynoldsalec",
