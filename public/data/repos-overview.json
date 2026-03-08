@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-08T04:34:06.204Z",
+		"fetchedAt": "2026-03-08T06:14:06.080Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -233,6 +233,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/tomcat",
+			"description": "The Official Apache Tomcat Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2024-12-06T19:42:30Z",
+			"commitsSinceRelease": 30,
+			"lastPush": "2026-03-08T05:53:49Z",
+			"attentionScore": 230,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/redis",
 			"description": "The Official Redis Lando Plugin",
 			"language": "JavaScript",
@@ -241,18 +253,6 @@
 			"lastRelease": "2024-12-06T19:42:11Z",
 			"commitsSinceRelease": 37,
 			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 228,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/tomcat",
-			"description": "The Official Apache Tomcat Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2024-12-06T19:42:30Z",
-			"commitsSinceRelease": 30,
-			"lastPush": "2026-03-08T03:49:06Z",
 			"attentionScore": 228,
 			"unengagedCount": 0
 		},
@@ -525,11 +525,11 @@
 			"description": "The Official Lando Pantheon plugin.",
 			"language": "JavaScript",
 			"openIssues": 18,
-			"openPRs": 1,
+			"openPRs": 0,
 			"lastRelease": "2026-02-22T04:34:05Z",
-			"commitsSinceRelease": 7,
-			"lastPush": "2026-03-08T03:21:36Z",
-			"attentionScore": 57,
+			"commitsSinceRelease": 10,
+			"lastPush": "2026-03-08T04:37:46Z",
+			"attentionScore": 55,
 			"unengagedCount": 10
 		},
 		{
@@ -593,6 +593,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/acquia",
+			"description": "The Official Acquia Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 4,
+			"openPRs": 2,
+			"lastRelease": "2026-02-24T04:45:09Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-03-08T02:24:29Z",
+			"attentionScore": 29,
+			"unengagedCount": 5
+		},
+		{
 			"name": "lando/nginx",
 			"description": "The Official NGINX Lando Plugin",
 			"language": "JavaScript",
@@ -615,18 +627,6 @@
 			"lastPush": "2026-03-08T02:29:06Z",
 			"attentionScore": 28.5,
 			"unengagedCount": 4
-		},
-		{
-			"name": "lando/acquia",
-			"description": "The Official Acquia Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 4,
-			"openPRs": 2,
-			"lastRelease": "2026-02-24T04:45:09Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-03-08T02:24:29Z",
-			"attentionScore": 28.5,
-			"unengagedCount": 5
 		},
 		{
 			"name": "lando/ruby",
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-08T03:04:16Z",
-			"attentionScore": 18.5,
+			"attentionScore": 19,
 			"unengagedCount": 3
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-08T03:05:40Z",
-			"attentionScore": 18.5,
+			"attentionScore": 19,
 			"unengagedCount": 3
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-03-08T02:53:08Z",
-			"attentionScore": 9.5,
+			"attentionScore": 10,
 			"unengagedCount": 1
 		},
 		{
@@ -735,6 +735,18 @@
 			"lastPush": "2026-03-08T02:27:56Z",
 			"attentionScore": 9,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-03-06T04:13:10Z",
+			"attentionScore": 6.5,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/phpmyadmin",
@@ -757,18 +769,6 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-03-05T14:34:45Z",
-			"attentionScore": 6,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-03-06T04:13:10Z",
 			"attentionScore": 6,
 			"unengagedCount": 0
 		},
