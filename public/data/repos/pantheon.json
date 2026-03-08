@@ -188,20 +188,6 @@
 			"createdAt": "2026-03-08T01:53:53Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/pantheon/pull/346"
-		},
-		{
-			"title": "build(deps): bump @lando/php from 1.11.1 to 1.11.2",
-			"author": "dependabot",
-			"createdAt": "2026-02-25T21:52:59Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/pantheon/pull/344"
-		},
-		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:54:44Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/pantheon/pull/342"
 		}
 	],
 	"releases": [

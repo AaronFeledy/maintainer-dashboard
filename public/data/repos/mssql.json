@@ -22,22 +22,7 @@
 			"url": "https://github.com/lando/mssql/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:09Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mssql/pull/47"
-		},
-		{
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:59Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mssql/pull/46"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.4.3",

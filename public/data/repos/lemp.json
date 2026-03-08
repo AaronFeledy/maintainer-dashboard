@@ -53,15 +53,7 @@
 			"url": "https://github.com/lando/lemp/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "feat: update @lando/php to ^1.12.0",
-			"author": "AaronFeledy",
-			"createdAt": "2026-03-08T01:53:52Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lemp/pull/86"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.10.0",
