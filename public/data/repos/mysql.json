@@ -55,13 +55,6 @@
 			"url": "https://github.com/lando/mysql/pull/89"
 		},
 		{
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:08Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mysql/pull/87"
-		},
-		{
 			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:10:55Z",

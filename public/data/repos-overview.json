@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-08T18:07:02.769Z",
+		"fetchedAt": "2026-03-08T20:05:20.424Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 750.5,
+			"attentionScore": 751,
 			"unengagedCount": 1
 		},
 		{
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 10,
 			"lastPush": "2026-03-05T05:30:19Z",
-			"attentionScore": 514.5,
+			"attentionScore": 515,
 			"unengagedCount": 2
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-03-08T02:35:13Z",
-			"attentionScore": 272,
+			"attentionScore": 272.5,
 			"unengagedCount": 8
 		},
 		{
@@ -169,7 +169,7 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-08T02:34:45Z",
-			"attentionScore": 271,
+			"attentionScore": 271.5,
 			"unengagedCount": 9
 		},
 		{
@@ -229,7 +229,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-03-08T03:42:34Z",
-			"attentionScore": 230,
+			"attentionScore": 230.5,
 			"unengagedCount": 0
 		},
 		{
@@ -241,7 +241,7 @@
 			"lastRelease": "2024-12-06T19:42:11Z",
 			"commitsSinceRelease": 37,
 			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 228,
+			"attentionScore": 228.5,
 			"unengagedCount": 0
 		},
 		{
@@ -253,7 +253,7 @@
 			"lastRelease": "2024-12-06T19:42:30Z",
 			"commitsSinceRelease": 33,
 			"lastPush": "2026-03-08T16:34:52Z",
-			"attentionScore": 228,
+			"attentionScore": 228.5,
 			"unengagedCount": 0
 		},
 		{
@@ -353,18 +353,6 @@
 			"unengagedCount": 2
 		},
 		{
-			"name": "lando/mysql",
-			"description": "The Official MySQL Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 5,
-			"openPRs": 7,
-			"lastRelease": "2025-08-31T14:00:11Z",
-			"commitsSinceRelease": 15,
-			"lastPush": "2026-03-05T14:34:41Z",
-			"attentionScore": 137.5,
-			"unengagedCount": 8
-		},
-		{
 			"name": "lando/blog",
 			"description": "Lando's Blog Subsite",
 			"language": "Vue",
@@ -373,8 +361,20 @@
 			"lastRelease": "2025-09-03T19:41:18Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-02-23T08:38:41Z",
-			"attentionScore": 136.5,
+			"attentionScore": 137,
 			"unengagedCount": 9
+		},
+		{
+			"name": "lando/mysql",
+			"description": "The Official MySQL Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 5,
+			"openPRs": 6,
+			"lastRelease": "2025-08-31T14:00:11Z",
+			"commitsSinceRelease": 16,
+			"lastPush": "2026-03-08T20:01:55Z",
+			"attentionScore": 132.5,
+			"unengagedCount": 7
 		},
 		{
 			"name": "lando/setup-lando",
@@ -409,7 +409,7 @@
 			"lastRelease": "2025-08-28T19:28:14Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-03-08T02:35:14Z",
-			"attentionScore": 125.5,
+			"attentionScore": 126,
 			"unengagedCount": 6
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-09-03T18:25:33Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-08T02:33:40Z",
-			"attentionScore": 116.5,
+			"attentionScore": 117,
 			"unengagedCount": 5
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-03-08T02:34:36Z",
-			"attentionScore": 104,
+			"attentionScore": 104.5,
 			"unengagedCount": 2
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-03-08T02:55:13Z",
-			"attentionScore": 61,
+			"attentionScore": 61.5,
 			"unengagedCount": 3
 		},
 		{
@@ -541,7 +541,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-03-05T14:34:48Z",
-			"attentionScore": 51.5,
+			"attentionScore": 52,
 			"unengagedCount": 1
 		},
 		{
