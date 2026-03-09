@@ -5,14 +5,19 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "fix: enable mod_expires and fix unclosed IfModule in httpd.conf",
-			"author": "AaronFeledy",
-			"createdAt": "2026-03-07T23:02:25Z",
+			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
+			"author": "dependabot",
+			"createdAt": "2026-03-09T01:03:33Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/apache/pull/59"
+			"url": "https://github.com/lando/apache/pull/60"
 		}
 	],
 	"releases": [
+		{
+			"tagName": "v1.3.0",
+			"publishedAt": "2026-03-08T02:17:59Z",
+			"url": "https://github.com/lando/apache/releases/tag/v1.3.0"
+		},
 		{
 			"tagName": "v1.2.0",
 			"publishedAt": "2025-08-30T17:08:19Z",
@@ -32,11 +37,6 @@
 			"tagName": "v1.1.1",
 			"publishedAt": "2024-11-04T21:01:49Z",
 			"url": "https://github.com/lando/apache/releases/tag/v1.1.1"
-		},
-		{
-			"tagName": "v1.1.0",
-			"publishedAt": "2024-10-24T21:30:46Z",
-			"url": "https://github.com/lando/apache/releases/tag/v1.1.0"
 		}
 	]
 }
