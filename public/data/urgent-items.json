@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-08T22:05:07.469Z",
+		"fetchedAt": "2026-03-09T00:22:56.196Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3378,6 +3378,33 @@
 			"createdAt": "2026-03-03T00:17:07Z",
 			"url": "https://github.com/lando/symfony/issues/88",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/plugin-test",
+			"number": 8,
+			"title": "Bump immutable from 4.1.0 to 4.3.8",
+			"author": "dependabot",
+			"createdAt": "2026-03-05T05:30:19Z",
+			"url": "https://github.com/lando/plugin-test/pull/8",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 135,
+			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-03-05T15:47:31Z",
+			"url": "https://github.com/lando/core-next/pull/135",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 444,
+			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-03-05T15:49:44Z",
+			"url": "https://github.com/lando/core/pull/444",
+			"type": "pr"
 		}
 	]
 }
