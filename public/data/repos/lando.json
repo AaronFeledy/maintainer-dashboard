@@ -4,6 +4,16 @@
 	"language": null,
 	"issues": [
 		{
+			"title": "extremely long bootup times.",
+			"author": "alphex",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-03-09T16:09:35Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3837"
+		},
+		{
 			"title": "Cannot install lando on Windows 11 25H2 due to powershell Syntax error: \"(\" unexpected (expecting \")\")  FAILED",
 			"author": "kaszarobert",
 			"labels": [
@@ -472,14 +482,6 @@
 			"createdAt": "2023-05-15T07:58:02Z",
 			"commentCount": 2,
 			"url": "https://github.com/lando/lando/issues/3568"
-		},
-		{
-			"title": "How to use Lando proxy with Brave browser? ",
-			"author": "com2",
-			"labels": [],
-			"createdAt": "2023-05-04T08:36:23Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/lando/issues/3563"
 		}
 	],
 	"pullRequests": [
