@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-09T20:08:21.809Z",
+		"fetchedAt": "2026-03-09T22:07:16.343Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2025-07-23T20:47:11Z",
-			"attentionScore": 793.5,
+			"attentionScore": 794,
 			"unengagedCount": 3
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-08T02:34:18Z",
-			"attentionScore": 477.5,
+			"attentionScore": 478,
 			"unengagedCount": 44
 		},
 		{
@@ -181,8 +181,8 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 28,
 			"lastPush": "2026-03-09T15:44:40Z",
-			"attentionScore": 271.5,
-			"unengagedCount": 7
+			"attentionScore": 268.5,
+			"unengagedCount": 6
 		},
 		{
 			"name": "lando/devtool",
@@ -385,7 +385,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-03-08T02:35:15Z",
-			"attentionScore": 131.5,
+			"attentionScore": 132,
 			"unengagedCount": 6
 		},
 		{
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-23T08:46:23Z",
-			"attentionScore": 122,
+			"attentionScore": 122.5,
 			"unengagedCount": 6
 		},
 		{
@@ -629,18 +629,6 @@
 			"unengagedCount": 5
 		},
 		{
-			"name": "lando/php",
-			"description": "The Official Lando PHP plugin.",
-			"language": "Dockerfile",
-			"openIssues": 12,
-			"openPRs": 3,
-			"lastRelease": "2026-03-08T01:37:41Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-03-09T18:50:09Z",
-			"attentionScore": 27.5,
-			"unengagedCount": 3
-		},
-		{
 			"name": "lando/ruby",
 			"description": "The Official Ruby Lando Plugin",
 			"language": "JavaScript",
@@ -651,6 +639,18 @@
 			"lastPush": "2026-03-05T14:34:43Z",
 			"attentionScore": 27.5,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/php",
+			"description": "The Official Lando PHP plugin.",
+			"language": "Dockerfile",
+			"openIssues": 12,
+			"openPRs": 2,
+			"lastRelease": "2026-03-08T01:37:41Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-03-09T20:47:30Z",
+			"attentionScore": 25.5,
+			"unengagedCount": 3
 		},
 		{
 			"name": "lando/lamp",

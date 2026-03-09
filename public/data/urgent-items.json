@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-09T20:08:21.809Z",
+		"fetchedAt": "2026-03-09T22:07:16.343Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2981,15 +2981,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:07Z",
 			"url": "https://github.com/lando/blog/pull/57",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lagoon",
-			"number": 104,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:08Z",
-			"url": "https://github.com/lando/lagoon/pull/104",
 			"type": "pr"
 		},
 		{

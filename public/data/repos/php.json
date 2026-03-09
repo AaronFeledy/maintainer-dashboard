@@ -128,13 +128,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "chore(deps): bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-03-09T18:50:10Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/php/pull/245"
-		},
-		{
 			"title": "lando/lando#2718: Explicitly set client_port to 9003.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-10-21T18:15:22Z",
