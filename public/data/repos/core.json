@@ -12,16 +12,6 @@
 			"url": "https://github.com/lando/core/issues/432"
 		},
 		{
-			"title": "ImageMagick v.7",
-			"author": "charlieartist",
-			"labels": [
-				"Needs Triage"
-			],
-			"createdAt": "2025-12-24T16:28:27Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/core/issues/414"
-		},
-		{
 			"title": "pluginDirs should point to the actual directory containing the plugins",
 			"author": "AaronFeledy",
 			"labels": [
@@ -467,6 +457,14 @@
 			"createdAt": "2023-08-25T23:42:54Z",
 			"commentCount": 5,
 			"url": "https://github.com/lando/core/issues/64"
+		},
+		{
+			"title": "Tooling - Dynamic service commands enhancment",
+			"author": "phpsa",
+			"labels": [],
+			"createdAt": "2023-06-01T23:59:49Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/44"
 		}
 	],
 	"pullRequests": [

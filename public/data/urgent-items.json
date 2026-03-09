@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-09T08:13:55.715Z",
+		"fetchedAt": "2026-03-09T10:17:56.295Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2523,15 +2523,6 @@
 			"createdAt": "2025-12-15T22:09:16Z",
 			"url": "https://github.com/lando/mean/pull/64",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 414,
-			"title": "ImageMagick v.7",
-			"author": "charlieartist",
-			"createdAt": "2025-12-24T16:28:27Z",
-			"url": "https://github.com/lando/core/issues/414",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/run-leia-action",
