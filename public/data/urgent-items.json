@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-09T22:07:16.343Z",
+		"fetchedAt": "2026-03-10T00:19:50.462Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3386,6 +3386,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-03-05T15:49:44Z",
 			"url": "https://github.com/lando/core/pull/444",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/code-sign-action",
+			"number": 25,
+			"title": "Bump tar from 7.4.3 to 7.5.10",
+			"author": "dependabot",
+			"createdAt": "2026-03-06T12:15:41Z",
+			"url": "https://github.com/lando/code-sign-action/pull/25",
 			"type": "pr"
 		}
 	]
