@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-10T14:18:43.667Z",
+		"fetchedAt": "2026-03-10T16:22:49.226Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 668.5,
+			"attentionScore": 669,
 			"unengagedCount": 10
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 378.5,
+			"attentionScore": 379,
 			"unengagedCount": 5
 		},
 		{
@@ -245,18 +245,6 @@
 			"unengagedCount": 0
 		},
 		{
-			"name": "lando/tomcat",
-			"description": "The Official Apache Tomcat Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2024-12-06T19:42:30Z",
-			"commitsSinceRelease": 33,
-			"lastPush": "2026-03-08T16:34:52Z",
-			"attentionScore": 229,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/telemetry",
 			"description": null,
 			"language": "JavaScript",
@@ -349,7 +337,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 145.5,
+			"attentionScore": 146,
 			"unengagedCount": 2
 		},
 		{
@@ -397,7 +385,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-03-06T02:00:20Z",
-			"attentionScore": 129,
+			"attentionScore": 129.5,
 			"unengagedCount": 7
 		},
 		{
@@ -469,7 +457,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-03-08T03:47:38Z",
-			"attentionScore": 96,
+			"attentionScore": 96.5,
 			"unengagedCount": 1
 		},
 		{
@@ -481,7 +469,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-03-08T02:34:08Z",
-			"attentionScore": 94.5,
+			"attentionScore": 95,
 			"unengagedCount": 0
 		},
 		{
@@ -577,7 +565,7 @@
 			"lastRelease": "2026-03-05T14:33:33Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-03-08T02:34:51Z",
-			"attentionScore": 47,
+			"attentionScore": 47.5,
 			"unengagedCount": 10
 		},
 		{
@@ -782,6 +770,18 @@
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-03-09T14:34:53Z",
 			"attentionScore": 1,
+			"unengagedCount": 0
+		},
+		{
+			"name": "lando/tomcat",
+			"description": "The Official Apache Tomcat Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-03-10T15:54:35Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-03-10T15:55:03Z",
+			"attentionScore": 0,
 			"unengagedCount": 0
 		}
 	]
