@@ -147,6 +147,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: strip additional_contexts and resolve relative build contexts",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-10T01:16:25Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lagoon/pull/107"
+		},
+		{
 			"title": "Bump the actions group with 4 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:08Z",
