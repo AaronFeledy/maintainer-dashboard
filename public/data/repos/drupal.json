@@ -49,6 +49,11 @@
 	"pullRequests": [],
 	"releases": [
 		{
+			"tagName": "v1.15.0",
+			"publishedAt": "2026-03-11T04:30:43Z",
+			"url": "https://github.com/lando/drupal/releases/tag/v1.15.0"
+		},
+		{
 			"tagName": "v1.14.1",
 			"publishedAt": "2026-02-20T04:30:49Z",
 			"url": "https://github.com/lando/drupal/releases/tag/v1.14.1"
@@ -67,11 +72,6 @@
 			"tagName": "v1.12.0",
 			"publishedAt": "2025-01-16T19:12:25Z",
 			"url": "https://github.com/lando/drupal/releases/tag/v1.12.0"
-		},
-		{
-			"tagName": "v1.11.0",
-			"publishedAt": "2024-12-09T14:26:53Z",
-			"url": "https://github.com/lando/drupal/releases/tag/v1.11.0"
 		}
 	]
 }
