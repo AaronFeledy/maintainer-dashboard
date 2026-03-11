@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-11T12:12:54.635Z",
-		"repoCount": 64
+		"fetchedAt": "2026-03-11T14:19:39.729Z",
+		"repoCount": 65
 	},
 	"items": [
 		{
@@ -2318,6 +2318,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/memcached",
+			"number": 49,
+			"title": "Bump vite from 5.4.20 to 5.4.21",
+			"author": "dependabot",
+			"createdAt": "2025-10-21T08:02:57Z",
+			"url": "https://github.com/lando/memcached/pull/49",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/mysql",
 			"number": 82,
 			"title": "Bump vite from 5.4.20 to 5.4.21",
@@ -2405,6 +2414,15 @@
 			"author": "dependabot",
 			"createdAt": "2025-11-23T23:52:17Z",
 			"url": "https://github.com/lando/events/pull/48",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/memcached",
+			"number": 50,
+			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
+			"author": "dependabot",
+			"createdAt": "2025-12-02T03:35:08Z",
+			"url": "https://github.com/lando/memcached/pull/50",
 			"type": "pr"
 		},
 		{
@@ -2615,6 +2633,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/memcached",
+			"number": 51,
+			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-21T23:39:06Z",
+			"url": "https://github.com/lando/memcached/pull/51",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/website",
 			"number": 71,
 			"title": "Bump lodash from 4.17.21 to 4.17.23",
@@ -2675,6 +2702,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-01-22T02:34:07Z",
 			"url": "https://github.com/lando/mailhog/pull/50",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/memcached",
+			"number": 52,
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:34:15Z",
+			"url": "https://github.com/lando/memcached/pull/52",
 			"type": "pr"
 		},
 		{
@@ -3083,6 +3119,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/memcached",
+			"number": 53,
+			"title": "Bump the actions group with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:31:18Z",
+			"url": "https://github.com/lando/memcached/pull/53",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/website",
 			"number": 73,
 			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.34 to 1.0.0-beta.49",
@@ -3170,6 +3215,15 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:52Z",
 			"url": "https://github.com/lando/mysql/pull/89",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/memcached",
+			"number": 55,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:57Z",
+			"url": "https://github.com/lando/memcached/pull/55",
 			"type": "pr"
 		},
 		{
