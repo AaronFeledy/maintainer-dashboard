@@ -184,6 +184,11 @@
 	"pullRequests": [],
 	"releases": [
 		{
+			"tagName": "v1.13.0",
+			"publishedAt": "2026-03-11T04:39:18Z",
+			"url": "https://github.com/lando/pantheon/releases/tag/v1.13.0"
+		},
+		{
 			"tagName": "v1.12.0",
 			"publishedAt": "2026-02-22T04:34:05Z",
 			"url": "https://github.com/lando/pantheon/releases/tag/v1.12.0"
@@ -202,11 +207,6 @@
 			"tagName": "v1.9.5",
 			"publishedAt": "2025-01-31T03:17:24Z",
 			"url": "https://github.com/lando/pantheon/releases/tag/v1.9.5"
-		},
-		{
-			"tagName": "v1.9.4",
-			"publishedAt": "2025-01-18T14:23:36Z",
-			"url": "https://github.com/lando/pantheon/releases/tag/v1.9.4"
 		}
 	]
 }
