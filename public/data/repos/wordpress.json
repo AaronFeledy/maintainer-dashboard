@@ -107,6 +107,11 @@
 	"pullRequests": [],
 	"releases": [
 		{
+			"tagName": "v1.11.0",
+			"publishedAt": "2026-03-11T16:53:00Z",
+			"url": "https://github.com/lando/wordpress/releases/tag/v1.11.0"
+		},
+		{
 			"tagName": "v1.10.1",
 			"publishedAt": "2026-02-22T17:30:32Z",
 			"url": "https://github.com/lando/wordpress/releases/tag/v1.10.1"
@@ -125,11 +130,6 @@
 			"tagName": "v1.8.0",
 			"publishedAt": "2024-12-09T14:50:34Z",
 			"url": "https://github.com/lando/wordpress/releases/tag/v1.8.0"
-		},
-		{
-			"tagName": "v1.7.3",
-			"publishedAt": "2024-12-06T19:42:40Z",
-			"url": "https://github.com/lando/wordpress/releases/tag/v1.7.3"
 		}
 	]
 }
