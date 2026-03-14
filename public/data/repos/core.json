@@ -469,10 +469,10 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Experiment: containerd/nerdctl engine backend",
+			"title": "feat: containerd/nerdctl engine backend",
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-14T03:07:20Z",
-			"reviewCount": 1,
+			"reviewCount": 3,
 			"url": "https://github.com/lando/core/pull/445"
 		},
 		{
