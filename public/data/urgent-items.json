@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-14T22:05:41.827Z",
+		"fetchedAt": "2026-03-15T00:26:33.712Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3395,6 +3395,15 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-10T01:16:25Z",
 			"url": "https://github.com/lando/lagoon/pull/107",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/code-sign-action",
+			"number": 26,
+			"title": "Bump tar from 7.4.3 to 7.5.11",
+			"author": "dependabot",
+			"createdAt": "2026-03-11T19:09:35Z",
+			"url": "https://github.com/lando/code-sign-action/pull/26",
 			"type": "pr"
 		}
 	]
