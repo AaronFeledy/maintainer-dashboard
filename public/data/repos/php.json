@@ -4,6 +4,14 @@
 	"language": "Dockerfile",
 	"issues": [
 		{
+			"title": "Xdebug extension not enabled on PHP 8.3 suffix 6 (Debian 13/trixie) images",
+			"author": "krisvanderven",
+			"labels": [],
+			"createdAt": "2026-03-16T18:48:46Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/php/issues/246"
+		},
+		{
 			"title": "FrankenPHP support",
 			"author": "ttk",
 			"labels": [],
