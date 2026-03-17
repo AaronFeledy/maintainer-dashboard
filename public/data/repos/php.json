@@ -136,6 +136,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "feat: xdebug configurability overhaul",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-17T02:52:53Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/247"
+		},
+		{
 			"title": "lando/lando#2718: Explicitly set client_port to 9003.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-10-21T18:15:22Z",
