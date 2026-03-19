@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump flatted from 3.2.7 to 3.4.2",
+			"author": "dependabot",
+			"createdAt": "2026-03-19T20:37:47Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/plugin-test/pull/9"
+		},
+		{
 			"title": "Bump immutable from 4.1.0 to 4.3.8",
 			"author": "dependabot",
 			"createdAt": "2026-03-05T05:30:19Z",

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-19T20:11:59.178Z",
+		"fetchedAt": "2026-03-19T22:06:19.685Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2025-07-23T20:47:11Z",
-			"attentionScore": 798.5,
+			"attentionScore": 799,
 			"unengagedCount": 3
 		},
 		{
@@ -57,11 +57,11 @@
 			"description": "Dummy plugin for testing Lando's plugin-related commands.",
 			"language": "JavaScript",
 			"openIssues": 0,
-			"openPRs": 3,
+			"openPRs": 4,
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 10,
-			"lastPush": "2026-03-05T05:30:19Z",
-			"attentionScore": 523.5,
+			"lastPush": "2026-03-19T20:37:47Z",
+			"attentionScore": 525.5,
 			"unengagedCount": 3
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-13T09:15:56Z",
-			"attentionScore": 482.5,
+			"attentionScore": 483,
 			"unengagedCount": 44
 		},
 		{
@@ -373,7 +373,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-03-08T02:35:15Z",
-			"attentionScore": 136.5,
+			"attentionScore": 137,
 			"unengagedCount": 6
 		},
 		{
@@ -409,7 +409,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-23T08:46:23Z",
-			"attentionScore": 127,
+			"attentionScore": 127.5,
 			"unengagedCount": 6
 		},
 		{
