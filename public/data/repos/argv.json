@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump flatted from 3.3.3 to 3.4.2",
+			"author": "dependabot",
+			"createdAt": "2026-03-21T10:40:05Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/argv/pull/15"
+		},
+		{
 			"title": "Bump minimatch",
 			"author": "dependabot",
 			"createdAt": "2026-02-28T10:36:40Z",
