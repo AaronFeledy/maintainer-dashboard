@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-20T22:06:44.868Z",
+		"fetchedAt": "2026-03-21T00:21:39.805Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3413,6 +3413,15 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-14T03:07:20Z",
 			"url": "https://github.com/lando/core/pull/445",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/php",
+			"number": 247,
+			"title": "feat: xdebug configurability overhaul",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-17T02:52:53Z",
+			"url": "https://github.com/lando/php/pull/247",
 			"type": "pr"
 		}
 	]
