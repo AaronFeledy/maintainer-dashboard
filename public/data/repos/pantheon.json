@@ -11,7 +11,7 @@
 				"Needs Triage"
 			],
 			"createdAt": "2026-03-23T17:42:40Z",
-			"commentCount": 1,
+			"commentCount": 3,
 			"url": "https://github.com/lando/pantheon/issues/347"
 		},
 		{
@@ -192,7 +192,15 @@
 			"url": "https://github.com/lando/pantheon/issues/10"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "fix: warn and fallback for unsupported PHP versions",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-23T20:39:37Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/pantheon/pull/348"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.13.0",
