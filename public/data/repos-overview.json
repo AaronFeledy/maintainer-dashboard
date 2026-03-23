@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-23T03:04:58.569Z",
+		"fetchedAt": "2026-03-23T04:45:32.349Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -553,7 +553,7 @@
 			"lastRelease": "2026-03-11T04:39:18Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-11T04:39:46Z",
-			"attentionScore": 53.5,
+			"attentionScore": 54,
 			"unengagedCount": 10
 		},
 		{
@@ -601,7 +601,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-11T04:21:29Z",
-			"attentionScore": 36,
+			"attentionScore": 36.5,
 			"unengagedCount": 5
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 35.5,
+			"attentionScore": 36,
 			"unengagedCount": 5
 		},
 		{
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-11T04:12:07Z",
-			"attentionScore": 19,
+			"attentionScore": 19.5,
 			"unengagedCount": 1
 		},
 		{
@@ -713,6 +713,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-03-06T04:13:10Z",
+			"attentionScore": 14,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -737,18 +749,6 @@
 			"unengagedCount": 0
 		},
 		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-03-06T04:13:10Z",
-			"attentionScore": 13.5,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/drupal",
 			"description": "The Official Drupal Lando plugin",
 			"language": "JavaScript",
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-11T04:31:11Z",
-			"attentionScore": 12.5,
+			"attentionScore": 13,
 			"unengagedCount": 1
 		},
 		{
