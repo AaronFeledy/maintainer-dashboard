@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-25T18:20:57.336Z",
+		"fetchedAt": "2026-03-25T20:13:02.085Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2786,15 +2786,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core-next",
-			"number": 122,
-			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:40:57Z",
-			"url": "https://github.com/lando/core-next/pull/122",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 426,
 			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
@@ -2804,39 +2795,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 427,
-			"title": "Bump fastify and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:44:10Z",
-			"url": "https://github.com/lando/core/pull/427",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 123,
-			"title": "Bump fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:48:19Z",
-			"url": "https://github.com/lando/core-next/pull/123",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 124,
 			"title": "Bump fastify and fastify-cli in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-02-02T23:50:36Z",
 			"url": "https://github.com/lando/core-next/pull/124",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 428,
-			"title": "Bump fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:52:38Z",
-			"url": "https://github.com/lando/core/pull/428",
 			"type": "pr"
 		},
 		{

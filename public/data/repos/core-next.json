@@ -190,6 +190,27 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump fastify and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-03-25T20:13:09Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/138"
+		},
+		{
+			"title": "Bump fastify and fastify-cli in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-03-25T20:09:53Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/137"
+		},
+		{
+			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-03-25T19:38:20Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/136"
+		},
+		{
 			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/command",
 			"author": "dependabot",
 			"createdAt": "2026-03-05T15:47:31Z",
@@ -251,27 +272,6 @@
 			"createdAt": "2026-02-18T04:05:48Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core-next/pull/126"
-		},
-		{
-			"title": "Bump fastify and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:50:36Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/124"
-		},
-		{
-			"title": "Bump fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:48:19Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/123"
-		},
-		{
-			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:40:57Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/122"
 		},
 		{
 			"title": "feat: add buildx check/install to lando setup",

@@ -469,6 +469,20 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump fastify and fastify-cli in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-03-25T20:09:49Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/447"
+		},
+		{
+			"title": "Bump fastify and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-03-25T19:38:34Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/446"
+		},
+		{
 			"title": "feat: containerd/nerdctl engine backend",
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-14T03:07:20Z",
@@ -544,20 +558,6 @@
 			"createdAt": "2026-02-10T21:57:01Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core/pull/429"
-		},
-		{
-			"title": "Bump fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:52:38Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/428"
-		},
-		{
-			"title": "Bump fastify and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:44:10Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/427"
 		},
 		{
 			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
