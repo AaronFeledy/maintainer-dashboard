@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-25T20:13:02.085Z",
+		"fetchedAt": "2026-03-25T22:11:43.261Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2025-07-23T20:47:11Z",
-			"attentionScore": 801.5,
+			"attentionScore": 802,
 			"unengagedCount": 3
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-13T09:15:56Z",
-			"attentionScore": 485.5,
+			"attentionScore": 486,
 			"unengagedCount": 44
 		},
 		{
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 335,
+			"attentionScore": 335.5,
 			"unengagedCount": 6
 		},
 		{
@@ -305,18 +305,6 @@
 			"unengagedCount": 0
 		},
 		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 19,
-			"openPRs": 15,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-03-25T20:13:08Z",
-			"attentionScore": 156,
-			"unengagedCount": 18
-		},
-		{
 			"name": "lando/auto-deploy-action",
 			"description": "A GitHub action that auto deploys new versions of (currently only) node packages from their source repo to various target repos.",
 			"language": null,
@@ -327,6 +315,18 @@
 			"lastPush": "2025-07-23T20:46:52Z",
 			"attentionScore": 153.5,
 			"unengagedCount": 2
+		},
+		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 19,
+			"openPRs": 15,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-03-25T20:13:13Z",
+			"attentionScore": 153,
+			"unengagedCount": 17
 		},
 		{
 			"name": "lando/blog",
@@ -361,7 +361,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-03-08T02:35:15Z",
-			"attentionScore": 139.5,
+			"attentionScore": 140,
 			"unengagedCount": 6
 		},
 		{
@@ -409,7 +409,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-23T08:46:23Z",
-			"attentionScore": 130,
+			"attentionScore": 130.5,
 			"unengagedCount": 6
 		},
 		{
