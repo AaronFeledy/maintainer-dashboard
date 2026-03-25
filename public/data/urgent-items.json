@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-24T22:09:38.287Z",
+		"fetchedAt": "2026-03-25T00:24:22.602Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3422,6 +3422,15 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-17T02:52:53Z",
 			"url": "https://github.com/lando/php/pull/247",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/argv",
+			"number": 15,
+			"title": "Bump flatted from 3.3.3 to 3.4.2",
+			"author": "dependabot",
+			"createdAt": "2026-03-21T10:40:05Z",
+			"url": "https://github.com/lando/argv/pull/15",
 			"type": "pr"
 		}
 	]
