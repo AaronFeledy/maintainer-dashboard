@@ -190,6 +190,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-03-26T04:57:57Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/139"
+		},
+		{
 			"title": "Bump fastify and fastify-cli in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-03-25T20:13:09Z",
