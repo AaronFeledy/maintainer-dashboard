@@ -4,13 +4,29 @@
 	"language": null,
 	"issues": [
 		{
+			"title": "Create FrankenPHP Recipe",
+			"author": "ronald2wing",
+			"labels": [],
+			"createdAt": "2026-03-26T17:58:18Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3841"
+		},
+		{
+			"title": "Add recipe for the PHP Magento 2 Framework",
+			"author": "ronald2wing",
+			"labels": [],
+			"createdAt": "2026-03-26T17:56:37Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/lando/issues/3840"
+		},
+		{
 			"title": "What kind of cycle or \"cache\" is there for docs?",
 			"author": "miikkamakela-into",
 			"labels": [
 				"documentation"
 			],
 			"createdAt": "2026-03-26T07:41:02Z",
-			"commentCount": 0,
+			"commentCount": 1,
 			"url": "https://github.com/lando/lando/issues/3839"
 		},
 		{
@@ -462,26 +478,6 @@
 			"createdAt": "2023-05-17T14:29:20Z",
 			"commentCount": 3,
 			"url": "https://github.com/lando/lando/issues/3571"
-		},
-		{
-			"title": "Lando start: Request failed (401) but started successfully",
-			"author": "RicLeP",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2023-05-16T16:02:13Z",
-			"commentCount": 6,
-			"url": "https://github.com/lando/lando/issues/3570"
-		},
-		{
-			"title": "Xdebug, Linux, VSCode: Could not connect to debugging client",
-			"author": "lukastom",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2023-05-15T22:08:50Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/lando/issues/3569"
 		}
 	],
 	"pullRequests": [
