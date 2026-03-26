@@ -469,6 +469,20 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-03-26T03:04:28Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/449"
+		},
+		{
+			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-03-26T02:33:13Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/448"
+		},
+		{
 			"title": "Bump fastify and fastify-cli in /examples/command",
 			"author": "dependabot",
 			"createdAt": "2026-03-25T20:09:49Z",
