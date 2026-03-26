@@ -4,6 +4,16 @@
 	"language": null,
 	"issues": [
 		{
+			"title": "What kind of cycle or \"cache\" is there for docs?",
+			"author": "miikkamakela-into",
+			"labels": [
+				"documentation"
+			],
+			"createdAt": "2026-03-26T07:41:02Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3839"
+		},
+		{
 			"title": "extremely long bootup times.",
 			"author": "alphex",
 			"labels": [
@@ -472,16 +482,6 @@
 			"createdAt": "2023-05-15T22:08:50Z",
 			"commentCount": 1,
 			"url": "https://github.com/lando/lando/issues/3569"
-		},
-		{
-			"title": "New `lando vitals` command",
-			"author": "DuaelFr",
-			"labels": [
-				"feature"
-			],
-			"createdAt": "2023-05-15T07:58:02Z",
-			"commentCount": 2,
-			"url": "https://github.com/lando/lando/issues/3568"
 		}
 	],
 	"pullRequests": [

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-26T06:26:44.684Z",
+		"fetchedAt": "2026-03-26T08:19:06.256Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -128,12 +128,12 @@
 			"name": "lando/lando",
 			"description": "A development tool for all your projects that is fast, easy, powerful and liberating",
 			"language": null,
-			"openIssues": 173,
+			"openIssues": 174,
 			"openPRs": 3,
 			"lastRelease": "2025-12-17T13:47:32Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-02-24T21:10:02Z",
-			"attentionScore": 300,
+			"attentionScore": 301,
 			"unengagedCount": 24
 		},
 		{
