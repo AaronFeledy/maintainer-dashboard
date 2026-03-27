@@ -469,6 +469,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump brace-expansion from 2.0.1 to 2.0.3 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-03-27T20:16:42Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/451"
+		},
+		{
 			"title": "docs: update mailpit plugin icon",
 			"author": "miikkamakela-into",
 			"createdAt": "2026-03-27T11:01:03Z",
