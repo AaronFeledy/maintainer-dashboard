@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-26T22:06:38.283Z",
+		"fetchedAt": "2026-03-27T00:26:26.545Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3386,6 +3386,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-03-21T10:40:05Z",
 			"url": "https://github.com/lando/argv/pull/15",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 348,
+			"title": "fix: warn and fallback for unsupported PHP versions",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-23T20:39:37Z",
+			"url": "https://github.com/lando/pantheon/pull/348",
 			"type": "pr"
 		}
 	]
