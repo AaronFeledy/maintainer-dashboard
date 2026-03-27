@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump picomatch from 2.3.1 to 2.3.2",
+			"author": "dependabot",
+			"createdAt": "2026-03-27T09:59:34Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/plugin-test/pull/10"
+		},
+		{
 			"title": "Bump immutable from 4.1.0 to 4.3.8",
 			"author": "dependabot",
 			"createdAt": "2026-03-05T05:30:19Z",

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-27T08:17:01.267Z",
+		"fetchedAt": "2026-03-27T10:17:17.825Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -57,11 +57,11 @@
 			"description": "Dummy plugin for testing Lando's plugin-related commands.",
 			"language": "JavaScript",
 			"openIssues": 0,
-			"openPRs": 3,
+			"openPRs": 4,
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 11,
-			"lastPush": "2026-03-20T02:56:48Z",
-			"attentionScore": 527,
+			"lastPush": "2026-03-27T09:59:33Z",
+			"attentionScore": 529,
 			"unengagedCount": 3
 		},
 		{
