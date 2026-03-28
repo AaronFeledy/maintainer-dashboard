@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-28T03:02:29.779Z",
+		"fetchedAt": "2026-03-28T04:38:57.604Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -505,7 +505,7 @@
 			"lastRelease": "2026-03-11T04:39:18Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-23T20:52:28Z",
-			"attentionScore": 62,
+			"attentionScore": 62.5,
 			"unengagedCount": 11
 		},
 		{
@@ -581,6 +581,18 @@
 			"unengagedCount": 4
 		},
 		{
+			"name": "lando/nginx",
+			"description": "The Official NGINX Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 7,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T04:24:29Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-03-05T14:34:47Z",
+			"attentionScore": 38.5,
+			"unengagedCount": 5
+		},
+		{
 			"name": "lando/acquia",
 			"description": "The Official Acquia Lando Plugin",
 			"language": "JavaScript",
@@ -590,18 +602,6 @@
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-11T04:21:29Z",
 			"attentionScore": 38.5,
-			"unengagedCount": 5
-		},
-		{
-			"name": "lando/nginx",
-			"description": "The Official NGINX Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 7,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T04:24:29Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 38,
 			"unengagedCount": 5
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-11T04:12:07Z",
-			"attentionScore": 21.5,
+			"attentionScore": 22,
 			"unengagedCount": 1
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-11T04:31:11Z",
-			"attentionScore": 15,
+			"attentionScore": 15.5,
 			"unengagedCount": 1
 		},
 		{
