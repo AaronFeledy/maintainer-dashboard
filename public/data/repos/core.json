@@ -469,6 +469,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump brace-expansion from 2.0.2 to 2.0.3 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-03-29T16:03:29Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/452"
+		},
+		{
 			"title": "Bump brace-expansion from 2.0.1 to 2.0.3 in /examples/command",
 			"author": "dependabot",
 			"createdAt": "2026-03-27T20:16:42Z",
