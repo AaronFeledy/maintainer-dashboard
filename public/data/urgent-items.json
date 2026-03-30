@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-29T22:07:29.335Z",
+		"fetchedAt": "2026-03-30T00:27:38.835Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3450,6 +3450,51 @@
 			"createdAt": "2026-03-25T22:34:40Z",
 			"url": "https://github.com/lando/code-sign-action/pull/27",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/node",
+			"number": 123,
+			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/20",
+			"author": "dependabot",
+			"createdAt": "2026-03-26T01:46:43Z",
+			"url": "https://github.com/lando/node/pull/123",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 448,
+			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-03-26T02:33:13Z",
+			"url": "https://github.com/lando/core/pull/448",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 449,
+			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-03-26T03:04:28Z",
+			"url": "https://github.com/lando/core/pull/449",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 139,
+			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-03-26T04:57:57Z",
+			"url": "https://github.com/lando/core-next/pull/139",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lando",
+			"number": 3841,
+			"title": "Create FrankenPHP Recipe",
+			"author": "ronald2wing",
+			"createdAt": "2026-03-26T17:58:18Z",
+			"url": "https://github.com/lando/lando/issues/3841",
+			"type": "issue"
 		}
 	]
 }
