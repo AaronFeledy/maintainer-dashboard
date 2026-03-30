@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "normalizeVolumes() creates directories for bind-mount sources intended to be files",
+			"author": "dpagini",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2026-03-30T19:30:47Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core-next/issues/141"
+		},
+		{
 			"title": "Bundling support",
 			"author": "tiziodcaio",
 			"labels": [],
