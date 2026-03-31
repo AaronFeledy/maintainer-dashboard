@@ -483,13 +483,6 @@
 			"url": "https://github.com/lando/core/pull/451"
 		},
 		{
-			"title": "docs: update mailpit plugin icon",
-			"author": "miikkamakela-into",
-			"createdAt": "2026-03-27T11:01:03Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/450"
-		},
-		{
 			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/command",
 			"author": "dependabot",
 			"createdAt": "2026-03-26T03:04:28Z",
