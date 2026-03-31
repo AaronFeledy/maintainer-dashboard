@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-31T14:33:13.941Z",
+		"fetchedAt": "2026-03-31T16:23:33.748Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 679,
+			"attentionScore": 679.5,
 			"unengagedCount": 10
 		},
 		{
@@ -85,19 +85,19 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 389,
+			"attentionScore": 389.5,
 			"unengagedCount": 5
 		},
 		{
 			"name": "lando/core",
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
-			"openIssues": 55,
+			"openIssues": 54,
 			"openPRs": 39,
 			"lastRelease": "2025-12-17T13:41:05Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-29T16:03:29Z",
-			"attentionScore": 377,
+			"attentionScore": 376,
 			"unengagedCount": 64
 		},
 		{
@@ -325,7 +325,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 156,
+			"attentionScore": 156.5,
 			"unengagedCount": 2
 		},
 		{
@@ -373,7 +373,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-03-13T01:48:49Z",
-			"attentionScore": 137.5,
+			"attentionScore": 138,
 			"unengagedCount": 7
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-03-08T03:47:38Z",
-			"attentionScore": 106.5,
+			"attentionScore": 107,
 			"unengagedCount": 1
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-03-08T02:34:08Z",
-			"attentionScore": 105,
+			"attentionScore": 105.5,
 			"unengagedCount": 0
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-10T15:55:03Z",
-			"attentionScore": 10,
+			"attentionScore": 10.5,
 			"unengagedCount": 0
 		},
 		{
