@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-03-30T22:12:23.947Z",
+		"fetchedAt": "2026-03-31T00:26:27.691Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3495,6 +3495,33 @@
 			"createdAt": "2026-03-26T17:58:18Z",
 			"url": "https://github.com/lando/lando/issues/3841",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/run-leia-action",
+			"number": 15,
+			"title": "Bump picomatch from 2.3.1 to 2.3.2",
+			"author": "dependabot",
+			"createdAt": "2026-03-27T02:15:43Z",
+			"url": "https://github.com/lando/run-leia-action/pull/15",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/plugin-test",
+			"number": 10,
+			"title": "Bump picomatch from 2.3.1 to 2.3.2",
+			"author": "dependabot",
+			"createdAt": "2026-03-27T09:59:34Z",
+			"url": "https://github.com/lando/plugin-test/pull/10",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 450,
+			"title": "docs: update mailpit plugin icon",
+			"author": "miikkamakela-into",
+			"createdAt": "2026-03-27T11:01:03Z",
+			"url": "https://github.com/lando/core/pull/450",
+			"type": "pr"
 		}
 	]
 }
