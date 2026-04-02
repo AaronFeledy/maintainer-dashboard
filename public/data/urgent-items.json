@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-02T16:21:29.502Z",
+		"fetchedAt": "2026-04-02T18:18:38.680Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2543,15 +2543,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 416,
-			"title": "Bump preact from 10.26.9 to 10.28.2",
-			"author": "dependabot",
-			"createdAt": "2026-01-07T19:40:01Z",
-			"url": "https://github.com/lando/core/pull/416",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/vitepress-theme-default-plus",
 			"number": 90,
 			"title": "Revert to origenal color scheme",
@@ -2567,15 +2558,6 @@
 			"author": "amklose",
 			"createdAt": "2026-01-14T09:23:13Z",
 			"url": "https://github.com/lando/core/pull/417",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 418,
-			"title": "Bump undici from 6.21.3 to 6.23.0",
-			"author": "dependabot",
-			"createdAt": "2026-01-15T01:03:05Z",
-			"url": "https://github.com/lando/core/pull/418",
 			"type": "pr"
 		},
 		{
@@ -2621,15 +2603,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-01-21T23:29:50Z",
 			"url": "https://github.com/lando/mailhog/pull/49",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 421,
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:38:49Z",
-			"url": "https://github.com/lando/core/pull/421",
 			"type": "pr"
 		},
 		{
@@ -2711,15 +2684,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-01-22T02:34:15Z",
 			"url": "https://github.com/lando/memcached/pull/52",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 422,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:57:49Z",
-			"url": "https://github.com/lando/core/pull/422",
 			"type": "pr"
 		},
 		{
@@ -3047,15 +3011,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 434,
-			"title": "Bump the actions group with 6 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:14:24Z",
-			"url": "https://github.com/lando/core/pull/434",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/prepare-release-action",
 			"number": 28,
 			"title": "Bump actions/add-to-project from 1.0.0 to 1.0.2 in the actions group",
@@ -3107,15 +3062,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-22T02:14:25Z",
 			"url": "https://github.com/lando/core-next/pull/128",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 436,
-			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-22T10:46:28Z",
-			"url": "https://github.com/lando/core/pull/436",
 			"type": "pr"
 		},
 		{
@@ -3260,15 +3206,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-28T00:25:54Z",
 			"url": "https://github.com/lando/core/pull/441",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 442,
-			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-28T04:50:39Z",
-			"url": "https://github.com/lando/core/pull/442",
 			"type": "pr"
 		},
 		{

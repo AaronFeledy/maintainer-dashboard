@@ -532,13 +532,6 @@
 			"url": "https://github.com/lando/core/pull/443"
 		},
 		{
-			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-28T04:50:39Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/442"
-		},
-		{
 			"title": "fix: only allocate TTY when both stdin and stdout are terminals",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-28T00:25:54Z",
@@ -553,25 +546,11 @@
 			"url": "https://github.com/lando/core/pull/440"
 		},
 		{
-			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-22T10:46:28Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/436"
-		},
-		{
 			"title": "Bump minimatch and fastify-cli in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-02-22T01:31:01Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core/pull/435"
-		},
-		{
-			"title": "Bump the actions group with 6 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:14:24Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/434"
 		},
 		{
 			"title": "Bump tar, @npmcli/arborist, npm-profile and pacote",
@@ -609,39 +588,11 @@
 			"url": "https://github.com/lando/core/pull/423"
 		},
 		{
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:57:49Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/422"
-		},
-		{
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:38:49Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/421"
-		},
-		{
-			"title": "Bump undici from 6.21.3 to 6.23.0",
-			"author": "dependabot",
-			"createdAt": "2026-01-15T01:03:05Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/418"
-		},
-		{
 			"title": "Pedantically fixing verb tense in init command description",
 			"author": "amklose",
 			"createdAt": "2026-01-14T09:23:13Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core/pull/417"
-		},
-		{
-			"title": "Bump preact from 10.26.9 to 10.28.2",
-			"author": "dependabot",
-			"createdAt": "2026-01-07T19:40:01Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/416"
 		},
 		{
 			"title": "Addresses #2268",
