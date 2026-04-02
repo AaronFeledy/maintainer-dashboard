@@ -546,32 +546,11 @@
 			"url": "https://github.com/lando/core/pull/440"
 		},
 		{
-			"title": "Bump minimatch and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-22T01:31:01Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/435"
-		},
-		{
-			"title": "Bump tar, @npmcli/arborist, npm-profile and pacote",
-			"author": "dependabot",
-			"createdAt": "2026-02-18T04:07:08Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/433"
-		},
-		{
 			"title": "chore: revise Lando usage guide with Orbstack instructions",
 			"author": "arzola",
 			"createdAt": "2026-02-10T21:57:01Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core/pull/429"
-		},
-		{
-			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-02-02T23:42:51Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/426"
 		},
 		{
 			"title": "fix: add --load to buildx to ensure images are available locally",
