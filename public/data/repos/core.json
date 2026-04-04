@@ -469,6 +469,27 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: update Node engine floor for major npm dep bumps",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-03T23:16:15Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/457"
+		},
+		{
+			"title": "fix: update entrypoint example deps for Fastify v5 compatibility",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-03T23:16:04Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/456"
+		},
+		{
+			"title": "fix: update mounts example deps for Fastify v5 compatibility",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-03T23:13:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/455"
+		},
+		{
 			"title": "Bump brace-expansion from 2.0.2 to 2.0.3 in /examples/entrypoint",
 			"author": "dependabot",
 			"createdAt": "2026-03-29T16:03:29Z",
