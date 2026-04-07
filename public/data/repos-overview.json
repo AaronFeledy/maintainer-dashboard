@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-07T04:48:57.288Z",
+		"fetchedAt": "2026-04-07T06:32:46.853Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -41,18 +41,6 @@
 			"unengagedCount": 10
 		},
 		{
-			"name": "lando/plugin-test",
-			"description": "Dummy plugin for testing Lando's plugin-related commands.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 4,
-			"lastRelease": "2023-06-06T19:23:56Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-03-27T09:59:33Z",
-			"attentionScore": 537.5,
-			"unengagedCount": 4
-		},
-		{
 			"name": "lando/notarize-action",
 			"description": "A GitHub action to Apple notarize files. Originally adapted from https://github.com/devbotsxyz/xcode-notarize",
 			"language": "JavaScript",
@@ -63,6 +51,18 @@
 			"lastPush": "2025-07-23T20:47:06Z",
 			"attentionScore": 535.5,
 			"unengagedCount": 5
+		},
+		{
+			"name": "lando/plugin-test",
+			"description": "Dummy plugin for testing Lando's plugin-related commands.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 4,
+			"lastRelease": "2023-06-06T19:23:56Z",
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-04-07T04:53:05Z",
+			"attentionScore": 534.5,
+			"unengagedCount": 3
 		},
 		{
 			"name": "lando/platformsh",
@@ -637,7 +637,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-11T04:21:35Z",
-			"attentionScore": 33.5,
+			"attentionScore": 34,
 			"unengagedCount": 3
 		},
 		{
@@ -649,7 +649,7 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-11T04:21:40Z",
-			"attentionScore": 33.5,
+			"attentionScore": 34,
 			"unengagedCount": 3
 		},
 		{
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-11T04:21:46Z",
-			"attentionScore": 24.5,
+			"attentionScore": 25,
 			"unengagedCount": 1
 		},
 		{

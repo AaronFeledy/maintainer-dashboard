@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-07T04:48:57.288Z",
+		"fetchedAt": "2026-04-07T06:32:46.853Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2684,15 +2684,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-01-22T02:34:15Z",
 			"url": "https://github.com/lando/memcached/pull/52",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 7,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T12:54:24Z",
-			"url": "https://github.com/lando/plugin-test/pull/7",
 			"type": "pr"
 		},
 		{
