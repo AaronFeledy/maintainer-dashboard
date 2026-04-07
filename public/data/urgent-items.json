@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-07T03:05:00.103Z",
+		"fetchedAt": "2026-04-07T04:48:57.288Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2684,15 +2684,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-01-22T02:34:15Z",
 			"url": "https://github.com/lando/memcached/pull/52",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/run-leia-action",
-			"number": 14,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T11:41:38Z",
-			"url": "https://github.com/lando/run-leia-action/pull/14",
 			"type": "pr"
 		},
 		{
