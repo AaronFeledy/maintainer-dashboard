@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-06T22:11:08.780Z",
+		"fetchedAt": "2026-04-07T00:27:41.747Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3450,6 +3450,33 @@
 			"createdAt": "2026-03-30T19:30:47Z",
 			"url": "https://github.com/lando/core-next/issues/141",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 455,
+			"title": "fix: update mounts example deps for Fastify v5 compatibility",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-03T23:13:40Z",
+			"url": "https://github.com/lando/core/pull/455",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 456,
+			"title": "fix: update entrypoint example deps for Fastify v5 compatibility",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-03T23:16:04Z",
+			"url": "https://github.com/lando/core/pull/456",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 457,
+			"title": "fix: update Node engine floor for major npm dep bumps",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-03T23:16:15Z",
+			"url": "https://github.com/lando/core/pull/457",
+			"type": "pr"
 		}
 	]
 }
