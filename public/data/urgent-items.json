@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-09T16:31:03.158Z",
+		"fetchedAt": "2026-04-09T18:22:29.582Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2282,15 +2282,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/core",
-			"number": 439,
-			"title": "TypeError: Cannot read properties of undefined (reading 'pluginDirs')",
-			"author": "miiimooo",
-			"createdAt": "2025-10-13T11:43:39Z",
-			"url": "https://github.com/lando/core/issues/439",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3815,
 			"title": "lando info --path not working as expected for nested paths",
@@ -2705,30 +2696,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 423,
-			"title": "Add buildx check/install to `lando setup`",
-			"author": "AaronFeledy",
-			"createdAt": "2026-01-23T18:44:48Z",
-			"url": "https://github.com/lando/core/pull/423",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 120,
 			"title": "feat: add buildx check/install to lando setup",
 			"author": "AaronFeledy",
 			"createdAt": "2026-01-23T23:11:03Z",
 			"url": "https://github.com/lando/core-next/pull/120",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 424,
-			"title": "fix: add --load to buildx to ensure images are available locally",
-			"author": "AaronFeledy",
-			"createdAt": "2026-01-24T00:24:36Z",
-			"url": "https://github.com/lando/core/pull/424",
 			"type": "pr"
 		},
 		{
@@ -3119,15 +3092,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 440,
-			"title": "fix: handle empty YAML config files gracefully",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-25T04:48:32Z",
-			"url": "https://github.com/lando/core/pull/440",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 132,
 			"title": "fix: handle empty YAML config files gracefully",
@@ -3161,15 +3125,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-28T00:25:54Z",
 			"url": "https://github.com/lando/core/pull/441",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 443,
-			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-02-28T05:02:58Z",
-			"url": "https://github.com/lando/core/pull/443",
 			"type": "pr"
 		},
 		{
@@ -3224,15 +3179,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-03-05T15:47:31Z",
 			"url": "https://github.com/lando/core-next/pull/135",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 444,
-			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-03-05T15:49:44Z",
-			"url": "https://github.com/lando/core/pull/444",
 			"type": "pr"
 		},
 		{
@@ -3299,24 +3245,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 446,
-			"title": "Bump fastify and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-03-25T19:38:34Z",
-			"url": "https://github.com/lando/core/pull/446",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 447,
-			"title": "Bump fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-03-25T20:09:49Z",
-			"url": "https://github.com/lando/core/pull/447",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 137,
 			"title": "Bump fastify and fastify-cli in /examples/command",
@@ -3350,24 +3278,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-03-26T01:46:43Z",
 			"url": "https://github.com/lando/node/pull/123",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 448,
-			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-03-26T02:33:13Z",
-			"url": "https://github.com/lando/core/pull/448",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 449,
-			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-03-26T03:04:28Z",
-			"url": "https://github.com/lando/core/pull/449",
 			"type": "pr"
 		},
 		{
@@ -3407,15 +3317,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 452,
-			"title": "Bump brace-expansion from 2.0.2 to 2.0.3 in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-03-29T16:03:29Z",
-			"url": "https://github.com/lando/core/pull/452",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 140,
 			"title": "Bump brace-expansion from 2.0.2 to 2.0.3 in /examples/command",
@@ -3432,24 +3333,6 @@
 			"createdAt": "2026-03-30T19:30:47Z",
 			"url": "https://github.com/lando/core-next/issues/141",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 455,
-			"title": "fix: update mounts example deps for Fastify v5 compatibility",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-03T23:13:40Z",
-			"url": "https://github.com/lando/core/pull/455",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 456,
-			"title": "fix: update entrypoint example deps for Fastify v5 compatibility",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-03T23:16:04Z",
-			"url": "https://github.com/lando/core/pull/456",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
