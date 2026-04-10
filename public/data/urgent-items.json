@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-10T03:06:05.124Z",
+		"fetchedAt": "2026-04-10T04:59:16.834Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3121,7 +3121,7 @@
 		{
 			"repo": "lando/core",
 			"number": 441,
-			"title": "fix: only allocate TTY when both stdin and stdout are terminals",
+			"title": "fix: improve exec TTY handling and decompose into testable utilities",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-28T00:25:54Z",
 			"url": "https://github.com/lando/core/pull/441",

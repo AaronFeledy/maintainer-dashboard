@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-10T03:06:05.124Z",
+		"fetchedAt": "2026-04-10T04:59:16.834Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -180,7 +180,7 @@
 			"openPRs": 18,
 			"lastRelease": "2025-12-17T13:41:05Z",
 			"commitsSinceRelease": 35,
-			"lastPush": "2026-04-09T19:03:16Z",
+			"lastPush": "2026-04-10T04:50:43Z",
 			"attentionScore": 277.5,
 			"unengagedCount": 44
 		},
@@ -505,7 +505,7 @@
 			"lastRelease": "2026-03-11T04:39:18Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-23T20:52:28Z",
-			"attentionScore": 68.5,
+			"attentionScore": 69,
 			"unengagedCount": 11
 		},
 		{
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-11T04:21:29Z",
-			"attentionScore": 45,
+			"attentionScore": 45.5,
 			"unengagedCount": 5
 		},
 		{
@@ -601,7 +601,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 44.5,
+			"attentionScore": 45,
 			"unengagedCount": 5
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-11T04:12:07Z",
-			"attentionScore": 28,
+			"attentionScore": 28.5,
 			"unengagedCount": 1
 		},
 		{
@@ -701,6 +701,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-03-06T04:13:10Z",
+			"attentionScore": 23,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -725,18 +737,6 @@
 			"unengagedCount": 0
 		},
 		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-03-06T04:13:10Z",
-			"attentionScore": 22.5,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/drupal",
 			"description": "The Official Drupal Lando plugin",
 			"language": "JavaScript",
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-11T04:31:11Z",
-			"attentionScore": 21.5,
+			"attentionScore": 22,
 			"unengagedCount": 1
 		},
 		{
