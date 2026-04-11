@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-11T04:40:21.465Z",
+		"fetchedAt": "2026-04-11T06:23:52.592Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2738,15 +2738,6 @@
 			"author": "arzola",
 			"createdAt": "2026-02-10T21:57:01Z",
 			"url": "https://github.com/lando/core/pull/429",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 32,
-			"title": "Bump axios from 1.9.0 to 1.13.5",
-			"author": "dependabot",
-			"createdAt": "2026-02-11T16:08:26Z",
-			"url": "https://github.com/lando/devtool/pull/32",
 			"type": "pr"
 		},
 		{
