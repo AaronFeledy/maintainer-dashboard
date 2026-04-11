@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-10T22:12:02.286Z",
+		"fetchedAt": "2026-04-11T00:25:42.572Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3341,6 +3341,24 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-03T23:16:15Z",
 			"url": "https://github.com/lando/core/pull/457",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/run-leia-action",
+			"number": 16,
+			"title": "Bump lodash from 4.17.21 to 4.18.1",
+			"author": "dependabot",
+			"createdAt": "2026-04-07T03:25:05Z",
+			"url": "https://github.com/lando/run-leia-action/pull/16",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/plugin-test",
+			"number": 11,
+			"title": "Bump lodash from 4.17.21 to 4.18.1",
+			"author": "dependabot",
+			"createdAt": "2026-04-07T04:53:02Z",
+			"url": "https://github.com/lando/plugin-test/pull/11",
 			"type": "pr"
 		}
 	]
