@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-11T22:07:34.861Z",
+		"fetchedAt": "2026-04-12T00:29:27.164Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 343.5,
+			"attentionScore": 344,
 			"unengagedCount": 6
 		},
 		{
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-04-07T03:25:08Z",
-			"attentionScore": 328.5,
+			"attentionScore": 329,
 			"unengagedCount": 3
 		},
 		{
@@ -377,6 +377,18 @@
 			"unengagedCount": 7
 		},
 		{
+			"name": "lando/argv",
+			"description": "A small utility for argv parsing",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 2,
+			"lastRelease": "2025-07-19T00:12:10Z",
+			"commitsSinceRelease": 9,
+			"lastPush": "2026-03-21T10:40:04Z",
+			"attentionScore": 143.5,
+			"unengagedCount": 2
+		},
+		{
 			"name": "lando/memcached",
 			"description": "The Official Memcached Lando Plugin",
 			"language": "JavaScript",
@@ -387,18 +399,6 @@
 			"lastPush": "2026-03-11T10:36:43Z",
 			"attentionScore": 143,
 			"unengagedCount": 6
-		},
-		{
-			"name": "lando/argv",
-			"description": "A small utility for argv parsing",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 2,
-			"lastRelease": "2025-07-19T00:12:10Z",
-			"commitsSinceRelease": 9,
-			"lastPush": "2026-03-21T10:40:04Z",
-			"attentionScore": 143,
-			"unengagedCount": 2
 		},
 		{
 			"name": "lando/events",
@@ -469,8 +469,8 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-04-08T06:59:53Z",
-			"attentionScore": 96,
-			"unengagedCount": 6
+			"attentionScore": 102,
+			"unengagedCount": 8
 		},
 		{
 			"name": "lando/solr",
@@ -529,7 +529,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-02-19T22:40:58Z",
-			"attentionScore": 68,
+			"attentionScore": 68.5,
 			"unengagedCount": 1
 		},
 		{
