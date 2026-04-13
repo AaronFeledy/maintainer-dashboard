@@ -152,16 +152,6 @@
 			"url": "https://github.com/lando/lando/issues/3809"
 		},
 		{
-			"title": "Lando commands complaining about semver versioning",
-			"author": "drubb",
-			"labels": [
-				"core"
-			],
-			"createdAt": "2025-08-22T09:17:55Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/lando/issues/3802"
-		},
-		{
 			"title": "Add `lando switch` command",
 			"author": "hailwood",
 			"labels": [
@@ -478,6 +468,16 @@
 			"createdAt": "2023-05-25T19:55:49Z",
 			"commentCount": 3,
 			"url": "https://github.com/lando/lando/issues/3573"
+		},
+		{
+			"title": "Make it possible to set language and locale in the recipe",
+			"author": "yorkshire-pudding",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2023-05-17T14:29:20Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/lando/issues/3571"
 		}
 	],
 	"pullRequests": [
