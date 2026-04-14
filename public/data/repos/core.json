@@ -469,6 +469,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "chore: agent DX improvements",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-14T19:35:26Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/458"
+		},
+		{
 			"title": "fix: update Node engine floor for major npm dep bumps",
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-03T23:16:15Z",
