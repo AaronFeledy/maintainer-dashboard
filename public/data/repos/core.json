@@ -486,7 +486,7 @@
 			"title": "fix: improve exec TTY handling and decompose into testable utilities",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-28T00:25:54Z",
-			"reviewCount": 6,
+			"reviewCount": 7,
 			"url": "https://github.com/lando/core/pull/441"
 		},
 		{
@@ -597,6 +597,11 @@
 	],
 	"releases": [
 		{
+			"tagName": "v3.26.3",
+			"publishedAt": "2026-04-14T18:12:09Z",
+			"url": "https://github.com/lando/core/releases/tag/v3.26.3"
+		},
+		{
 			"tagName": "v3.26.2",
 			"publishedAt": "2025-12-17T13:41:05Z",
 			"url": "https://github.com/lando/core/releases/tag/v3.26.2"
@@ -615,11 +620,6 @@
 			"tagName": "v3.25.6",
 			"publishedAt": "2025-10-01T13:49:10Z",
 			"url": "https://github.com/lando/core/releases/tag/v3.25.6"
-		},
-		{
-			"tagName": "v3.25.5",
-			"publishedAt": "2025-09-09T15:19:09Z",
-			"url": "https://github.com/lando/core/releases/tag/v3.25.5"
 		}
 	]
 }
