@@ -2,30 +2,17 @@
 	"name": "lando/elasticsearch",
 	"description": "The Official Elasticsearch Lando Plugin",
 	"language": "JavaScript",
-	"issues": [],
-	"pullRequests": [
+	"issues": [
 		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:57:16Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/elasticsearch/pull/49"
-		},
-		{
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:02Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/elasticsearch/pull/47"
-		},
-		{
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:57Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/elasticsearch/pull/46"
+			"title": "Switch to official image",
+			"author": "eldair",
+			"labels": [],
+			"createdAt": "2026-04-14T12:53:41Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/elasticsearch/issues/50"
 		}
 	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.5.0",
