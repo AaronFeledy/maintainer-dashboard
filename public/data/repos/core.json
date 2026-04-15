@@ -493,7 +493,7 @@
 			"title": "fix: improve exec TTY handling and decompose into testable utilities",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-28T00:25:54Z",
-			"reviewCount": 8,
+			"reviewCount": 9,
 			"url": "https://github.com/lando/core/pull/441"
 		},
 		{
