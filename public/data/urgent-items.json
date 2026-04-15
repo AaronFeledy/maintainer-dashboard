@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-14T22:16:32.507Z",
+		"fetchedAt": "2026-04-15T00:32:47.409Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3368,6 +3368,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-04-08T06:59:54Z",
 			"url": "https://github.com/lando/node/pull/125",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/devtool",
+			"number": 33,
+			"title": "Bump axios from 1.9.0 to 1.15.0",
+			"author": "dependabot",
+			"createdAt": "2026-04-11T06:23:02Z",
+			"url": "https://github.com/lando/devtool/pull/33",
 			"type": "pr"
 		}
 	]
