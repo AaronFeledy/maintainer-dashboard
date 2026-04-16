@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-16T18:26:21.185Z",
+		"fetchedAt": "2026-04-16T20:16:36.880Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 770,
+			"attentionScore": 770.5,
 			"unengagedCount": 1
 		},
 		{
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-04-07T04:53:05Z",
-			"attentionScore": 542,
+			"attentionScore": 542.5,
 			"unengagedCount": 4
 		},
 		{
@@ -145,7 +145,7 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-03-11T10:36:47Z",
-			"attentionScore": 291.5,
+			"attentionScore": 292,
 			"unengagedCount": 8
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-10T20:16:54Z",
-			"attentionScore": 290.5,
+			"attentionScore": 291,
 			"unengagedCount": 9
 		},
 		{
@@ -217,7 +217,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-03-08T03:42:34Z",
-			"attentionScore": 249.5,
+			"attentionScore": 250,
 			"unengagedCount": 0
 		},
 		{
@@ -337,7 +337,7 @@
 			"lastRelease": "2025-09-03T19:41:18Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-02-23T08:38:41Z",
-			"attentionScore": 156,
+			"attentionScore": 156.5,
 			"unengagedCount": 9
 		},
 		{
@@ -377,6 +377,18 @@
 			"unengagedCount": 7
 		},
 		{
+			"name": "lando/memcached",
+			"description": "The Official Memcached Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 6,
+			"lastRelease": "2025-08-28T19:28:14Z",
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-03-11T10:36:43Z",
+			"attentionScore": 145.5,
+			"unengagedCount": 6
+		},
+		{
 			"name": "lando/argv",
 			"description": "A small utility for argv parsing",
 			"language": "JavaScript",
@@ -387,18 +399,6 @@
 			"lastPush": "2026-03-21T10:40:04Z",
 			"attentionScore": 145.5,
 			"unengagedCount": 2
-		},
-		{
-			"name": "lando/memcached",
-			"description": "The Official Memcached Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 6,
-			"lastRelease": "2025-08-28T19:28:14Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-03-11T10:36:43Z",
-			"attentionScore": 145,
-			"unengagedCount": 6
 		},
 		{
 			"name": "lando/events",
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-03-08T02:34:36Z",
-			"attentionScore": 123.5,
+			"attentionScore": 124,
 			"unengagedCount": 2
 		},
 		{
@@ -493,7 +493,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-03-11T09:22:29Z",
-			"attentionScore": 80.5,
+			"attentionScore": 81,
 			"unengagedCount": 3
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-03-05T14:34:48Z",
-			"attentionScore": 71,
+			"attentionScore": 71.5,
 			"unengagedCount": 1
 		},
 		{
