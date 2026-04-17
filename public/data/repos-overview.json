@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-17T03:05:39.812Z",
+		"fetchedAt": "2026-04-17T05:00:49.186Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -225,11 +225,11 @@
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
 			"openIssues": 53,
-			"openPRs": 19,
+			"openPRs": 18,
 			"lastRelease": "2026-04-14T18:12:09Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-04-16T16:50:41Z",
-			"attentionScore": 224,
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-04-17T04:44:59Z",
+			"attentionScore": 222,
 			"unengagedCount": 44
 		},
 		{
@@ -505,7 +505,7 @@
 			"lastRelease": "2026-03-11T04:39:18Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-23T20:52:28Z",
-			"attentionScore": 72,
+			"attentionScore": 72.5,
 			"unengagedCount": 11
 		},
 		{
@@ -577,7 +577,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-11T04:21:29Z",
-			"attentionScore": 48.5,
+			"attentionScore": 49,
 			"unengagedCount": 5
 		},
 		{
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 48,
+			"attentionScore": 48.5,
 			"unengagedCount": 5
 		},
 		{
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-11T04:12:07Z",
-			"attentionScore": 31.5,
+			"attentionScore": 32,
 			"unengagedCount": 1
 		},
 		{
@@ -689,6 +689,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-03-06T04:13:10Z",
+			"attentionScore": 26.5,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -713,18 +725,6 @@
 			"unengagedCount": 0
 		},
 		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-03-06T04:13:10Z",
-			"attentionScore": 26,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/drupal",
 			"description": "The Official Drupal Lando plugin",
 			"language": "JavaScript",
@@ -733,7 +733,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-11T04:31:11Z",
-			"attentionScore": 25,
+			"attentionScore": 25.5,
 			"unengagedCount": 1
 		},
 		{
