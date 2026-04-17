@@ -469,6 +469,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: respect v4 appserver as default ssh service in mixed-api apps",
+			"author": "reynoldsalec",
+			"createdAt": "2026-04-17T17:05:13Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/461"
+		},
+		{
 			"title": "Bump softprops/action-gh-release from 2 to 3 in the actions group",
 			"author": "dependabot",
 			"createdAt": "2026-04-17T12:09:32Z",
