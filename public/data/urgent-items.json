@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-17T22:14:03.029Z",
+		"fetchedAt": "2026-04-18T00:28:06.042Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3386,6 +3386,15 @@
 			"author": "owindsor",
 			"createdAt": "2026-04-13T06:45:39Z",
 			"url": "https://github.com/lando/lando/issues/3843",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/elasticsearch",
+			"number": 50,
+			"title": "Switch to official image",
+			"author": "eldair",
+			"createdAt": "2026-04-14T12:53:41Z",
+			"url": "https://github.com/lando/elasticsearch/issues/50",
 			"type": "issue"
 		}
 	]
