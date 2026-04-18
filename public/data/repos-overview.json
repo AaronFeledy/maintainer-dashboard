@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-18T12:12:49.743Z",
+		"fetchedAt": "2026-04-18T14:15:50.066Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -349,7 +349,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-03-08T20:01:55Z",
-			"attentionScore": 152.5,
+			"attentionScore": 153,
 			"unengagedCount": 7
 		},
 		{
@@ -481,7 +481,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-03-08T03:04:43Z",
-			"attentionScore": 91,
+			"attentionScore": 91.5,
 			"unengagedCount": 4
 		},
 		{
