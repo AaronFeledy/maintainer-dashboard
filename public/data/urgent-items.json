@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-18T00:28:06.042Z",
+		"fetchedAt": "2026-04-18T03:04:26.125Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2918,15 +2918,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:12:59Z",
 			"url": "https://github.com/lando/events/pull/52",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 127,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:13:17Z",
-			"url": "https://github.com/lando/core-next/pull/127",
 			"type": "pr"
 		},
 		{
