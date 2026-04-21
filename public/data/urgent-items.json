@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-20T22:16:22.225Z",
+		"fetchedAt": "2026-04-21T00:31:51.766Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3387,6 +3387,24 @@
 			"createdAt": "2026-04-14T12:53:41Z",
 			"url": "https://github.com/lando/elasticsearch/issues/50",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 460,
+			"title": "Bump softprops/action-gh-release from 2 to 3 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-04-17T12:09:32Z",
+			"url": "https://github.com/lando/core/pull/460",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 461,
+			"title": "fix: respect v4 appserver as default ssh service in mixed-api apps",
+			"author": "reynoldsalec",
+			"createdAt": "2026-04-17T17:05:13Z",
+			"url": "https://github.com/lando/core/pull/461",
+			"type": "pr"
 		}
 	]
 }
