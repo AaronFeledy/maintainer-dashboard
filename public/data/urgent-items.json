@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-21T22:16:47.146Z",
+		"fetchedAt": "2026-04-22T00:28:58.116Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3404,6 +3404,15 @@
 			"author": "reynoldsalec",
 			"createdAt": "2026-04-17T17:05:13Z",
 			"url": "https://github.com/lando/core/pull/461",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 142,
+			"title": "Bump the actions group across 1 directory with 5 updates",
+			"author": "dependabot",
+			"createdAt": "2026-04-18T02:44:04Z",
+			"url": "https://github.com/lando/core-next/pull/142",
 			"type": "pr"
 		}
 	]
