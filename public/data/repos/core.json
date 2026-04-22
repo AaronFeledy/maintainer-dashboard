@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "PHP/Apache containers exit 1 after rebuild: LANDO_SERVICE_CERT env not present at runtime with Docker 29 + compose 2.31",
+			"author": "f-liva",
+			"labels": [],
+			"createdAt": "2026-04-22T07:52:09Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/462"
+		},
+		{
 			"title": "Allow overriding proxy setting in .lando.local.yml",
 			"author": "monroecg",
 			"labels": [],
@@ -137,7 +145,7 @@
 				"bug"
 			],
 			"createdAt": "2025-03-13T20:18:38Z",
-			"commentCount": 1,
+			"commentCount": 2,
 			"url": "https://github.com/lando/core/issues/351"
 		},
 		{
@@ -455,16 +463,6 @@
 			"createdAt": "2023-06-01T23:59:49Z",
 			"commentCount": 0,
 			"url": "https://github.com/lando/core/issues/44"
-		},
-		{
-			"title": "Add support for running against a local docker image.",
-			"author": "codebymikey",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2023-03-01T20:05:35Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/core/issues/31"
 		}
 	],
 	"pullRequests": [
