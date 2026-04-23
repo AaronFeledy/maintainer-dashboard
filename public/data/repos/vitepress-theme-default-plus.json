@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "docsearch results render as blank items on docs.lando.dev",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2026-04-23T17:40:36Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/98"
+		},
+		{
 			"title": "mvb fails on fork PRs: branch doesn't exist in upstream repo",
 			"author": "AaronFeledy",
 			"labels": [],
@@ -111,6 +119,13 @@
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "fix: render docsearch hit rows",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-23T17:45:15Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/99"
+		},
 		{
 			"title": "Call user defined markdown configuration.",
 			"author": "dbrnz",
