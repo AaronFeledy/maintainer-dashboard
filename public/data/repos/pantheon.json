@@ -204,6 +204,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "ci: stagger pantheon test matrix to avoid API rate limits",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-24T22:02:00Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/351"
+		},
+		{
 			"title": "fix: stop overriding robots.txt in Pantheon templates",
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-23T17:40:23Z",
