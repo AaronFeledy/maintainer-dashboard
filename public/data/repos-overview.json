@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-24T06:40:46.572Z",
+		"fetchedAt": "2026-04-24T08:42:31.000Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -225,11 +225,11 @@
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
 			"openIssues": 54,
-			"openPRs": 20,
+			"openPRs": 21,
 			"lastRelease": "2026-04-14T18:12:09Z",
 			"commitsSinceRelease": 2,
-			"lastPush": "2026-04-17T17:01:59Z",
-			"attentionScore": 236.5,
+			"lastPush": "2026-04-24T07:09:42Z",
+			"attentionScore": 238.5,
 			"unengagedCount": 46
 		},
 		{
@@ -533,6 +533,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/vitepress-theme-default-plus",
+			"description": "The VitePress Default Theme with a little more POWAH",
+			"language": "JavaScript",
+			"openIssues": 14,
+			"openPRs": 3,
+			"lastRelease": "2026-03-05T14:33:33Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-04-24T07:02:50Z",
+			"attentionScore": 74.5,
+			"unengagedCount": 10
+		},
+		{
 			"name": "lando/elasticsearch",
 			"description": "The Official Elasticsearch Lando Plugin",
 			"language": "JavaScript",
@@ -543,18 +555,6 @@
 			"lastPush": "2026-03-05T14:34:47Z",
 			"attentionScore": 73,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/vitepress-theme-default-plus",
-			"description": "The VitePress Default Theme with a little more POWAH",
-			"language": "JavaScript",
-			"openIssues": 14,
-			"openPRs": 2,
-			"lastRelease": "2026-03-05T14:33:33Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-04-23T23:59:27Z",
-			"attentionScore": 72.5,
-			"unengagedCount": 10
 		},
 		{
 			"name": "lando/php",
