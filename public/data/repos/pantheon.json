@@ -194,17 +194,10 @@
 	],
 	"pullRequests": [
 		{
-			"title": "ci: stagger pantheon test matrix to avoid API rate limits",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-24T22:02:00Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/pantheon/pull/351"
-		},
-		{
 			"title": "fix: warn and fallback for unsupported PHP versions",
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-23T20:39:37Z",
-			"reviewCount": 1,
+			"reviewCount": 2,
 			"url": "https://github.com/lando/pantheon/pull/348"
 		}
 	],
