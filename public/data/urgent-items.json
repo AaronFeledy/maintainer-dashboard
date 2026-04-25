@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-24T22:16:07.172Z",
+		"fetchedAt": "2026-04-25T00:29:57.761Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2495,15 +2495,6 @@
 			"author": "pirog",
 			"createdAt": "2025-12-12T00:40:09Z",
 			"url": "https://github.com/lando/core-next/pull/111",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/varnish",
-			"number": 62,
-			"title": "Bump actions/cache from 4 to 5",
-			"author": "dependabot",
-			"createdAt": "2025-12-15T18:08:26Z",
-			"url": "https://github.com/lando/varnish/pull/62",
 			"type": "pr"
 		},
 		{

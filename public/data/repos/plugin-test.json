@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump postcss from 8.4.31 to 8.5.10",
+			"author": "dependabot",
+			"createdAt": "2026-04-25T00:02:15Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/plugin-test/pull/12"
+		},
+		{
 			"title": "Bump lodash from 4.17.21 to 4.18.1",
 			"author": "dependabot",
 			"createdAt": "2026-04-07T04:53:02Z",

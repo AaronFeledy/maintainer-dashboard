@@ -4,16 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "Can't access robots.txt",
-			"author": "RichardDavies",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2026-04-23T17:06:10Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/pantheon/issues/349"
-		},
-		{
 			"title": "appserver Error manifest for devwithlando/pantheon-appserver:7.1-5 not found: manifest unknown: manifest unknown",
 			"author": "scottsawyer",
 			"labels": [
@@ -207,15 +197,8 @@
 			"title": "ci: stagger pantheon test matrix to avoid API rate limits",
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-24T22:02:00Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/pantheon/pull/351"
-		},
-		{
-			"title": "fix: stop overriding robots.txt in Pantheon templates",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-23T17:40:23Z",
 			"reviewCount": 1,
-			"url": "https://github.com/lando/pantheon/pull/350"
+			"url": "https://github.com/lando/pantheon/pull/351"
 		},
 		{
 			"title": "fix: warn and fallback for unsupported PHP versions",

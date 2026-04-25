@@ -12,15 +12,7 @@
 			"url": "https://github.com/lando/varnish/issues/11"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump actions/cache from 4 to 5",
-			"author": "dependabot",
-			"createdAt": "2025-12-15T18:08:26Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/varnish/pull/62"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.3.2",
