@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-26T22:17:10.841Z",
+		"fetchedAt": "2026-04-27T00:33:06.158Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3414,6 +3414,24 @@
 			"createdAt": "2026-04-22T07:52:09Z",
 			"url": "https://github.com/lando/core/issues/462",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/vitepress-theme-default-plus",
+			"number": 98,
+			"title": "docsearch results render as blank items on docs.lando.dev",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-23T17:40:36Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/98",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/vitepress-theme-default-plus",
+			"number": 99,
+			"title": "fix: render docsearch hit rows",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-23T17:45:15Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/99",
+			"type": "pr"
 		}
 	]
 }
