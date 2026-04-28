@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-27T22:19:00.505Z",
+		"fetchedAt": "2026-04-28T00:35:57.299Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2891,6 +2891,24 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-23T17:45:15Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/99",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/vitepress-theme-default-plus",
+			"number": 100,
+			"title": "feat: add Aaron Feledy as default Lando maintainer, fix team-card affiliation wrapping",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-24T07:02:56Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/100",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 463,
+			"title": "refactor(docs): slim contributors config, rely on theme defaults",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-24T07:03:57Z",
+			"url": "https://github.com/lando/core/pull/463",
 			"type": "pr"
 		}
 	]
