@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-28T06:56:05.796Z",
+		"fetchedAt": "2026-04-28T08:50:54.147Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -165,11 +165,11 @@
 			"description": "A GitHub action to code sign files",
 			"language": "JavaScript",
 			"openIssues": 3,
-			"openPRs": 3,
+			"openPRs": 4,
 			"lastRelease": "2024-11-19T16:43:40Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-03-25T22:34:40Z",
-			"attentionScore": 283,
+			"attentionScore": 285,
 			"unengagedCount": 4
 		},
 		{
