@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-28T20:30:12.530Z",
+		"fetchedAt": "2026-04-28T22:21:15.021Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2849,15 +2849,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 461,
-			"title": "fix: respect v4 appserver as default ssh service in mixed-api apps",
-			"author": "reynoldsalec",
-			"createdAt": "2026-04-17T17:05:13Z",
-			"url": "https://github.com/lando/core/pull/461",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 142,
 			"title": "Bump the actions group across 1 directory with 5 updates",
@@ -2874,15 +2865,6 @@
 			"createdAt": "2026-04-22T07:52:09Z",
 			"url": "https://github.com/lando/core/issues/462",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/vitepress-theme-default-plus",
-			"number": 100,
-			"title": "feat: add Aaron Feledy as default Lando maintainer, fix team-card affiliation wrapping",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-24T07:02:56Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/100",
-			"type": "pr"
 		}
 	]
 }

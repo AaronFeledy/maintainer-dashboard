@@ -112,13 +112,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "feat: add Aaron Feledy as default Lando maintainer, fix team-card affiliation wrapping",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-24T07:02:56Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/100"
-		},
-		{
 			"title": "Call user defined markdown configuration.",
 			"author": "dbrnz",
 			"createdAt": "2025-03-16T07:22:31Z",
