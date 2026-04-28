@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-28T16:36:57.666Z",
-		"repoCount": 64
+		"fetchedAt": "2026-04-28T18:33:33.180Z",
+		"repoCount": 65
 	},
 	"items": [
 		{
@@ -347,6 +347,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/blog",
+			"number": 12,
+			"title": "DARK MODE",
+			"author": "pirog",
+			"createdAt": "2022-03-28T16:34:58Z",
+			"url": "https://github.com/lando/blog/issues/12",
+			"type": "issue"
+		},
+		{
 			"repo": "lando/desktop",
 			"number": 32,
 			"title": "Mac Docker Desktop Installation Check",
@@ -686,6 +695,15 @@
 			"author": "clrockwell",
 			"createdAt": "2023-02-08T00:39:04Z",
 			"url": "https://github.com/lando/lando/issues/3514",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/blog",
+			"number": 32,
+			"title": "Clarity for Windows users who run it all in WSL2",
+			"author": "danksearle",
+			"createdAt": "2023-02-08T11:44:28Z",
+			"url": "https://github.com/lando/blog/issues/32",
 			"type": "issue"
 		},
 		{
@@ -1059,20 +1077,20 @@
 		},
 		{
 			"repo": "lando/platformsh",
-			"number": 201,
-			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.4",
-			"author": "dependabot",
-			"createdAt": "2024-02-12T21:09:06Z",
-			"url": "https://github.com/lando/platformsh/pull/201",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/platformsh",
 			"number": 202,
 			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.2",
 			"author": "dependabot",
 			"createdAt": "2024-02-12T21:09:06Z",
 			"url": "https://github.com/lando/platformsh/pull/202",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/platformsh",
+			"number": 201,
+			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.4",
+			"author": "dependabot",
+			"createdAt": "2024-02-12T21:09:06Z",
+			"url": "https://github.com/lando/platformsh/pull/201",
 			"type": "pr"
 		},
 		{
@@ -1868,6 +1886,24 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/blog",
+			"number": 52,
+			"title": "Bump prismjs from 1.29.0 to 1.30.0",
+			"author": "dependabot",
+			"createdAt": "2025-11-23T23:41:26Z",
+			"url": "https://github.com/lando/blog/pull/52",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/blog",
+			"number": 53,
+			"title": "Bump esbuild and vuepress",
+			"author": "dependabot",
+			"createdAt": "2025-11-23T23:41:47Z",
+			"url": "https://github.com/lando/blog/pull/53",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/events",
 			"number": 48,
 			"title": "Bump vite and vuepress",
@@ -2075,6 +2111,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/blog",
+			"number": 54,
+			"title": "Bump lodash from 4.17.21 to 4.17.23",
+			"author": "dependabot",
+			"createdAt": "2026-01-22T02:11:21Z",
+			"url": "https://github.com/lando/blog/pull/54",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/events",
 			"number": 49,
 			"title": "Bump lodash from 4.17.21 to 4.17.23",
@@ -2156,6 +2201,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/blog",
+			"number": 55,
+			"title": "Bump webpack from 5.101.3 to 5.105.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-07T16:32:21Z",
+			"url": "https://github.com/lando/blog/pull/55",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/events",
 			"number": 50,
 			"title": "Bump webpack from 5.101.3 to 5.105.0",
@@ -2228,6 +2282,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/blog",
+			"number": 56,
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:10:59Z",
+			"url": "https://github.com/lando/blog/pull/56",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/python",
 			"number": 60,
 			"title": "Bump the actions group with 4 updates",
@@ -2243,6 +2306,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:04Z",
 			"url": "https://github.com/lando/solr/pull/63",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/blog",
+			"number": 57,
+			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.44 to 1.0.0-beta.49",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:07Z",
+			"url": "https://github.com/lando/blog/pull/57",
 			"type": "pr"
 		},
 		{
@@ -2805,38 +2877,11 @@
 		},
 		{
 			"repo": "lando/vitepress-theme-default-plus",
-			"number": 98,
-			"title": "docsearch results render as blank items on docs.lando.dev",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-23T17:40:36Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/98",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/vitepress-theme-default-plus",
-			"number": 99,
-			"title": "fix: render docsearch hit rows",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-23T17:45:15Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/99",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/vitepress-theme-default-plus",
 			"number": 100,
 			"title": "feat: add Aaron Feledy as default Lando maintainer, fix team-card affiliation wrapping",
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-24T07:02:56Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/100",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 463,
-			"title": "refactor(docs): slim contributors config, rely on theme defaults",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-24T07:03:57Z",
-			"url": "https://github.com/lando/core/pull/463",
 			"type": "pr"
 		}
 	]
