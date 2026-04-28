@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-28T12:37:31.549Z",
-		"repoCount": 65
+		"fetchedAt": "2026-04-28T16:36:57.666Z",
+		"repoCount": 64
 	},
 	"repos": [
 		{
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 684,
+			"attentionScore": 684.5,
 			"unengagedCount": 7
 		},
 		{
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2025-07-23T20:47:06Z",
-			"attentionScore": 537,
+			"attentionScore": 537.5,
 			"unengagedCount": 2
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 397,
+			"attentionScore": 397.5,
 			"unengagedCount": 3
 		},
 		{
@@ -313,7 +313,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-04-18T02:44:03Z",
-			"attentionScore": 180.5,
+			"attentionScore": 181,
 			"unengagedCount": 19
 		},
 		{
@@ -325,20 +325,8 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 170,
+			"attentionScore": 170.5,
 			"unengagedCount": 2
-		},
-		{
-			"name": "lando/blog",
-			"description": "Lando's Blog Subsite",
-			"language": "Vue",
-			"openIssues": 3,
-			"openPRs": 7,
-			"lastRelease": "2025-09-03T19:41:18Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-02-23T08:38:41Z",
-			"attentionScore": 159,
-			"unengagedCount": 8
 		},
 		{
 			"name": "lando/mysql",
@@ -349,7 +337,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-03-08T20:01:55Z",
-			"attentionScore": 157.5,
+			"attentionScore": 158,
 			"unengagedCount": 7
 		},
 		{
@@ -397,7 +385,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-03-13T01:48:49Z",
-			"attentionScore": 148.5,
+			"attentionScore": 149,
 			"unengagedCount": 6
 		},
 		{
@@ -445,7 +433,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-03-08T03:47:38Z",
-			"attentionScore": 120.5,
+			"attentionScore": 121,
 			"unengagedCount": 1
 		},
 		{
@@ -457,7 +445,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-03-08T02:34:08Z",
-			"attentionScore": 119,
+			"attentionScore": 119.5,
 			"unengagedCount": 0
 		},
 		{
@@ -481,7 +469,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-03-08T03:04:43Z",
-			"attentionScore": 96,
+			"attentionScore": 96.5,
 			"unengagedCount": 4
 		},
 		{
@@ -491,7 +479,7 @@
 			"openIssues": 0,
 			"openPRs": 3,
 			"lastRelease": "2025-12-05T19:46:36Z",
-			"commitsSinceRelease": 15,
+			"commitsSinceRelease": 0,
 			"lastPush": "2026-03-11T09:22:29Z",
 			"attentionScore": 86.5,
 			"unengagedCount": 3
@@ -505,7 +493,7 @@
 			"lastRelease": "2026-03-05T14:33:33Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-04-24T07:02:50Z",
-			"attentionScore": 82.5,
+			"attentionScore": 83,
 			"unengagedCount": 12
 		},
 		{
@@ -644,12 +632,12 @@
 			"name": "lando/backdrop",
 			"description": "The Official Backdrop Lando Plugin",
 			"language": "JavaScript",
-			"openIssues": 0,
+			"openIssues": 1,
 			"openPRs": 1,
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-11T04:12:07Z",
-			"attentionScore": 37.5,
+			"attentionScore": 38.5,
 			"unengagedCount": 1
 		},
 		{
@@ -673,7 +661,7 @@
 			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-03-11T04:21:32Z",
-			"attentionScore": 35,
+			"attentionScore": 35.5,
 			"unengagedCount": 0
 		},
 		{
@@ -719,7 +707,7 @@
 			"openIssues": 0,
 			"openPRs": 0,
 			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 6,
+			"commitsSinceRelease": 0,
 			"lastPush": "2026-03-05T14:34:45Z",
 			"attentionScore": 31.5,
 			"unengagedCount": 0
@@ -757,7 +745,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-10T15:55:03Z",
-			"attentionScore": 24,
+			"attentionScore": 24.5,
 			"unengagedCount": 0
 		},
 		{

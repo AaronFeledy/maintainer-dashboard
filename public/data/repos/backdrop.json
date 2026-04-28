@@ -2,7 +2,18 @@
 	"name": "lando/backdrop",
 	"description": "The Official Backdrop Lando Plugin",
 	"language": "JavaScript",
-	"issues": [],
+	"issues": [
+		{
+			"title": "Composer remove failing on startup/rebuild, causing build steps to be skipped",
+			"author": "daggerhart",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-04-28T13:43:39Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/backdrop/issues/91"
+		}
+	],
 	"pullRequests": [
 		{
 			"title": "fix: handle race condition in release promote job",
