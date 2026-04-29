@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-29T12:34:05.498Z",
+		"fetchedAt": "2026-04-29T14:46:41.796Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -572,6 +572,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/legacy-metrics",
+			"number": 7,
+			"title": "Bump node-fetch from 2.6.5 to 2.6.7",
+			"author": "dependabot",
+			"createdAt": "2022-06-25T17:22:38Z",
+			"url": "https://github.com/lando/legacy-metrics/pull/7",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/drupal",
 			"number": 28,
 			"title": "S3FS module + Image style support ",
@@ -966,6 +975,15 @@
 			"createdAt": "2023-11-08T16:28:49Z",
 			"url": "https://github.com/lando/platformsh/issues/193",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/platformsh",
+			"number": 194,
+			"title": "Dial fully for `lando update`",
+			"author": "reynoldsalec",
+			"createdAt": "2023-12-07T22:07:20Z",
+			"url": "https://github.com/lando/platformsh/pull/194",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/lando",
@@ -2253,6 +2271,15 @@
 			"createdAt": "2026-01-23T00:06:40Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/93",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/ruby",
+			"number": 65,
+			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-01-23T07:22:48Z",
+			"url": "https://github.com/lando/ruby/pull/65",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core-next",
