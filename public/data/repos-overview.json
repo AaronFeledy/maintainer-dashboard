@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-29T05:06:46.781Z",
+		"fetchedAt": "2026-04-29T06:51:12.813Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -245,6 +245,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 20,
+			"openPRs": 17,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-04-18T02:44:03Z",
+			"attentionScore": 193,
+			"unengagedCount": 23
+		},
+		{
 			"name": "lando/telemetry",
 			"description": null,
 			"language": "JavaScript",
@@ -303,18 +315,6 @@
 			"lastPush": "2024-11-04T19:31:21Z",
 			"attentionScore": 182.5,
 			"unengagedCount": 0
-		},
-		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 20,
-			"openPRs": 17,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-04-18T02:44:03Z",
-			"attentionScore": 181,
-			"unengagedCount": 19
 		},
 		{
 			"name": "lando/auto-deploy-action",
@@ -497,6 +497,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/pantheon",
+			"description": "The Official Lando Pantheon plugin.",
+			"language": "JavaScript",
+			"openIssues": 23,
+			"openPRs": 2,
+			"lastRelease": "2026-03-11T04:39:18Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-04-29T05:51:39Z",
+			"attentionScore": 81.5,
+			"unengagedCount": 10
+		},
+		{
 			"name": "lando/prepare-release-action",
 			"description": "Prepare a Lando plugin for publishing to a package registry.",
 			"language": "JavaScript",
@@ -521,18 +533,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/pantheon",
-			"description": "The Official Lando Pantheon plugin.",
-			"language": "JavaScript",
-			"openIssues": 19,
-			"openPRs": 1,
-			"lastRelease": "2026-03-11T04:39:18Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-04-25T19:39:01Z",
-			"attentionScore": 75.5,
-			"unengagedCount": 10
-		},
-		{
 			"name": "lando/varnish",
 			"description": "The Official Varnish Lando Plugin",
 			"language": "JavaScript",
@@ -552,7 +552,7 @@
 			"openPRs": 2,
 			"lastRelease": "2026-03-05T14:33:33Z",
 			"commitsSinceRelease": 5,
-			"lastPush": "2026-04-29T05:04:14Z",
+			"lastPush": "2026-04-29T05:37:04Z",
 			"attentionScore": 71,
 			"unengagedCount": 9
 		},
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-11T04:21:40Z",
-			"attentionScore": 44.5,
+			"attentionScore": 45,
 			"unengagedCount": 3
 		},
 		{
@@ -637,7 +637,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-03-11T04:21:35Z",
-			"attentionScore": 41.5,
+			"attentionScore": 42,
 			"unengagedCount": 2
 		},
 		{
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-11T04:21:46Z",
-			"attentionScore": 35.5,
+			"attentionScore": 36,
 			"unengagedCount": 1
 		},
 		{

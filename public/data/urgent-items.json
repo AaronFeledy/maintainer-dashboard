@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-29T05:06:46.781Z",
+		"fetchedAt": "2026-04-29T06:51:12.813Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -858,6 +858,15 @@
 			"createdAt": "2023-07-03T14:06:12Z",
 			"url": "https://github.com/lando/nginx/issues/20",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 40,
+			"title": "Use DROP/CREATE strategy for MySQL DB reset",
+			"author": "xurizaemon",
+			"createdAt": "2023-07-21T19:19:44Z",
+			"url": "https://github.com/lando/core-next/pull/40",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/lando",
@@ -2558,6 +2567,33 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-23T07:25:55Z",
 			"url": "https://github.com/lando/website/pull/74",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 131,
+			"title": "Bump minimatch from 5.1.6 to 5.1.8 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-02-25T01:03:28Z",
+			"url": "https://github.com/lando/core-next/pull/131",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 132,
+			"title": "fix: handle empty YAML config files gracefully",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-25T04:56:48Z",
+			"url": "https://github.com/lando/core-next/pull/132",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 133,
+			"title": "fix: add --load to buildx to ensure images are available locally",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-25T05:00:48Z",
+			"url": "https://github.com/lando/core-next/pull/133",
 			"type": "pr"
 		},
 		{
