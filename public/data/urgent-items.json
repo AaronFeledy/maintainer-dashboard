@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-28T22:21:15.021Z",
+		"fetchedAt": "2026-04-29T00:37:21.855Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2865,6 +2865,15 @@
 			"createdAt": "2026-04-22T07:52:09Z",
 			"url": "https://github.com/lando/core/issues/462",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/plugin-test",
+			"number": 12,
+			"title": "Bump postcss from 8.4.31 to 8.5.10",
+			"author": "dependabot",
+			"createdAt": "2026-04-25T00:02:15Z",
+			"url": "https://github.com/lando/plugin-test/pull/12",
+			"type": "pr"
 		}
 	]
 }

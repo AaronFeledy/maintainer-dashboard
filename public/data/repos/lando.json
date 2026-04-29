@@ -505,6 +505,11 @@
 	],
 	"releases": [
 		{
+			"tagName": "v3.26.4",
+			"publishedAt": "2026-04-28T22:30:42Z",
+			"url": "https://github.com/lando/lando/releases/tag/v3.26.4"
+		},
+		{
 			"tagName": "v3.26.3",
 			"publishedAt": "2026-04-14T18:16:27Z",
 			"url": "https://github.com/lando/lando/releases/tag/v3.26.3"
@@ -523,11 +528,6 @@
 			"tagName": "v3.26.0",
 			"publishedAt": "2025-11-14T16:11:35Z",
 			"url": "https://github.com/lando/lando/releases/tag/v3.26.0"
-		},
-		{
-			"tagName": "v3.25.6",
-			"publishedAt": "2025-10-01T14:27:17Z",
-			"url": "https://github.com/lando/lando/releases/tag/v3.25.6"
 		}
 	]
 }

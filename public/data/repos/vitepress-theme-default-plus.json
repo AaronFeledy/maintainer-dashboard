@@ -112,6 +112,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "feat: link team-card avatars to GitHub profiles instead of mailto (#78)",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-29T00:28:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/101"
+		},
+		{
 			"title": "Call user defined markdown configuration.",
 			"author": "dbrnz",
 			"createdAt": "2025-03-16T07:22:31Z",
