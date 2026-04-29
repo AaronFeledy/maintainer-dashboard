@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-29T14:46:41.796Z",
+		"fetchedAt": "2026-04-29T16:34:08.149Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -536,6 +536,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/lando",
+			"number": 3398,
+			"title": "chore: Set permissions for GitHub actions",
+			"author": "naveensrinivasan",
+			"createdAt": "2022-05-18T01:53:59Z",
+			"url": "https://github.com/lando/lando/pull/3398",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/nginx",
 			"number": 9,
 			"title": "Enable GZip",
@@ -671,6 +680,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/legacy-metrics",
+			"number": 8,
+			"title": "Bump minimatch from 3.0.4 to 3.1.2",
+			"author": "dependabot",
+			"createdAt": "2022-11-10T04:25:41Z",
+			"url": "https://github.com/lando/legacy-metrics/pull/8",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/auto-deploy-action",
 			"number": 7,
 			"title": "add some sort of pre/post script section",
@@ -750,6 +768,15 @@
 			"createdAt": "2023-03-01T20:05:35Z",
 			"url": "https://github.com/lando/core/issues/31",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/legacy-metrics",
+			"number": 9,
+			"title": "Bump minimist from 1.2.5 to 1.2.8",
+			"author": "dependabot",
+			"createdAt": "2023-03-05T14:54:53Z",
+			"url": "https://github.com/lando/legacy-metrics/pull/9",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/nginx",
@@ -867,6 +894,15 @@
 			"createdAt": "2023-07-03T14:06:12Z",
 			"url": "https://github.com/lando/nginx/issues/20",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/telemetry",
+			"number": 3,
+			"title": "Bump word-wrap from 1.2.3 to 1.2.4",
+			"author": "dependabot",
+			"createdAt": "2023-07-20T04:12:02Z",
+			"url": "https://github.com/lando/telemetry/pull/3",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core-next",
@@ -1274,6 +1310,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/setup-lando",
+			"number": 37,
+			"title": "Generate exe from ps1 in GHA",
+			"author": "AaronFeledy",
+			"createdAt": "2024-04-21T20:47:45Z",
+			"url": "https://github.com/lando/setup-lando/pull/37",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/core",
 			"number": 155,
 			"title": "Lando starts docker after cache clear on linux",
@@ -1337,6 +1382,33 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/telemetry",
+			"number": 4,
+			"title": "Bump braces from 3.0.2 to 3.0.3",
+			"author": "dependabot",
+			"createdAt": "2024-07-11T07:10:00Z",
+			"url": "https://github.com/lando/telemetry/pull/4",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 188,
+			"title": "Debugging Compose Path Setup Errors",
+			"author": "reynoldsalec",
+			"createdAt": "2024-08-07T20:40:56Z",
+			"url": "https://github.com/lando/core/pull/188",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 189,
+			"title": "Update proxy docs file provider directory",
+			"author": "romanzipp",
+			"createdAt": "2024-08-08T05:30:27Z",
+			"url": "https://github.com/lando/core/pull/189",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/core",
 			"number": 192,
 			"title": "Version task fails if .lando.yml contains invalid config",
@@ -1353,6 +1425,15 @@
 			"createdAt": "2024-08-12T19:34:57Z",
 			"url": "https://github.com/lando/core/issues/193",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/telemetry",
+			"number": 5,
+			"title": "Bump micromatch from 4.0.5 to 4.0.8",
+			"author": "dependabot",
+			"createdAt": "2024-09-02T00:18:28Z",
+			"url": "https://github.com/lando/telemetry/pull/5",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/mariadb",
