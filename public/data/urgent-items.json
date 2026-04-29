@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-29T10:37:25.905Z",
+		"fetchedAt": "2026-04-29T12:34:05.498Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1220,6 +1220,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/notarize-action",
+			"number": 29,
+			"title": "Bump @babel/traverse from 7.21.4 to 7.24.1",
+			"author": "dependabot",
+			"createdAt": "2024-04-05T15:26:24Z",
+			"url": "https://github.com/lando/notarize-action/pull/29",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/lando",
 			"number": 3700,
 			"title": "Anyone has success with Rails? Can we add support for Rails?",
@@ -1281,6 +1290,24 @@
 			"createdAt": "2024-06-09T18:28:27Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/41",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/notarize-action",
+			"number": 30,
+			"title": "Bump braces and jest",
+			"author": "dependabot",
+			"createdAt": "2024-06-16T05:11:42Z",
+			"url": "https://github.com/lando/notarize-action/pull/30",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/notarize-action",
+			"number": 31,
+			"title": "Bump ws from 7.5.9 to 7.5.10",
+			"author": "dependabot",
+			"createdAt": "2024-06-21T01:18:50Z",
+			"url": "https://github.com/lando/notarize-action/pull/31",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/pantheon",
@@ -1445,6 +1472,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/legacy-cli",
+			"number": 302,
+			"title": "Bump vite from 5.4.8 to 5.4.14",
+			"author": "dependabot",
+			"createdAt": "2025-01-22T07:21:31Z",
+			"url": "https://github.com/lando/legacy-cli/pull/302",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/pantheon",
 			"number": 282,
 			"title": "Lando pull for Wordpress files doesn't put them in the designated filemount",
@@ -1470,6 +1506,24 @@
 			"createdAt": "2025-02-18T14:55:03Z",
 			"url": "https://github.com/lando/lando-dev-container-feature/issues/1",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/transfer-issue-action",
+			"number": 99,
+			"title": "Bump @octokit/plugin-paginate-rest and @actions/github",
+			"author": "dependabot",
+			"createdAt": "2025-02-18T23:10:38Z",
+			"url": "https://github.com/lando/transfer-issue-action/pull/99",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/transfer-issue-action",
+			"number": 100,
+			"title": "Bump @octokit/request and @actions/github",
+			"author": "dependabot",
+			"createdAt": "2025-02-18T23:11:55Z",
+			"url": "https://github.com/lando/transfer-issue-action/pull/100",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
