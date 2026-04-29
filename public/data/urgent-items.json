@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-29T16:34:08.149Z",
+		"fetchedAt": "2026-04-29T18:31:56.050Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -500,6 +500,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/core",
+			"number": 3,
+			"title": "Better explain the `preLandoFiles` and `postLandoFiles` config",
+			"author": "trackleft",
+			"createdAt": "2022-04-21T23:04:40Z",
+			"url": "https://github.com/lando/core/pull/3",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/wordpress",
 			"number": 11,
 			"title": "Different cache setting required for css + image assets",
@@ -689,6 +698,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/core",
+			"number": 10,
+			"title": "Document that a rebuild / destroy is needed when updating .lando.local.yml",
+			"author": "pfrenssen",
+			"createdAt": "2022-11-18T13:03:45Z",
+			"url": "https://github.com/lando/core/pull/10",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/auto-deploy-action",
 			"number": 7,
 			"title": "add some sort of pre/post script section",
@@ -768,6 +786,15 @@
 			"createdAt": "2023-03-01T20:05:35Z",
 			"url": "https://github.com/lando/core/issues/31",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 32,
+			"title": "Add support for running against a local docker image.",
+			"author": "codebymikey",
+			"createdAt": "2023-03-01T20:22:14Z",
+			"url": "https://github.com/lando/core/pull/32",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/legacy-metrics",
@@ -878,6 +905,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/hyperdrive",
+			"number": 81,
+			"title": "Bump semver from 7.3.7 to 7.5.2",
+			"author": "dependabot",
+			"createdAt": "2023-06-24T09:33:39Z",
+			"url": "https://github.com/lando/hyperdrive/pull/81",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/lando",
 			"number": 3588,
 			"title": "Make Lando verbosity available to build steps and tooling",
@@ -894,6 +930,24 @@
 			"createdAt": "2023-07-03T14:06:12Z",
 			"url": "https://github.com/lando/nginx/issues/20",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/telemetry",
+			"number": 2,
+			"title": "Bump semver from 7.3.8 to 7.5.4",
+			"author": "dependabot",
+			"createdAt": "2023-07-14T05:39:54Z",
+			"url": "https://github.com/lando/telemetry/pull/2",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/hyperdrive",
+			"number": 82,
+			"title": "Bump word-wrap from 1.2.3 to 1.2.4",
+			"author": "dependabot",
+			"createdAt": "2023-07-19T03:36:30Z",
+			"url": "https://github.com/lando/hyperdrive/pull/82",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/telemetry",
@@ -921,6 +975,15 @@
 			"createdAt": "2023-07-25T20:56:30Z",
 			"url": "https://github.com/lando/lando/issues/3592",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/mariadb",
+			"number": 26,
+			"title": "Update default MariaDB version to 10.6, resolves lando/mariadb#25.",
+			"author": "tormi",
+			"createdAt": "2023-08-02T07:21:20Z",
+			"url": "https://github.com/lando/mariadb/pull/26",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core-next",
@@ -966,6 +1029,15 @@
 			"createdAt": "2023-08-21T09:08:18Z",
 			"url": "https://github.com/lando/pantheon/issues/191",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/lagoon",
+			"number": 57,
+			"title": "#53: Disable Docker Buildkit for Lagoon.",
+			"author": "reynoldsalec",
+			"createdAt": "2023-10-12T18:11:47Z",
+			"url": "https://github.com/lando/lagoon/pull/57",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/python",
@@ -1110,6 +1182,15 @@
 			"createdAt": "2024-01-25T13:33:48Z",
 			"url": "https://github.com/lando/nginx/issues/44",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/php",
+			"number": 93,
+			"title": "issue #92 do not use config for Xdebug 2 (outdated - causes problems in xdebug3 eg on php 8.1)",
+			"author": "zuernBernhard",
+			"createdAt": "2024-01-26T14:18:40Z",
+			"url": "https://github.com/lando/php/pull/93",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/lando",
@@ -1427,6 +1508,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/core",
+			"number": 194,
+			"title": "Allow specifying services to destroy",
+			"author": "AaronFeledy",
+			"createdAt": "2024-08-14T14:14:41Z",
+			"url": "https://github.com/lando/core/pull/194",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/telemetry",
 			"number": 5,
 			"title": "Bump micromatch from 4.0.5 to 4.0.8",
@@ -1481,6 +1571,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/php",
+			"number": 136,
+			"title": "lando/lando#2718: Explicitly set client_port to 9003.",
+			"author": "reynoldsalec",
+			"createdAt": "2024-10-21T18:15:22Z",
+			"url": "https://github.com/lando/php/pull/136",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/core",
 			"number": 252,
 			"title": "Plugin-add doesn't work for Gitlab registries",
@@ -1488,6 +1587,15 @@
 			"createdAt": "2024-10-25T06:40:44Z",
 			"url": "https://github.com/lando/core/issues/252",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 257,
+			"title": "Allow plugin force install",
+			"author": "Xilonz",
+			"createdAt": "2024-10-28T10:19:51Z",
+			"url": "https://github.com/lando/core/pull/257",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -1517,6 +1625,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/core",
+			"number": 280,
+			"title": "Add WSL2 workflow for setup tests",
+			"author": "AaronFeledy",
+			"createdAt": "2024-11-27T01:59:14Z",
+			"url": "https://github.com/lando/core/pull/280",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/vitepress-theme-default-plus",
 			"number": 68,
 			"title": "Each feature separately",
@@ -1533,6 +1650,33 @@
 			"createdAt": "2024-11-29T07:29:26Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/69",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/hyperdrive",
+			"number": 83,
+			"title": "GHA has ended support for macos-12",
+			"author": "AaronFeledy",
+			"createdAt": "2024-12-04T04:22:53Z",
+			"url": "https://github.com/lando/hyperdrive/pull/83",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 49,
+			"title": "Bump nanoid and mocha",
+			"author": "dependabot",
+			"createdAt": "2024-12-10T16:00:31Z",
+			"url": "https://github.com/lando/leia/pull/49",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/joomla",
+			"number": 57,
+			"title": "Init defaults1",
+			"author": "reynoldsalec",
+			"createdAt": "2024-12-20T22:34:51Z",
+			"url": "https://github.com/lando/joomla/pull/57",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/code-sign-action",
@@ -1577,6 +1721,15 @@
 			"author": "dependabot",
 			"createdAt": "2025-01-22T07:21:31Z",
 			"url": "https://github.com/lando/legacy-cli/pull/302",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 330,
+			"title": "Stages hooks vibes",
+			"author": "pirog",
+			"createdAt": "2025-01-30T15:49:51Z",
+			"url": "https://github.com/lando/core/pull/330",
 			"type": "pr"
 		},
 		{
@@ -1625,6 +1778,24 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/leia",
+			"number": 50,
+			"title": "Bump serialize-javascript and mocha",
+			"author": "dependabot",
+			"createdAt": "2025-02-19T21:26:27Z",
+			"url": "https://github.com/lando/leia/pull/50",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 339,
+			"title": "Add `--tail` `--since` `--until` flags to `lando logs`",
+			"author": "AaronFeledy",
+			"createdAt": "2025-02-20T19:37:57Z",
+			"url": "https://github.com/lando/core/pull/339",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/core",
 			"number": 345,
 			"title": "shell control characters printed to all output",
@@ -1632,6 +1803,15 @@
 			"createdAt": "2025-02-25T04:25:38Z",
 			"url": "https://github.com/lando/core/issues/345",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/vitepress-theme-default-plus",
+			"number": 74,
+			"title": "Call user defined markdown configuration.",
+			"author": "dbrnz",
+			"createdAt": "2025-03-16T07:22:31Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/74",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/vitepress-theme-default-plus",
