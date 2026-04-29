@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-29T18:31:56.050Z",
+		"fetchedAt": "2026-04-29T20:26:25.314Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 776.5,
+			"attentionScore": 777,
 			"unengagedCount": 1
 		},
 		{
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-04-25T00:02:15Z",
-			"attentionScore": 553.5,
+			"attentionScore": 554,
 			"unengagedCount": 5
 		},
 		{
@@ -73,8 +73,8 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-13T09:15:56Z",
-			"attentionScore": 476,
-			"unengagedCount": 35
+			"attentionScore": 503,
+			"unengagedCount": 44
 		},
 		{
 			"name": "lando/transfer-issue-action",
@@ -113,18 +113,6 @@
 			"unengagedCount": 3
 		},
 		{
-			"name": "lando/python",
-			"description": "The Official Python Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 2,
-			"openPRs": 7,
-			"lastRelease": "2024-12-06T19:42:06Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-03-10T20:16:54Z",
-			"attentionScore": 297,
-			"unengagedCount": 9
-		},
-		{
 			"name": "lando/lagoon",
 			"description": "The Official Lagoon Lando Plugin",
 			"language": "JavaScript",
@@ -133,8 +121,8 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 28,
 			"lastPush": "2026-03-10T04:00:44Z",
-			"attentionScore": 296,
-			"unengagedCount": 6
+			"attentionScore": 299,
+			"unengagedCount": 7
 		},
 		{
 			"name": "lando/mailhog",
@@ -145,8 +133,20 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-03-11T10:36:47Z",
-			"attentionScore": 295,
-			"unengagedCount": 7
+			"attentionScore": 298.5,
+			"unengagedCount": 8
+		},
+		{
+			"name": "lando/python",
+			"description": "The Official Python Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 2,
+			"openPRs": 7,
+			"lastRelease": "2024-12-06T19:42:06Z",
+			"commitsSinceRelease": 23,
+			"lastPush": "2026-03-10T20:16:54Z",
+			"attentionScore": 297.5,
+			"unengagedCount": 9
 		},
 		{
 			"name": "lando/desktop",
@@ -205,7 +205,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-03-08T03:42:34Z",
-			"attentionScore": 256,
+			"attentionScore": 256.5,
 			"unengagedCount": 0
 		},
 		{
@@ -337,8 +337,8 @@
 			"lastRelease": "2025-09-03T19:41:18Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-02-23T08:38:41Z",
-			"attentionScore": 159.5,
-			"unengagedCount": 8
+			"attentionScore": 163,
+			"unengagedCount": 9
 		},
 		{
 			"name": "lando/mysql",
@@ -377,6 +377,18 @@
 			"unengagedCount": 7
 		},
 		{
+			"name": "lando/memcached",
+			"description": "The Official Memcached Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 6,
+			"lastRelease": "2025-08-28T19:28:14Z",
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-03-11T10:36:43Z",
+			"attentionScore": 152,
+			"unengagedCount": 6
+		},
+		{
 			"name": "lando/argv",
 			"description": "A small utility for argv parsing",
 			"language": "JavaScript",
@@ -389,18 +401,6 @@
 			"unengagedCount": 2
 		},
 		{
-			"name": "lando/memcached",
-			"description": "The Official Memcached Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 6,
-			"lastRelease": "2025-08-28T19:28:14Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-03-11T10:36:43Z",
-			"attentionScore": 151.5,
-			"unengagedCount": 6
-		},
-		{
 			"name": "lando/events",
 			"description": "Lando's Event Subsite",
 			"language": "Vue",
@@ -409,7 +409,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-23T08:46:23Z",
-			"attentionScore": 147.5,
+			"attentionScore": 148,
 			"unengagedCount": 6
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-03-08T02:34:36Z",
-			"attentionScore": 130,
+			"attentionScore": 130.5,
 			"unengagedCount": 2
 		},
 		{
@@ -493,7 +493,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-03-11T09:22:29Z",
-			"attentionScore": 87,
+			"attentionScore": 87.5,
 			"unengagedCount": 3
 		},
 		{
@@ -505,8 +505,8 @@
 			"lastRelease": "2026-03-11T04:39:18Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-04-29T05:51:39Z",
-			"attentionScore": 81.5,
-			"unengagedCount": 10
+			"attentionScore": 84.5,
+			"unengagedCount": 11
 		},
 		{
 			"name": "lando/prepare-release-action",
@@ -540,7 +540,7 @@
 			"openPRs": 2,
 			"lastRelease": "2026-03-05T14:33:33Z",
 			"commitsSinceRelease": 5,
-			"lastPush": "2026-04-29T17:05:59Z",
+			"lastPush": "2026-04-29T19:03:35Z",
 			"attentionScore": 74.5,
 			"unengagedCount": 10
 		},
@@ -553,7 +553,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-04-24T23:17:44Z",
-			"attentionScore": 72.5,
+			"attentionScore": 73,
 			"unengagedCount": 0
 		},
 		{
@@ -617,6 +617,18 @@
 			"unengagedCount": 4
 		},
 		{
+			"name": "lando/lamp",
+			"description": "The Official LAMP Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 3,
+			"openPRs": 1,
+			"lastRelease": "2026-02-26T05:47:10Z",
+			"commitsSinceRelease": 9,
+			"lastPush": "2026-03-11T04:21:35Z",
+			"attentionScore": 45,
+			"unengagedCount": 3
+		},
+		{
 			"name": "lando/lemp",
 			"description": "The Official LEMP Lando Plugin",
 			"language": "JavaScript",
@@ -627,18 +639,6 @@
 			"lastPush": "2026-03-11T04:21:40Z",
 			"attentionScore": 45,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/lamp",
-			"description": "The Official LAMP Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 3,
-			"openPRs": 1,
-			"lastRelease": "2026-02-26T05:47:10Z",
-			"commitsSinceRelease": 9,
-			"lastPush": "2026-03-11T04:21:35Z",
-			"attentionScore": 42,
-			"unengagedCount": 2
 		},
 		{
 			"name": "lando/joomla",
