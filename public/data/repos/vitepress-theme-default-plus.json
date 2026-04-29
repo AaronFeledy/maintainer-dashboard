@@ -115,7 +115,7 @@
 			"title": "feat: link team-card avatars to GitHub profiles instead of mailto (#78)",
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-29T00:28:40Z",
-			"reviewCount": 0,
+			"reviewCount": 1,
 			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/101"
 		},
 		{

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-29T00:37:21.855Z",
+		"fetchedAt": "2026-04-29T03:07:00.756Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -192,6 +192,15 @@
 			"createdAt": "2022-01-10T14:38:45Z",
 			"url": "https://github.com/lando/platformsh/issues/139",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/drupal-dev-environment",
+			"number": 2,
+			"title": "Composer, drush si, should run during prebuild",
+			"author": "shaal",
+			"createdAt": "2022-02-09T16:03:48Z",
+			"url": "https://github.com/lando/drupal-dev-environment/pull/2",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/lemp",

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-29T00:37:21.855Z",
+		"fetchedAt": "2026-04-29T03:07:00.756Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -145,7 +145,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 28,
 			"lastPush": "2026-03-10T04:00:44Z",
-			"attentionScore": 292.5,
+			"attentionScore": 293,
 			"unengagedCount": 5
 		},
 		{
@@ -265,8 +265,8 @@
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
 			"lastPush": "2022-10-26T18:49:47Z",
-			"attentionScore": 184.5,
-			"unengagedCount": 0
+			"attentionScore": 187.5,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/lando-update-scripts",
@@ -469,7 +469,7 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-04-08T06:59:53Z",
-			"attentionScore": 110.5,
+			"attentionScore": 111,
 			"unengagedCount": 8
 		},
 		{
@@ -552,7 +552,7 @@
 			"openPRs": 2,
 			"lastRelease": "2026-03-05T14:33:33Z",
 			"commitsSinceRelease": 5,
-			"lastPush": "2026-04-29T00:28:10Z",
+			"lastPush": "2026-04-29T03:02:21Z",
 			"attentionScore": 71,
 			"unengagedCount": 9
 		},
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-03-18T04:53:05Z",
-			"attentionScore": 50.5,
+			"attentionScore": 51,
 			"unengagedCount": 2
 		},
 		{
@@ -601,7 +601,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 10,
 			"lastPush": "2026-03-05T14:34:43Z",
-			"attentionScore": 49.5,
+			"attentionScore": 50,
 			"unengagedCount": 0
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-03-09T14:34:53Z",
-			"attentionScore": 25.5,
+			"attentionScore": 26,
 			"unengagedCount": 0
 		},
 		{
