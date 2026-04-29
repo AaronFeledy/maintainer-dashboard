@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Missing deprecated variables in mysql:8.4 on Drupal10 recipe",
+			"author": "bronius-congruity",
+			"labels": [],
+			"createdAt": "2026-04-29T04:55:02Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/drupal/issues/186"
+		},
+		{
 			"title": "Error: Service \"edge\" depends on undefined service \"appserver_nginx\":",
 			"author": "ravearvind",
 			"labels": [
