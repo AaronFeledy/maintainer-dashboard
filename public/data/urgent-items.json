@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-30T10:36:11.033Z",
+		"fetchedAt": "2026-04-30T12:33:39.389Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2468,15 +2468,6 @@
 			"author": "pirog",
 			"createdAt": "2025-12-12T00:40:09Z",
 			"url": "https://github.com/lando/core-next/pull/111",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mean",
-			"number": 64,
-			"title": "Bump actions/cache from 4 to 5",
-			"author": "dependabot",
-			"createdAt": "2025-12-15T22:09:16Z",
-			"url": "https://github.com/lando/mean/pull/64",
 			"type": "pr"
 		},
 		{
