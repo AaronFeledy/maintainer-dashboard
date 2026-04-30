@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-04-30T16:32:52.454Z",
+		"fetchedAt": "2026-04-30T18:31:00.258Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -149,6 +149,18 @@
 			"unengagedCount": 9
 		},
 		{
+			"name": "lando/code-sign-action",
+			"description": "A GitHub action to code sign files",
+			"language": "JavaScript",
+			"openIssues": 3,
+			"openPRs": 4,
+			"lastRelease": "2024-11-19T16:43:40Z",
+			"commitsSinceRelease": 7,
+			"lastPush": "2026-03-25T22:34:40Z",
+			"attentionScore": 286.5,
+			"unengagedCount": 4
+		},
+		{
 			"name": "lando/desktop",
 			"description": null,
 			"language": "Vue",
@@ -161,18 +173,6 @@
 			"unengagedCount": 23
 		},
 		{
-			"name": "lando/code-sign-action",
-			"description": "A GitHub action to code sign files",
-			"language": "JavaScript",
-			"openIssues": 3,
-			"openPRs": 4,
-			"lastRelease": "2024-11-19T16:43:40Z",
-			"commitsSinceRelease": 7,
-			"lastPush": "2026-03-25T22:34:40Z",
-			"attentionScore": 286,
-			"unengagedCount": 4
-		},
-		{
 			"name": "lando/pkg-action",
 			"description": "A GitHub action that uses vercel/pkg to \"compile\" node projects into binaries",
 			"language": "JavaScript",
@@ -181,7 +181,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 269,
+			"attentionScore": 269.5,
 			"unengagedCount": 1
 		},
 		{
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-09-03T18:25:33Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-09T07:22:57Z",
-			"attentionScore": 143,
+			"attentionScore": 143.5,
 			"unengagedCount": 5
 		},
 		{
@@ -529,7 +529,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 76,
+			"attentionScore": 76.5,
 			"unengagedCount": 1
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-11T16:53:32Z",
-			"attentionScore": 46.5,
+			"attentionScore": 47,
 			"unengagedCount": 4
 		},
 		{
@@ -685,8 +685,20 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-03-11T04:21:37Z",
-			"attentionScore": 35.5,
+			"attentionScore": 36,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-03-05T14:34:45Z",
+			"attentionScore": 33,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/mailpit",
@@ -725,18 +737,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-03-05T14:34:45Z",
-			"attentionScore": 32.5,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/apache",
 			"description": "The Official Apache Lando Plugin",
 			"language": "JavaScript",
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-03-24T16:43:45Z",
-			"attentionScore": 18,
+			"attentionScore": 18.5,
 			"unengagedCount": 0
 		},
 		{
