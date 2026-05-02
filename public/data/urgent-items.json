@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-01T22:17:46.002Z",
+		"fetchedAt": "2026-05-02T00:35:59.811Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3378,6 +3378,24 @@
 			"createdAt": "2026-04-25T00:02:15Z",
 			"url": "https://github.com/lando/plugin-test/pull/12",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/code-sign-action",
+			"number": 28,
+			"title": "Pin actions to commit SHA",
+			"author": "seanses",
+			"createdAt": "2026-04-28T08:44:20Z",
+			"url": "https://github.com/lando/code-sign-action/pull/28",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/backdrop",
+			"number": 91,
+			"title": "Composer remove failing on startup/rebuild, causing build steps to be skipped",
+			"author": "daggerhart",
+			"createdAt": "2026-04-28T13:43:39Z",
+			"url": "https://github.com/lando/backdrop/issues/91",
+			"type": "issue"
 		}
 	]
 }
