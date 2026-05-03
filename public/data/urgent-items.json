@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-02T22:14:04.612Z",
+		"fetchedAt": "2026-05-03T00:36:53.156Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3396,6 +3396,69 @@
 			"createdAt": "2026-04-28T13:43:39Z",
 			"url": "https://github.com/lando/backdrop/issues/91",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/vitepress-theme-default-plus",
+			"number": 101,
+			"title": "feat: resolve team avatars to GitHub profiles (#78)",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-29T00:28:40Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/101",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/drupal",
+			"number": 186,
+			"title": "Missing deprecated variables in mysql:8.4 on Drupal10 recipe",
+			"author": "bronius-congruity",
+			"createdAt": "2026-04-29T04:55:02Z",
+			"url": "https://github.com/lando/drupal/issues/186",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 353,
+			"title": "Add PHP 8.5 support",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-29T05:51:14Z",
+			"url": "https://github.com/lando/pantheon/issues/353",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 352,
+			"title": "Add Leia coverage for PHP 8.5",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-29T05:51:14Z",
+			"url": "https://github.com/lando/pantheon/issues/352",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 355,
+			"title": "Evaluate Pantheon Solr 9 beta support",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-29T05:51:14Z",
+			"url": "https://github.com/lando/pantheon/issues/355",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 354,
+			"title": "Review Drush 5/7 handling after Pantheon rejection",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-29T05:51:14Z",
+			"url": "https://github.com/lando/pantheon/issues/354",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 356,
+			"title": "Add PHP 8.5 appserver support",
+			"author": "AaronFeledy",
+			"createdAt": "2026-04-29T05:51:52Z",
+			"url": "https://github.com/lando/pantheon/pull/356",
+			"type": "pr"
 		}
 	]
 }
