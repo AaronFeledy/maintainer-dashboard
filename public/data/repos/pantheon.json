@@ -20,14 +20,6 @@
 			"url": "https://github.com/lando/pantheon/issues/354"
 		},
 		{
-			"title": "Add PHP 8.5 support",
-			"author": "AaronFeledy",
-			"labels": [],
-			"createdAt": "2026-04-29T05:51:14Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/pantheon/issues/353"
-		},
-		{
 			"title": "Add Leia coverage for PHP 8.5",
 			"author": "AaronFeledy",
 			"labels": [],
@@ -226,11 +218,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Add PHP 8.5 appserver support",
+			"title": "fix: warn when pantheon.yml sets a drush_version below 8",
 			"author": "AaronFeledy",
-			"createdAt": "2026-04-29T05:51:52Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/pantheon/pull/356"
+			"createdAt": "2026-05-03T02:49:05Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/pantheon/pull/357"
 		},
 		{
 			"title": "fix: warn and fallback for unsupported PHP versions",

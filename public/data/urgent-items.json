@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-03T00:36:53.156Z",
+		"fetchedAt": "2026-05-03T03:06:57.876Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3417,15 +3417,6 @@
 		},
 		{
 			"repo": "lando/pantheon",
-			"number": 353,
-			"title": "Add PHP 8.5 support",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-29T05:51:14Z",
-			"url": "https://github.com/lando/pantheon/issues/353",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/pantheon",
 			"number": 352,
 			"title": "Add Leia coverage for PHP 8.5",
 			"author": "AaronFeledy",
@@ -3450,15 +3441,6 @@
 			"createdAt": "2026-04-29T05:51:14Z",
 			"url": "https://github.com/lando/pantheon/issues/354",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/pantheon",
-			"number": 356,
-			"title": "Add PHP 8.5 appserver support",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-29T05:51:52Z",
-			"url": "https://github.com/lando/pantheon/pull/356",
-			"type": "pr"
 		}
 	]
 }
