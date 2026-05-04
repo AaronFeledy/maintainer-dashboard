@@ -136,6 +136,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-04T21:40:37Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/248"
+		},
+		{
 			"title": "feat: xdebug configurability overhaul",
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-17T02:52:53Z",
