@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-05T18:31:25.491Z",
-		"repoCount": 63
+		"fetchedAt": "2026-05-05T20:25:02.915Z",
+		"repoCount": 65
 	},
 	"items": [
 		{
@@ -2948,6 +2948,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/backdrop",
+			"number": 89,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:50Z",
+			"url": "https://github.com/lando/backdrop/pull/89",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/platformsh",
 			"number": 220,
 			"title": "fix: handle race condition in release promote job",
@@ -3378,6 +3387,15 @@
 			"createdAt": "2026-04-28T08:44:20Z",
 			"url": "https://github.com/lando/code-sign-action/pull/28",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/backdrop",
+			"number": 91,
+			"title": "Composer remove failing on startup/rebuild, causing build steps to be skipped",
+			"author": "daggerhart",
+			"createdAt": "2026-04-28T13:43:39Z",
+			"url": "https://github.com/lando/backdrop/issues/91",
+			"type": "issue"
 		},
 		{
 			"repo": "lando/vitepress-theme-default-plus",
