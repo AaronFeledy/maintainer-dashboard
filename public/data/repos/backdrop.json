@@ -16,6 +16,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T01:34:11Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/backdrop/pull/92"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:54:50Z",

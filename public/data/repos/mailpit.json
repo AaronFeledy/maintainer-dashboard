@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Updated Mailpit to v1.29",
-			"author": "github-actions",
-			"createdAt": "2026-02-24T03:48:17Z",
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T01:48:35Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/mailpit/pull/52"
+			"url": "https://github.com/lando/mailpit/pull/53"
 		}
 	],
 	"releases": [

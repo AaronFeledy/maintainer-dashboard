@@ -20,7 +20,15 @@
 			"url": "https://github.com/lando/mean/issues/5"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T01:18:29Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mean/pull/67"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.5.0",
