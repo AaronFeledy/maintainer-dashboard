@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-05T10:34:28.841Z",
+		"fetchedAt": "2026-05-05T12:27:14.602Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -605,6 +605,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/wordpress",
+			"description": "The Official WordPress Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 10,
+			"openPRs": 1,
+			"lastRelease": "2026-03-11T16:53:00Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-05-05T12:09:09Z",
+			"attentionScore": 51,
+			"unengagedCount": 4
+		},
+		{
 			"name": "lando/lamp",
 			"description": "The Official LAMP Lando Plugin",
 			"language": "JavaScript",
@@ -627,18 +639,6 @@
 			"lastPush": "2026-05-05T06:09:45Z",
 			"attentionScore": 50,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/wordpress",
-			"description": "The Official WordPress Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 10,
-			"openPRs": 0,
-			"lastRelease": "2026-03-11T16:53:00Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-03-11T16:53:32Z",
-			"attentionScore": 49,
-			"unengagedCount": 4
 		},
 		{
 			"name": "lando/backdrop",
