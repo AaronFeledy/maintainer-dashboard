@@ -32,6 +32,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T05:55:31Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lamp/pull/106"
+		},
+		{
 			"title": "Added init defaults.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-12-19T22:42:16Z",
