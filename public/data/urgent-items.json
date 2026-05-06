@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-06T16:33:37.603Z",
-		"repoCount": 63
+		"fetchedAt": "2026-05-06T18:34:58.520Z",
+		"repoCount": 65
 	},
 	"items": [
 		{
@@ -626,6 +626,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/drupal",
+			"number": 28,
+			"title": "S3FS module + Image style support ",
+			"author": "Coufu",
+			"createdAt": "2022-06-26T06:44:29Z",
+			"url": "https://github.com/lando/drupal/issues/28",
+			"type": "issue"
+		},
+		{
 			"repo": "lando/platformsh",
 			"number": 168,
 			"title": "Elasticsearch fails to start",
@@ -1211,6 +1220,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/php",
+			"number": 93,
+			"title": "issue #92 do not use config for Xdebug 2 (outdated - causes problems in xdebug3 eg on php 8.1)",
+			"author": "zuernBernhard",
+			"createdAt": "2024-01-26T14:18:40Z",
+			"url": "https://github.com/lando/php/pull/93",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/lando",
 			"number": 3658,
 			"title": "Enable GitHub Discussions for the lando/lando project",
@@ -1361,6 +1379,15 @@
 			"author": "stebogit",
 			"createdAt": "2024-03-29T06:11:52Z",
 			"url": "https://github.com/lando/core-next/issues/65",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/php",
+			"number": 110,
+			"title": "Update default version to 8.3",
+			"author": "stebogit",
+			"createdAt": "2024-03-29T07:09:51Z",
+			"url": "https://github.com/lando/php/issues/110",
 			"type": "issue"
 		},
 		{
@@ -1641,6 +1668,15 @@
 			"createdAt": "2024-10-16T15:28:08Z",
 			"url": "https://github.com/lando/core/issues/232",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/php",
+			"number": 136,
+			"title": "lando/lando#2718: Explicitly set client_port to 9003.",
+			"author": "reynoldsalec",
+			"createdAt": "2024-10-21T18:15:22Z",
+			"url": "https://github.com/lando/php/pull/136",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -3110,6 +3146,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/php",
+			"number": 247,
+			"title": "feat: xdebug configurability overhaul",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-17T02:52:53Z",
+			"url": "https://github.com/lando/php/pull/247",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/argv",
 			"number": 15,
 			"title": "Bump flatted from 3.3.3 to 3.4.2",
@@ -3335,15 +3380,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/code-sign-action",
-			"number": 28,
-			"title": "Pin actions to commit SHA",
-			"author": "seanses",
-			"createdAt": "2026-04-28T08:44:20Z",
-			"url": "https://github.com/lando/code-sign-action/pull/28",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/backdrop",
 			"number": 91,
 			"title": "Composer remove failing on startup/rebuild, causing build steps to be skipped",
@@ -3360,6 +3396,15 @@
 			"createdAt": "2026-04-29T00:28:40Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/101",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/drupal",
+			"number": 186,
+			"title": "Missing deprecated variables in mysql:8.4 on Drupal10 recipe",
+			"author": "bronius-congruity",
+			"createdAt": "2026-04-29T04:55:02Z",
+			"url": "https://github.com/lando/drupal/issues/186",
+			"type": "issue"
 		},
 		{
 			"repo": "lando/pantheon",
