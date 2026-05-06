@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-06T12:38:50.020Z",
-		"repoCount": 65
+		"fetchedAt": "2026-05-06T14:55:36.967Z",
+		"repoCount": 64
 	},
 	"items": [
 		{
@@ -227,15 +227,6 @@
 			"author": "sinnbeck",
 			"createdAt": "2022-02-14T11:37:21Z",
 			"url": "https://github.com/lando/lemp/issues/4",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/nginx",
-			"number": 4,
-			"title": "Support following symlinks by default",
-			"author": "helgatheviking",
-			"createdAt": "2022-02-26T17:44:16Z",
-			"url": "https://github.com/lando/nginx/issues/4",
 			"type": "issue"
 		},
 		{
@@ -581,15 +572,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/nginx",
-			"number": 9,
-			"title": "Enable GZip",
-			"author": "kamalkech",
-			"createdAt": "2022-05-22T15:36:35Z",
-			"url": "https://github.com/lando/nginx/issues/9",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/wordpress",
 			"number": 20,
 			"title": "Unable to load a custom php.ini configuration with wordpress recipes",
@@ -833,15 +815,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/nginx",
-			"number": 16,
-			"title": "Ability to override parts of nginx config rather the whole config",
-			"author": "apotek",
-			"createdAt": "2023-03-08T16:52:30Z",
-			"url": "https://github.com/lando/nginx/issues/16",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3534,
 			"title": "If permissions change, Lando container commands may modify host system",
@@ -947,15 +920,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2023-06-30T18:26:20Z",
 			"url": "https://github.com/lando/lando/issues/3588",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/nginx",
-			"number": 20,
-			"title": "403 errors when accessing stylesheet and JS assets from symlinked WordPress plugin folder",
-			"author": "helgatheviking",
-			"createdAt": "2023-07-03T14:06:12Z",
-			"url": "https://github.com/lando/nginx/issues/20",
 			"type": "issue"
 		},
 		{
@@ -1208,15 +1172,6 @@
 			"author": "pirog",
 			"createdAt": "2024-01-23T14:34:36Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/2",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/nginx",
-			"number": 44,
-			"title": "Setting client_max_body_size",
-			"author": "sinnbeck",
-			"createdAt": "2024-01-25T13:33:48Z",
-			"url": "https://github.com/lando/nginx/issues/44",
 			"type": "issue"
 		},
 		{
