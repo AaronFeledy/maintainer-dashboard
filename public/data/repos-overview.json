@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-06T18:34:58.520Z",
+		"fetchedAt": "2026-05-06T20:32:32.935Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 780,
+			"attentionScore": 780.5,
 			"unengagedCount": 1
 		},
 		{
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-04-25T00:02:15Z",
-			"attentionScore": 557,
+			"attentionScore": 557.5,
 			"unengagedCount": 5
 		},
 		{
@@ -133,7 +133,7 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-03-11T10:36:47Z",
-			"attentionScore": 301.5,
+			"attentionScore": 302,
 			"unengagedCount": 8
 		},
 		{
@@ -145,7 +145,7 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-10T20:16:54Z",
-			"attentionScore": 300.5,
+			"attentionScore": 301,
 			"unengagedCount": 9
 		},
 		{
@@ -205,7 +205,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-03-08T03:42:34Z",
-			"attentionScore": 259.5,
+			"attentionScore": 260,
 			"unengagedCount": 0
 		},
 		{
@@ -337,7 +337,7 @@
 			"lastRelease": "2025-09-03T19:41:18Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-02-23T08:38:41Z",
-			"attentionScore": 166,
+			"attentionScore": 166.5,
 			"unengagedCount": 9
 		},
 		{
@@ -377,6 +377,18 @@
 			"unengagedCount": 7
 		},
 		{
+			"name": "lando/memcached",
+			"description": "The Official Memcached Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 6,
+			"lastRelease": "2025-08-28T19:28:14Z",
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-03-11T10:36:43Z",
+			"attentionScore": 155.5,
+			"unengagedCount": 6
+		},
+		{
 			"name": "lando/argv",
 			"description": "A small utility for argv parsing",
 			"language": "JavaScript",
@@ -389,18 +401,6 @@
 			"unengagedCount": 2
 		},
 		{
-			"name": "lando/memcached",
-			"description": "The Official Memcached Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 6,
-			"lastRelease": "2025-08-28T19:28:14Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-03-11T10:36:43Z",
-			"attentionScore": 155,
-			"unengagedCount": 6
-		},
-		{
 			"name": "lando/events",
 			"description": "Lando's Event Subsite",
 			"language": "Vue",
@@ -409,7 +409,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-02-23T08:46:23Z",
-			"attentionScore": 151,
+			"attentionScore": 151.5,
 			"unengagedCount": 6
 		},
 		{
@@ -433,8 +433,20 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-05-05T01:18:28Z",
-			"attentionScore": 128.5,
+			"attentionScore": 129,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/mongo",
+			"description": "The Official MongoDB Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2025-09-01T15:49:33Z",
+			"commitsSinceRelease": 18,
+			"lastPush": "2026-05-06T19:09:40Z",
+			"attentionScore": 125.5,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/postgres",
@@ -447,18 +459,6 @@
 			"lastPush": "2026-03-08T03:47:38Z",
 			"attentionScore": 125,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/mongo",
-			"description": "The Official MongoDB Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2025-09-01T15:49:33Z",
-			"commitsSinceRelease": 18,
-			"lastPush": "2026-03-08T02:34:08Z",
-			"attentionScore": 123.5,
-			"unengagedCount": 0
 		},
 		{
 			"name": "lando/node",
@@ -505,7 +505,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-03-11T09:22:29Z",
-			"attentionScore": 90.5,
+			"attentionScore": 91,
 			"unengagedCount": 3
 		},
 		{
@@ -553,7 +553,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-04-24T23:17:44Z",
-			"attentionScore": 76,
+			"attentionScore": 76.5,
 			"unengagedCount": 0
 		},
 		{
