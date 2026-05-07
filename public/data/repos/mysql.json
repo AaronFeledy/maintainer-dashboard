@@ -48,6 +48,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-07T08:41:31Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/91"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:52Z",

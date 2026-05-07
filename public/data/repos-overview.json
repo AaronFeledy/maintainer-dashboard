@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-07T07:01:19.851Z",
+		"fetchedAt": "2026-05-07T08:55:07.668Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -341,6 +341,18 @@
 			"unengagedCount": 9
 		},
 		{
+			"name": "lando/mysql",
+			"description": "The Official MySQL Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 5,
+			"openPRs": 7,
+			"lastRelease": "2025-08-31T14:00:11Z",
+			"commitsSinceRelease": 16,
+			"lastPush": "2026-05-07T08:41:31Z",
+			"attentionScore": 164,
+			"unengagedCount": 7
+		},
+		{
 			"name": "lando/setup-lando",
 			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
 			"language": "Shell",
@@ -351,18 +363,6 @@
 			"lastPush": "2026-05-05T01:25:57Z",
 			"attentionScore": 163,
 			"unengagedCount": 6
-		},
-		{
-			"name": "lando/mysql",
-			"description": "The Official MySQL Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 5,
-			"openPRs": 6,
-			"lastRelease": "2025-08-31T14:00:11Z",
-			"commitsSinceRelease": 16,
-			"lastPush": "2026-03-08T20:01:55Z",
-			"attentionScore": 162,
-			"unengagedCount": 7
 		},
 		{
 			"name": "lando/mariadb",
