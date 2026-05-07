@@ -12,7 +12,15 @@
 			"url": "https://github.com/lando/varnish/issues/11"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-07T17:46:47Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/varnish/pull/67"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.3.2",
