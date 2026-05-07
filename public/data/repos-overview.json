@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-07T03:07:56.378Z",
+		"fetchedAt": "2026-05-07T05:09:07.255Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -437,6 +437,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/postgres",
+			"description": "The Official Postgres Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 2,
+			"openPRs": 1,
+			"lastRelease": "2025-09-08T15:41:04Z",
+			"commitsSinceRelease": 20,
+			"lastPush": "2026-05-07T04:30:31Z",
+			"attentionScore": 127,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/mongo",
 			"description": "The Official MongoDB Lando Plugin",
 			"language": "JavaScript",
@@ -447,18 +459,6 @@
 			"lastPush": "2026-05-06T19:09:40Z",
 			"attentionScore": 125.5,
 			"unengagedCount": 0
-		},
-		{
-			"name": "lando/postgres",
-			"description": "The Official Postgres Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 2,
-			"openPRs": 0,
-			"lastRelease": "2025-09-08T15:41:04Z",
-			"commitsSinceRelease": 20,
-			"lastPush": "2026-03-08T03:47:38Z",
-			"attentionScore": 125,
-			"unengagedCount": 1
 		},
 		{
 			"name": "lando/node",
@@ -493,7 +493,7 @@
 			"lastRelease": "2026-03-11T04:39:18Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-05-03T02:02:47Z",
-			"attentionScore": 99,
+			"attentionScore": 99.5,
 			"unengagedCount": 15
 		},
 		{
@@ -577,7 +577,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-06T15:35:32Z",
-			"attentionScore": 60.5,
+			"attentionScore": 61,
 			"unengagedCount": 5
 		},
 		{
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-03-05T14:34:47Z",
-			"attentionScore": 58,
+			"attentionScore": 58.5,
 			"unengagedCount": 5
 		},
 		{
@@ -649,7 +649,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-05-05T01:34:11Z",
-			"attentionScore": 47.5,
+			"attentionScore": 48,
 			"unengagedCount": 2
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-05T02:18:41Z",
-			"attentionScore": 41,
+			"attentionScore": 41.5,
 			"unengagedCount": 2
 		},
 		{
@@ -701,18 +701,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-05-06T10:22:12Z",
-			"attentionScore": 38,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/mailpit",
 			"description": "The official Mailpit integration plugin for Lando",
 			"language": "JavaScript",
@@ -721,6 +709,18 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-05-05T01:48:34Z",
+			"attentionScore": 38.5,
+			"unengagedCount": 0
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-05-06T10:22:12Z",
 			"attentionScore": 38,
 			"unengagedCount": 0
 		},
@@ -765,11 +765,11 @@
 			"description": "The Official Redis Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 0,
-			"openPRs": 0,
+			"openPRs": 1,
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-03-24T16:43:45Z",
-			"attentionScore": 21.5,
+			"lastPush": "2026-05-07T04:45:14Z",
+			"attentionScore": 23.5,
 			"unengagedCount": 0
 		},
 		{

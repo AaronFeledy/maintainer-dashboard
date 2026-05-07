@@ -22,7 +22,15 @@
 			"url": "https://github.com/lando/postgres/issues/2"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-07T04:30:32Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/postgres/pull/72"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.6.0",
