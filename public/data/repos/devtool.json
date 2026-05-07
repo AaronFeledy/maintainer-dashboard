@@ -142,11 +142,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump axios from 1.9.0 to 1.15.0",
+			"title": "Bump axios from 1.9.0 to 1.15.2",
 			"author": "dependabot",
-			"createdAt": "2026-04-11T06:23:02Z",
+			"createdAt": "2026-05-07T21:24:42Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/devtool/pull/33"
+			"url": "https://github.com/lando/devtool/pull/34"
 		},
 		{
 			"title": "fix: resolve CLI hanging and add basic functionality",

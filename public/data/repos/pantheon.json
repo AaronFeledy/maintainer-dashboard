@@ -218,6 +218,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "build(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-07T21:55:35Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/358"
+		},
+		{
 			"title": "fix: warn when pantheon.yml sets a drush_version below 8",
 			"author": "AaronFeledy",
 			"createdAt": "2026-05-03T02:49:05Z",

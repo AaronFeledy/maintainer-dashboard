@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-07T20:29:02.668Z",
+		"fetchedAt": "2026-05-07T22:23:55.688Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2025-07-23T20:47:11Z",
-			"attentionScore": 823,
+			"attentionScore": 823.5,
 			"unengagedCount": 3
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-13T09:15:56Z",
-			"attentionScore": 507,
+			"attentionScore": 507.5,
 			"unengagedCount": 44
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 356.5,
+			"attentionScore": 357,
 			"unengagedCount": 6
 		},
 		{
@@ -216,9 +216,9 @@
 			"openPRs": 2,
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
-			"lastPush": "2026-04-11T06:23:05Z",
-			"attentionScore": 251.5,
-			"unengagedCount": 16
+			"lastPush": "2026-05-07T21:24:46Z",
+			"attentionScore": 248.5,
+			"unengagedCount": 15
 		},
 		{
 			"name": "lando/core",
@@ -361,7 +361,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-05-05T01:25:57Z",
-			"attentionScore": 163,
+			"attentionScore": 163.5,
 			"unengagedCount": 6
 		},
 		{
@@ -369,11 +369,11 @@
 			"description": "The Official MariaDB Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 9,
-			"openPRs": 3,
+			"openPRs": 4,
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 13,
-			"lastPush": "2026-03-13T01:48:49Z",
-			"attentionScore": 156.5,
+			"lastPush": "2026-05-07T20:46:11Z",
+			"attentionScore": 158.5,
 			"unengagedCount": 7
 		},
 		{
@@ -489,11 +489,11 @@
 			"description": "The Official Lando Pantheon plugin.",
 			"language": "JavaScript",
 			"openIssues": 22,
-			"openPRs": 2,
+			"openPRs": 3,
 			"lastRelease": "2026-03-11T04:39:18Z",
 			"commitsSinceRelease": 4,
-			"lastPush": "2026-05-03T02:02:47Z",
-			"attentionScore": 99.5,
+			"lastPush": "2026-05-07T21:55:35Z",
+			"attentionScore": 101.5,
 			"unengagedCount": 15
 		},
 		{
