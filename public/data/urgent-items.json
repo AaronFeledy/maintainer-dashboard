@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-06T22:18:19.117Z",
+		"fetchedAt": "2026-05-07T00:36:19.459Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3432,6 +3432,15 @@
 			"createdAt": "2026-04-29T05:51:14Z",
 			"url": "https://github.com/lando/pantheon/issues/354",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 357,
+			"title": "fix: warn when pantheon.yml sets a drush_version below 8",
+			"author": "AaronFeledy",
+			"createdAt": "2026-05-03T02:49:05Z",
+			"url": "https://github.com/lando/pantheon/pull/357",
+			"type": "pr"
 		}
 	]
 }
