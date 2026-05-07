@@ -1,0 +1,42 @@
+{
+	"name": "lando/phpmyadmin",
+	"description": "The Official phpMyAdmin Lando Plugin",
+	"language": "JavaScript",
+	"issues": [],
+	"pullRequests": [
+		{
+			"title": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-07T14:01:35Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/phpmyadmin/pull/81"
+		}
+	],
+	"releases": [
+		{
+			"tagName": "v1.6.0",
+			"publishedAt": "2026-02-23T00:37:20Z",
+			"url": "https://github.com/lando/phpmyadmin/releases/tag/v1.6.0"
+		},
+		{
+			"tagName": "v1.5.0",
+			"publishedAt": "2025-04-25T14:09:02Z",
+			"url": "https://github.com/lando/phpmyadmin/releases/tag/v1.5.0"
+		},
+		{
+			"tagName": "v1.4.2",
+			"publishedAt": "2025-02-07T00:54:02Z",
+			"url": "https://github.com/lando/phpmyadmin/releases/tag/v1.4.2"
+		},
+		{
+			"tagName": "v1.4.1",
+			"publishedAt": "2025-02-05T19:59:19Z",
+			"url": "https://github.com/lando/phpmyadmin/releases/tag/v1.4.1"
+		},
+		{
+			"tagName": "v1.4.0",
+			"publishedAt": "2025-02-03T23:37:35Z",
+			"url": "https://github.com/lando/phpmyadmin/releases/tag/v1.4.0"
+		}
+	]
+}
