@@ -66,7 +66,15 @@
 			"url": "https://github.com/lando/nginx/issues/4"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T22:15:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/nginx/pull/84"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.6.0",
