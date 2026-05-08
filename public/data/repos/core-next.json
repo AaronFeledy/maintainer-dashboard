@@ -200,6 +200,20 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T17:35:37Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/144"
+		},
+		{
+			"title": "Bump fast-uri, fastify and fastify-cli in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T17:28:55Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/143"
+		},
+		{
 			"title": "Bump the actions group across 1 directory with 5 updates",
 			"author": "dependabot",
 			"createdAt": "2026-04-18T02:44:04Z",
@@ -219,20 +233,6 @@
 			"createdAt": "2026-03-26T04:57:57Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core-next/pull/139"
-		},
-		{
-			"title": "Bump fastify and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-03-25T20:13:09Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/138"
-		},
-		{
-			"title": "Bump fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-03-25T20:09:53Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/137"
 		},
 		{
 			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
