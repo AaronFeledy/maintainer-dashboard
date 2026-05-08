@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-08T12:29:55.759Z",
+		"fetchedAt": "2026-05-08T14:37:09.699Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2025-07-23T20:47:06Z",
-			"attentionScore": 551,
+			"attentionScore": 551.5,
 			"unengagedCount": 5
 		},
 		{
@@ -253,7 +253,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-04-18T02:44:03Z",
-			"attentionScore": 197.5,
+			"attentionScore": 198,
 			"unengagedCount": 23
 		},
 		{
@@ -349,7 +349,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-05-07T08:41:31Z",
-			"attentionScore": 164.5,
+			"attentionScore": 165,
 			"unengagedCount": 7
 		},
 		{
@@ -481,7 +481,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-05-06T05:16:41Z",
-			"attentionScore": 103,
+			"attentionScore": 103.5,
 			"unengagedCount": 4
 		},
 		{
@@ -509,6 +509,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/vitepress-theme-default-plus",
+			"description": "The VitePress Default Theme with a little more POWAH",
+			"language": "JavaScript",
+			"openIssues": 13,
+			"openPRs": 2,
+			"lastRelease": "2026-03-05T14:33:33Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-04-29T19:03:35Z",
+			"attentionScore": 82,
+			"unengagedCount": 11
+		},
+		{
 			"name": "lando/prepare-release-action",
 			"description": "Prepare a Lando plugin for publishing to a package registry.",
 			"language": "JavaScript",
@@ -519,18 +531,6 @@
 			"lastPush": "2026-02-19T22:40:58Z",
 			"attentionScore": 81.5,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/vitepress-theme-default-plus",
-			"description": "The VitePress Default Theme with a little more POWAH",
-			"language": "JavaScript",
-			"openIssues": 13,
-			"openPRs": 2,
-			"lastRelease": "2026-03-05T14:33:33Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-04-29T19:03:35Z",
-			"attentionScore": 81.5,
-			"unengagedCount": 11
 		},
 		{
 			"name": "lando/elasticsearch",
