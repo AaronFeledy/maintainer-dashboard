@@ -200,6 +200,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump fast-uri, fastify and fastify-cli in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T19:23:41Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/145"
+		},
+		{
 			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-05-08T17:35:37Z",
@@ -233,13 +240,6 @@
 			"createdAt": "2026-03-26T04:57:57Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core-next/pull/139"
-		},
-		{
-			"title": "Bump fastify and fastify-cli in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-03-25T19:38:20Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/136"
 		},
 		{
 			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/command",
