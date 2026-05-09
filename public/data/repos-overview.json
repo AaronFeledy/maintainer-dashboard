@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-08T22:21:33.103Z",
+		"fetchedAt": "2026-05-09T00:37:49.066Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-04-07T03:25:08Z",
-			"attentionScore": 342,
+			"attentionScore": 342.5,
 			"unengagedCount": 3
 		},
 		{
@@ -193,7 +193,7 @@
 			"lastRelease": "2026-04-28T22:30:42Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:42Z",
-			"attentionScore": 263.5,
+			"attentionScore": 264,
 			"unengagedCount": 26
 		},
 		{
@@ -225,11 +225,11 @@
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
 			"openIssues": 54,
-			"openPRs": 21,
+			"openPRs": 22,
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-05-08T19:28:10Z",
-			"attentionScore": 238.5,
+			"lastPush": "2026-05-08T23:12:56Z",
+			"attentionScore": 241,
 			"unengagedCount": 46
 		},
 		{
@@ -341,6 +341,18 @@
 			"unengagedCount": 9
 		},
 		{
+			"name": "lando/setup-lando",
+			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
+			"language": "Shell",
+			"openIssues": 15,
+			"openPRs": 3,
+			"lastRelease": "2025-08-31T20:57:45Z",
+			"commitsSinceRelease": 22,
+			"lastPush": "2026-05-05T01:25:57Z",
+			"attentionScore": 167,
+			"unengagedCount": 7
+		},
+		{
 			"name": "lando/mysql",
 			"description": "The Official MySQL Lando Plugin",
 			"language": "JavaScript",
@@ -351,18 +363,6 @@
 			"lastPush": "2026-05-07T08:41:31Z",
 			"attentionScore": 165,
 			"unengagedCount": 7
-		},
-		{
-			"name": "lando/setup-lando",
-			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
-			"language": "Shell",
-			"openIssues": 15,
-			"openPRs": 3,
-			"lastRelease": "2025-08-31T20:57:45Z",
-			"commitsSinceRelease": 22,
-			"lastPush": "2026-05-05T01:25:57Z",
-			"attentionScore": 164,
-			"unengagedCount": 6
 		},
 		{
 			"name": "lando/mariadb",
@@ -377,6 +377,18 @@
 			"unengagedCount": 7
 		},
 		{
+			"name": "lando/argv",
+			"description": "A small utility for argv parsing",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 3,
+			"lastRelease": "2025-07-19T00:12:10Z",
+			"commitsSinceRelease": 9,
+			"lastPush": "2026-05-08T22:49:26Z",
+			"attentionScore": 159,
+			"unengagedCount": 2
+		},
+		{
 			"name": "lando/memcached",
 			"description": "The Official Memcached Lando Plugin",
 			"language": "JavaScript",
@@ -387,18 +399,6 @@
 			"lastPush": "2026-03-11T10:36:43Z",
 			"attentionScore": 156.5,
 			"unengagedCount": 6
-		},
-		{
-			"name": "lando/argv",
-			"description": "A small utility for argv parsing",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 2,
-			"lastRelease": "2025-07-19T00:12:10Z",
-			"commitsSinceRelease": 9,
-			"lastPush": "2026-03-21T10:40:04Z",
-			"attentionScore": 156.5,
-			"unengagedCount": 2
 		},
 		{
 			"name": "lando/events",
@@ -433,8 +433,8 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-05-05T01:18:28Z",
-			"attentionScore": 130,
-			"unengagedCount": 1
+			"attentionScore": 133,
+			"unengagedCount": 2
 		},
 		{
 			"name": "lando/postgres",
@@ -509,6 +509,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/prepare-release-action",
+			"description": "Prepare a Lando plugin for publishing to a package registry.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2025-12-06T00:13:54Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-02-19T22:40:58Z",
+			"attentionScore": 82,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/vitepress-theme-default-plus",
 			"description": "The VitePress Default Theme with a little more POWAH",
 			"language": "JavaScript",
@@ -519,18 +531,6 @@
 			"lastPush": "2026-04-29T19:03:35Z",
 			"attentionScore": 82,
 			"unengagedCount": 11
-		},
-		{
-			"name": "lando/prepare-release-action",
-			"description": "Prepare a Lando plugin for publishing to a package registry.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2025-12-06T00:13:54Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-19T22:40:58Z",
-			"attentionScore": 81.5,
-			"unengagedCount": 1
 		},
 		{
 			"name": "lando/elasticsearch",
@@ -613,8 +613,8 @@
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-05T12:09:09Z",
-			"attentionScore": 53,
-			"unengagedCount": 4
+			"attentionScore": 56,
+			"unengagedCount": 5
 		},
 		{
 			"name": "lando/lamp",
@@ -625,8 +625,8 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-05T05:55:30Z",
-			"attentionScore": 51.5,
-			"unengagedCount": 3
+			"attentionScore": 54.5,
+			"unengagedCount": 4
 		},
 		{
 			"name": "lando/lemp",
@@ -637,8 +637,8 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-05T06:09:45Z",
-			"attentionScore": 51.5,
-			"unengagedCount": 3
+			"attentionScore": 54.5,
+			"unengagedCount": 4
 		},
 		{
 			"name": "lando/backdrop",
@@ -649,8 +649,20 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-05-05T01:34:11Z",
-			"attentionScore": 48.5,
-			"unengagedCount": 2
+			"attentionScore": 51.5,
+			"unengagedCount": 3
+		},
+		{
+			"name": "lando/drupal",
+			"description": "The Official Drupal Lando plugin",
+			"language": "JavaScript",
+			"openIssues": 5,
+			"openPRs": 1,
+			"lastRelease": "2026-03-11T04:30:43Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-05-05T02:18:41Z",
+			"attentionScore": 45,
+			"unengagedCount": 3
 		},
 		{
 			"name": "lando/joomla",
@@ -665,16 +677,16 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/drupal",
-			"description": "The Official Drupal Lando plugin",
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
 			"language": "JavaScript",
-			"openIssues": 5,
+			"openIssues": 0,
 			"openPRs": 1,
-			"lastRelease": "2026-03-11T04:30:43Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-05-05T02:18:41Z",
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-05-05T01:48:34Z",
 			"attentionScore": 42,
-			"unengagedCount": 2
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/symfony",
@@ -701,30 +713,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-05-06T10:22:12Z",
-			"attentionScore": 39,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-05-05T01:48:34Z",
-			"attentionScore": 39,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -733,6 +721,18 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-05-07T14:01:34Z",
+			"attentionScore": 39.5,
+			"unengagedCount": 0
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-05-06T10:22:12Z",
 			"attentionScore": 39,
 			"unengagedCount": 0
 		},
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-04-28T22:30:47Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:47Z",
-			"attentionScore": 14.5,
+			"attentionScore": 15,
 			"unengagedCount": 2
 		}
 	]

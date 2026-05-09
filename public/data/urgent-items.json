@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-08T22:21:33.103Z",
+		"fetchedAt": "2026-05-09T00:37:49.066Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3413,6 +3413,78 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-04T21:40:37Z",
 			"url": "https://github.com/lando/php/pull/248",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mean",
+			"number": 67,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T01:18:29Z",
+			"url": "https://github.com/lando/mean/pull/67",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/setup-lando",
+			"number": 119,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T01:25:57Z",
+			"url": "https://github.com/lando/setup-lando/pull/119",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/backdrop",
+			"number": 92,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T01:34:11Z",
+			"url": "https://github.com/lando/backdrop/pull/92",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mailpit",
+			"number": 53,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T01:48:35Z",
+			"url": "https://github.com/lando/mailpit/pull/53",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/drupal",
+			"number": 187,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T02:18:42Z",
+			"url": "https://github.com/lando/drupal/pull/187",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lamp",
+			"number": 106,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T05:55:31Z",
+			"url": "https://github.com/lando/lamp/pull/106",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lemp",
+			"number": 87,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T06:09:45Z",
+			"url": "https://github.com/lando/lemp/pull/87",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/wordpress",
+			"number": 137,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-05T12:09:09Z",
+			"url": "https://github.com/lando/wordpress/pull/137",
 			"type": "pr"
 		}
 	]
