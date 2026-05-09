@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
 			"author": "dependabot",
-			"createdAt": "2026-03-09T01:03:33Z",
+			"createdAt": "2026-05-09T01:03:57Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/apache/pull/60"
+			"url": "https://github.com/lando/apache/pull/61"
 		}
 	],
 	"releases": [
