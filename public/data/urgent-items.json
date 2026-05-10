@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-09T22:15:56.690Z",
+		"fetchedAt": "2026-05-10T00:38:13.166Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3485,6 +3485,42 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-05T12:09:09Z",
 			"url": "https://github.com/lando/wordpress/pull/137",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/solr",
+			"number": 71,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-06T05:16:42Z",
+			"url": "https://github.com/lando/solr/pull/71",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/go",
+			"number": 79,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-06T10:22:13Z",
+			"url": "https://github.com/lando/go/pull/79",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/acquia",
+			"number": 166,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-06T15:35:33Z",
+			"url": "https://github.com/lando/acquia/pull/166",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mongo",
+			"number": 61,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-06T19:09:40Z",
+			"url": "https://github.com/lando/mongo/pull/61",
 			"type": "pr"
 		}
 	]
