@@ -45,7 +45,15 @@
 			"url": "https://github.com/lando/symfony/issues/17"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-11T03:37:05Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/symfony/pull/90"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.12.2",
