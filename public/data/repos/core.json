@@ -467,6 +467,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Add a system-level plugin-auth.js",
+			"author": "reynoldsalec",
+			"createdAt": "2026-05-12T17:07:18Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/468"
+		},
+		{
 			"title": "docs: add guide for hosting and distributing a private Lando plugin",
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-11T17:43:41Z",
