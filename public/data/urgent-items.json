@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-11T22:24:16.671Z",
+		"fetchedAt": "2026-05-12T00:36:10.111Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3620,6 +3620,78 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-07T21:55:35Z",
 			"url": "https://github.com/lando/pantheon/pull/358",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 464,
+			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T17:28:43Z",
+			"url": "https://github.com/lando/core/pull/464",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 143,
+			"title": "Bump fast-uri, fastify and fastify-cli in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T17:28:55Z",
+			"url": "https://github.com/lando/core-next/pull/143",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 144,
+			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T17:35:37Z",
+			"url": "https://github.com/lando/core-next/pull/144",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 145,
+			"title": "Bump fast-uri, fastify and fastify-cli in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T19:23:41Z",
+			"url": "https://github.com/lando/core-next/pull/145",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 465,
+			"title": "Bump fast-uri, fastify and fastify-cli in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T19:28:10Z",
+			"url": "https://github.com/lando/core/pull/465",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/nginx",
+			"number": 84,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T22:15:40Z",
+			"url": "https://github.com/lando/nginx/pull/84",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/argv",
+			"number": 16,
+			"title": "Bump fast-uri from 3.0.6 to 3.1.2",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T22:49:27Z",
+			"url": "https://github.com/lando/argv/pull/16",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 466,
+			"title": "Bump fast-uri, fastify and fastify-cli in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-05-08T23:12:57Z",
+			"url": "https://github.com/lando/core/pull/466",
 			"type": "pr"
 		}
 	]

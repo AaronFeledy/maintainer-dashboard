@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-11T22:24:16.671Z",
+		"fetchedAt": "2026-05-12T00:36:10.111Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-04-07T03:25:08Z",
-			"attentionScore": 343.5,
+			"attentionScore": 344,
 			"unengagedCount": 3
 		},
 		{
@@ -205,8 +205,20 @@
 			"lastRelease": "2026-04-28T22:30:42Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:42Z",
-			"attentionScore": 265,
+			"attentionScore": 265.5,
 			"unengagedCount": 26
+		},
+		{
+			"name": "lando/core",
+			"description": "Current Lando v3 runtime",
+			"language": "JavaScript",
+			"openIssues": 54,
+			"openPRs": 23,
+			"lastRelease": "2026-04-28T22:26:09Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-05-11T17:42:44Z",
+			"attentionScore": 253.5,
+			"unengagedCount": 49
 		},
 		{
 			"name": "lando/devtool",
@@ -221,18 +233,6 @@
 			"unengagedCount": 16
 		},
 		{
-			"name": "lando/core",
-			"description": "Current Lando v3 runtime",
-			"language": "JavaScript",
-			"openIssues": 54,
-			"openPRs": 23,
-			"lastRelease": "2026-04-28T22:26:09Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-05-11T17:42:44Z",
-			"attentionScore": 244,
-			"unengagedCount": 46
-		},
-		{
 			"name": "lando/telemetry",
 			"description": null,
 			"language": "JavaScript",
@@ -245,6 +245,18 @@
 			"unengagedCount": 4
 		},
 		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 20,
+			"openPRs": 17,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-05-08T19:23:46Z",
+			"attentionScore": 199.5,
+			"unengagedCount": 23
+		},
+		{
 			"name": "lando/gitpod",
 			"description": null,
 			"language": "Dockerfile",
@@ -255,18 +267,6 @@
 			"lastPush": "2026-02-25T13:17:04Z",
 			"attentionScore": 196.5,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 20,
-			"openPRs": 17,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-05-08T19:23:46Z",
-			"attentionScore": 190.5,
-			"unengagedCount": 20
 		},
 		{
 			"name": "lando/drupal-dev-environment",
@@ -385,8 +385,8 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-08T22:49:26Z",
-			"attentionScore": 160,
-			"unengagedCount": 2
+			"attentionScore": 163.5,
+			"unengagedCount": 3
 		},
 		{
 			"name": "lando/memcached",
@@ -533,6 +533,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/prepare-release-action",
+			"description": "Prepare a Lando plugin for publishing to a package registry.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2025-12-06T00:13:54Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-02-19T22:40:58Z",
+			"attentionScore": 83.5,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/vitepress-theme-default-plus",
 			"description": "The VitePress Default Theme with a little more POWAH",
 			"language": "JavaScript",
@@ -543,18 +555,6 @@
 			"lastPush": "2026-04-29T19:03:35Z",
 			"attentionScore": 83.5,
 			"unengagedCount": 11
-		},
-		{
-			"name": "lando/prepare-release-action",
-			"description": "Prepare a Lando plugin for publishing to a package registry.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2025-12-06T00:13:54Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-19T22:40:58Z",
-			"attentionScore": 83,
-			"unengagedCount": 1
 		},
 		{
 			"name": "lando/php",
@@ -589,8 +589,8 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-05-08T22:15:39Z",
-			"attentionScore": 62.5,
-			"unengagedCount": 5
+			"attentionScore": 65.5,
+			"unengagedCount": 6
 		},
 		{
 			"name": "lando/ruby",
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-04-28T22:30:47Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:47Z",
-			"attentionScore": 16,
+			"attentionScore": 16.5,
 			"unengagedCount": 2
 		}
 	]
