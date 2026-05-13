@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-12T22:27:46.859Z",
+		"fetchedAt": "2026-05-13T00:40:16.876Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-04-07T03:25:08Z",
-			"attentionScore": 344,
+			"attentionScore": 344.5,
 			"unengagedCount": 3
 		},
 		{
@@ -205,7 +205,7 @@
 			"lastRelease": "2026-04-28T22:30:42Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:42Z",
-			"attentionScore": 265.5,
+			"attentionScore": 266,
 			"unengagedCount": 26
 		},
 		{
@@ -385,7 +385,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-08T22:49:26Z",
-			"attentionScore": 163.5,
+			"attentionScore": 164,
 			"unengagedCount": 3
 		},
 		{
@@ -533,6 +533,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/prepare-release-action",
+			"description": "Prepare a Lando plugin for publishing to a package registry.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2025-12-06T00:13:54Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-02-19T22:40:58Z",
+			"attentionScore": 84,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/vitepress-theme-default-plus",
 			"description": "The VitePress Default Theme with a little more POWAH",
 			"language": "JavaScript",
@@ -543,18 +555,6 @@
 			"lastPush": "2026-04-29T19:03:35Z",
 			"attentionScore": 84,
 			"unengagedCount": 11
-		},
-		{
-			"name": "lando/prepare-release-action",
-			"description": "Prepare a Lando plugin for publishing to a package registry.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2025-12-06T00:13:54Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-19T22:40:58Z",
-			"attentionScore": 83.5,
-			"unengagedCount": 1
 		},
 		{
 			"name": "lando/php",
@@ -677,6 +677,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/phpmyadmin",
+			"description": "The Official phpMyAdmin Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T00:37:20Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-05-07T14:01:34Z",
+			"attentionScore": 44.5,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/symfony",
 			"description": "The Official Symfony Lando Plugin",
 			"language": "JavaScript",
@@ -713,18 +725,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/phpmyadmin",
-			"description": "The Official phpMyAdmin Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T00:37:20Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-05-07T14:01:34Z",
-			"attentionScore": 44,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/laravel",
 			"description": "The Official Laravel Lando Plugin",
 			"language": "JavaScript",
@@ -734,6 +734,18 @@
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-05-11T07:51:42Z",
 			"attentionScore": 44,
+			"unengagedCount": 1
+		},
+		{
+			"name": "lando/apache",
+			"description": "The Official Apache Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-03-08T02:17:59Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-05-09T01:03:57Z",
+			"attentionScore": 37.5,
 			"unengagedCount": 1
 		},
 		{
@@ -747,18 +759,6 @@
 			"lastPush": "2026-05-07T16:02:43Z",
 			"attentionScore": 36.5,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/apache",
-			"description": "The Official Apache Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-03-08T02:17:59Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-05-09T01:03:57Z",
-			"attentionScore": 34.5,
-			"unengagedCount": 0
 		},
 		{
 			"name": "lando/redis",
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-04-28T22:30:47Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:47Z",
-			"attentionScore": 16.5,
+			"attentionScore": 17,
 			"unengagedCount": 2
 		}
 	]
