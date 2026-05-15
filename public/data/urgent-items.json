@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-14T22:24:50.606Z",
+		"fetchedAt": "2026-05-15T00:38:57.459Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3701,6 +3701,51 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-09T01:03:57Z",
 			"url": "https://github.com/lando/apache/pull/61",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/symfony",
+			"number": 90,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-11T03:37:05Z",
+			"url": "https://github.com/lando/symfony/pull/90",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/laravel",
+			"number": 111,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-11T07:51:43Z",
+			"url": "https://github.com/lando/laravel/pull/111",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/joomla",
+			"number": 77,
+			"title": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-11T17:19:17Z",
+			"url": "https://github.com/lando/joomla/pull/77",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 467,
+			"title": "docs: add guide for hosting and distributing a private Lando plugin",
+			"author": "reynoldsalec",
+			"createdAt": "2026-05-11T17:43:41Z",
+			"url": "https://github.com/lando/core/pull/467",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/elasticsearch",
+			"number": 51,
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-05-11T17:54:23Z",
+			"url": "https://github.com/lando/elasticsearch/pull/51",
 			"type": "pr"
 		}
 	]
