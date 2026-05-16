@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-15T22:21:27.028Z",
+		"fetchedAt": "2026-05-16T00:36:50.226Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-04-07T03:25:08Z",
-			"attentionScore": 345.5,
+			"attentionScore": 346,
 			"unengagedCount": 3
 		},
 		{
@@ -205,7 +205,7 @@
 			"lastRelease": "2026-04-28T22:30:42Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:42Z",
-			"attentionScore": 267,
+			"attentionScore": 267.5,
 			"unengagedCount": 26
 		},
 		{
@@ -217,8 +217,8 @@
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-12T17:01:07Z",
-			"attentionScore": 260,
-			"unengagedCount": 50
+			"attentionScore": 263.5,
+			"unengagedCount": 51
 		},
 		{
 			"name": "lando/devtool",
@@ -385,7 +385,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-08T22:49:26Z",
-			"attentionScore": 165,
+			"attentionScore": 165.5,
 			"unengagedCount": 3
 		},
 		{
@@ -533,6 +533,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/prepare-release-action",
+			"description": "Prepare a Lando plugin for publishing to a package registry.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2025-12-06T00:13:54Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-02-19T22:40:58Z",
+			"attentionScore": 85.5,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/vitepress-theme-default-plus",
 			"description": "The VitePress Default Theme with a little more POWAH",
 			"language": "JavaScript",
@@ -543,18 +555,6 @@
 			"lastPush": "2026-04-29T19:03:35Z",
 			"attentionScore": 85.5,
 			"unengagedCount": 11
-		},
-		{
-			"name": "lando/prepare-release-action",
-			"description": "Prepare a Lando plugin for publishing to a package registry.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2025-12-06T00:13:54Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-19T22:40:58Z",
-			"attentionScore": 85,
-			"unengagedCount": 1
 		},
 		{
 			"name": "lando/php",
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-04-28T22:30:47Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:47Z",
-			"attentionScore": 18,
+			"attentionScore": 18.5,
 			"unengagedCount": 2
 		}
 	]

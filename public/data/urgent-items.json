@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-15T22:21:27.028Z",
+		"fetchedAt": "2026-05-16T00:36:50.226Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3746,6 +3746,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-11T17:54:23Z",
 			"url": "https://github.com/lando/elasticsearch/pull/51",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 468,
+			"title": "Add a system-level plugin-auth.js",
+			"author": "reynoldsalec",
+			"createdAt": "2026-05-12T17:07:18Z",
+			"url": "https://github.com/lando/core/pull/468",
 			"type": "pr"
 		}
 	]
