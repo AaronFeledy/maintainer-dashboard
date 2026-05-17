@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-17T12:21:30.333Z",
+		"fetchedAt": "2026-05-17T14:31:20.596Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2025-07-23T20:47:06Z",
-			"attentionScore": 555.5,
+			"attentionScore": 556,
 			"unengagedCount": 5
 		},
 		{
@@ -233,6 +233,18 @@
 			"unengagedCount": 16
 		},
 		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 20,
+			"openPRs": 17,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-05-08T19:23:46Z",
+			"attentionScore": 202.5,
+			"unengagedCount": 23
+		},
+		{
 			"name": "lando/telemetry",
 			"description": null,
 			"language": "JavaScript",
@@ -243,18 +255,6 @@
 			"lastPush": "2025-07-19T02:42:44Z",
 			"attentionScore": 202.5,
 			"unengagedCount": 4
-		},
-		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 20,
-			"openPRs": 17,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-05-08T19:23:46Z",
-			"attentionScore": 202,
-			"unengagedCount": 23
 		},
 		{
 			"name": "lando/gitpod",
@@ -337,7 +337,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-05-07T08:41:31Z",
-			"attentionScore": 172,
+			"attentionScore": 172.5,
 			"unengagedCount": 8
 		},
 		{
@@ -481,7 +481,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-05-06T05:16:41Z",
-			"attentionScore": 110.5,
+			"attentionScore": 111,
 			"unengagedCount": 5
 		},
 		{
