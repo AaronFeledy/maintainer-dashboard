@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-19T03:08:21.903Z",
+		"fetchedAt": "2026-05-19T05:22:10.982Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3755,15 +3755,6 @@
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-12T17:07:18Z",
 			"url": "https://github.com/lando/core/pull/468",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailpit",
-			"number": 54,
-			"title": "Updated Mailpit to v1.30",
-			"author": "github-actions",
-			"createdAt": "2026-05-15T04:21:55Z",
-			"url": "https://github.com/lando/mailpit/pull/54",
 			"type": "pr"
 		}
 	]
