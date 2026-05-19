@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-19T07:14:09.193Z",
+		"fetchedAt": "2026-05-19T09:10:19.517Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3445,7 +3445,7 @@
 		{
 			"repo": "lando/mailpit",
 			"number": 53,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-05-05T01:48:35Z",
 			"url": "https://github.com/lando/mailpit/pull/53",
