@@ -600,13 +600,6 @@
 			"url": "https://github.com/lando/core/pull/194"
 		},
 		{
-			"title": "Update proxy docs file provider directory",
-			"author": "romanzipp",
-			"createdAt": "2024-08-08T05:30:27Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/189"
-		},
-		{
 			"title": "Debugging Compose Path Setup Errors",
 			"author": "reynoldsalec",
 			"createdAt": "2024-08-07T20:40:56Z",

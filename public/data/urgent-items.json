@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-21T20:36:42.677Z",
+		"fetchedAt": "2026-05-21T22:30:07.116Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1550,15 +1550,6 @@
 			"author": "reynoldsalec",
 			"createdAt": "2024-08-07T20:40:56Z",
 			"url": "https://github.com/lando/core/pull/188",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 189,
-			"title": "Update proxy docs file provider directory",
-			"author": "romanzipp",
-			"createdAt": "2024-08-08T05:30:27Z",
-			"url": "https://github.com/lando/core/pull/189",
 			"type": "pr"
 		},
 		{
