@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-21T11:05:55.717Z",
-		"repoCount": 65
+		"fetchedAt": "2026-05-21T13:08:17.469Z",
+		"repoCount": 63
 	},
 	"items": [
 		{
@@ -2201,15 +2201,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/plugin-test",
-			"number": 6,
-			"title": "Bump prismjs from 1.29.0 to 1.30.0",
-			"author": "dependabot",
-			"createdAt": "2025-09-11T14:23:45Z",
-			"url": "https://github.com/lando/plugin-test/pull/6",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/mailhog",
 			"number": 44,
 			"title": "Bump axios from 1.7.7 to 1.11.0",
@@ -3092,24 +3083,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/symfony",
-			"number": 88,
-			"title": "expire_logs_days MySQL config option has been removed in MySQL 8.4",
-			"author": "darrylhein",
-			"createdAt": "2026-03-03T00:17:07Z",
-			"url": "https://github.com/lando/symfony/issues/88",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 8,
-			"title": "Bump immutable from 4.1.0 to 4.3.8",
-			"author": "dependabot",
-			"createdAt": "2026-03-05T05:30:19Z",
-			"url": "https://github.com/lando/plugin-test/pull/8",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 135,
 			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/command",
@@ -3218,15 +3191,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/plugin-test",
-			"number": 10,
-			"title": "Bump picomatch from 2.3.1 to 2.3.2",
-			"author": "dependabot",
-			"createdAt": "2026-03-27T09:59:34Z",
-			"url": "https://github.com/lando/plugin-test/pull/10",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 140,
 			"title": "Bump brace-expansion from 2.0.2 to 2.0.3 in /examples/command",
@@ -3260,15 +3224,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-04-07T03:25:05Z",
 			"url": "https://github.com/lando/run-leia-action/pull/16",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 11,
-			"title": "Bump lodash from 4.17.21 to 4.18.1",
-			"author": "dependabot",
-			"createdAt": "2026-04-07T04:53:02Z",
-			"url": "https://github.com/lando/plugin-test/pull/11",
 			"type": "pr"
 		},
 		{
@@ -3333,15 +3288,6 @@
 			"createdAt": "2026-04-22T07:52:09Z",
 			"url": "https://github.com/lando/core/issues/462",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 12,
-			"title": "Bump postcss from 8.4.31 to 8.5.10",
-			"author": "dependabot",
-			"createdAt": "2026-04-25T00:02:15Z",
-			"url": "https://github.com/lando/plugin-test/pull/12",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/backdrop",
@@ -3701,15 +3647,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-09T01:03:57Z",
 			"url": "https://github.com/lando/apache/pull/61",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/symfony",
-			"number": 90,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-11T03:37:05Z",
-			"url": "https://github.com/lando/symfony/pull/90",
 			"type": "pr"
 		},
 		{

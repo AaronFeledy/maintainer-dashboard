@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-21T11:05:55.717Z",
-		"repoCount": 65
+		"fetchedAt": "2026-05-21T13:08:17.469Z",
+		"repoCount": 63
 	},
 	"repos": [
 		{
@@ -39,18 +39,6 @@
 			"lastPush": "2026-02-20T12:47:08Z",
 			"attentionScore": 704.5,
 			"unengagedCount": 10
-		},
-		{
-			"name": "lando/plugin-test",
-			"description": "Dummy plugin for testing Lando's plugin-related commands.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 5,
-			"lastRelease": "2023-06-06T19:23:56Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-04-25T00:02:15Z",
-			"attentionScore": 564.5,
-			"unengagedCount": 5
 		},
 		{
 			"name": "lando/notarize-action",
@@ -662,18 +650,6 @@
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-05-11T17:19:16Z",
 			"attentionScore": 54.5,
-			"unengagedCount": 2
-		},
-		{
-			"name": "lando/symfony",
-			"description": "The Official Symfony Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 4,
-			"openPRs": 1,
-			"lastRelease": "2026-03-02T06:01:17Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-05-11T03:37:04Z",
-			"attentionScore": 52,
 			"unengagedCount": 2
 		},
 		{
