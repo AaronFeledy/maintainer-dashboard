@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-23T14:32:40.573Z",
-		"repoCount": 65
+		"fetchedAt": "2026-05-23T16:22:03.148Z",
+		"repoCount": 64
 	},
 	"repos": [
 		{
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 705.5,
+			"attentionScore": 706,
 			"unengagedCount": 10
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 415.5,
+			"attentionScore": 416,
 			"unengagedCount": 5
 		},
 		{
@@ -111,18 +111,6 @@
 			"lastPush": "2026-04-07T03:25:08Z",
 			"attentionScore": 349.5,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/lagoon",
-			"description": "The Official Lagoon Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 14,
-			"openPRs": 6,
-			"lastRelease": "2024-12-11T02:08:03Z",
-			"commitsSinceRelease": 28,
-			"lastPush": "2026-03-10T04:00:44Z",
-			"attentionScore": 311,
-			"unengagedCount": 7
 		},
 		{
 			"name": "lando/mailhog",
@@ -289,7 +277,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 182.5,
+			"attentionScore": 183,
 			"unengagedCount": 2
 		},
 		{
@@ -373,7 +361,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-05-07T20:46:11Z",
-			"attentionScore": 169,
+			"attentionScore": 169.5,
 			"unengagedCount": 8
 		},
 		{
@@ -445,7 +433,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-05-07T04:30:31Z",
-			"attentionScore": 138,
+			"attentionScore": 138.5,
 			"unengagedCount": 2
 		},
 		{
@@ -457,7 +445,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-05-06T19:09:40Z",
-			"attentionScore": 136.5,
+			"attentionScore": 137,
 			"unengagedCount": 1
 		},
 		{
@@ -533,6 +521,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/vitepress-theme-default-plus",
+			"description": "The VitePress Default Theme with a little more POWAH",
+			"language": "JavaScript",
+			"openIssues": 13,
+			"openPRs": 2,
+			"lastRelease": "2026-03-05T14:33:33Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-04-29T19:03:35Z",
+			"attentionScore": 89.5,
+			"unengagedCount": 11
+		},
+		{
 			"name": "lando/prepare-release-action",
 			"description": "Prepare a Lando plugin for publishing to a package registry.",
 			"language": "JavaScript",
@@ -543,18 +543,6 @@
 			"lastPush": "2026-02-19T22:40:58Z",
 			"attentionScore": 89,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/vitepress-theme-default-plus",
-			"description": "The VitePress Default Theme with a little more POWAH",
-			"language": "JavaScript",
-			"openIssues": 13,
-			"openPRs": 2,
-			"lastRelease": "2026-03-05T14:33:33Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-04-29T19:03:35Z",
-			"attentionScore": 89,
-			"unengagedCount": 11
 		},
 		{
 			"name": "lando/php",
@@ -757,7 +745,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-07T16:02:43Z",
-			"attentionScore": 41.5,
+			"attentionScore": 42,
 			"unengagedCount": 1
 		},
 		{
