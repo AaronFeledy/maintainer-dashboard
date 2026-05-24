@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-24T14:31:56.860Z",
+		"fetchedAt": "2026-05-24T16:22:28.513Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 706,
+			"attentionScore": 706.5,
 			"unengagedCount": 10
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 416,
+			"attentionScore": 416.5,
 			"unengagedCount": 5
 		},
 		{
@@ -289,7 +289,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 183,
+			"attentionScore": 183.5,
 			"unengagedCount": 2
 		},
 		{
@@ -373,7 +373,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-05-07T20:46:11Z",
-			"attentionScore": 169.5,
+			"attentionScore": 170,
 			"unengagedCount": 8
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-05-07T04:30:31Z",
-			"attentionScore": 138.5,
+			"attentionScore": 139,
 			"unengagedCount": 2
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-05-06T19:09:40Z",
-			"attentionScore": 137,
+			"attentionScore": 137.5,
 			"unengagedCount": 1
 		},
 		{
@@ -533,6 +533,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/vitepress-theme-default-plus",
+			"description": "The VitePress Default Theme with a little more POWAH",
+			"language": "JavaScript",
+			"openIssues": 13,
+			"openPRs": 2,
+			"lastRelease": "2026-03-05T14:33:33Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-04-29T19:03:35Z",
+			"attentionScore": 90,
+			"unengagedCount": 11
+		},
+		{
 			"name": "lando/prepare-release-action",
 			"description": "Prepare a Lando plugin for publishing to a package registry.",
 			"language": "JavaScript",
@@ -543,18 +555,6 @@
 			"lastPush": "2026-02-19T22:40:58Z",
 			"attentionScore": 89.5,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/vitepress-theme-default-plus",
-			"description": "The VitePress Default Theme with a little more POWAH",
-			"language": "JavaScript",
-			"openIssues": 13,
-			"openPRs": 2,
-			"lastRelease": "2026-03-05T14:33:33Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-04-29T19:03:35Z",
-			"attentionScore": 89.5,
-			"unengagedCount": 11
 		},
 		{
 			"name": "lando/php",
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-07T16:02:43Z",
-			"attentionScore": 42,
+			"attentionScore": 42.5,
 			"unengagedCount": 1
 		},
 		{
