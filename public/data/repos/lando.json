@@ -4,6 +4,16 @@
 	"language": null,
 	"issues": [
 		{
+			"title": "Turn off certain CLI messages",
+			"author": "Taelkir",
+			"labels": [
+				"cli"
+			],
+			"createdAt": "2026-05-26T12:05:48Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3844"
+		},
+		{
 			"title": "CLI process enforcing SUDO on cert installation",
 			"author": "owindsor",
 			"labels": [
@@ -468,16 +478,6 @@
 			"createdAt": "2023-05-25T19:55:49Z",
 			"commentCount": 3,
 			"url": "https://github.com/lando/lando/issues/3573"
-		},
-		{
-			"title": "Make it possible to set language and locale in the recipe",
-			"author": "yorkshire-pudding",
-			"labels": [
-				"feature"
-			],
-			"createdAt": "2023-05-17T14:29:20Z",
-			"commentCount": 3,
-			"url": "https://github.com/lando/lando/issues/3571"
 		}
 	],
 	"pullRequests": [
