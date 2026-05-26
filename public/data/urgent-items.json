@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-25T22:23:47.237Z",
+		"fetchedAt": "2026-05-26T00:41:51.197Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3747,6 +3747,24 @@
 			"createdAt": "2026-05-12T17:07:18Z",
 			"url": "https://github.com/lando/core/pull/468",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 359,
+			"title": "feat: Add Solr 9 support",
+			"author": "AnaisPantheor",
+			"createdAt": "2026-05-22T15:07:50Z",
+			"url": "https://github.com/lando/pantheon/pull/359",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 360,
+			"title": "Terminius 4.1.X causing build errors",
+			"author": "caosborne89",
+			"createdAt": "2026-05-22T18:00:52Z",
+			"url": "https://github.com/lando/pantheon/issues/360",
+			"type": "issue"
 		}
 	]
 }
