@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-29T05:28:15.555Z",
-		"repoCount": 65
+		"fetchedAt": "2026-05-29T07:21:37.883Z",
+		"repoCount": 64
 	},
 	"items": [
 		{
@@ -1985,15 +1985,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/devtool",
-			"number": 13,
-			"title": "Provide LLM-Friendly docs",
-			"author": "AaronFeledy",
-			"createdAt": "2025-06-06T11:37:28Z",
-			"url": "https://github.com/lando/devtool/issues/13",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/core",
 			"number": 370,
 			"title": "Fix URL for proxy docs",
@@ -2037,132 +2028,6 @@
 			"createdAt": "2025-07-21T09:24:50Z",
 			"url": "https://github.com/lando/mariadb/issues/78",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 15,
-			"title": "Use Podman as Default Engine/Orchestrator",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T01:22:01Z",
-			"url": "https://github.com/lando/devtool/issues/15",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 16,
-			"title": "Implement API that can be accessed in .devtool.yml and tooling",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:18:56Z",
-			"url": "https://github.com/lando/devtool/issues/16",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 17,
-			"title": "Establish expression notation for accessing runtime API",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:20:22Z",
-			"url": "https://github.com/lando/devtool/issues/17",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 18,
-			"title": "Include template engine",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:22:44Z",
-			"url": "https://github.com/lando/devtool/issues/18",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 19,
-			"title": "Add templating/generation API",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:26:15Z",
-			"url": "https://github.com/lando/devtool/issues/19",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 20,
-			"title": "Host commands based on Bun $Shell",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:29:32Z",
-			"url": "https://github.com/lando/devtool/issues/20",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 21,
-			"title": "Implement \"BUN_BE_BUN\" for plugin management",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:34:52Z",
-			"url": "https://github.com/lando/devtool/issues/21",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 22,
-			"title": "Migrate to Bun",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:38:57Z",
-			"url": "https://github.com/lando/devtool/issues/22",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 23,
-			"title": "Migrate CLI to OCLIF",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:40:27Z",
-			"url": "https://github.com/lando/devtool/issues/23",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 24,
-			"title": "Migrate rendering to OpenTUI",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:41:15Z",
-			"url": "https://github.com/lando/devtool/issues/24",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 25,
-			"title": "Nested stdout rendering for tooling and install tasks",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:48:18Z",
-			"url": "https://github.com/lando/devtool/issues/25",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 26,
-			"title": "First class support for running isolated AI agents",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T02:49:06Z",
-			"url": "https://github.com/lando/devtool/issues/26",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 28,
-			"title": "Universal Tooling/Aliases and Hierarchy",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T03:08:40Z",
-			"url": "https://github.com/lando/devtool/issues/28",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 30,
-			"title": "fix: resolve CLI hanging and add basic functionality",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T03:59:20Z",
-			"url": "https://github.com/lando/devtool/pull/30",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -3593,15 +3458,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-07T20:46:11Z",
 			"url": "https://github.com/lando/mariadb/pull/96",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 34,
-			"title": "Bump axios from 1.9.0 to 1.15.2",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T21:24:42Z",
-			"url": "https://github.com/lando/devtool/pull/34",
 			"type": "pr"
 		},
 		{
