@@ -239,6 +239,13 @@
 	"pullRequests": [
 		{
 			"title": "feat: Add Solr 9 support",
+			"author": "reynoldsalec",
+			"createdAt": "2026-05-29T16:22:11Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/362"
+		},
+		{
+			"title": "feat: Add Solr 9 support",
 			"author": "AnaisPantheor",
 			"createdAt": "2026-05-22T15:07:50Z",
 			"reviewCount": 0,
