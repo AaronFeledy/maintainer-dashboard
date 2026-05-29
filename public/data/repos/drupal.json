@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "[Regression] Double ports in drush_uri / Error: Invalid URI: Host is malformed.",
+			"author": "silverham",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-05-29T04:44:07Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/drupal/issues/188"
+		},
+		{
 			"title": "Missing deprecated variables in mysql:8.4 on Drupal10 recipe",
 			"author": "bronius-congruity",
 			"labels": [],
