@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-05-31T14:33:58.128Z",
+		"fetchedAt": "2026-05-31T16:27:34.821Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 709.5,
+			"attentionScore": 710,
 			"unengagedCount": 10
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 419.5,
+			"attentionScore": 420,
 			"unengagedCount": 5
 		},
 		{
@@ -289,7 +289,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 186.5,
+			"attentionScore": 187,
 			"unengagedCount": 2
 		},
 		{
@@ -373,7 +373,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-05-07T20:46:11Z",
-			"attentionScore": 173,
+			"attentionScore": 173.5,
 			"unengagedCount": 8
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-05-07T04:30:31Z",
-			"attentionScore": 142,
+			"attentionScore": 142.5,
 			"unengagedCount": 2
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-05-06T19:09:40Z",
-			"attentionScore": 140.5,
+			"attentionScore": 141,
 			"unengagedCount": 1
 		},
 		{
@@ -653,6 +653,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/joomla",
+			"description": "The Official Joomla Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 2,
+			"lastRelease": "2026-02-20T16:27:34Z",
+			"commitsSinceRelease": 14,
+			"lastPush": "2026-05-11T17:19:16Z",
+			"attentionScore": 60,
+			"unengagedCount": 2
+		},
+		{
 			"name": "lando/drupal",
 			"description": "The Official Drupal Lando plugin",
 			"language": "JavaScript",
@@ -663,18 +675,6 @@
 			"lastPush": "2026-05-05T02:18:41Z",
 			"attentionScore": 59.5,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/joomla",
-			"description": "The Official Joomla Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 2,
-			"lastRelease": "2026-02-20T16:27:34Z",
-			"commitsSinceRelease": 14,
-			"lastPush": "2026-05-11T17:19:16Z",
-			"attentionScore": 59.5,
-			"unengagedCount": 2
 		},
 		{
 			"name": "lando/symfony",
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-07T16:02:43Z",
-			"attentionScore": 45.5,
+			"attentionScore": 46,
 			"unengagedCount": 1
 		},
 		{
