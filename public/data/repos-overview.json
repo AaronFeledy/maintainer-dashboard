@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-01T14:19:24.939Z",
+		"fetchedAt": "2026-06-01T18:01:40.702Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 710,
+			"attentionScore": 710.5,
 			"unengagedCount": 10
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2025-07-23T20:47:08Z",
-			"attentionScore": 420,
+			"attentionScore": 420.5,
 			"unengagedCount": 5
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-11-19T16:43:40Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-03-25T22:34:40Z",
-			"attentionScore": 300,
+			"attentionScore": 300.5,
 			"unengagedCount": 4
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 285,
+			"attentionScore": 285.5,
 			"unengagedCount": 1
 		},
 		{
@@ -269,6 +269,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/auto-deploy-action",
+			"description": "A GitHub action that auto deploys new versions of (currently only) node packages from their source repo to various target repos.",
+			"language": null,
+			"openIssues": 2,
+			"openPRs": 0,
+			"lastRelease": "2025-06-07T14:57:38Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2025-07-23T20:46:52Z",
+			"attentionScore": 187.5,
+			"unengagedCount": 2
+		},
+		{
 			"name": "lando/drupal-dev-environment",
 			"description": "Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.",
 			"language": "PHP",
@@ -279,18 +291,6 @@
 			"lastPush": "2022-10-26T18:49:47Z",
 			"attentionScore": 187.5,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/auto-deploy-action",
-			"description": "A GitHub action that auto deploys new versions of (currently only) node packages from their source repo to various target repos.",
-			"language": null,
-			"openIssues": 2,
-			"openPRs": 0,
-			"lastRelease": "2025-06-07T14:57:38Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 187,
-			"unengagedCount": 2
 		},
 		{
 			"name": "lando/lando-update-scripts",
@@ -373,7 +373,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-05-07T20:46:11Z",
-			"attentionScore": 173.5,
+			"attentionScore": 174,
 			"unengagedCount": 8
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-05-07T04:30:31Z",
-			"attentionScore": 142.5,
+			"attentionScore": 143,
 			"unengagedCount": 2
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-05-06T19:09:40Z",
-			"attentionScore": 141,
+			"attentionScore": 141.5,
 			"unengagedCount": 1
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-05-11T17:54:22Z",
-			"attentionScore": 97,
+			"attentionScore": 97.5,
 			"unengagedCount": 2
 		},
 		{
@@ -533,6 +533,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/vitepress-theme-default-plus",
+			"description": "The VitePress Default Theme with a little more POWAH",
+			"language": "JavaScript",
+			"openIssues": 13,
+			"openPRs": 2,
+			"lastRelease": "2026-03-05T14:33:33Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-04-29T19:03:35Z",
+			"attentionScore": 94,
+			"unengagedCount": 11
+		},
+		{
 			"name": "lando/prepare-release-action",
 			"description": "Prepare a Lando plugin for publishing to a package registry.",
 			"language": "JavaScript",
@@ -543,18 +555,6 @@
 			"lastPush": "2026-02-19T22:40:58Z",
 			"attentionScore": 93.5,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/vitepress-theme-default-plus",
-			"description": "The VitePress Default Theme with a little more POWAH",
-			"language": "JavaScript",
-			"openIssues": 13,
-			"openPRs": 2,
-			"lastRelease": "2026-03-05T14:33:33Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-04-29T19:03:35Z",
-			"attentionScore": 93.5,
-			"unengagedCount": 11
 		},
 		{
 			"name": "lando/php",
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-05T12:09:09Z",
-			"attentionScore": 67.5,
+			"attentionScore": 68,
 			"unengagedCount": 5
 		},
 		{
@@ -653,6 +653,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/joomla",
+			"description": "The Official Joomla Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 2,
+			"lastRelease": "2026-02-20T16:27:34Z",
+			"commitsSinceRelease": 14,
+			"lastPush": "2026-05-11T17:19:16Z",
+			"attentionScore": 60.5,
+			"unengagedCount": 2
+		},
+		{
 			"name": "lando/drupal",
 			"description": "The Official Drupal Lando plugin",
 			"language": "JavaScript",
@@ -663,18 +675,6 @@
 			"lastPush": "2026-05-05T02:18:41Z",
 			"attentionScore": 60,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/joomla",
-			"description": "The Official Joomla Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 2,
-			"lastRelease": "2026-02-20T16:27:34Z",
-			"commitsSinceRelease": 14,
-			"lastPush": "2026-05-11T17:19:16Z",
-			"attentionScore": 60,
-			"unengagedCount": 2
 		},
 		{
 			"name": "lando/symfony",
@@ -697,8 +697,20 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-05-11T07:51:42Z",
-			"attentionScore": 56.5,
+			"attentionScore": 57,
 			"unengagedCount": 2
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-05-06T10:22:12Z",
+			"attentionScore": 54,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/mailpit",
@@ -725,18 +737,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-05-06T10:22:12Z",
-			"attentionScore": 53.5,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/apache",
 			"description": "The Official Apache Lando Plugin",
 			"language": "JavaScript",
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-07T16:02:43Z",
-			"attentionScore": 46,
+			"attentionScore": 46.5,
 			"unengagedCount": 1
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-07T04:45:14Z",
-			"attentionScore": 39,
+			"attentionScore": 39.5,
 			"unengagedCount": 1
 		},
 		{
