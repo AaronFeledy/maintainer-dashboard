@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-01T22:44:08.448Z",
+		"fetchedAt": "2026-06-02T00:48:32.569Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3756,6 +3756,33 @@
 			"createdAt": "2026-05-26T16:10:07Z",
 			"url": "https://github.com/lando/pantheon/issues/361",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/drupal",
+			"number": 188,
+			"title": "[Regression] Double ports in drush_uri / Error: Invalid URI: Host is malformed.",
+			"author": "silverham",
+			"createdAt": "2026-05-29T04:44:07Z",
+			"url": "https://github.com/lando/drupal/issues/188",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/drupal",
+			"number": 189,
+			"title": "#188 - Fix for [Regression] Double ports in drush_uri / Error: Invalid URI: Host is malformed.",
+			"author": "silverham",
+			"createdAt": "2026-05-29T08:59:18Z",
+			"url": "https://github.com/lando/drupal/pull/189",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 362,
+			"title": "feat: Add Solr 9 support",
+			"author": "reynoldsalec",
+			"createdAt": "2026-05-29T16:22:11Z",
+			"url": "https://github.com/lando/pantheon/pull/362",
+			"type": "pr"
 		}
 	]
 }
