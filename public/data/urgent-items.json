@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-03T03:11:17.059Z",
+		"fetchedAt": "2026-06-03T05:39:50.126Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3731,15 +3731,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/pantheon",
-			"number": 359,
-			"title": "feat: Add Solr 9 support",
-			"author": "AnaisPantheor",
-			"createdAt": "2026-05-22T15:07:50Z",
-			"url": "https://github.com/lando/pantheon/pull/359",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3844,
 			"title": "Turn off certain CLI messages",
@@ -3773,15 +3764,6 @@
 			"author": "silverham",
 			"createdAt": "2026-05-29T08:59:18Z",
 			"url": "https://github.com/lando/drupal/pull/189",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/pantheon",
-			"number": 362,
-			"title": "feat: Add Solr 9 support",
-			"author": "reynoldsalec",
-			"createdAt": "2026-05-29T16:22:11Z",
-			"url": "https://github.com/lando/pantheon/pull/362",
 			"type": "pr"
 		}
 	]
