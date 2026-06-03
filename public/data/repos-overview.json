@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-03T15:35:20.742Z",
+		"fetchedAt": "2026-06-03T17:41:30.657Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-02-20T12:47:08Z",
-			"attentionScore": 711,
+			"attentionScore": 711.5,
 			"unengagedCount": 10
 		},
 		{
@@ -119,7 +119,7 @@
 			"openIssues": 14,
 			"openPRs": 6,
 			"lastRelease": "2024-12-11T02:08:03Z",
-			"commitsSinceRelease": 0,
+			"commitsSinceRelease": 28,
 			"lastPush": "2026-03-10T04:00:44Z",
 			"attentionScore": 316.5,
 			"unengagedCount": 7
@@ -157,8 +157,20 @@
 			"lastRelease": "2024-11-19T16:43:40Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-03-25T22:34:40Z",
-			"attentionScore": 301,
+			"attentionScore": 301.5,
 			"unengagedCount": 4
+		},
+		{
+			"name": "lando/pkg-action",
+			"description": "A GitHub action that uses vercel/pkg to \"compile\" node projects into binaries",
+			"language": "JavaScript",
+			"openIssues": 1,
+			"openPRs": 0,
+			"lastRelease": "2024-11-15T17:11:16Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2025-07-23T20:47:02Z",
+			"attentionScore": 286.5,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/desktop",
@@ -171,18 +183,6 @@
 			"lastPush": "2025-07-19T02:40:42Z",
 			"attentionScore": 286.5,
 			"unengagedCount": 23
-		},
-		{
-			"name": "lando/pkg-action",
-			"description": "A GitHub action that uses vercel/pkg to \"compile\" node projects into binaries",
-			"language": "JavaScript",
-			"openIssues": 1,
-			"openPRs": 0,
-			"lastRelease": "2024-11-15T17:11:16Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 286,
-			"unengagedCount": 1
 		},
 		{
 			"name": "lando/lando",
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-05-07T04:30:31Z",
-			"attentionScore": 143.5,
+			"attentionScore": 144,
 			"unengagedCount": 2
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-05-06T19:09:40Z",
-			"attentionScore": 142,
+			"attentionScore": 142.5,
 			"unengagedCount": 1
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-05-11T17:54:22Z",
-			"attentionScore": 98,
+			"attentionScore": 98.5,
 			"unengagedCount": 2
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-05T12:09:09Z",
-			"attentionScore": 68.5,
+			"attentionScore": 69,
 			"unengagedCount": 5
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-05-11T17:19:16Z",
-			"attentionScore": 61,
+			"attentionScore": 61.5,
 			"unengagedCount": 2
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-07T16:02:43Z",
-			"attentionScore": 47,
+			"attentionScore": 47.5,
 			"unengagedCount": 1
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-07T04:45:14Z",
-			"attentionScore": 40,
+			"attentionScore": 40.5,
 			"unengagedCount": 1
 		},
 		{
