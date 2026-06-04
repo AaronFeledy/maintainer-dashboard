@@ -230,7 +230,7 @@
 	],
 	"pullRequests": [
 		{
-			"title": "build(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"title": "build(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-05-07T21:55:35Z",
 			"reviewCount": 0,
