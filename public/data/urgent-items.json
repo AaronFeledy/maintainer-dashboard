@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-05T07:31:06.039Z",
-		"repoCount": 65
+		"fetchedAt": "2026-06-05T09:09:38.430Z",
+		"repoCount": 64
 	},
 	"items": [
 		{
@@ -1103,15 +1103,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/lamp",
-			"number": 37,
-			"title": "recipe: lamp: Cannot seem to get php.ini error_reporting to register, and it's unclear why",
-			"author": "bronius",
-			"createdAt": "2023-10-24T21:15:48Z",
-			"url": "https://github.com/lando/lamp/issues/37",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/platformsh",
 			"number": 193,
 			"title": "Add supports to Adobe Commerce Cloud",
@@ -1388,15 +1379,6 @@
 			"author": "stebogit",
 			"createdAt": "2024-03-29T07:09:51Z",
 			"url": "https://github.com/lando/php/issues/110",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/lamp",
-			"number": 55,
-			"title": "Update default versions",
-			"author": "stebogit",
-			"createdAt": "2024-03-29T07:26:46Z",
-			"url": "https://github.com/lando/lamp/issues/55",
 			"type": "issue"
 		},
 		{
@@ -1766,15 +1748,6 @@
 			"author": "dependabot",
 			"createdAt": "2024-12-10T16:00:31Z",
 			"url": "https://github.com/lando/leia/pull/49",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lamp",
-			"number": 75,
-			"title": "Added init defaults.",
-			"author": "reynoldsalec",
-			"createdAt": "2024-12-19T22:42:16Z",
-			"url": "https://github.com/lando/lamp/pull/75",
 			"type": "pr"
 		},
 		{
@@ -3431,15 +3404,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-05T02:18:42Z",
 			"url": "https://github.com/lando/drupal/pull/187",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lamp",
-			"number": 106,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-05T05:55:31Z",
-			"url": "https://github.com/lando/lamp/pull/106",
 			"type": "pr"
 		},
 		{
