@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-11T05:36:10.692Z",
+		"fetchedAt": "2026-06-11T07:41:57.053Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-06-04T05:59:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-06-04T21:53:33Z",
-			"attentionScore": 75,
+			"attentionScore": 75.5,
 			"unengagedCount": 15
 		},
 		{
@@ -617,18 +617,6 @@
 			"unengagedCount": 5
 		},
 		{
-			"name": "lando/drupal",
-			"description": "The Official Drupal Lando plugin",
-			"language": "JavaScript",
-			"openIssues": 6,
-			"openPRs": 2,
-			"lastRelease": "2026-03-11T04:30:43Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-05-05T02:18:41Z",
-			"attentionScore": 71,
-			"unengagedCount": 5
-		},
-		{
 			"name": "lando/lamp",
 			"description": "The Official LAMP Lando Plugin",
 			"language": "JavaScript",
@@ -637,7 +625,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-05T05:55:30Z",
-			"attentionScore": 71,
+			"attentionScore": 71.5,
 			"unengagedCount": 4
 		},
 		{
@@ -649,8 +637,20 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-05T06:09:45Z",
-			"attentionScore": 71,
+			"attentionScore": 71.5,
 			"unengagedCount": 4
+		},
+		{
+			"name": "lando/drupal",
+			"description": "The Official Drupal Lando plugin",
+			"language": "JavaScript",
+			"openIssues": 6,
+			"openPRs": 2,
+			"lastRelease": "2026-03-11T04:30:43Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-05-05T02:18:41Z",
+			"attentionScore": 71,
+			"unengagedCount": 5
 		},
 		{
 			"name": "lando/backdrop",
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-05-11T03:37:04Z",
-			"attentionScore": 62,
+			"attentionScore": 62.5,
 			"unengagedCount": 2
 		},
 		{
