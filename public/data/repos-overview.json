@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-13T16:31:34.651Z",
+		"fetchedAt": "2026-06-13T18:29:58.172Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-11-19T16:43:40Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-03-25T22:34:40Z",
-			"attentionScore": 306,
+			"attentionScore": 306.5,
 			"unengagedCount": 4
 		},
 		{
@@ -169,7 +169,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 291,
+			"attentionScore": 291.5,
 			"unengagedCount": 1
 		},
 		{
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-09-03T18:25:33Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-09T07:22:57Z",
-			"attentionScore": 165,
+			"attentionScore": 165.5,
 			"unengagedCount": 5
 		},
 		{
@@ -505,7 +505,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-05-11T17:54:22Z",
-			"attentionScore": 103,
+			"attentionScore": 103.5,
 			"unengagedCount": 2
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-05T12:09:09Z",
-			"attentionScore": 73.5,
+			"attentionScore": 74,
 			"unengagedCount": 5
 		},
 		{
@@ -697,8 +697,20 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-05-11T07:51:42Z",
-			"attentionScore": 62.5,
+			"attentionScore": 63,
 			"unengagedCount": 2
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-05-06T10:22:12Z",
+			"attentionScore": 60,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/mailpit",
@@ -722,18 +734,6 @@
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-05-07T14:01:34Z",
 			"attentionScore": 60,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-05-06T10:22:12Z",
-			"attentionScore": 59.5,
 			"unengagedCount": 1
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-07T04:45:14Z",
-			"attentionScore": 45,
+			"attentionScore": 45.5,
 			"unengagedCount": 1
 		},
 		{
