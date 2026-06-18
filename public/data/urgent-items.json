@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-18T15:05:22.787Z",
+		"fetchedAt": "2026-06-18T17:04:17.173Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3548,15 +3548,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-07T14:01:35Z",
 			"url": "https://github.com/lando/phpmyadmin/pull/81",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/tomcat",
-			"number": 53,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T16:02:44Z",
-			"url": "https://github.com/lando/tomcat/pull/53",
 			"type": "pr"
 		},
 		{
