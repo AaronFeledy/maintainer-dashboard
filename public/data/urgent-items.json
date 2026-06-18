@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-18T20:50:19.008Z",
+		"fetchedAt": "2026-06-18T22:39:30.454Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3557,15 +3557,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-07T21:24:42Z",
 			"url": "https://github.com/lando/devtool/pull/34",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/pantheon",
-			"number": 358,
-			"title": "build(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T21:55:35Z",
-			"url": "https://github.com/lando/pantheon/pull/358",
 			"type": "pr"
 		},
 		{

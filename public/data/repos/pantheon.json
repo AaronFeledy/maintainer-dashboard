@@ -230,11 +230,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "build(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group across 1 directory",
+			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-05-07T21:55:35Z",
+			"createdAt": "2026-06-18T21:53:37Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/pantheon/pull/358"
+			"url": "https://github.com/lando/pantheon/pull/363"
 		},
 		{
 			"title": "fix: warn and fallback for unsupported PHP versions",

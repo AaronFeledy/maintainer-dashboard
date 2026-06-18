@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-18T20:50:19.008Z",
+		"fetchedAt": "2026-06-18T22:39:30.454Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-03-13T09:15:56Z",
-			"attentionScore": 528,
+			"attentionScore": 528.5,
 			"unengagedCount": 44
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-02-22T20:56:59Z",
-			"attentionScore": 377.5,
+			"attentionScore": 378,
 			"unengagedCount": 6
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-04-28T22:30:42Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:42Z",
-			"attentionScore": 288,
+			"attentionScore": 288.5,
 			"unengagedCount": 27
 		},
 		{
@@ -217,7 +217,7 @@
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-05-12T17:01:07Z",
-			"attentionScore": 275,
+			"attentionScore": 275.5,
 			"unengagedCount": 50
 		},
 		{
@@ -305,6 +305,18 @@
 			"unengagedCount": 9
 		},
 		{
+			"name": "lando/setup-lando",
+			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
+			"language": "Shell",
+			"openIssues": 15,
+			"openPRs": 3,
+			"lastRelease": "2025-08-31T20:57:45Z",
+			"commitsSinceRelease": 22,
+			"lastPush": "2026-05-05T01:25:57Z",
+			"attentionScore": 187.5,
+			"unengagedCount": 7
+		},
+		{
 			"name": "lando/drupal-dev-environment",
 			"description": "Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.",
 			"language": "PHP",
@@ -315,18 +327,6 @@
 			"lastPush": "2022-10-26T18:49:47Z",
 			"attentionScore": 187.5,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/setup-lando",
-			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
-			"language": "Shell",
-			"openIssues": 15,
-			"openPRs": 3,
-			"lastRelease": "2025-08-31T20:57:45Z",
-			"commitsSinceRelease": 22,
-			"lastPush": "2026-05-05T01:25:57Z",
-			"attentionScore": 187,
-			"unengagedCount": 7
 		},
 		{
 			"name": "lando/lando-update-scripts",
@@ -581,18 +581,6 @@
 			"unengagedCount": 6
 		},
 		{
-			"name": "lando/pantheon",
-			"description": "The Official Lando Pantheon plugin.",
-			"language": "JavaScript",
-			"openIssues": 23,
-			"openPRs": 2,
-			"lastRelease": "2026-06-04T05:59:16Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-06-04T21:53:33Z",
-			"attentionScore": 79,
-			"unengagedCount": 15
-		},
-		{
 			"name": "lando/ruby",
 			"description": "The Official Ruby Lando Plugin",
 			"language": "JavaScript",
@@ -615,6 +603,18 @@
 			"lastPush": "2026-05-05T12:09:09Z",
 			"attentionScore": 76.5,
 			"unengagedCount": 5
+		},
+		{
+			"name": "lando/pantheon",
+			"description": "The Official Lando Pantheon plugin.",
+			"language": "JavaScript",
+			"openIssues": 23,
+			"openPRs": 2,
+			"lastRelease": "2026-06-04T05:59:16Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-06-18T21:53:36Z",
+			"attentionScore": 76,
+			"unengagedCount": 14
 		},
 		{
 			"name": "lando/lamp",
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-04-28T22:30:47Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:47Z",
-			"attentionScore": 35,
+			"attentionScore": 35.5,
 			"unengagedCount": 2
 		}
 	]

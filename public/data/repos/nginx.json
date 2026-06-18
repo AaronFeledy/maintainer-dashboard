@@ -21,7 +21,7 @@
 		},
 		{
 			"title": "NGINX Container fails to build on an already working projects",
-			"author": "CarlosBlackSmith",
+			"author": "carlos-bsa",
 			"labels": [
 				"Needs Triage"
 			],
