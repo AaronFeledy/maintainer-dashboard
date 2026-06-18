@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-18T17:04:17.173Z",
+		"fetchedAt": "2026-06-18T18:49:05.397Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3548,15 +3548,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-07T14:01:35Z",
 			"url": "https://github.com/lando/phpmyadmin/pull/81",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/varnish",
-			"number": 67,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T17:46:47Z",
-			"url": "https://github.com/lando/varnish/pull/67",
 			"type": "pr"
 		},
 		{

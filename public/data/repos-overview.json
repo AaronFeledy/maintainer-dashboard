@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-18T17:04:17.173Z",
+		"fetchedAt": "2026-06-18T18:49:05.397Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -169,7 +169,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 293.5,
+			"attentionScore": 294,
 			"unengagedCount": 1
 		},
 		{
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-09-03T18:25:33Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-03-09T07:22:57Z",
-			"attentionScore": 167.5,
+			"attentionScore": 168,
 			"unengagedCount": 5
 		},
 		{
@@ -505,20 +505,8 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-05-11T17:54:22Z",
-			"attentionScore": 105.5,
+			"attentionScore": 106,
 			"unengagedCount": 2
-		},
-		{
-			"name": "lando/varnish",
-			"description": "The Official Varnish Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 1,
-			"openPRs": 1,
-			"lastRelease": "2025-12-06T19:41:38Z",
-			"commitsSinceRelease": 12,
-			"lastPush": "2026-05-07T17:46:47Z",
-			"attentionScore": 102.5,
-			"unengagedCount": 1
 		},
 		{
 			"name": "lando/vitepress-theme-default-plus",
@@ -543,6 +531,18 @@
 			"lastPush": "2026-02-19T22:40:58Z",
 			"attentionScore": 102,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/varnish",
+			"description": "The Official Varnish Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 1,
+			"openPRs": 1,
+			"lastRelease": "2025-12-06T19:41:38Z",
+			"commitsSinceRelease": 12,
+			"lastPush": "2026-06-18T17:43:35Z",
+			"attentionScore": 99.5,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/php",
@@ -697,8 +697,20 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-05-11T07:51:42Z",
-			"attentionScore": 65,
+			"attentionScore": 65.5,
 			"unengagedCount": 2
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-05-06T10:22:12Z",
+			"attentionScore": 62.5,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/mailpit",
@@ -722,18 +734,6 @@
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-05-07T14:01:34Z",
 			"attentionScore": 62.5,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-05-06T10:22:12Z",
-			"attentionScore": 62,
 			"unengagedCount": 1
 		},
 		{
