@@ -92,11 +92,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-05-07T20:46:11Z",
+			"createdAt": "2026-06-18T20:43:23Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/mariadb/pull/96"
+			"url": "https://github.com/lando/mariadb/pull/97"
 		},
 		{
 			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
