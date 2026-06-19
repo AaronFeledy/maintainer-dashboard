@@ -230,6 +230,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: update Terminus to 4.2.2",
+			"author": "AaronFeledy",
+			"createdAt": "2026-06-19T22:19:17Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/364"
+		},
+		{
 			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-06-18T21:53:37Z",

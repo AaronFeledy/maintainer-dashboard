@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-19T20:32:25.633Z",
+		"fetchedAt": "2026-06-19T22:21:25.996Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3593,15 +3593,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-08T19:28:10Z",
 			"url": "https://github.com/lando/core/pull/465",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/nginx",
-			"number": 84,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T22:15:40Z",
-			"url": "https://github.com/lando/nginx/pull/84",
 			"type": "pr"
 		},
 		{
