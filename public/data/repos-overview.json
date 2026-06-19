@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-19T11:33:09.553Z",
+		"fetchedAt": "2026-06-19T13:12:07.701Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -216,9 +216,9 @@
 			"openPRs": 23,
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-05-12T17:01:07Z",
-			"attentionScore": 275.5,
-			"unengagedCount": 50
+			"lastPush": "2026-06-19T12:05:52Z",
+			"attentionScore": 272.5,
+			"unengagedCount": 49
 		},
 		{
 			"name": "lando/devtool",
