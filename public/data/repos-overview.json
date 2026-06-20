@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-20T03:08:10.771Z",
+		"fetchedAt": "2026-06-20T05:31:00.942Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -509,6 +509,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/vitepress-theme-default-plus",
+			"description": "The VitePress Default Theme with a little more POWAH",
+			"language": "JavaScript",
+			"openIssues": 13,
+			"openPRs": 3,
+			"lastRelease": "2026-03-05T14:33:33Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-06-20T03:52:12Z",
+			"attentionScore": 105,
+			"unengagedCount": 11
+		},
+		{
 			"name": "lando/prepare-release-action",
 			"description": "Prepare a Lando plugin for publishing to a package registry.",
 			"language": "JavaScript",
@@ -519,18 +531,6 @@
 			"lastPush": "2026-02-19T22:40:58Z",
 			"attentionScore": 103,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/vitepress-theme-default-plus",
-			"description": "The VitePress Default Theme with a little more POWAH",
-			"language": "JavaScript",
-			"openIssues": 13,
-			"openPRs": 2,
-			"lastRelease": "2026-03-05T14:33:33Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-04-29T19:03:35Z",
-			"attentionScore": 103,
-			"unengagedCount": 11
 		},
 		{
 			"name": "lando/varnish",
@@ -565,7 +565,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-06T15:35:32Z",
-			"attentionScore": 85.5,
+			"attentionScore": 86,
 			"unengagedCount": 6
 		},
 		{
@@ -577,7 +577,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-06-19T22:13:16Z",
-			"attentionScore": 82,
+			"attentionScore": 82.5,
 			"unengagedCount": 5
 		},
 		{
@@ -617,6 +617,18 @@
 			"unengagedCount": 5
 		},
 		{
+			"name": "lando/drupal",
+			"description": "The Official Drupal Lando plugin",
+			"language": "JavaScript",
+			"openIssues": 6,
+			"openPRs": 2,
+			"lastRelease": "2026-03-11T04:30:43Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-05-05T02:18:41Z",
+			"attentionScore": 75.5,
+			"unengagedCount": 5
+		},
+		{
 			"name": "lando/lamp",
 			"description": "The Official LAMP Lando Plugin",
 			"language": "JavaScript",
@@ -641,18 +653,6 @@
 			"unengagedCount": 4
 		},
 		{
-			"name": "lando/drupal",
-			"description": "The Official Drupal Lando plugin",
-			"language": "JavaScript",
-			"openIssues": 6,
-			"openPRs": 2,
-			"lastRelease": "2026-03-11T04:30:43Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-05-05T02:18:41Z",
-			"attentionScore": 75,
-			"unengagedCount": 5
-		},
-		{
 			"name": "lando/backdrop",
 			"description": "The Official Backdrop Lando Plugin",
 			"language": "JavaScript",
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-05-05T01:34:11Z",
-			"attentionScore": 72.5,
+			"attentionScore": 73,
 			"unengagedCount": 3
 		},
 		{
@@ -701,6 +701,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 9,
+			"lastPush": "2026-05-19T07:48:45Z",
+			"attentionScore": 63.5,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -721,18 +733,6 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-05-06T10:22:12Z",
-			"attentionScore": 63,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 9,
-			"lastPush": "2026-05-19T07:48:45Z",
 			"attentionScore": 63,
 			"unengagedCount": 1
 		},
