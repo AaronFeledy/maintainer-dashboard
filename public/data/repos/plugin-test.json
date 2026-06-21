@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump @babel/core from 7.20.5 to 7.29.7",
+			"author": "dependabot",
+			"createdAt": "2026-06-21T17:16:27Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/plugin-test/pull/13"
+		},
+		{
 			"title": "Bump postcss from 8.4.31 to 8.5.10",
 			"author": "dependabot",
 			"createdAt": "2026-04-25T00:02:15Z",
