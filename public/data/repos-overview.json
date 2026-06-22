@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-21T22:27:14.379Z",
+		"fetchedAt": "2026-06-22T00:49:29.990Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-04-07T03:25:08Z",
-			"attentionScore": 364,
+			"attentionScore": 364.5,
 			"unengagedCount": 3
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-04-28T22:30:42Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:42Z",
-			"attentionScore": 289.5,
+			"attentionScore": 290,
 			"unengagedCount": 27
 		},
 		{
@@ -329,6 +329,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/mariadb",
+			"description": "The Official MariaDB Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 9,
+			"openPRs": 4,
+			"lastRelease": "2025-09-08T15:30:51Z",
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-06-18T20:43:23Z",
+			"attentionScore": 184,
+			"unengagedCount": 8
+		},
+		{
 			"name": "lando/argv",
 			"description": "A small utility for argv parsing",
 			"language": "JavaScript",
@@ -337,7 +349,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-05-08T22:49:26Z",
-			"attentionScore": 183.5,
+			"attentionScore": 184,
 			"unengagedCount": 3
 		},
 		{
@@ -375,18 +387,6 @@
 			"lastPush": "2024-11-04T19:31:21Z",
 			"attentionScore": 182.5,
 			"unengagedCount": 0
-		},
-		{
-			"name": "lando/mariadb",
-			"description": "The Official MariaDB Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 9,
-			"openPRs": 4,
-			"lastRelease": "2025-09-08T15:30:51Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-06-18T20:43:23Z",
-			"attentionScore": 181,
-			"unengagedCount": 7
 		},
 		{
 			"name": "lando/memcached",
@@ -469,7 +469,7 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-05-07T06:56:14Z",
-			"attentionScore": 142.5,
+			"attentionScore": 143,
 			"unengagedCount": 9
 		},
 		{
@@ -521,18 +521,6 @@
 			"unengagedCount": 11
 		},
 		{
-			"name": "lando/prepare-release-action",
-			"description": "Prepare a Lando plugin for publishing to a package registry.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2025-12-06T00:13:54Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-02-19T22:40:58Z",
-			"attentionScore": 103.5,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/varnish",
 			"description": "The Official Varnish Lando Plugin",
 			"language": "JavaScript",
@@ -541,8 +529,20 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-06-18T17:43:35Z",
-			"attentionScore": 101.5,
-			"unengagedCount": 0
+			"attentionScore": 104.5,
+			"unengagedCount": 1
+		},
+		{
+			"name": "lando/prepare-release-action",
+			"description": "Prepare a Lando plugin for publishing to a package registry.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2025-12-06T00:13:54Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-02-19T22:40:58Z",
+			"attentionScore": 104,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/php",
@@ -581,18 +581,6 @@
 			"unengagedCount": 5
 		},
 		{
-			"name": "lando/ruby",
-			"description": "The Official Ruby Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-01-23T00:47:12Z",
-			"commitsSinceRelease": 10,
-			"lastPush": "2026-03-05T14:34:43Z",
-			"attentionScore": 79.5,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/pantheon",
 			"description": "The Official Lando Pantheon plugin.",
 			"language": "JavaScript",
@@ -601,8 +589,20 @@
 			"lastRelease": "2026-06-04T05:59:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-06-19T22:19:02Z",
-			"attentionScore": 79.5,
-			"unengagedCount": 14
+			"attentionScore": 82.5,
+			"unengagedCount": 15
+		},
+		{
+			"name": "lando/ruby",
+			"description": "The Official Ruby Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-01-23T00:47:12Z",
+			"commitsSinceRelease": 10,
+			"lastPush": "2026-03-05T14:34:43Z",
+			"attentionScore": 80,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/wordpress",
@@ -701,6 +701,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/phpmyadmin",
+			"description": "The Official phpMyAdmin Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T00:37:20Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-05-07T14:01:34Z",
+			"attentionScore": 64.5,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/go",
 			"description": "The Official Go Lando plugin.",
 			"language": "JavaScript",
@@ -725,15 +737,15 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/phpmyadmin",
-			"description": "The Official phpMyAdmin Lando Plugin",
+			"name": "lando/tomcat",
+			"description": "The Official Apache Tomcat Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 0,
 			"openPRs": 1,
-			"lastRelease": "2026-02-23T00:37:20Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-05-07T14:01:34Z",
-			"attentionScore": 64,
+			"lastRelease": "2026-03-10T15:54:35Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-06-18T15:43:51Z",
+			"attentionScore": 56.5,
 			"unengagedCount": 1
 		},
 		{
@@ -746,18 +758,6 @@
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-06-20T01:02:45Z",
 			"attentionScore": 54.5,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/tomcat",
-			"description": "The Official Apache Tomcat Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-03-10T15:54:35Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-06-18T15:43:51Z",
-			"attentionScore": 53.5,
 			"unengagedCount": 0
 		},
 		{
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-04-28T22:30:47Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-04-28T22:30:47Z",
-			"attentionScore": 36.5,
+			"attentionScore": 37,
 			"unengagedCount": 2
 		}
 	]

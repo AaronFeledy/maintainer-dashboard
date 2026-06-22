@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-21T22:27:14.379Z",
+		"fetchedAt": "2026-06-22T00:49:29.990Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3701,6 +3701,42 @@
 			"author": "silverham",
 			"createdAt": "2026-05-29T08:59:18Z",
 			"url": "https://github.com/lando/drupal/pull/189",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/tomcat",
+			"number": 54,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-18T15:43:51Z",
+			"url": "https://github.com/lando/tomcat/pull/54",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/varnish",
+			"number": 68,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-18T17:43:36Z",
+			"url": "https://github.com/lando/varnish/pull/68",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mariadb",
+			"number": 97,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-18T20:43:23Z",
+			"url": "https://github.com/lando/mariadb/pull/97",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 363,
+			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-18T21:53:37Z",
+			"url": "https://github.com/lando/pantheon/pull/363",
 			"type": "pr"
 		}
 	]
