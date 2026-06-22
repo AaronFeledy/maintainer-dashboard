@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"title": "chore(deps): bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-05-11T17:19:17Z",
+			"createdAt": "2026-06-22T11:06:08Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/joomla/pull/77"
+			"url": "https://github.com/lando/joomla/pull/78"
 		},
 		{
 			"title": "Init defaults1",

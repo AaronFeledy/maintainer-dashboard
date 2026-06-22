@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-22T08:02:44.847Z",
+		"fetchedAt": "2026-06-22T12:01:49.750Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3623,30 +3623,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/joomla",
-			"number": 77,
-			"title": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-11T17:19:17Z",
-			"url": "https://github.com/lando/joomla/pull/77",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 467,
 			"title": "docs: add guide for hosting and distributing a private Lando plugin",
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-11T17:43:41Z",
 			"url": "https://github.com/lando/core/pull/467",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/elasticsearch",
-			"number": 51,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-11T17:54:23Z",
-			"url": "https://github.com/lando/elasticsearch/pull/51",
 			"type": "pr"
 		},
 		{
