@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-22T21:01:20.839Z",
+		"fetchedAt": "2026-06-22T22:34:29.525Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3369,42 +3369,6 @@
 			"createdAt": "2026-04-29T05:51:14Z",
 			"url": "https://github.com/lando/pantheon/issues/355",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/mean",
-			"number": 67,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-05T01:18:29Z",
-			"url": "https://github.com/lando/mean/pull/67",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/setup-lando",
-			"number": 119,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-05T01:25:57Z",
-			"url": "https://github.com/lando/setup-lando/pull/119",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/backdrop",
-			"number": 92,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-05T01:34:11Z",
-			"url": "https://github.com/lando/backdrop/pull/92",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailpit",
-			"number": 53,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-05-05T01:48:35Z",
-			"url": "https://github.com/lando/mailpit/pull/53",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/drupal",

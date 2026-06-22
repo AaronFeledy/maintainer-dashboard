@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group across 1 directory",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-05-05T01:48:35Z",
+			"createdAt": "2026-06-22T22:24:11Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/mailpit/pull/53"
+			"url": "https://github.com/lando/mailpit/pull/55"
 		}
 	],
 	"releases": [
