@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-22T15:40:05.440Z",
+		"fetchedAt": "2026-06-22T17:32:36.563Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3369,15 +3369,6 @@
 			"createdAt": "2026-04-29T05:51:14Z",
 			"url": "https://github.com/lando/pantheon/issues/355",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/php",
-			"number": 248,
-			"title": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-04T21:40:37Z",
-			"url": "https://github.com/lando/php/pull/248",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/mean",
