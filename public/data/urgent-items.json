@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-23T18:42:56.592Z",
+		"fetchedAt": "2026-06-23T20:44:26.506Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1266,20 +1266,20 @@
 		},
 		{
 			"repo": "lando/platformsh",
-			"number": 202,
-			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.2",
-			"author": "dependabot",
-			"createdAt": "2024-02-12T21:09:06Z",
-			"url": "https://github.com/lando/platformsh/pull/202",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/platformsh",
 			"number": 201,
 			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.4",
 			"author": "dependabot",
 			"createdAt": "2024-02-12T21:09:06Z",
 			"url": "https://github.com/lando/platformsh/pull/201",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/platformsh",
+			"number": 202,
+			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.2",
+			"author": "dependabot",
+			"createdAt": "2024-02-12T21:09:06Z",
+			"url": "https://github.com/lando/platformsh/pull/202",
 			"type": "pr"
 		},
 		{
@@ -2318,15 +2318,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/blog",
-			"number": 53,
-			"title": "Bump esbuild and vuepress",
-			"author": "dependabot",
-			"createdAt": "2025-11-23T23:41:47Z",
-			"url": "https://github.com/lando/blog/pull/53",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/events",
 			"number": 48,
 			"title": "Bump vite and vuepress",
@@ -2723,24 +2714,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core-next",
-			"number": 128,
-			"title": "Bump minimatch and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-22T02:14:25Z",
-			"url": "https://github.com/lando/core-next/pull/128",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 129,
-			"title": "Bump ajv from 8.17.1 to 8.18.0 in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-02-22T11:44:44Z",
-			"url": "https://github.com/lando/core-next/pull/129",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/acquia",
 			"number": 159,
 			"title": "fix: handle race condition in release promote job",
@@ -2858,15 +2831,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/code-sign-action",
-			"number": 24,
-			"title": "Bump minimatch from 9.0.5 to 9.0.9",
-			"author": "dependabot",
-			"createdAt": "2026-03-01T10:31:30Z",
-			"url": "https://github.com/lando/code-sign-action/pull/24",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/symfony",
 			"number": 88,
 			"title": "expire_logs_days MySQL config option has been removed in MySQL 8.4",
@@ -2882,15 +2846,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-10T01:16:25Z",
 			"url": "https://github.com/lando/lagoon/pull/107",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/code-sign-action",
-			"number": 26,
-			"title": "Bump tar from 7.4.3 to 7.5.11",
-			"author": "dependabot",
-			"createdAt": "2026-03-11T19:09:35Z",
-			"url": "https://github.com/lando/code-sign-action/pull/26",
 			"type": "pr"
 		},
 		{
@@ -2927,15 +2882,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-23T20:39:37Z",
 			"url": "https://github.com/lando/pantheon/pull/348",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/code-sign-action",
-			"number": 27,
-			"title": "Bump picomatch from 4.0.2 to 4.0.4",
-			"author": "dependabot",
-			"createdAt": "2026-03-25T22:34:40Z",
-			"url": "https://github.com/lando/code-sign-action/pull/27",
 			"type": "pr"
 		},
 		{
@@ -3063,15 +3009,6 @@
 			"createdAt": "2026-04-29T05:51:14Z",
 			"url": "https://github.com/lando/pantheon/issues/355",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/acquia",
-			"number": 166,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-06T15:35:33Z",
-			"url": "https://github.com/lando/acquia/pull/166",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/redis",

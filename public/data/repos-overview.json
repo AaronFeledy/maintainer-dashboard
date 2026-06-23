@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-23T18:42:56.592Z",
+		"fetchedAt": "2026-06-23T20:44:26.506Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -12,8 +12,8 @@
 			"openPRs": 3,
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 21,
-			"lastPush": "2025-07-23T20:47:11Z",
-			"attentionScore": 846.5,
+			"lastPush": "2026-06-23T19:47:41Z",
+			"attentionScore": 847,
 			"unengagedCount": 3
 		},
 		{
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 804,
+			"attentionScore": 804.5,
 			"unengagedCount": 1
 		},
 		{
@@ -36,7 +36,7 @@
 			"openPRs": 6,
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
-			"lastPush": "2026-06-23T18:17:23Z",
+			"lastPush": "2026-06-23T20:18:20Z",
 			"attentionScore": 721.5,
 			"unengagedCount": 10
 		},
@@ -48,7 +48,7 @@
 			"openPRs": 3,
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 8,
-			"lastPush": "2025-07-23T20:47:06Z",
+			"lastPush": "2026-06-23T20:09:53Z",
 			"attentionScore": 574.5,
 			"unengagedCount": 5
 		},
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-06-23T18:42:10Z",
-			"attentionScore": 556,
+			"attentionScore": 556.5,
 			"unengagedCount": 0
 		},
 		{
@@ -72,7 +72,7 @@
 			"openPRs": 17,
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
-			"lastPush": "2026-03-13T09:15:56Z",
+			"lastPush": "2026-06-23T20:15:29Z",
 			"attentionScore": 530.5,
 			"unengagedCount": 44
 		},
@@ -84,7 +84,7 @@
 			"openPRs": 3,
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 9,
-			"lastPush": "2025-07-23T20:47:08Z",
+			"lastPush": "2026-06-23T20:09:53Z",
 			"attentionScore": 431.5,
 			"unengagedCount": 5
 		},
@@ -96,7 +96,7 @@
 			"openPRs": 5,
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 12,
-			"lastPush": "2026-06-23T18:15:29Z",
+			"lastPush": "2026-06-23T20:08:44Z",
 			"attentionScore": 380,
 			"unengagedCount": 6
 		},
@@ -108,7 +108,7 @@
 			"openPRs": 3,
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 5,
-			"lastPush": "2026-04-07T03:25:08Z",
+			"lastPush": "2026-06-23T20:09:53Z",
 			"attentionScore": 365,
 			"unengagedCount": 3
 		},
@@ -120,7 +120,7 @@
 			"openPRs": 6,
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 28,
-			"lastPush": "2026-06-23T18:24:12Z",
+			"lastPush": "2026-06-23T20:14:55Z",
 			"attentionScore": 329.5,
 			"unengagedCount": 8
 		},
@@ -132,8 +132,8 @@
 			"openPRs": 8,
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 20,
-			"lastPush": "2026-06-23T18:15:26Z",
-			"attentionScore": 325.5,
+			"lastPush": "2026-06-23T20:10:40Z",
+			"attentionScore": 326,
 			"unengagedCount": 8
 		},
 		{
@@ -144,8 +144,8 @@
 			"openPRs": 7,
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 23,
-			"lastPush": "2026-03-10T20:16:54Z",
-			"attentionScore": 324.5,
+			"lastPush": "2026-06-23T20:05:13Z",
+			"attentionScore": 325,
 			"unengagedCount": 9
 		},
 		{
@@ -153,12 +153,12 @@
 			"description": "A GitHub action to code sign files",
 			"language": "JavaScript",
 			"openIssues": 3,
-			"openPRs": 3,
+			"openPRs": 1,
 			"lastRelease": "2024-11-19T16:43:40Z",
-			"commitsSinceRelease": 7,
-			"lastPush": "2026-06-23T18:40:57Z",
-			"attentionScore": 311.5,
-			"unengagedCount": 4
+			"commitsSinceRelease": 10,
+			"lastPush": "2026-06-23T19:15:25Z",
+			"attentionScore": 298.5,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/pkg-action",
@@ -193,7 +193,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-06-23T18:09:59Z",
-			"attentionScore": 288.5,
+			"attentionScore": 289,
 			"unengagedCount": 1
 		},
 		{
@@ -204,7 +204,7 @@
 			"openPRs": 4,
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
-			"lastPush": "2025-07-19T02:40:42Z",
+			"lastPush": "2026-06-23T19:49:38Z",
 			"attentionScore": 286.5,
 			"unengagedCount": 23
 		},
@@ -216,7 +216,7 @@
 			"openPRs": 22,
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 2,
-			"lastPush": "2026-06-23T18:31:23Z",
+			"lastPush": "2026-06-23T20:08:51Z",
 			"attentionScore": 272.5,
 			"unengagedCount": 49
 		},
@@ -240,7 +240,7 @@
 			"openPRs": 4,
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
-			"lastPush": "2025-07-19T02:42:44Z",
+			"lastPush": "2026-06-23T19:54:58Z",
 			"attentionScore": 202.5,
 			"unengagedCount": 4
 		},
@@ -269,18 +269,6 @@
 			"unengagedCount": 3
 		},
 		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 20,
-			"openPRs": 12,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 18,
-			"lastPush": "2026-06-23T18:31:31Z",
-			"attentionScore": 196,
-			"unengagedCount": 18
-		},
-		{
 			"name": "lando/drupal-dev-environment",
 			"description": "Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.",
 			"language": "PHP",
@@ -300,9 +288,21 @@
 			"openPRs": 3,
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 22,
-			"lastPush": "2026-06-23T18:28:31Z",
+			"lastPush": "2026-06-23T20:09:50Z",
 			"attentionScore": 186.5,
 			"unengagedCount": 6
+		},
+		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 20,
+			"openPRs": 10,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 18,
+			"lastPush": "2026-06-23T20:08:53Z",
+			"attentionScore": 186,
+			"unengagedCount": 16
 		},
 		{
 			"name": "lando/argv",
@@ -312,7 +312,7 @@
 			"openPRs": 3,
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 9,
-			"lastPush": "2026-06-23T18:13:48Z",
+			"lastPush": "2026-06-23T20:09:53Z",
 			"attentionScore": 184.5,
 			"unengagedCount": 3
 		},
@@ -361,7 +361,7 @@
 			"lastRelease": "2025-09-03T20:19:55Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-06-23T18:37:07Z",
-			"attentionScore": 175,
+			"attentionScore": 175.5,
 			"unengagedCount": 6
 		},
 		{
@@ -377,18 +377,6 @@
 			"unengagedCount": 5
 		},
 		{
-			"name": "lando/blog",
-			"description": "Lando's Blog Subsite",
-			"language": "Vue",
-			"openIssues": 3,
-			"openPRs": 2,
-			"lastRelease": "2025-09-03T19:41:18Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-06-23T18:27:43Z",
-			"attentionScore": 165,
-			"unengagedCount": 4
-		},
-		{
 			"name": "lando/mysql",
 			"description": "The Official MySQL Lando Plugin",
 			"language": "JavaScript",
@@ -401,6 +389,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/blog",
+			"description": "Lando's Blog Subsite",
+			"language": "Vue",
+			"openIssues": 3,
+			"openPRs": 1,
+			"lastRelease": "2025-09-03T19:41:18Z",
+			"commitsSinceRelease": 12,
+			"lastPush": "2026-06-23T19:00:10Z",
+			"attentionScore": 160.5,
+			"unengagedCount": 3
+		},
+		{
 			"name": "lando/website",
 			"description": "Lando's main website",
 			"language": "Vue",
@@ -408,7 +408,7 @@
 			"openPRs": 1,
 			"lastRelease": "2025-09-03T18:25:33Z",
 			"commitsSinceRelease": 11,
-			"lastPush": "2026-06-23T17:37:18Z",
+			"lastPush": "2026-06-23T19:56:16Z",
 			"attentionScore": 155.5,
 			"unengagedCount": 2
 		},
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-08-28T19:28:14Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-06-23T18:28:42Z",
-			"attentionScore": 154,
+			"attentionScore": 154.5,
 			"unengagedCount": 1
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-06-23T17:30:25Z",
-			"attentionScore": 150.5,
+			"attentionScore": 151,
 			"unengagedCount": 1
 		},
 		{
@@ -492,8 +492,8 @@
 			"openPRs": 3,
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 15,
-			"lastPush": "2026-06-23T18:15:23Z",
-			"attentionScore": 114.5,
+			"lastPush": "2026-06-23T20:11:33Z",
+			"attentionScore": 115,
 			"unengagedCount": 3
 		},
 		{
@@ -504,7 +504,7 @@
 			"openPRs": 1,
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 12,
-			"lastPush": "2026-06-23T18:18:48Z",
+			"lastPush": "2026-06-23T18:43:04Z",
 			"attentionScore": 105.5,
 			"unengagedCount": 1
 		},
@@ -517,7 +517,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-06-23T18:09:56Z",
-			"attentionScore": 105,
+			"attentionScore": 105.5,
 			"unengagedCount": 1
 		},
 		{
@@ -540,21 +540,9 @@
 			"openPRs": 1,
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 3,
-			"lastPush": "2026-06-23T18:28:33Z",
+			"lastPush": "2026-06-23T19:17:18Z",
 			"attentionScore": 104.5,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/acquia",
-			"description": "The Official Acquia Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 4,
-			"openPRs": 3,
-			"lastRelease": "2026-02-24T04:45:09Z",
-			"commitsSinceRelease": 9,
-			"lastPush": "2026-06-23T18:18:43Z",
-			"attentionScore": 87.5,
-			"unengagedCount": 6
 		},
 		{
 			"name": "lando/php",
@@ -579,6 +567,18 @@
 			"lastPush": "2026-06-23T18:18:46Z",
 			"attentionScore": 86.5,
 			"unengagedCount": 16
+		},
+		{
+			"name": "lando/acquia",
+			"description": "The Official Acquia Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 4,
+			"openPRs": 2,
+			"lastRelease": "2026-02-24T04:45:09Z",
+			"commitsSinceRelease": 10,
+			"lastPush": "2026-06-23T18:48:01Z",
+			"attentionScore": 82.5,
+			"unengagedCount": 5
 		},
 		{
 			"name": "lando/nginx",
@@ -780,7 +780,7 @@
 			"openPRs": 2,
 			"lastRelease": "2026-04-28T22:30:47Z",
 			"commitsSinceRelease": 0,
-			"lastPush": "2026-04-28T22:30:47Z",
+			"lastPush": "2026-06-23T20:03:42Z",
 			"attentionScore": 37.5,
 			"unengagedCount": 2
 		}

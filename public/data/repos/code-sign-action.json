@@ -30,25 +30,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump picomatch from 4.0.2 to 4.0.4",
+			"title": "Bump tar from 7.5.11 to 7.5.16",
 			"author": "dependabot",
-			"createdAt": "2026-03-25T22:34:40Z",
+			"createdAt": "2026-06-23T19:15:25Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/code-sign-action/pull/27"
-		},
-		{
-			"title": "Bump tar from 7.4.3 to 7.5.11",
-			"author": "dependabot",
-			"createdAt": "2026-03-11T19:09:35Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/code-sign-action/pull/26"
-		},
-		{
-			"title": "Bump minimatch from 9.0.5 to 9.0.9",
-			"author": "dependabot",
-			"createdAt": "2026-03-01T10:31:30Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/code-sign-action/pull/24"
+			"url": "https://github.com/lando/code-sign-action/pull/29"
 		}
 	],
 	"releases": [
