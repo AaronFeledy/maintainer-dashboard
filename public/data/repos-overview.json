@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-23T11:03:59.057Z",
+		"fetchedAt": "2026-06-23T12:58:16.043Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -612,9 +612,9 @@
 			"openPRs": 1,
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-05-05T12:09:09Z",
-			"attentionScore": 78.5,
-			"unengagedCount": 5
+			"lastPush": "2026-06-23T12:04:13Z",
+			"attentionScore": 75.5,
+			"unengagedCount": 4
 		},
 		{
 			"name": "lando/lamp",

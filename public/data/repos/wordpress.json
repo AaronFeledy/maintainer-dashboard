@@ -106,11 +106,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-05-05T12:09:09Z",
+			"createdAt": "2026-06-23T12:04:14Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/wordpress/pull/137"
+			"url": "https://github.com/lando/wordpress/pull/138"
 		}
 	],
 	"releases": [

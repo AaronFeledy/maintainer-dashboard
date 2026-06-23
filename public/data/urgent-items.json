@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-23T11:03:59.057Z",
+		"fetchedAt": "2026-06-23T12:58:16.043Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3369,15 +3369,6 @@
 			"createdAt": "2026-04-29T05:51:14Z",
 			"url": "https://github.com/lando/pantheon/issues/355",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/wordpress",
-			"number": 137,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-05T12:09:09Z",
-			"url": "https://github.com/lando/wordpress/pull/137",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/solr",
