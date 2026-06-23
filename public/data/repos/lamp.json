@@ -32,13 +32,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-23T05:13:12Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lamp/pull/107"
-		},
-		{
 			"title": "Added init defaults.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-12-19T22:42:16Z",

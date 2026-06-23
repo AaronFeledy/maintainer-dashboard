@@ -16,13 +16,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-22T22:05:03Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/backdrop/pull/93"
-		},
-		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:54:50Z",

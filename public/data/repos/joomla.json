@@ -5,13 +5,6 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "chore(deps): bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-22T11:06:08Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/joomla/pull/78"
-		},
-		{
 			"title": "Init defaults1",
 			"author": "reynoldsalec",
 			"createdAt": "2024-12-20T22:34:51Z",

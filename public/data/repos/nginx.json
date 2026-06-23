@@ -66,15 +66,7 @@
 			"url": "https://github.com/lando/nginx/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-19T22:13:17Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/nginx/pull/85"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.6.0",

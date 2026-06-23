@@ -73,34 +73,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T06:56:15Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/126"
-		},
-		{
-			"title": "Bump picomatch from 2.3.0 to 2.3.2 in /examples/16",
-			"author": "dependabot",
-			"createdAt": "2026-04-08T06:59:54Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/125"
-		},
-		{
-			"title": "Bump picomatch from 2.3.0 to 2.3.2 in /examples/14",
-			"author": "dependabot",
-			"createdAt": "2026-04-08T06:42:26Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/124"
-		},
-		{
-			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/20",
-			"author": "dependabot",
-			"createdAt": "2026-03-26T01:46:43Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/node/pull/123"
-		},
-		{
 			"title": "feat: add Node 25 support, update versions and docs",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-27T14:59:14Z",

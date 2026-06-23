@@ -90,20 +90,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-06T05:16:42Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/solr/pull/71"
-		},
-		{
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:04Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/solr/pull/63"
-		},
-		{
 			"title": "chore: update @lando/php to ^1.11.0",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-19T17:15:09Z",

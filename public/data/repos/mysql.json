@@ -48,53 +48,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T08:41:31Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mysql/pull/91"
-		},
-		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:52Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/mysql/pull/89"
-		},
-		{
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:55Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mysql/pull/86"
-		},
-		{
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:27:38Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mysql/pull/85"
-		},
-		{
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:19:46Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mysql/pull/84"
-		},
-		{
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T04:10:51Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mysql/pull/83"
-		},
-		{
-			"title": "Bump vite from 5.4.20 to 5.4.21",
-			"author": "dependabot",
-			"createdAt": "2025-10-21T08:05:57Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mysql/pull/82"
 		}
 	],
 	"releases": [

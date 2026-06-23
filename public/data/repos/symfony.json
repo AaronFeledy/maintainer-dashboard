@@ -45,15 +45,7 @@
 			"url": "https://github.com/lando/symfony/issues/17"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-22T03:24:29Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/symfony/pull/91"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.12.2",

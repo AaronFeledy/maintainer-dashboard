@@ -92,27 +92,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-18T20:43:23Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mariadb/pull/97"
-		},
-		{
-			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
-			"author": "dependabot",
-			"createdAt": "2025-12-09T03:52:20Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mariadb/pull/91"
-		},
-		{
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2025-12-09T03:52:13Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mariadb/pull/90"
-		},
-		{
 			"title": "Update default MariaDB version to 10.6, resolves lando/mariadb#25.",
 			"author": "tormi",
 			"createdAt": "2023-08-02T07:21:20Z",

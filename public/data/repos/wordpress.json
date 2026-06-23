@@ -104,15 +104,7 @@
 			"url": "https://github.com/lando/wordpress/issues/38"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-23T12:04:14Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/wordpress/pull/138"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.11.0",

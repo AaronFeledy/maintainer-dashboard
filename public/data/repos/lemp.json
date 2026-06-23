@@ -53,15 +53,7 @@
 			"url": "https://github.com/lando/lemp/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-23T05:43:21Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lemp/pull/88"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.10.0",

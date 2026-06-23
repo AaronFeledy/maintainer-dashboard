@@ -14,32 +14,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-23T07:25:55Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/website/pull/74"
-		},
-		{
 			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.34 to 1.0.0-beta.49",
 			"author": "dependabot",
 			"createdAt": "2026-02-20T07:12:47Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/website/pull/73"
-		},
-		{
-			"title": "Bump webpack from 5.90.0 to 5.105.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-06T21:48:23Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/website/pull/72"
-		},
-		{
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:11:18Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/website/pull/71"
 		}
 	],
 	"releases": [

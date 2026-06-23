@@ -30,46 +30,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.44 to 1.0.0-beta.49",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:07Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/blog/pull/57"
-		},
-		{
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:59Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/blog/pull/56"
-		},
-		{
-			"title": "Bump webpack from 5.101.3 to 5.105.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-07T16:32:21Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/blog/pull/55"
-		},
-		{
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:11:21Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/blog/pull/54"
-		},
-		{
 			"title": "Bump esbuild and vuepress",
 			"author": "dependabot",
 			"createdAt": "2025-11-23T23:41:47Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/blog/pull/53"
-		},
-		{
-			"title": "Bump prismjs from 1.29.0 to 1.30.0",
-			"author": "dependabot",
-			"createdAt": "2025-11-23T23:41:26Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/blog/pull/52"
 		},
 		{
 			"title": "Update 2021-01-26-pantheon-localdev-launch.md",

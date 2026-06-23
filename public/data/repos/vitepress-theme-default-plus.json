@@ -112,13 +112,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/checkout from 6 to 7 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-20T03:52:13Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/102"
-		},
-		{
 			"title": "feat: resolve team avatars to GitHub profiles (#78)",
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-29T00:28:40Z",

@@ -57,15 +57,7 @@
 			"url": "https://github.com/lando/laravel/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-11T07:51:43Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/laravel/pull/111"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.12.3",

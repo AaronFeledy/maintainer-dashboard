@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-23T16:49:49.973Z",
+		"fetchedAt": "2026-06-23T18:42:56.592Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2192,15 +2192,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/plugin-test",
-			"number": 6,
-			"title": "Bump prismjs from 1.29.0 to 1.30.0",
-			"author": "dependabot",
-			"createdAt": "2025-09-11T14:23:45Z",
-			"url": "https://github.com/lando/plugin-test/pull/6",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/mailhog",
 			"number": 44,
 			"title": "Bump axios from 1.7.7 to 1.11.0",
@@ -2273,24 +2264,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/memcached",
-			"number": 49,
-			"title": "Bump vite from 5.4.20 to 5.4.21",
-			"author": "dependabot",
-			"createdAt": "2025-10-21T08:02:57Z",
-			"url": "https://github.com/lando/memcached/pull/49",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mysql",
-			"number": 82,
-			"title": "Bump vite from 5.4.20 to 5.4.21",
-			"author": "dependabot",
-			"createdAt": "2025-10-21T08:05:57Z",
-			"url": "https://github.com/lando/mysql/pull/82",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/python",
 			"number": 55,
 			"title": "Bump vite from 5.4.20 to 5.4.21",
@@ -2346,15 +2319,6 @@
 		},
 		{
 			"repo": "lando/blog",
-			"number": 52,
-			"title": "Bump prismjs from 1.29.0 to 1.30.0",
-			"author": "dependabot",
-			"createdAt": "2025-11-23T23:41:26Z",
-			"url": "https://github.com/lando/blog/pull/52",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/blog",
 			"number": 53,
 			"title": "Bump esbuild and vuepress",
 			"author": "dependabot",
@@ -2369,15 +2333,6 @@
 			"author": "dependabot",
 			"createdAt": "2025-11-23T23:52:17Z",
 			"url": "https://github.com/lando/events/pull/48",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/memcached",
-			"number": 50,
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T03:35:08Z",
-			"url": "https://github.com/lando/memcached/pull/50",
 			"type": "pr"
 		},
 		{
@@ -2408,39 +2363,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mysql",
-			"number": 83,
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T04:10:51Z",
-			"url": "https://github.com/lando/mysql/pull/83",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lagoon",
 			"number": 100,
 			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
 			"author": "dependabot",
 			"createdAt": "2025-12-09T03:34:18Z",
 			"url": "https://github.com/lando/lagoon/pull/100",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mariadb",
-			"number": 90,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2025-12-09T03:52:13Z",
-			"url": "https://github.com/lando/mariadb/pull/90",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mariadb",
-			"number": 91,
-			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
-			"author": "dependabot",
-			"createdAt": "2025-12-09T03:52:20Z",
-			"url": "https://github.com/lando/mariadb/pull/91",
 			"type": "pr"
 		},
 		{
@@ -2507,15 +2435,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/mysql",
-			"number": 84,
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:19:46Z",
-			"url": "https://github.com/lando/mysql/pull/84",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/python",
 			"number": 57,
 			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
@@ -2543,48 +2462,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/memcached",
-			"number": 51,
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:39:06Z",
-			"url": "https://github.com/lando/memcached/pull/51",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/website",
-			"number": 71,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:11:18Z",
-			"url": "https://github.com/lando/website/pull/71",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/blog",
-			"number": 54,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:11:21Z",
-			"url": "https://github.com/lando/blog/pull/54",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/events",
 			"number": 49,
 			"title": "Bump lodash from 4.17.21 to 4.17.23",
 			"author": "dependabot",
 			"createdAt": "2026-01-22T02:11:41Z",
 			"url": "https://github.com/lando/events/pull/49",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mysql",
-			"number": 85,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:27:38Z",
-			"url": "https://github.com/lando/mysql/pull/85",
 			"type": "pr"
 		},
 		{
@@ -2615,15 +2498,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/memcached",
-			"number": 52,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:34:15Z",
-			"url": "https://github.com/lando/memcached/pull/52",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/vitepress-theme-default-plus",
 			"number": 93,
 			"title": "mvb fails on fork PRs: branch doesn't exist in upstream repo",
@@ -2633,39 +2507,12 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/ruby",
-			"number": 65,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-01-23T07:22:48Z",
-			"url": "https://github.com/lando/ruby/pull/65",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 120,
 			"title": "feat: add buildx check/install to lando setup",
 			"author": "AaronFeledy",
 			"createdAt": "2026-01-23T23:11:03Z",
 			"url": "https://github.com/lando/core-next/pull/120",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/website",
-			"number": 72,
-			"title": "Bump webpack from 5.90.0 to 5.105.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-06T21:48:23Z",
-			"url": "https://github.com/lando/website/pull/72",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/blog",
-			"number": 55,
-			"title": "Bump webpack from 5.101.3 to 5.105.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-07T16:32:21Z",
-			"url": "https://github.com/lando/blog/pull/55",
 			"type": "pr"
 		},
 		{
@@ -2732,24 +2579,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mysql",
-			"number": 86,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:55Z",
-			"url": "https://github.com/lando/mysql/pull/86",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/blog",
-			"number": 56,
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:59Z",
-			"url": "https://github.com/lando/blog/pull/56",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/python",
 			"number": 60,
 			"title": "Bump the actions group with 4 updates",
@@ -2759,21 +2588,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/solr",
-			"number": 63,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"repo": "lando/lagoon",
+			"number": 104,
+			"title": "Bump the actions group with 4 updates",
 			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:04Z",
-			"url": "https://github.com/lando/solr/pull/63",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/blog",
-			"number": 57,
-			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.44 to 1.0.0-beta.49",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:07Z",
-			"url": "https://github.com/lando/blog/pull/57",
+			"createdAt": "2026-02-19T22:11:08Z",
+			"url": "https://github.com/lando/lagoon/pull/104",
 			"type": "pr"
 		},
 		{
@@ -2894,15 +2714,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/memcached",
-			"number": 53,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:31:18Z",
-			"url": "https://github.com/lando/memcached/pull/53",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/website",
 			"number": 73,
 			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.34 to 1.0.0-beta.49",
@@ -3002,24 +2813,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/website",
-			"number": 74,
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-23T07:25:55Z",
-			"url": "https://github.com/lando/website/pull/74",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 131,
-			"title": "Bump minimatch from 5.1.6 to 5.1.8 in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-02-25T01:03:28Z",
-			"url": "https://github.com/lando/core-next/pull/131",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 132,
 			"title": "fix: handle empty YAML config files gracefully",
@@ -3056,15 +2849,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core-next",
-			"number": 134,
-			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-02-28T07:07:17Z",
-			"url": "https://github.com/lando/core-next/pull/134",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/argv",
 			"number": 14,
 			"title": "Bump minimatch",
@@ -3090,24 +2874,6 @@
 			"createdAt": "2026-03-03T00:17:07Z",
 			"url": "https://github.com/lando/symfony/issues/88",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 8,
-			"title": "Bump immutable from 4.1.0 to 4.3.8",
-			"author": "dependabot",
-			"createdAt": "2026-03-05T05:30:19Z",
-			"url": "https://github.com/lando/plugin-test/pull/8",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 135,
-			"title": "Bump minimatch from 5.1.6 to 5.1.9 in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-03-05T15:47:31Z",
-			"url": "https://github.com/lando/core-next/pull/135",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/lagoon",
@@ -3173,24 +2939,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/node",
-			"number": 123,
-			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/20",
-			"author": "dependabot",
-			"createdAt": "2026-03-26T01:46:43Z",
-			"url": "https://github.com/lando/node/pull/123",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 139,
-			"title": "Bump picomatch from 2.3.1 to 2.3.2 in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-03-26T04:57:57Z",
-			"url": "https://github.com/lando/core-next/pull/139",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3841,
 			"title": "Create FrankenPHP Recipe",
@@ -3206,24 +2954,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-03-27T02:15:43Z",
 			"url": "https://github.com/lando/run-leia-action/pull/15",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 10,
-			"title": "Bump picomatch from 2.3.1 to 2.3.2",
-			"author": "dependabot",
-			"createdAt": "2026-03-27T09:59:34Z",
-			"url": "https://github.com/lando/plugin-test/pull/10",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 140,
-			"title": "Bump brace-expansion from 2.0.2 to 2.0.3 in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-03-29T16:31:49Z",
-			"url": "https://github.com/lando/core-next/pull/140",
 			"type": "pr"
 		},
 		{
@@ -3251,33 +2981,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-04-07T03:25:05Z",
 			"url": "https://github.com/lando/run-leia-action/pull/16",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 11,
-			"title": "Bump lodash from 4.17.21 to 4.18.1",
-			"author": "dependabot",
-			"createdAt": "2026-04-07T04:53:02Z",
-			"url": "https://github.com/lando/plugin-test/pull/11",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/node",
-			"number": 124,
-			"title": "Bump picomatch from 2.3.0 to 2.3.2 in /examples/14",
-			"author": "dependabot",
-			"createdAt": "2026-04-08T06:42:26Z",
-			"url": "https://github.com/lando/node/pull/124",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/node",
-			"number": 125,
-			"title": "Bump picomatch from 2.3.0 to 2.3.2 in /examples/16",
-			"author": "dependabot",
-			"createdAt": "2026-04-08T06:59:54Z",
-			"url": "https://github.com/lando/node/pull/125",
 			"type": "pr"
 		},
 		{
@@ -3315,15 +3018,6 @@
 			"createdAt": "2026-04-22T07:52:09Z",
 			"url": "https://github.com/lando/core/issues/462",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 12,
-			"title": "Bump postcss from 8.4.31 to 8.5.10",
-			"author": "dependabot",
-			"createdAt": "2026-04-25T00:02:15Z",
-			"url": "https://github.com/lando/plugin-test/pull/12",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/backdrop",
@@ -3371,48 +3065,12 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/solr",
-			"number": 71,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-06T05:16:42Z",
-			"url": "https://github.com/lando/solr/pull/71",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/go",
-			"number": 79,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-06T10:22:13Z",
-			"url": "https://github.com/lando/go/pull/79",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/acquia",
 			"number": 166,
 			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
 			"author": "dependabot",
 			"createdAt": "2026-05-06T15:35:33Z",
 			"url": "https://github.com/lando/acquia/pull/166",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mongo",
-			"number": 61,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-06T19:09:40Z",
-			"url": "https://github.com/lando/mongo/pull/61",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/postgres",
-			"number": 72,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T04:30:32Z",
-			"url": "https://github.com/lando/postgres/pull/72",
 			"type": "pr"
 		},
 		{
@@ -3425,39 +3083,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/node",
-			"number": 126,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T06:56:15Z",
-			"url": "https://github.com/lando/node/pull/126",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mysql",
-			"number": 91,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T08:41:31Z",
-			"url": "https://github.com/lando/mysql/pull/91",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/mssql",
 			"number": 50,
 			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
 			"author": "dependabot",
 			"createdAt": "2026-05-07T09:21:50Z",
 			"url": "https://github.com/lando/mssql/pull/50",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/phpmyadmin",
-			"number": 81,
-			"title": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T14:01:35Z",
-			"url": "https://github.com/lando/phpmyadmin/pull/81",
 			"type": "pr"
 		},
 		{
@@ -3533,15 +3164,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/laravel",
-			"number": 111,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-11T07:51:43Z",
-			"url": "https://github.com/lando/laravel/pull/111",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 467,
 			"title": "docs: add guide for hosting and distributing a private Lando plugin",
@@ -3596,15 +3218,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/tomcat",
-			"number": 54,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-18T15:43:51Z",
-			"url": "https://github.com/lando/tomcat/pull/54",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/varnish",
 			"number": 68,
 			"title": "Bump the actions group across 1 directory with 2 updates",
@@ -3614,39 +3227,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mariadb",
-			"number": 97,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-18T20:43:23Z",
-			"url": "https://github.com/lando/mariadb/pull/97",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/pantheon",
 			"number": 363,
 			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-06-18T21:53:37Z",
 			"url": "https://github.com/lando/pantheon/pull/363",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 469,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-19T12:05:52Z",
-			"url": "https://github.com/lando/core/pull/469",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/nginx",
-			"number": 85,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-19T22:13:17Z",
-			"url": "https://github.com/lando/nginx/pull/85",
 			"type": "pr"
 		},
 		{
