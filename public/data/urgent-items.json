@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-22T22:34:29.525Z",
+		"fetchedAt": "2026-06-23T00:44:35.202Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3371,15 +3371,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/drupal",
-			"number": 187,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-05T02:18:42Z",
-			"url": "https://github.com/lando/drupal/pull/187",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lamp",
 			"number": 106,
 			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
@@ -3665,6 +3656,33 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-18T21:53:37Z",
 			"url": "https://github.com/lando/pantheon/pull/363",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 469,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-19T12:05:52Z",
+			"url": "https://github.com/lando/core/pull/469",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/nginx",
+			"number": 85,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-19T22:13:17Z",
+			"url": "https://github.com/lando/nginx/pull/85",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 364,
+			"title": "fix: update Terminus to 4.2.2",
+			"author": "AaronFeledy",
+			"createdAt": "2026-06-19T22:19:17Z",
+			"url": "https://github.com/lando/pantheon/pull/364",
 			"type": "pr"
 		}
 	]

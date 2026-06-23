@@ -66,18 +66,18 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-22T23:04:50Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/drupal/pull/190"
+		},
+		{
 			"title": "#188 - Fix for [Regression] Double ports in drush_uri / Error: Invalid URI: Host is malformed.",
 			"author": "silverham",
 			"createdAt": "2026-05-29T08:59:18Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/drupal/pull/189"
-		},
-		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-05T02:18:42Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/drupal/pull/187"
 		}
 	],
 	"releases": [
