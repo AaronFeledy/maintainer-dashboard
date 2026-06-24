@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-24T14:57:49.665Z",
+		"fetchedAt": "2026-06-24T16:45:08.819Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T00:38:59Z",
-			"attentionScore": 721.5,
+			"attentionScore": 722,
 			"unengagedCount": 10
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-11-19T16:43:40Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-06-23T23:57:50Z",
-			"attentionScore": 296.5,
+			"attentionScore": 297,
 			"unengagedCount": 1
 		},
 		{
@@ -349,7 +349,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-06-23T18:28:38Z",
-			"attentionScore": 170,
+			"attentionScore": 170.5,
 			"unengagedCount": 5
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-06-23T18:24:42Z",
-			"attentionScore": 149,
+			"attentionScore": 149.5,
 			"unengagedCount": 1
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 19,
 			"lastPush": "2026-06-23T17:30:31Z",
-			"attentionScore": 147.5,
+			"attentionScore": 148,
 			"unengagedCount": 0
 		},
 		{
@@ -573,11 +573,11 @@
 			"description": "The Official Acquia Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 4,
-			"openPRs": 2,
+			"openPRs": 3,
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 10,
-			"lastPush": "2026-06-23T18:48:01Z",
-			"attentionScore": 83,
+			"lastPush": "2026-06-24T15:23:25Z",
+			"attentionScore": 85,
 			"unengagedCount": 5
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-06-23T17:29:57Z",
-			"attentionScore": 66.5,
+			"attentionScore": 67,
 			"unengagedCount": 1
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-06-23T17:31:41Z",
-			"attentionScore": 52.5,
+			"attentionScore": 53,
 			"unengagedCount": 0
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-06-24T01:13:01Z",
-			"attentionScore": 50.5,
+			"attentionScore": 51,
 			"unengagedCount": 1
 		},
 		{

@@ -44,6 +44,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-24T15:23:25Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/acquia/pull/167"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:54:33Z",
