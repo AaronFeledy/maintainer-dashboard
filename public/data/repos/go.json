@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"title": "Bump the actions group with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-05-06T10:22:13Z",
+			"createdAt": "2026-06-24T10:13:39Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/go/pull/79"
+			"url": "https://github.com/lando/go/pull/80"
 		}
 	],
 	"releases": [
