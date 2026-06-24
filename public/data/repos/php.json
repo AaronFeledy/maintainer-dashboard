@@ -136,13 +136,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "chore(deps): bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-22T17:04:55Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/php/pull/249"
-		},
-		{
 			"title": "feat: xdebug configurability overhaul",
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-17T02:52:53Z",

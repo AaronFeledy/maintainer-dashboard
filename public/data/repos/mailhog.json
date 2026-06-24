@@ -42,55 +42,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:31:10Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mailhog/pull/51"
-		},
-		{
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:34:07Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mailhog/pull/50"
-		},
-		{
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:29:50Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mailhog/pull/49"
-		},
-		{
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T03:43:17Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mailhog/pull/48"
-		},
-		{
-			"title": "Bump vite from 5.4.8 to 5.4.21",
-			"author": "dependabot",
-			"createdAt": "2025-10-21T05:13:13Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mailhog/pull/47"
-		},
-		{
-			"title": "Bump form-data from 4.0.1 to 4.0.4",
-			"author": "dependabot",
-			"createdAt": "2025-09-11T14:24:43Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mailhog/pull/45"
-		},
-		{
-			"title": "Bump axios from 1.7.7 to 1.11.0",
-			"author": "dependabot",
-			"createdAt": "2025-09-11T14:24:41Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mailhog/pull/44"
-		},
-		{
 			"title": "35 curl me",
 			"author": "pirog",
 			"createdAt": "2024-04-02T13:26:31Z",

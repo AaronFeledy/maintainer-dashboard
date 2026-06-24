@@ -90,13 +90,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-24T05:06:54Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/solr/pull/72"
-		},
-		{
 			"title": "chore: update @lando/php to ^1.11.0",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-19T17:15:09Z",

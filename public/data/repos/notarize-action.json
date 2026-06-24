@@ -28,15 +28,7 @@
 			"url": "https://github.com/lando/notarize-action/issues/25"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump uuid and @actions/core",
-			"author": "dependabot",
-			"createdAt": "2026-06-24T00:25:34Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/notarize-action/pull/39"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v2.0.2",

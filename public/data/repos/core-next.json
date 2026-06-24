@@ -200,13 +200,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T17:35:37Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/144"
-		},
-		{
 			"title": "fix: add --load to buildx to ensure images are available locally",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-25T05:00:48Z",

@@ -5,13 +5,6 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-24T10:33:25Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/memcached/pull/56"
-		},
-		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:57Z",

@@ -27,34 +27,6 @@
 			"createdAt": "2026-02-22T20:57:01Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/leia/pull/55"
-		},
-		{
-			"title": "Bump the actions group with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:00Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/52"
-		},
-		{
-			"title": "Bump @lando/argv from 1.0.6 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:31Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/51"
-		},
-		{
-			"title": "Bump serialize-javascript and mocha",
-			"author": "dependabot",
-			"createdAt": "2025-02-19T21:26:27Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/50"
-		},
-		{
-			"title": "Bump nanoid and mocha",
-			"author": "dependabot",
-			"createdAt": "2024-12-10T16:00:31Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/49"
 		}
 	],
 	"releases": [

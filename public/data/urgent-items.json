@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-24T16:45:08.819Z",
+		"fetchedAt": "2026-06-24T18:36:48.943Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -617,15 +617,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/legacy-metrics",
-			"number": 7,
-			"title": "Bump node-fetch from 2.6.5 to 2.6.7",
-			"author": "dependabot",
-			"createdAt": "2022-06-25T17:22:38Z",
-			"url": "https://github.com/lando/legacy-metrics/pull/7",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/drupal",
 			"number": 28,
 			"title": "S3FS module + Image style support ",
@@ -651,15 +642,6 @@
 			"createdAt": "2022-08-04T17:31:51Z",
 			"url": "https://github.com/lando/platformsh/issues/170",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/desktop",
-			"number": 63,
-			"title": "Bump vite from 2.9.9 to 2.9.13",
-			"author": "dependabot",
-			"createdAt": "2022-08-30T22:31:20Z",
-			"url": "https://github.com/lando/desktop/pull/63",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/hyperdrive",
@@ -716,12 +698,12 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/legacy-metrics",
-			"number": 8,
-			"title": "Bump minimatch from 3.0.4 to 3.1.2",
+			"repo": "lando/desktop",
+			"number": 64,
+			"title": "Bump electron from 17.4.6 to 18.3.7",
 			"author": "dependabot",
-			"createdAt": "2022-11-10T04:25:41Z",
-			"url": "https://github.com/lando/legacy-metrics/pull/8",
+			"createdAt": "2022-11-10T14:43:17Z",
+			"url": "https://github.com/lando/desktop/pull/64",
 			"type": "pr"
 		},
 		{
@@ -743,6 +725,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/desktop",
+			"number": 65,
+			"title": "Bump decode-uri-component from 0.2.0 to 0.2.2",
+			"author": "dependabot",
+			"createdAt": "2022-12-08T16:02:40Z",
+			"url": "https://github.com/lando/desktop/pull/65",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/lando",
 			"number": 3489,
 			"title": "New Storage",
@@ -750,6 +741,15 @@
 			"createdAt": "2022-12-24T08:08:43Z",
 			"url": "https://github.com/lando/lando/issues/3489",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 66,
+			"title": "Bump json5 from 2.2.1 to 2.2.3",
+			"author": "dependabot",
+			"createdAt": "2023-01-08T13:49:40Z",
+			"url": "https://github.com/lando/desktop/pull/66",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/lando",
@@ -821,15 +821,6 @@
 			"author": "codebymikey",
 			"createdAt": "2023-03-01T20:22:14Z",
 			"url": "https://github.com/lando/core/pull/32",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/legacy-metrics",
-			"number": 9,
-			"title": "Bump minimist from 1.2.5 to 1.2.8",
-			"author": "dependabot",
-			"createdAt": "2023-03-05T14:54:53Z",
-			"url": "https://github.com/lando/legacy-metrics/pull/9",
 			"type": "pr"
 		},
 		{
@@ -1697,15 +1688,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/leia",
-			"number": 49,
-			"title": "Bump nanoid and mocha",
-			"author": "dependabot",
-			"createdAt": "2024-12-10T16:00:31Z",
-			"url": "https://github.com/lando/leia/pull/49",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lamp",
 			"number": 75,
 			"title": "Added init defaults.",
@@ -1794,15 +1776,6 @@
 			"createdAt": "2025-02-18T14:55:03Z",
 			"url": "https://github.com/lando/lando-dev-container-feature/issues/1",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 50,
-			"title": "Bump serialize-javascript and mocha",
-			"author": "dependabot",
-			"createdAt": "2025-02-19T21:26:27Z",
-			"url": "https://github.com/lando/leia/pull/50",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -2102,24 +2075,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/mailhog",
-			"number": 44,
-			"title": "Bump axios from 1.7.7 to 1.11.0",
-			"author": "dependabot",
-			"createdAt": "2025-09-11T14:24:41Z",
-			"url": "https://github.com/lando/mailhog/pull/44",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailhog",
-			"number": 45,
-			"title": "Bump form-data from 4.0.1 to 4.0.4",
-			"author": "dependabot",
-			"createdAt": "2025-09-11T14:24:43Z",
-			"url": "https://github.com/lando/mailhog/pull/45",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/wordpress",
 			"number": 104,
 			"title": "Allow creating wordpress recipe without database",
@@ -2163,15 +2118,6 @@
 			"createdAt": "2025-10-15T07:19:05Z",
 			"url": "https://github.com/lando/lando/issues/3816",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/mailhog",
-			"number": 47,
-			"title": "Bump vite from 5.4.8 to 5.4.21",
-			"author": "dependabot",
-			"createdAt": "2025-10-21T05:13:13Z",
-			"url": "https://github.com/lando/mailhog/pull/47",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/python",
@@ -2234,15 +2180,6 @@
 			"author": "dependabot",
 			"createdAt": "2025-12-02T03:42:55Z",
 			"url": "https://github.com/lando/python/pull/56",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailhog",
-			"number": 48,
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T03:43:17Z",
-			"url": "https://github.com/lando/mailhog/pull/48",
 			"type": "pr"
 		},
 		{
@@ -2336,48 +2273,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/dotnet",
-			"number": 60,
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:25:37Z",
-			"url": "https://github.com/lando/dotnet/pull/60",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailhog",
-			"number": 49,
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:29:50Z",
-			"url": "https://github.com/lando/mailhog/pull/49",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/python",
 			"number": 58,
 			"title": "Bump lodash from 4.17.21 to 4.17.23",
 			"author": "dependabot",
 			"createdAt": "2026-01-22T02:33:43Z",
 			"url": "https://github.com/lando/python/pull/58",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/dotnet",
-			"number": 61,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:34:07Z",
-			"url": "https://github.com/lando/dotnet/pull/61",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailhog",
-			"number": 50,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:34:07Z",
-			"url": "https://github.com/lando/mailhog/pull/50",
 			"type": "pr"
 		},
 		{
@@ -2471,39 +2372,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/leia",
-			"number": 51,
-			"title": "Bump @lando/argv from 1.0.6 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:31Z",
-			"url": "https://github.com/lando/leia/pull/51",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/hyperdrive",
 			"number": 86,
 			"title": "Bump the actions group with 8 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:37Z",
 			"url": "https://github.com/lando/hyperdrive/pull/86",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/dotnet",
-			"number": 62,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:52Z",
-			"url": "https://github.com/lando/dotnet/pull/62",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 52,
-			"title": "Bump the actions group with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:00Z",
-			"url": "https://github.com/lando/leia/pull/52",
 			"type": "pr"
 		},
 		{
@@ -2522,15 +2396,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:13:49Z",
 			"url": "https://github.com/lando/platformsh/pull/218",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailhog",
-			"number": 51,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:31:10Z",
-			"url": "https://github.com/lando/mailhog/pull/51",
 			"type": "pr"
 		},
 		{
@@ -2642,15 +2507,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/argv",
-			"number": 14,
-			"title": "Bump minimatch",
-			"author": "dependabot",
-			"createdAt": "2026-02-28T10:36:40Z",
-			"url": "https://github.com/lando/argv/pull/14",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/symfony",
 			"number": 88,
 			"title": "expire_logs_days MySQL config option has been removed in MySQL 8.4",
@@ -2687,15 +2543,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/argv",
-			"number": 15,
-			"title": "Bump flatted from 3.3.3 to 3.4.2",
-			"author": "dependabot",
-			"createdAt": "2026-03-21T10:40:05Z",
-			"url": "https://github.com/lando/argv/pull/15",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/pantheon",
 			"number": 348,
 			"title": "fix: warn and fallback for unsupported PHP versions",
@@ -2714,15 +2561,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/run-leia-action",
-			"number": 15,
-			"title": "Bump picomatch from 2.3.1 to 2.3.2",
-			"author": "dependabot",
-			"createdAt": "2026-03-27T02:15:43Z",
-			"url": "https://github.com/lando/run-leia-action/pull/15",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 141,
 			"title": "normalizeVolumes() creates directories for bind-mount sources intended to be files",
@@ -2738,15 +2576,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-03T23:16:15Z",
 			"url": "https://github.com/lando/core/pull/457",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/run-leia-action",
-			"number": 16,
-			"title": "Bump lodash from 4.17.21 to 4.18.1",
-			"author": "dependabot",
-			"createdAt": "2026-04-07T03:25:05Z",
-			"url": "https://github.com/lando/run-leia-action/pull/16",
 			"type": "pr"
 		},
 		{
@@ -2837,24 +2666,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-05-07T09:21:50Z",
 			"url": "https://github.com/lando/mssql/pull/50",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 144,
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T17:35:37Z",
-			"url": "https://github.com/lando/core-next/pull/144",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/argv",
-			"number": 16,
-			"title": "Bump fast-uri from 3.0.6 to 3.1.2",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T22:49:27Z",
-			"url": "https://github.com/lando/argv/pull/16",
 			"type": "pr"
 		},
 		{
