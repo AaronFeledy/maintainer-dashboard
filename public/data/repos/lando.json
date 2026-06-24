@@ -482,13 +482,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/checkout from 3 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:09Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lando/pull/3836"
-		},
-		{
 			"title": "Fix \"introduction\" link, so docs work",
 			"author": "nottrobin",
 			"createdAt": "2022-09-26T10:00:01Z",

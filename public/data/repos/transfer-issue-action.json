@@ -20,29 +20,7 @@
 			"url": "https://github.com/lando/transfer-issue-action/issues/84"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump @octokit/request and @actions/github",
-			"author": "dependabot",
-			"createdAt": "2025-02-18T23:11:55Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/transfer-issue-action/pull/100"
-		},
-		{
-			"title": "Bump @octokit/plugin-paginate-rest and @actions/github",
-			"author": "dependabot",
-			"createdAt": "2025-02-18T23:10:38Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/transfer-issue-action/pull/99"
-		},
-		{
-			"title": "Bump @octokit/request-error and @actions/github",
-			"author": "dependabot",
-			"createdAt": "2025-02-14T23:54:49Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/transfer-issue-action/pull/98"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v2.1.0",

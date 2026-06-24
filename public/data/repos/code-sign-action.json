@@ -28,15 +28,7 @@
 			"url": "https://github.com/lando/code-sign-action/issues/11"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump tar from 7.5.11 to 7.5.16",
-			"author": "dependabot",
-			"createdAt": "2026-06-23T19:15:25Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/code-sign-action/pull/29"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v3.0.0",

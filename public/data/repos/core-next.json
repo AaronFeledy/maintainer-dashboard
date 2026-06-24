@@ -200,32 +200,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T19:23:41Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/145"
-		},
-		{
 			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-05-08T17:35:37Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core-next/pull/144"
-		},
-		{
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T17:28:55Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/143"
-		},
-		{
-			"title": "Bump the actions group across 1 directory with 5 updates",
-			"author": "dependabot",
-			"createdAt": "2026-04-18T02:44:04Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/142"
 		},
 		{
 			"title": "fix: add --load to buildx to ensure images are available locally",
@@ -240,13 +219,6 @@
 			"createdAt": "2026-02-25T04:56:48Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core-next/pull/132"
-		},
-		{
-			"title": "Bump tar, @npmcli/arborist, npm-profile and pacote",
-			"author": "dependabot",
-			"createdAt": "2026-02-18T04:05:48Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/126"
 		},
 		{
 			"title": "feat: add buildx check/install to lando setup",

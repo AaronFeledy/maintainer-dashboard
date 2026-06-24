@@ -481,27 +481,6 @@
 			"url": "https://github.com/lando/core/pull/467"
 		},
 		{
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T23:12:57Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/466"
-		},
-		{
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T19:28:10Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/465"
-		},
-		{
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T17:28:43Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/464"
-		},
-		{
 			"title": "fix: update Node engine floor for major npm dep bumps",
 			"author": "AaronFeledy",
 			"createdAt": "2026-04-03T23:16:15Z",

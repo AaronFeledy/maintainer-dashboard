@@ -33,13 +33,6 @@
 			"url": "https://github.com/lando/python/pull/62"
 		},
 		{
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:03Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/python/pull/60"
-		},
-		{
 			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:10:48Z",

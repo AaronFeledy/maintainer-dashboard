@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-23T22:27:39.555Z",
+		"fetchedAt": "2026-06-24T00:39:49.587Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -959,30 +959,12 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/telemetry",
-			"number": 2,
-			"title": "Bump semver from 7.3.8 to 7.5.4",
-			"author": "dependabot",
-			"createdAt": "2023-07-14T05:39:54Z",
-			"url": "https://github.com/lando/telemetry/pull/2",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/hyperdrive",
 			"number": 82,
 			"title": "Bump word-wrap from 1.2.3 to 1.2.4",
 			"author": "dependabot",
 			"createdAt": "2023-07-19T03:36:30Z",
 			"url": "https://github.com/lando/hyperdrive/pull/82",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/telemetry",
-			"number": 3,
-			"title": "Bump word-wrap from 1.2.3 to 1.2.4",
-			"author": "dependabot",
-			"createdAt": "2023-07-20T04:12:02Z",
-			"url": "https://github.com/lando/telemetry/pull/3",
 			"type": "pr"
 		},
 		{
@@ -1409,15 +1391,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/notarize-action",
-			"number": 29,
-			"title": "Bump @babel/traverse from 7.21.4 to 7.24.1",
-			"author": "dependabot",
-			"createdAt": "2024-04-05T15:26:24Z",
-			"url": "https://github.com/lando/notarize-action/pull/29",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3700,
 			"title": "Anyone has success with Rails? Can we add support for Rails?",
@@ -1508,24 +1481,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/notarize-action",
-			"number": 30,
-			"title": "Bump braces and jest",
-			"author": "dependabot",
-			"createdAt": "2024-06-16T05:11:42Z",
-			"url": "https://github.com/lando/notarize-action/pull/30",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/notarize-action",
-			"number": 31,
-			"title": "Bump ws from 7.5.9 to 7.5.10",
-			"author": "dependabot",
-			"createdAt": "2024-06-21T01:18:50Z",
-			"url": "https://github.com/lando/notarize-action/pull/31",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/pantheon",
 			"number": 251,
 			"title": "Issue with redis cache server start and getting NOAUTH authentication error while running redis-cli commands.",
@@ -1533,15 +1488,6 @@
 			"createdAt": "2024-07-08T15:31:25Z",
 			"url": "https://github.com/lando/pantheon/issues/251",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/telemetry",
-			"number": 4,
-			"title": "Bump braces from 3.0.2 to 3.0.3",
-			"author": "dependabot",
-			"createdAt": "2024-07-11T07:10:00Z",
-			"url": "https://github.com/lando/telemetry/pull/4",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -1577,15 +1523,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2024-08-14T14:14:41Z",
 			"url": "https://github.com/lando/core/pull/194",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/telemetry",
-			"number": 5,
-			"title": "Bump micromatch from 4.0.5 to 4.0.8",
-			"author": "dependabot",
-			"createdAt": "2024-09-02T00:18:28Z",
-			"url": "https://github.com/lando/telemetry/pull/5",
 			"type": "pr"
 		},
 		{
@@ -1850,15 +1787,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/transfer-issue-action",
-			"number": 98,
-			"title": "Bump @octokit/request-error and @actions/github",
-			"author": "dependabot",
-			"createdAt": "2025-02-14T23:54:49Z",
-			"url": "https://github.com/lando/transfer-issue-action/pull/98",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando-dev-container-feature",
 			"number": 1,
 			"title": "about this project",
@@ -1866,24 +1794,6 @@
 			"createdAt": "2025-02-18T14:55:03Z",
 			"url": "https://github.com/lando/lando-dev-container-feature/issues/1",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/transfer-issue-action",
-			"number": 99,
-			"title": "Bump @octokit/plugin-paginate-rest and @actions/github",
-			"author": "dependabot",
-			"createdAt": "2025-02-18T23:10:38Z",
-			"url": "https://github.com/lando/transfer-issue-action/pull/99",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/transfer-issue-action",
-			"number": 100,
-			"title": "Bump @octokit/request and @actions/github",
-			"author": "dependabot",
-			"createdAt": "2025-02-18T23:11:55Z",
-			"url": "https://github.com/lando/transfer-issue-action/pull/100",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/leia",
@@ -2318,15 +2228,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/events",
-			"number": 48,
-			"title": "Bump vite and vuepress",
-			"author": "dependabot",
-			"createdAt": "2025-11-23T23:52:17Z",
-			"url": "https://github.com/lando/events/pull/48",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/python",
 			"number": 56,
 			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
@@ -2453,15 +2354,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/events",
-			"number": 49,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:11:41Z",
-			"url": "https://github.com/lando/events/pull/49",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/python",
 			"number": 58,
 			"title": "Bump lodash from 4.17.21 to 4.17.23",
@@ -2507,15 +2399,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/events",
-			"number": 50,
-			"title": "Bump webpack from 5.101.3 to 5.105.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-07T16:32:30Z",
-			"url": "https://github.com/lando/events/pull/50",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 429,
 			"title": "chore: revise Lando usage guide with Orbstack instructions",
@@ -2532,15 +2415,6 @@
 			"createdAt": "2026-02-12T17:13:48Z",
 			"url": "https://github.com/lando/core/issues/432",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 126,
-			"title": "Bump tar, @npmcli/arborist, npm-profile and pacote",
-			"author": "dependabot",
-			"createdAt": "2026-02-18T04:05:48Z",
-			"url": "https://github.com/lando/core-next/pull/126",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/solr",
@@ -2567,15 +2441,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:10:50Z",
 			"url": "https://github.com/lando/gitpod/pull/15",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/python",
-			"number": 60,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:03Z",
-			"url": "https://github.com/lando/python/pull/60",
 			"type": "pr"
 		},
 		{
@@ -2642,39 +2507,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/lando",
-			"number": 3836,
-			"title": "Bump actions/checkout from 3 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:09Z",
-			"url": "https://github.com/lando/lando/pull/3836",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/events",
-			"number": 51,
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:35Z",
-			"url": "https://github.com/lando/events/pull/51",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/platformsh",
 			"number": 217,
 			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:12:35Z",
 			"url": "https://github.com/lando/platformsh/pull/217",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/events",
-			"number": 52,
-			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.44 to 1.0.0-beta.49",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:59Z",
-			"url": "https://github.com/lando/events/pull/52",
 			"type": "pr"
 		},
 		{
@@ -2687,30 +2525,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/prepare-release-action",
-			"number": 28,
-			"title": "Bump actions/add-to-project from 1.0.0 to 1.0.2 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:29:52Z",
-			"url": "https://github.com/lando/prepare-release-action/pull/28",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/mailhog",
 			"number": 51,
 			"title": "Bump the actions group with 4 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:31:10Z",
 			"url": "https://github.com/lando/mailhog/pull/51",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/website",
-			"number": 73,
-			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.34 to 1.0.0-beta.49",
-			"author": "dependabot",
-			"createdAt": "2026-02-20T07:12:47Z",
-			"url": "https://github.com/lando/website/pull/73",
 			"type": "pr"
 		},
 		{
@@ -2948,15 +2768,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/core-next",
-			"number": 142,
-			"title": "Bump the actions group across 1 directory with 5 updates",
-			"author": "dependabot",
-			"createdAt": "2026-04-18T02:44:04Z",
-			"url": "https://github.com/lando/core-next/pull/142",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 462,
 			"title": "PHP/Apache containers exit 1 after rebuild: LANDO_SERVICE_CERT env not present at runtime with Docker 29 + compose 2.31",
@@ -3029,33 +2840,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/devtool",
-			"number": 34,
-			"title": "Bump axios from 1.9.0 to 1.15.2",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T21:24:42Z",
-			"url": "https://github.com/lando/devtool/pull/34",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 464,
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T17:28:43Z",
-			"url": "https://github.com/lando/core/pull/464",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 143,
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T17:28:55Z",
-			"url": "https://github.com/lando/core-next/pull/143",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 144,
 			"title": "Bump fast-uri, fastify and fastify-cli in /examples/mounts",
@@ -3065,39 +2849,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core-next",
-			"number": 145,
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T19:23:41Z",
-			"url": "https://github.com/lando/core-next/pull/145",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 465,
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T19:28:10Z",
-			"url": "https://github.com/lando/core/pull/465",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/argv",
 			"number": 16,
 			"title": "Bump fast-uri from 3.0.6 to 3.1.2",
 			"author": "dependabot",
 			"createdAt": "2026-05-08T22:49:27Z",
 			"url": "https://github.com/lando/argv/pull/16",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 466,
-			"title": "Bump fast-uri, fastify and fastify-cli in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-05-08T23:12:57Z",
-			"url": "https://github.com/lando/core/pull/466",
 			"type": "pr"
 		},
 		{

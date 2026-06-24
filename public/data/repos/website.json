@@ -12,15 +12,7 @@
 			"url": "https://github.com/lando/website/issues/25"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump @lando/vuepress-theme-default-plus from 1.0.0-beta.34 to 1.0.0-beta.49",
-			"author": "dependabot",
-			"createdAt": "2026-02-20T07:12:47Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/website/pull/73"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v4.0.3",
