@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-24T07:12:47.637Z",
+		"fetchedAt": "2026-06-24T09:07:27.254Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -369,11 +369,11 @@
 			"description": "The Official MySQL Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 5,
-			"openPRs": 1,
+			"openPRs": 2,
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 22,
-			"lastPush": "2026-06-23T18:28:46Z",
-			"attentionScore": 161,
+			"lastPush": "2026-06-24T08:32:41Z",
+			"attentionScore": 163,
 			"unengagedCount": 2
 		},
 		{

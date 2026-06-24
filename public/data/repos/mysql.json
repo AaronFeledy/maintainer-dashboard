@@ -48,6 +48,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump @lando/leia from 1.0.0-beta.3 to 1.0.0-beta.4",
+			"author": "dependabot",
+			"createdAt": "2026-06-24T08:32:42Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/92"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:52Z",
