@@ -272,11 +272,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump postcss from 8.4.14 to 8.5.15",
+			"title": "Bump electron from 17.4.6 to 39.8.5",
 			"author": "dependabot",
-			"createdAt": "2026-06-24T18:43:43Z",
+			"createdAt": "2026-06-24T21:06:53Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/desktop/pull/72"
+			"url": "https://github.com/lando/desktop/pull/75"
 		},
 		{
 			"title": "Bump vite from 2.9.13 to 6.4.3",
@@ -284,13 +284,6 @@
 			"createdAt": "2026-06-24T18:20:19Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/desktop/pull/68"
-		},
-		{
-			"title": "Bump electron from 17.4.6 to 18.3.7",
-			"author": "dependabot",
-			"createdAt": "2022-11-10T14:43:17Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/desktop/pull/64"
 		}
 	],
 	"releases": []

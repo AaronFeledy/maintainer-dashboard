@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-24T20:35:37.192Z",
+		"fetchedAt": "2026-06-24T22:29:05.067Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -696,15 +696,6 @@
 			"createdAt": "2022-11-03T05:05:32Z",
 			"url": "https://github.com/lando/node/issues/19",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/desktop",
-			"number": 64,
-			"title": "Bump electron from 17.4.6 to 18.3.7",
-			"author": "dependabot",
-			"createdAt": "2022-11-10T14:43:17Z",
-			"url": "https://github.com/lando/desktop/pull/64",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -1724,15 +1715,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/legacy-cli",
-			"number": 302,
-			"title": "Bump vite from 5.4.8 to 5.4.14",
-			"author": "dependabot",
-			"createdAt": "2025-01-22T07:21:31Z",
-			"url": "https://github.com/lando/legacy-cli/pull/302",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 330,
 			"title": "Stages hooks vibes",
@@ -1794,15 +1776,6 @@
 			"createdAt": "2025-03-16T21:09:57Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/75",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/legacy-cli",
-			"number": 303,
-			"title": "Bump tar-fs",
-			"author": "dependabot",
-			"createdAt": "2025-03-28T22:32:00Z",
-			"url": "https://github.com/lando/legacy-cli/pull/303",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/core",

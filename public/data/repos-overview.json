@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-24T20:35:37.192Z",
+		"fetchedAt": "2026-06-24T22:29:05.067Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-06-24T18:41:58Z",
-			"attentionScore": 832,
+			"attentionScore": 832.5,
 			"unengagedCount": 0
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-23T20:15:29Z",
-			"attentionScore": 531,
+			"attentionScore": 531.5,
 			"unengagedCount": 44
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-06-24T18:25:56Z",
-			"attentionScore": 360.5,
+			"attentionScore": 361,
 			"unengagedCount": 2
 		},
 		{
@@ -201,12 +201,12 @@
 			"description": null,
 			"language": "Vue",
 			"openIssues": 27,
-			"openPRs": 3,
+			"openPRs": 2,
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
-			"lastPush": "2026-06-24T18:56:57Z",
-			"attentionScore": 284.5,
-			"unengagedCount": 23
+			"lastPush": "2026-06-24T21:06:57Z",
+			"attentionScore": 279.5,
+			"unengagedCount": 22
 		},
 		{
 			"name": "lando/core",
@@ -217,7 +217,7 @@
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-06-23T23:45:18Z",
-			"attentionScore": 258,
+			"attentionScore": 258.5,
 			"unengagedCount": 46
 		},
 		{
@@ -273,11 +273,11 @@
 			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
 			"language": "Shell",
 			"openIssues": 15,
-			"openPRs": 3,
+			"openPRs": 2,
 			"lastRelease": "2025-08-31T20:57:45Z",
-			"commitsSinceRelease": 22,
-			"lastPush": "2026-06-23T20:09:50Z",
-			"attentionScore": 187,
+			"commitsSinceRelease": 23,
+			"lastPush": "2026-06-24T20:40:51Z",
+			"attentionScore": 185.5,
 			"unengagedCount": 6
 		},
 		{
@@ -437,18 +437,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/mongo",
-			"description": "The Official MongoDB Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2025-09-01T15:49:33Z",
-			"commitsSinceRelease": 19,
-			"lastPush": "2026-06-24T19:04:04Z",
-			"attentionScore": 150,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/postgres",
 			"description": "The Official Postgres Lando Plugin",
 			"language": "JavaScript",
@@ -459,6 +447,18 @@
 			"lastPush": "2026-06-23T18:24:42Z",
 			"attentionScore": 149.5,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/mongo",
+			"description": "The Official MongoDB Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2025-09-01T15:49:33Z",
+			"commitsSinceRelease": 20,
+			"lastPush": "2026-06-24T20:39:19Z",
+			"attentionScore": 148,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/node",
@@ -779,10 +779,10 @@
 			"openIssues": 0,
 			"openPRs": 2,
 			"lastRelease": "2026-04-28T22:30:47Z",
-			"commitsSinceRelease": 0,
-			"lastPush": "2026-06-24T00:47:10Z",
-			"attentionScore": 38,
-			"unengagedCount": 2
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-06-24T22:08:31Z",
+			"attentionScore": 32,
+			"unengagedCount": 0
 		}
 	]
 }

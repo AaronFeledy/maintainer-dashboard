@@ -140,13 +140,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-22T21:54:07Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/setup-lando/pull/120"
-		},
-		{
 			"title": "fix: Compare versions in the right order so that lando setup is run if it is set and we are >= 3.24 and the -slim versions do not exist anymore",
 			"author": "florianPat",
 			"createdAt": "2026-01-02T14:56:23Z",
