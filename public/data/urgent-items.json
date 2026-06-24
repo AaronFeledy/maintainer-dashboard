@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-24T18:36:48.943Z",
+		"fetchedAt": "2026-06-24T20:35:37.192Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -725,15 +725,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/desktop",
-			"number": 65,
-			"title": "Bump decode-uri-component from 0.2.0 to 0.2.2",
-			"author": "dependabot",
-			"createdAt": "2022-12-08T16:02:40Z",
-			"url": "https://github.com/lando/desktop/pull/65",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3489,
 			"title": "New Storage",
@@ -741,15 +732,6 @@
 			"createdAt": "2022-12-24T08:08:43Z",
 			"url": "https://github.com/lando/lando/issues/3489",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/desktop",
-			"number": 66,
-			"title": "Bump json5 from 2.2.1 to 2.2.3",
-			"author": "dependabot",
-			"createdAt": "2023-01-08T13:49:40Z",
-			"url": "https://github.com/lando/desktop/pull/66",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/lando",
