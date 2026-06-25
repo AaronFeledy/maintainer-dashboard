@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "chore(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"title": "chore(deps): bump the actions group with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-05-07T14:01:35Z",
+			"createdAt": "2026-06-25T13:54:04Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/phpmyadmin/pull/81"
+			"url": "https://github.com/lando/phpmyadmin/pull/82"
 		}
 	],
 	"releases": [
