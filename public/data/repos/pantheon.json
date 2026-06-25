@@ -230,6 +230,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "build(deps): bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-25T21:53:14Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/365"
+		},
+		{
 			"title": "fix: update Terminus to 4.2.2",
 			"author": "AaronFeledy",
 			"createdAt": "2026-06-19T22:19:17Z",

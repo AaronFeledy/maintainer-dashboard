@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-25T20:40:47.163Z",
+		"fetchedAt": "2026-06-25T22:31:40.161Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-23T20:15:29Z",
-			"attentionScore": 531.5,
+			"attentionScore": 532,
 			"unengagedCount": 44
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-06-24T18:25:56Z",
-			"attentionScore": 361,
+			"attentionScore": 361.5,
 			"unengagedCount": 2
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-04-28T22:30:42Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-06-24T00:24:53Z",
-			"attentionScore": 286.5,
+			"attentionScore": 287,
 			"unengagedCount": 26
 		},
 		{
@@ -217,7 +217,7 @@
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-06-23T23:45:18Z",
-			"attentionScore": 258.5,
+			"attentionScore": 259,
 			"unengagedCount": 46
 		},
 		{
@@ -277,7 +277,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-24T20:40:51Z",
-			"attentionScore": 185.5,
+			"attentionScore": 186,
 			"unengagedCount": 6
 		},
 		{
@@ -333,11 +333,11 @@
 			"description": "The Official MariaDB Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 9,
-			"openPRs": 1,
+			"openPRs": 2,
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 16,
-			"lastPush": "2026-06-23T18:28:38Z",
-			"attentionScore": 171,
+			"lastPush": "2026-06-25T20:43:19Z",
+			"attentionScore": 173,
 			"unengagedCount": 5
 		},
 		{
@@ -557,6 +557,18 @@
 			"unengagedCount": 4
 		},
 		{
+			"name": "lando/pantheon",
+			"description": "The Official Lando Pantheon plugin.",
+			"language": "JavaScript",
+			"openIssues": 23,
+			"openPRs": 3,
+			"lastRelease": "2026-06-04T05:59:16Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-06-25T21:53:14Z",
+			"attentionScore": 84.5,
+			"unengagedCount": 15
+		},
+		{
 			"name": "lando/acquia",
 			"description": "The Official Acquia Lando Plugin",
 			"language": "JavaScript",
@@ -579,18 +591,6 @@
 			"lastPush": "2026-06-23T17:30:47Z",
 			"attentionScore": 83,
 			"unengagedCount": 5
-		},
-		{
-			"name": "lando/pantheon",
-			"description": "The Official Lando Pantheon plugin.",
-			"language": "JavaScript",
-			"openIssues": 23,
-			"openPRs": 2,
-			"lastRelease": "2026-06-04T05:59:16Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-06-25T11:15:15Z",
-			"attentionScore": 82.5,
-			"unengagedCount": 15
 		},
 		{
 			"name": "lando/ruby",
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-04-28T22:30:47Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-06-25T07:26:35Z",
-			"attentionScore": 28.5,
+			"attentionScore": 29,
 			"unengagedCount": 0
 		}
 	]
