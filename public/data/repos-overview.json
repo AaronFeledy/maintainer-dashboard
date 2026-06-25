@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-25T10:57:50.400Z",
+		"fetchedAt": "2026-06-25T12:49:08.640Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -545,18 +545,6 @@
 			"unengagedCount": 0
 		},
 		{
-			"name": "lando/pantheon",
-			"description": "The Official Lando Pantheon plugin.",
-			"language": "JavaScript",
-			"openIssues": 23,
-			"openPRs": 3,
-			"lastRelease": "2026-06-04T05:59:16Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-06-25T10:13:26Z",
-			"attentionScore": 87.5,
-			"unengagedCount": 16
-		},
-		{
 			"name": "lando/php",
 			"description": "The Official Lando PHP plugin.",
 			"language": "Dockerfile",
@@ -591,6 +579,18 @@
 			"lastPush": "2026-06-23T17:30:47Z",
 			"attentionScore": 83,
 			"unengagedCount": 5
+		},
+		{
+			"name": "lando/pantheon",
+			"description": "The Official Lando Pantheon plugin.",
+			"language": "JavaScript",
+			"openIssues": 23,
+			"openPRs": 2,
+			"lastRelease": "2026-06-04T05:59:16Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-06-25T11:15:15Z",
+			"attentionScore": 82.5,
+			"unengagedCount": 15
 		},
 		{
 			"name": "lando/ruby",

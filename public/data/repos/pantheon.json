@@ -237,13 +237,6 @@
 			"url": "https://github.com/lando/pantheon/pull/364"
 		},
 		{
-			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-18T21:53:37Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/pantheon/pull/363"
-		},
-		{
 			"title": "fix: warn and fallback for unsupported PHP versions",
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-23T20:39:37Z",

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-25T10:57:50.400Z",
+		"fetchedAt": "2026-06-25T12:49:08.640Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2585,15 +2585,6 @@
 			"author": "silverham",
 			"createdAt": "2026-05-29T08:59:18Z",
 			"url": "https://github.com/lando/drupal/pull/189",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/pantheon",
-			"number": 363,
-			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-18T21:53:37Z",
-			"url": "https://github.com/lando/pantheon/pull/363",
 			"type": "pr"
 		},
 		{
