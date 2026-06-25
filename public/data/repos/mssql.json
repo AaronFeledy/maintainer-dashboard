@@ -22,15 +22,7 @@
 			"url": "https://github.com/lando/mssql/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-25T09:06:03Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mssql/pull/51"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.4.3",

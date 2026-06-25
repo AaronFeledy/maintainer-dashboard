@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-25T09:07:24.375Z",
+		"fetchedAt": "2026-06-25T10:57:50.400Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -173,18 +173,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/mssql",
-			"description": "The Official MSSQL Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 2,
-			"openPRs": 1,
-			"lastRelease": "2024-12-06T19:41:26Z",
-			"commitsSinceRelease": 22,
-			"lastPush": "2026-06-25T09:06:02Z",
-			"attentionScore": 286.5,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/lando",
 			"description": "A development tool for all your projects that is fast, easy, powerful and liberating",
 			"language": null,
@@ -195,6 +183,18 @@
 			"lastPush": "2026-06-24T00:24:53Z",
 			"attentionScore": 286.5,
 			"unengagedCount": 26
+		},
+		{
+			"name": "lando/mssql",
+			"description": "The Official MSSQL Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 2,
+			"openPRs": 0,
+			"lastRelease": "2024-12-06T19:41:26Z",
+			"commitsSinceRelease": 23,
+			"lastPush": "2026-06-25T09:15:22Z",
+			"attentionScore": 284.5,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/desktop",
@@ -357,11 +357,11 @@
 			"description": "The Official MySQL Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 5,
-			"openPRs": 2,
+			"openPRs": 1,
 			"lastRelease": "2025-08-31T14:00:11Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-06-25T08:33:39Z",
-			"attentionScore": 163.5,
+			"commitsSinceRelease": 24,
+			"lastPush": "2026-06-25T09:15:22Z",
+			"attentionScore": 161.5,
 			"unengagedCount": 2
 		},
 		{
@@ -552,7 +552,7 @@
 			"openPRs": 3,
 			"lastRelease": "2026-06-04T05:59:16Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-06-25T08:24:27Z",
+			"lastPush": "2026-06-25T10:13:26Z",
 			"attentionScore": 87.5,
 			"unengagedCount": 16
 		},
@@ -573,11 +573,11 @@
 			"description": "The Official Acquia Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 4,
-			"openPRs": 3,
+			"openPRs": 2,
 			"lastRelease": "2026-02-24T04:45:09Z",
-			"commitsSinceRelease": 10,
-			"lastPush": "2026-06-25T09:02:05Z",
-			"attentionScore": 85.5,
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-06-25T09:13:11Z",
+			"attentionScore": 83.5,
 			"unengagedCount": 5
 		},
 		{
@@ -603,18 +603,6 @@
 			"lastPush": "2026-06-25T07:33:41Z",
 			"attentionScore": 76.5,
 			"unengagedCount": 0
-		},
-		{
-			"name": "lando/drupal",
-			"description": "The Official Drupal Lando plugin",
-			"language": "JavaScript",
-			"openIssues": 6,
-			"openPRs": 2,
-			"lastRelease": "2026-03-11T04:30:43Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-06-25T07:28:05Z",
-			"attentionScore": 75,
-			"unengagedCount": 4
 		},
 		{
 			"name": "lando/wordpress",
@@ -651,6 +639,18 @@
 			"lastPush": "2026-06-23T17:30:14Z",
 			"attentionScore": 73.5,
 			"unengagedCount": 3
+		},
+		{
+			"name": "lando/drupal",
+			"description": "The Official Drupal Lando plugin",
+			"language": "JavaScript",
+			"openIssues": 6,
+			"openPRs": 1,
+			"lastRelease": "2026-03-11T04:30:43Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-06-25T09:17:16Z",
+			"attentionScore": 73,
+			"unengagedCount": 4
 		},
 		{
 			"name": "lando/backdrop",
