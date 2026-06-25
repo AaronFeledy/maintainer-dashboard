@@ -12,7 +12,15 @@
 			"url": "https://github.com/lando/varnish/issues/11"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-25T17:46:50Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/varnish/pull/69"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.3.2",
