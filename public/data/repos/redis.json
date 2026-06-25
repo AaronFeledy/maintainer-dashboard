@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "build(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"title": "build(deps): bump the actions group across 1 directory with 3 updates",
 			"author": "dependabot",
-			"createdAt": "2026-05-07T04:45:14Z",
+			"createdAt": "2026-06-25T04:33:48Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/redis/pull/60"
+			"url": "https://github.com/lando/redis/pull/61"
 		}
 	],
 	"releases": [
