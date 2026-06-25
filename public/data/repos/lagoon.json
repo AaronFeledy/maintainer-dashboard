@@ -34,16 +34,6 @@
 			"url": "https://github.com/lando/lagoon/issues/58"
 		},
 		{
-			"title": "Docker Compose v2 orchestrator doesn't work with Lando start",
-			"author": "tobybellwood",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2023-09-29T01:07:24Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/lagoon/issues/53"
-		},
-		{
 			"title": "Lagoon integration does not work with custom domains",
 			"author": "serhat-ozkara",
 			"labels": [
@@ -73,16 +63,6 @@
 			"createdAt": "2021-03-01T23:10:07Z",
 			"commentCount": 5,
 			"url": "https://github.com/lando/lagoon/issues/6"
-		},
-		{
-			"title": "Lando doesn't seem to respect build context with Lagoon",
-			"author": "mglaman",
-			"labels": [
-				"Needs Triage"
-			],
-			"createdAt": "2021-02-13T05:08:00Z",
-			"commentCount": 2,
-			"url": "https://github.com/lando/lagoon/issues/7"
 		},
 		{
 			"title": "lando pull without lando init first doesnt work, lagoon",
@@ -152,27 +132,6 @@
 			"createdAt": "2026-03-10T01:16:25Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/lagoon/pull/107"
-		},
-		{
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:08Z",
-			"reviewCount": 3,
-			"url": "https://github.com/lando/lagoon/pull/104"
-		},
-		{
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2025-12-09T03:34:18Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lagoon/pull/100"
-		},
-		{
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T03:59:53Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lagoon/pull/98"
 		},
 		{
 			"title": "#53: Disable Docker Buildkit for Lagoon.",

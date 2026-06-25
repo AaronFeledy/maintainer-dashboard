@@ -12,15 +12,7 @@
 			"url": "https://github.com/lando/varnish/issues/11"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-18T17:43:36Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/varnish/pull/68"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.3.2",

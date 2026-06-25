@@ -24,11 +24,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
+			"title": "Bump the actions group with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-05-07T09:21:50Z",
+			"createdAt": "2026-06-25T09:06:03Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/mssql/pull/50"
+			"url": "https://github.com/lando/mssql/pull/51"
 		}
 	],
 	"releases": [

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-25T07:12:53.107Z",
+		"fetchedAt": "2026-06-25T09:07:24.375Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2075,15 +2075,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/python",
-			"number": 55,
-			"title": "Bump vite from 5.4.20 to 5.4.21",
-			"author": "dependabot",
-			"createdAt": "2025-10-21T08:06:11Z",
-			"url": "https://github.com/lando/python/pull/55",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/wordpress",
 			"number": 107,
 			"title": "expire_logs_days not supported under MySQL 8.2+",
@@ -2127,33 +2118,6 @@
 			"createdAt": "2025-11-21T14:52:38Z",
 			"url": "https://github.com/lando/platformsh/issues/216",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/python",
-			"number": 56,
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T03:42:55Z",
-			"url": "https://github.com/lando/python/pull/56",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lagoon",
-			"number": 98,
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T03:59:53Z",
-			"url": "https://github.com/lando/lagoon/pull/98",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lagoon",
-			"number": 100,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2025-12-09T03:34:18Z",
-			"url": "https://github.com/lando/lagoon/pull/100",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/lando",
@@ -2219,24 +2183,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/python",
-			"number": 57,
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:25:07Z",
-			"url": "https://github.com/lando/python/pull/57",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/python",
-			"number": 58,
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:33:43Z",
-			"url": "https://github.com/lando/python/pull/58",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/vitepress-theme-default-plus",
 			"number": 93,
 			"title": "mvb fails on fork PRs: branch doesn't exist in upstream repo",
@@ -2282,30 +2228,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/python",
-			"number": 59,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:48Z",
-			"url": "https://github.com/lando/python/pull/59",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/gitpod",
 			"number": 15,
 			"title": "Bump the actions group with 5 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:10:50Z",
 			"url": "https://github.com/lando/gitpod/pull/15",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lagoon",
-			"number": 104,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:08Z",
-			"url": "https://github.com/lando/lagoon/pull/104",
 			"type": "pr"
 		},
 		{
@@ -2606,15 +2534,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/mssql",
-			"number": 50,
-			"title": "Bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-05-07T09:21:50Z",
-			"url": "https://github.com/lando/mssql/pull/50",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 467,
 			"title": "docs: add guide for hosting and distributing a private Lando plugin",
@@ -2666,15 +2585,6 @@
 			"author": "silverham",
 			"createdAt": "2026-05-29T08:59:18Z",
 			"url": "https://github.com/lando/drupal/pull/189",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/varnish",
-			"number": 68,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-18T17:43:36Z",
-			"url": "https://github.com/lando/varnish/pull/68",
 			"type": "pr"
 		},
 		{

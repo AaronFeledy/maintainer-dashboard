@@ -31,41 +31,6 @@
 			"createdAt": "2026-02-22T20:55:46Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/python/pull/62"
-		},
-		{
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:48Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/python/pull/59"
-		},
-		{
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:33:43Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/python/pull/58"
-		},
-		{
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:25:07Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/python/pull/57"
-		},
-		{
-			"title": "Bump mdast-util-to-hast from 13.2.0 to 13.2.1",
-			"author": "dependabot",
-			"createdAt": "2025-12-02T03:42:55Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/python/pull/56"
-		},
-		{
-			"title": "Bump vite from 5.4.20 to 5.4.21",
-			"author": "dependabot",
-			"createdAt": "2025-10-21T08:06:11Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/python/pull/55"
 		}
 	],
 	"releases": [
