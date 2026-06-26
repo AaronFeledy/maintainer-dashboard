@@ -467,6 +467,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-26T12:05:26Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/470"
+		},
+		{
 			"title": "Add a system-level plugin-auth.js",
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-12T17:07:18Z",
