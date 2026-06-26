@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-26T20:35:07.508Z",
+		"fetchedAt": "2026-06-26T22:27:04.584Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-06-24T18:41:58Z",
-			"attentionScore": 833,
+			"attentionScore": 833.5,
 			"unengagedCount": 0
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-23T20:15:29Z",
-			"attentionScore": 532,
+			"attentionScore": 532.5,
 			"unengagedCount": 44
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-06-24T18:25:56Z",
-			"attentionScore": 361.5,
+			"attentionScore": 362,
 			"unengagedCount": 2
 		},
 		{
@@ -217,7 +217,7 @@
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-06-26T12:05:25Z",
-			"attentionScore": 261,
+			"attentionScore": 261.5,
 			"unengagedCount": 46
 		},
 		{
@@ -277,7 +277,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-24T20:40:51Z",
-			"attentionScore": 186,
+			"attentionScore": 186.5,
 			"unengagedCount": 6
 		},
 		{
@@ -407,8 +407,8 @@
 			"openIssues": 1,
 			"openPRs": 1,
 			"lastRelease": "2025-09-03T18:25:33Z",
-			"commitsSinceRelease": 15,
-			"lastPush": "2026-06-26T14:37:16Z",
+			"commitsSinceRelease": 17,
+			"lastPush": "2026-06-26T22:27:01Z",
 			"attentionScore": 154,
 			"unengagedCount": 1
 		},
@@ -521,6 +521,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/prepare-release-action",
+			"description": "Prepare a Lando plugin for publishing to a package registry.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2025-12-06T00:13:54Z",
+			"commitsSinceRelease": 4,
+			"lastPush": "2026-06-26T21:13:45Z",
+			"attentionScore": 103,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/dotnet",
 			"description": "The Official Dotnet Lando Plugin",
 			"language": "JavaScript",
@@ -530,18 +542,6 @@
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-06-24T18:17:59Z",
 			"attentionScore": 101.5,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/prepare-release-action",
-			"description": "Prepare a Lando plugin for publishing to a package registry.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2025-12-06T00:13:54Z",
-			"commitsSinceRelease": 4,
-			"lastPush": "2026-06-23T23:46:00Z",
-			"attentionScore": 101,
 			"unengagedCount": 0
 		},
 		{
@@ -555,6 +555,18 @@
 			"lastPush": "2026-06-24T18:03:10Z",
 			"attentionScore": 86,
 			"unengagedCount": 4
+		},
+		{
+			"name": "lando/nginx",
+			"description": "The Official NGINX Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 7,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T04:24:29Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-06-26T22:13:10Z",
+			"attentionScore": 85.5,
+			"unengagedCount": 5
 		},
 		{
 			"name": "lando/pantheon",
@@ -578,18 +590,6 @@
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-06-25T09:13:11Z",
 			"attentionScore": 84,
-			"unengagedCount": 5
-		},
-		{
-			"name": "lando/nginx",
-			"description": "The Official NGINX Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 7,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T04:24:29Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-06-23T17:30:47Z",
-			"attentionScore": 83.5,
 			"unengagedCount": 5
 		},
 		{

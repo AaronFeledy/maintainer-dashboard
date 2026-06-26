@@ -66,7 +66,15 @@
 			"url": "https://github.com/lando/nginx/issues/4"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-26T22:13:11Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/nginx/pull/86"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.6.0",
