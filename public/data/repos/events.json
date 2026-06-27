@@ -15,6 +15,11 @@
 	"pullRequests": [],
 	"releases": [
 		{
+			"tagName": "v5.0.0",
+			"publishedAt": "2026-06-27T19:20:17Z",
+			"url": "https://github.com/lando/events/releases/tag/v5.0.0"
+		},
+		{
 			"tagName": "v4.0.2",
 			"publishedAt": "2025-09-03T20:19:55Z",
 			"url": "https://github.com/lando/events/releases/tag/v4.0.2"
@@ -33,11 +38,6 @@
 			"tagName": "v1.0.4",
 			"publishedAt": "2021-11-10T14:35:10Z",
 			"url": "https://github.com/lando/events/releases/tag/v1.0.4"
-		},
-		{
-			"tagName": "v1.0.3",
-			"publishedAt": "2021-11-10T14:31:15Z",
-			"url": "https://github.com/lando/events/releases/tag/v1.0.3"
 		}
 	]
 }

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-27T18:25:52.081Z",
+		"fetchedAt": "2026-06-27T20:24:29.215Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 806,
+			"attentionScore": 806.5,
 			"unengagedCount": 1
 		},
 		{
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-06-23T18:42:10Z",
-			"attentionScore": 558,
+			"attentionScore": 558.5,
 			"unengagedCount": 0
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 29,
 			"lastPush": "2026-06-25T07:27:03Z",
-			"attentionScore": 296.5,
+			"attentionScore": 297,
 			"unengagedCount": 3
 		},
 		{
@@ -169,7 +169,7 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 27,
 			"lastPush": "2026-06-24T18:10:57Z",
-			"attentionScore": 292.5,
+			"attentionScore": 293,
 			"unengagedCount": 1
 		},
 		{
@@ -193,7 +193,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-25T09:15:22Z",
-			"attentionScore": 285.5,
+			"attentionScore": 286,
 			"unengagedCount": 0
 		},
 		{
@@ -365,18 +365,6 @@
 			"unengagedCount": 11
 		},
 		{
-			"name": "lando/blog",
-			"description": "Lando's Blog Subsite",
-			"language": "Vue",
-			"openIssues": 3,
-			"openPRs": 2,
-			"lastRelease": "2025-09-03T19:41:18Z",
-			"commitsSinceRelease": 16,
-			"lastPush": "2026-06-27T17:19:12Z",
-			"attentionScore": 164,
-			"unengagedCount": 3
-		},
-		{
 			"name": "lando/mysql",
 			"description": "The Official MySQL Lando Plugin",
 			"language": "JavaScript",
@@ -397,7 +385,7 @@
 			"lastRelease": "2025-08-28T19:28:14Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-06-24T18:03:02Z",
-			"attentionScore": 156,
+			"attentionScore": 156.5,
 			"unengagedCount": 1
 		},
 		{
@@ -409,31 +397,7 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-06-23T17:30:25Z",
-			"attentionScore": 152.5,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/website",
-			"description": "Lando's main website",
-			"language": "Vue",
-			"openIssues": 1,
-			"openPRs": 0,
-			"lastRelease": "2025-09-03T18:25:33Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-06-27T17:03:13Z",
-			"attentionScore": 152.5,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/events",
-			"description": "Lando's Event Subsite",
-			"language": "Vue",
-			"openIssues": 1,
-			"openPRs": 0,
-			"lastRelease": "2025-09-03T20:19:55Z",
-			"commitsSinceRelease": 14,
-			"lastPush": "2026-06-27T17:23:18Z",
-			"attentionScore": 152,
+			"attentionScore": 153,
 			"unengagedCount": 1
 		},
 		{
@@ -517,7 +481,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-06-25T17:46:50Z",
-			"attentionScore": 104,
+			"attentionScore": 104.5,
 			"unengagedCount": 0
 		},
 		{
@@ -541,7 +505,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-06-24T18:17:59Z",
-			"attentionScore": 101.5,
+			"attentionScore": 102,
 			"unengagedCount": 0
 		},
 		{
@@ -783,6 +747,42 @@
 			"lastPush": "2026-06-25T07:26:35Z",
 			"attentionScore": 29.5,
 			"unengagedCount": 0
+		},
+		{
+			"name": "lando/blog",
+			"description": "Lando's Blog Subsite",
+			"language": "Vue",
+			"openIssues": 3,
+			"openPRs": 1,
+			"lastRelease": "2026-06-27T19:13:14Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-06-27T19:16:17Z",
+			"attentionScore": 14,
+			"unengagedCount": 3
+		},
+		{
+			"name": "lando/website",
+			"description": "Lando's main website",
+			"language": "Vue",
+			"openIssues": 1,
+			"openPRs": 0,
+			"lastRelease": "2026-06-27T18:53:58Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-06-27T18:54:31Z",
+			"attentionScore": 4,
+			"unengagedCount": 1
+		},
+		{
+			"name": "lando/events",
+			"description": "Lando's Event Subsite",
+			"language": "Vue",
+			"openIssues": 1,
+			"openPRs": 0,
+			"lastRelease": "2026-06-27T19:20:17Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-06-27T19:20:49Z",
+			"attentionScore": 4,
+			"unengagedCount": 1
 		}
 	]
 }
