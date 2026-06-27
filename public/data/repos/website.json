@@ -12,15 +12,7 @@
 			"url": "https://github.com/lando/website/issues/25"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump actions/checkout from 6 to 7 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-26T14:37:16Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/website/pull/76"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v4.0.3",
