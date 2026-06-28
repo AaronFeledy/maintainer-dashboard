@@ -32,6 +32,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix(mysql-8.4): As of mysql 8.4, expire_logs_days is removed in favour of binlog_expire_logs_seconds.",
+			"author": "florianPat",
+			"createdAt": "2026-06-28T18:26:57Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lamp/pull/108"
+		},
+		{
 			"title": "Added init defaults.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-12-19T22:42:16Z",
