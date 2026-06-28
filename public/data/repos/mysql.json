@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Mysql 8.4 authentication plugin fix release",
+			"author": "florianPat",
+			"labels": [],
+			"createdAt": "2026-06-28T18:17:41Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/mysql/issues/94"
+		},
+		{
 			"title": "lando mysql, lando db-export and db-import all of a sudden seem to crash on al my projects",
 			"author": "erwindeclerck",
 			"labels": [],
