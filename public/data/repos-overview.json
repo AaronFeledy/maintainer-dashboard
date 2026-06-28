@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-27T22:23:26.945Z",
+		"fetchedAt": "2026-06-28T00:44:40.070Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 357,
+			"attentionScore": 357.5,
 			"unengagedCount": 1
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-04-28T22:30:42Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-06-24T00:24:53Z",
-			"attentionScore": 287.5,
+			"attentionScore": 288,
 			"unengagedCount": 26
 		},
 		{
@@ -205,8 +205,8 @@
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-06-24T21:06:57Z",
-			"attentionScore": 279.5,
-			"unengagedCount": 22
+			"attentionScore": 285.5,
+			"unengagedCount": 24
 		},
 		{
 			"name": "lando/core",
@@ -217,7 +217,7 @@
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-06-26T12:05:25Z",
-			"attentionScore": 261.5,
+			"attentionScore": 262,
 			"unengagedCount": 46
 		},
 		{
@@ -349,7 +349,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-06-24T18:12:44Z",
-			"attentionScore": 171.5,
+			"attentionScore": 172,
 			"unengagedCount": 0
 		},
 		{
@@ -456,7 +456,7 @@
 			"openPRs": 3,
 			"lastRelease": "2026-03-05T14:33:33Z",
 			"commitsSinceRelease": 6,
-			"lastPush": "2026-06-27T03:52:16Z",
+			"lastPush": "2026-06-27T23:54:40Z",
 			"attentionScore": 109,
 			"unengagedCount": 11
 		},
@@ -493,7 +493,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-06-26T21:13:45Z",
-			"attentionScore": 103.5,
+			"attentionScore": 104,
 			"unengagedCount": 0
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-06-25T13:54:03Z",
-			"attentionScore": 64,
+			"attentionScore": 64.5,
 			"unengagedCount": 0
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-04-28T22:30:47Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-06-25T07:26:35Z",
-			"attentionScore": 29.5,
+			"attentionScore": 30,
 			"unengagedCount": 0
 		},
 		{
