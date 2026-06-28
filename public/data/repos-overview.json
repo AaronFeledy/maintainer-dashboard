@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-28T20:27:13.428Z",
+		"fetchedAt": "2026-06-28T22:23:05.158Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-06-24T18:41:58Z",
-			"attentionScore": 834,
+			"attentionScore": 834.5,
 			"unengagedCount": 0
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-23T20:15:29Z",
-			"attentionScore": 533,
+			"attentionScore": 533.5,
 			"unengagedCount": 44
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-06-24T18:25:56Z",
-			"attentionScore": 362.5,
+			"attentionScore": 363,
 			"unengagedCount": 2
 		},
 		{
@@ -257,6 +257,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/setup-lando",
+			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
+			"language": "Shell",
+			"openIssues": 15,
+			"openPRs": 2,
+			"lastRelease": "2025-08-31T20:57:45Z",
+			"commitsSinceRelease": 23,
+			"lastPush": "2026-06-24T20:40:51Z",
+			"attentionScore": 187.5,
+			"unengagedCount": 6
+		},
+		{
 			"name": "lando/drupal-dev-environment",
 			"description": "Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.",
 			"language": "PHP",
@@ -267,18 +279,6 @@
 			"lastPush": "2022-10-26T18:49:47Z",
 			"attentionScore": 187.5,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/setup-lando",
-			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
-			"language": "Shell",
-			"openIssues": 15,
-			"openPRs": 2,
-			"lastRelease": "2025-08-31T20:57:45Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-06-24T20:40:51Z",
-			"attentionScore": 187,
-			"unengagedCount": 6
 		},
 		{
 			"name": "lando/lando-update-scripts",
