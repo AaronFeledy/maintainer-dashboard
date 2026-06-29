@@ -22,6 +22,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T20:14:05Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/leia/pull/56"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:57:01Z",

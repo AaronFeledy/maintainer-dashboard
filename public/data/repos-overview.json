@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-29T18:41:46.941Z",
+		"fetchedAt": "2026-06-29T20:37:56.165Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 807,
+			"attentionScore": 807.5,
 			"unengagedCount": 1
 		},
 		{
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-06-23T18:42:10Z",
-			"attentionScore": 559,
+			"attentionScore": 559.5,
 			"unengagedCount": 0
 		},
 		{
@@ -93,11 +93,11 @@
 			"description": "A testing utility that tests code blocks in documentation.",
 			"language": "JavaScript",
 			"openIssues": 2,
-			"openPRs": 1,
+			"openPRs": 2,
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 16,
-			"lastPush": "2026-06-24T18:25:56Z",
-			"attentionScore": 363,
+			"lastPush": "2026-06-29T20:14:04Z",
+			"attentionScore": 365,
 			"unengagedCount": 2
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 29,
 			"lastPush": "2026-06-25T07:27:03Z",
-			"attentionScore": 297.5,
+			"attentionScore": 298,
 			"unengagedCount": 3
 		},
 		{
@@ -169,7 +169,7 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 27,
 			"lastPush": "2026-06-24T18:10:57Z",
-			"attentionScore": 293.5,
+			"attentionScore": 294,
 			"unengagedCount": 1
 		},
 		{
@@ -193,7 +193,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-25T09:15:22Z",
-			"attentionScore": 286.5,
+			"attentionScore": 287,
 			"unengagedCount": 0
 		},
 		{
@@ -385,7 +385,7 @@
 			"lastRelease": "2025-08-28T19:28:14Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-06-24T18:03:02Z",
-			"attentionScore": 157,
+			"attentionScore": 157.5,
 			"unengagedCount": 1
 		},
 		{
@@ -397,7 +397,7 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-06-23T17:30:25Z",
-			"attentionScore": 153.5,
+			"attentionScore": 154,
 			"unengagedCount": 1
 		},
 		{
@@ -481,7 +481,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-06-25T17:46:50Z",
-			"attentionScore": 108,
+			"attentionScore": 108.5,
 			"unengagedCount": 1
 		},
 		{
@@ -505,7 +505,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-06-24T18:17:59Z",
-			"attentionScore": 102.5,
+			"attentionScore": 103,
 			"unengagedCount": 0
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-06-27T19:13:14Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-06-27T19:16:17Z",
-			"attentionScore": 14.5,
+			"attentionScore": 15,
 			"unengagedCount": 3
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-06-27T18:53:58Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-06-29T15:49:44Z",
-			"attentionScore": 4.5,
+			"attentionScore": 5,
 			"unengagedCount": 1
 		},
 		{
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-06-27T19:20:17Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-06-27T19:20:49Z",
-			"attentionScore": 4.5,
+			"attentionScore": 5,
 			"unengagedCount": 1
 		}
 	]
