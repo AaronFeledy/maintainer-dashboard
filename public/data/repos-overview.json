@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-29T17:01:42.007Z",
+		"fetchedAt": "2026-06-29T18:41:46.941Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -145,7 +145,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 299,
+			"attentionScore": 299.5,
 			"unengagedCount": 1
 		},
 		{
@@ -469,7 +469,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-06-29T11:24:40Z",
-			"attentionScore": 108,
+			"attentionScore": 108.5,
 			"unengagedCount": 1
 		},
 		{
@@ -509,6 +509,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/php",
+			"description": "The Official Lando PHP plugin.",
+			"language": "Dockerfile",
+			"openIssues": 13,
+			"openPRs": 4,
+			"lastRelease": "2026-03-08T01:37:41Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-06-29T17:04:53Z",
+			"attentionScore": 89.5,
+			"unengagedCount": 4
+		},
+		{
 			"name": "lando/pantheon",
 			"description": "The Official Lando Pantheon plugin.",
 			"language": "JavaScript",
@@ -519,18 +531,6 @@
 			"lastPush": "2026-06-25T21:53:14Z",
 			"attentionScore": 89.5,
 			"unengagedCount": 16
-		},
-		{
-			"name": "lando/php",
-			"description": "The Official Lando PHP plugin.",
-			"language": "Dockerfile",
-			"openIssues": 13,
-			"openPRs": 3,
-			"lastRelease": "2026-03-08T01:37:41Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-06-24T18:03:10Z",
-			"attentionScore": 87.5,
-			"unengagedCount": 4
 		},
 		{
 			"name": "lando/nginx",
@@ -673,8 +673,20 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-06-29T06:23:58Z",
-			"attentionScore": 67.5,
+			"attentionScore": 68,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 8,
+			"lastPush": "2026-06-24T18:02:34Z",
+			"attentionScore": 63,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/mailpit",
@@ -686,18 +698,6 @@
 			"commitsSinceRelease": 10,
 			"lastPush": "2026-06-23T17:24:45Z",
 			"attentionScore": 63,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-06-24T18:02:34Z",
-			"attentionScore": 62.5,
 			"unengagedCount": 0
 		},
 		{

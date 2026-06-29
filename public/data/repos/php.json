@@ -136,6 +136,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "chore(deps): bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T17:04:54Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/250"
+		},
+		{
 			"title": "feat: xdebug configurability overhaul",
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-17T02:52:53Z",
