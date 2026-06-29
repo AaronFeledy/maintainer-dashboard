@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "chore(deps): bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T11:05:20Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/joomla/pull/79"
+		},
+		{
 			"title": "Init defaults1",
 			"author": "reynoldsalec",
 			"createdAt": "2024-12-20T22:34:51Z",
