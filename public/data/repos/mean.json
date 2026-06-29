@@ -20,7 +20,15 @@
 			"url": "https://github.com/lando/mean/issues/5"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T21:44:03Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mean/pull/69"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.5.0",
