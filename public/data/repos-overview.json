@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-30T00:43:50.300Z",
+		"fetchedAt": "2026-06-30T03:08:03.972Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -121,7 +121,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 31,
 			"lastPush": "2026-06-29T14:14:32Z",
-			"attentionScore": 317.5,
+			"attentionScore": 318,
 			"unengagedCount": 5
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 27,
 			"lastPush": "2026-06-25T07:26:22Z",
-			"attentionScore": 128.5,
+			"attentionScore": 129,
 			"unengagedCount": 5
 		},
 		{
@@ -509,6 +509,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/php",
+			"description": "The Official Lando PHP plugin.",
+			"language": "Dockerfile",
+			"openIssues": 13,
+			"openPRs": 4,
+			"lastRelease": "2026-03-08T01:37:41Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-06-29T17:04:53Z",
+			"attentionScore": 90,
+			"unengagedCount": 4
+		},
+		{
 			"name": "lando/nginx",
 			"description": "The Official NGINX Lando Plugin",
 			"language": "JavaScript",
@@ -519,18 +531,6 @@
 			"lastPush": "2026-06-26T22:13:10Z",
 			"attentionScore": 90,
 			"unengagedCount": 6
-		},
-		{
-			"name": "lando/php",
-			"description": "The Official Lando PHP plugin.",
-			"language": "Dockerfile",
-			"openIssues": 13,
-			"openPRs": 4,
-			"lastRelease": "2026-03-08T01:37:41Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-06-29T17:04:53Z",
-			"attentionScore": 89.5,
-			"unengagedCount": 4
 		},
 		{
 			"name": "lando/pantheon",
@@ -565,7 +565,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-06-25T07:33:41Z",
-			"attentionScore": 78.5,
+			"attentionScore": 79,
 			"unengagedCount": 0
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-06-27T01:02:39Z",
-			"attentionScore": 58.5,
+			"attentionScore": 59,
 			"unengagedCount": 0
 		},
 		{
