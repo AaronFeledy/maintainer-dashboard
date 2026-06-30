@@ -53,7 +53,15 @@
 			"url": "https://github.com/lando/lemp/issues/4"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-30T05:43:08Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lemp/pull/89"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.10.0",
