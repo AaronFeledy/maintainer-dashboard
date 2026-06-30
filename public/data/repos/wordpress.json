@@ -104,7 +104,15 @@
 			"url": "https://github.com/lando/wordpress/issues/38"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-30T12:04:08Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/wordpress/pull/139"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.11.0",
