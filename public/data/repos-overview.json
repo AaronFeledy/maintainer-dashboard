@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-30T20:39:06.668Z",
+		"fetchedAt": "2026-06-30T22:27:57.372Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-06-30T18:51:13Z",
-			"attentionScore": 837,
+			"attentionScore": 837.5,
 			"unengagedCount": 0
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-23T20:15:29Z",
-			"attentionScore": 534,
+			"attentionScore": 534.5,
 			"unengagedCount": 44
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-06-29T20:14:04Z",
-			"attentionScore": 365.5,
+			"attentionScore": 366,
 			"unengagedCount": 2
 		},
 		{
@@ -177,11 +177,11 @@
 			"description": "A development tool for all your projects that is fast, easy, powerful and liberating",
 			"language": null,
 			"openIssues": 176,
-			"openPRs": 2,
+			"openPRs": 3,
 			"lastRelease": "2026-04-28T22:30:42Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-06-24T00:24:53Z",
-			"attentionScore": 289,
+			"lastPush": "2026-06-30T21:05:03Z",
+			"attentionScore": 291,
 			"unengagedCount": 26
 		},
 		{
@@ -217,7 +217,7 @@
 			"lastRelease": "2026-04-28T22:26:09Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-06-26T12:05:25Z",
-			"attentionScore": 266,
+			"attentionScore": 266.5,
 			"unengagedCount": 47
 		},
 		{
@@ -265,7 +265,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-24T20:40:51Z",
-			"attentionScore": 188,
+			"attentionScore": 188.5,
 			"unengagedCount": 6
 		},
 		{
