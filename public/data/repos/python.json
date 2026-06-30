@@ -26,6 +26,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump the actions group with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-30T20:13:29Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/python/pull/63"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:46Z",
