@@ -66,6 +66,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T23:04:55Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/drupal/pull/191"
+		},
+		{
 			"title": "#188 - Fix for [Regression] Double ports in drush_uri / Error: Invalid URI: Host is malformed.",
 			"author": "silverham",
 			"createdAt": "2026-05-29T08:59:18Z",
