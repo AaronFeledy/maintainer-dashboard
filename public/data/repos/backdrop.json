@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "MySQL 8.4 fails to start in Backdrop recipe — deprecated Bitnami config parameters",
+			"author": "dsearle-oaklins",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-07-01T16:39:35Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/backdrop/issues/95"
+		},
+		{
 			"title": "Composer remove failing on startup/rebuild, causing build steps to be skipped",
 			"author": "daggerhart",
 			"labels": [
