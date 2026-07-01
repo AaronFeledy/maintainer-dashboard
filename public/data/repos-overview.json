@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-01T00:46:25.914Z",
+		"fetchedAt": "2026-07-01T03:09:09.458Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -121,7 +121,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 31,
 			"lastPush": "2026-06-29T14:14:32Z",
-			"attentionScore": 318,
+			"attentionScore": 318.5,
 			"unengagedCount": 5
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 27,
 			"lastPush": "2026-06-25T07:26:22Z",
-			"attentionScore": 129,
+			"attentionScore": 129.5,
 			"unengagedCount": 5
 		},
 		{
@@ -509,6 +509,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/php",
+			"description": "The Official Lando PHP plugin.",
+			"language": "Dockerfile",
+			"openIssues": 13,
+			"openPRs": 4,
+			"lastRelease": "2026-03-08T01:37:41Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-06-29T17:04:53Z",
+			"attentionScore": 90.5,
+			"unengagedCount": 4
+		},
+		{
 			"name": "lando/nginx",
 			"description": "The Official NGINX Lando Plugin",
 			"language": "JavaScript",
@@ -519,18 +531,6 @@
 			"lastPush": "2026-06-26T22:13:10Z",
 			"attentionScore": 90.5,
 			"unengagedCount": 6
-		},
-		{
-			"name": "lando/php",
-			"description": "The Official Lando PHP plugin.",
-			"language": "Dockerfile",
-			"openIssues": 13,
-			"openPRs": 4,
-			"lastRelease": "2026-03-08T01:37:41Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-06-29T17:04:53Z",
-			"attentionScore": 90,
-			"unengagedCount": 4
 		},
 		{
 			"name": "lando/pantheon",
@@ -569,6 +569,18 @@
 			"unengagedCount": 3
 		},
 		{
+			"name": "lando/ruby",
+			"description": "The Official Ruby Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 0,
+			"lastRelease": "2026-01-23T00:47:12Z",
+			"commitsSinceRelease": 12,
+			"lastPush": "2026-06-25T07:33:41Z",
+			"attentionScore": 79.5,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/wordpress",
 			"description": "The Official WordPress Lando Plugin",
 			"language": "JavaScript",
@@ -579,18 +591,6 @@
 			"lastPush": "2026-06-30T12:04:07Z",
 			"attentionScore": 79.5,
 			"unengagedCount": 4
-		},
-		{
-			"name": "lando/ruby",
-			"description": "The Official Ruby Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": "2026-01-23T00:47:12Z",
-			"commitsSinceRelease": 12,
-			"lastPush": "2026-06-25T07:33:41Z",
-			"attentionScore": 79,
-			"unengagedCount": 0
 		},
 		{
 			"name": "lando/lemp",
@@ -709,7 +709,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-06-27T01:02:39Z",
-			"attentionScore": 62,
+			"attentionScore": 62.5,
 			"unengagedCount": 1
 		},
 		{
