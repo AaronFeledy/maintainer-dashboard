@@ -20,7 +20,15 @@
 			"url": "https://github.com/lando/transfer-issue-action/issues/84"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump js-yaml and eslint",
+			"author": "dependabot",
+			"createdAt": "2026-06-30T22:53:28Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/transfer-issue-action/pull/121"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v2.1.0",

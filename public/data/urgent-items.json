@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-06-30T22:27:57.372Z",
+		"fetchedAt": "2026-07-01T00:46:25.914Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2684,6 +2684,33 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-26T22:13:11Z",
 			"url": "https://github.com/lando/nginx/pull/86",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/apache",
+			"number": 63,
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-27T01:02:40Z",
+			"url": "https://github.com/lando/apache/pull/63",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 146,
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-27T02:43:51Z",
+			"url": "https://github.com/lando/core-next/pull/146",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/vitepress-theme-default-plus",
+			"number": 103,
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-27T03:52:16Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/103",
 			"type": "pr"
 		}
 	]
