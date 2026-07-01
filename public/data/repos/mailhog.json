@@ -42,6 +42,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump the actions group with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-01T10:37:04Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mailhog/pull/55"
+		},
+		{
 			"title": "35 curl me",
 			"author": "pirog",
 			"createdAt": "2024-04-02T13:26:31Z",

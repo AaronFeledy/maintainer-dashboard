@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-01T09:09:35.882Z",
+		"fetchedAt": "2026-07-01T11:06:28.334Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -165,11 +165,11 @@
 			"description": "The Official MailHog Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 4,
-			"openPRs": 1,
+			"openPRs": 2,
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 27,
-			"lastPush": "2026-06-24T18:10:57Z",
-			"attentionScore": 294.5,
+			"lastPush": "2026-07-01T10:37:03Z",
+			"attentionScore": 296.5,
 			"unengagedCount": 1
 		},
 		{
@@ -501,11 +501,11 @@
 			"description": "The Official Dotnet Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 0,
-			"openPRs": 0,
+			"openPRs": 1,
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 18,
-			"lastPush": "2026-06-24T18:17:59Z",
-			"attentionScore": 103.5,
+			"lastPush": "2026-07-01T09:20:31Z",
+			"attentionScore": 105.5,
 			"unengagedCount": 0
 		},
 		{

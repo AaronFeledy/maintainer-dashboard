@@ -5,25 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 4 updates",
+			"title": "Bump the actions group with 3 updates",
 			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:52Z",
+			"createdAt": "2026-07-01T09:20:31Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/dotnet/pull/62"
-		},
-		{
-			"title": "Bump lodash from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-22T02:34:07Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/dotnet/pull/61"
-		},
-		{
-			"title": "Bump lodash-es from 4.17.21 to 4.17.23",
-			"author": "dependabot",
-			"createdAt": "2026-01-21T23:25:37Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/dotnet/pull/60"
+			"url": "https://github.com/lando/dotnet/pull/67"
 		}
 	],
 	"releases": [
