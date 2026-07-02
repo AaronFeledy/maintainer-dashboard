@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-01T22:29:35.757Z",
+		"fetchedAt": "2026-07-02T00:43:57.949Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2711,6 +2711,24 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-27T03:52:16Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/103",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mysql",
+			"number": 94,
+			"title": "Mysql 8.4 authentication plugin fix release",
+			"author": "florianPat",
+			"createdAt": "2026-06-28T18:17:41Z",
+			"url": "https://github.com/lando/mysql/issues/94",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/lamp",
+			"number": 108,
+			"title": "fix(mysql-8.4): As of mysql 8.4, expire_logs_days is removed in favour of binlog_expire_logs_seconds.",
+			"author": "florianPat",
+			"createdAt": "2026-06-28T18:26:57Z",
+			"url": "https://github.com/lando/lamp/pull/108",
 			"type": "pr"
 		}
 	]
