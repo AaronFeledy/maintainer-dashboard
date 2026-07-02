@@ -28,7 +28,15 @@
 			"url": "https://github.com/lando/code-sign-action/issues/11"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "refresh GHA testing",
+			"author": "pirog",
+			"createdAt": "2026-07-02T16:43:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/code-sign-action/pull/30"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v3.0.0",
