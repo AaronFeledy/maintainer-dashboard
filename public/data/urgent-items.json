@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-02T23:00:28.166Z",
+		"fetchedAt": "2026-07-03T02:35:17.577Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2729,6 +2729,114 @@
 			"author": "florianPat",
 			"createdAt": "2026-06-28T18:26:57Z",
 			"url": "https://github.com/lando/lamp/pull/108",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/symfony",
+			"number": 92,
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T03:24:14Z",
+			"url": "https://github.com/lando/symfony/pull/92",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/laravel",
+			"number": 112,
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T06:23:58Z",
+			"url": "https://github.com/lando/laravel/pull/112",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/node",
+			"number": 128,
+			"title": "Add support for Node 26, bump LTS minor versions",
+			"author": "todeveni",
+			"createdAt": "2026-06-29T08:55:04Z",
+			"url": "https://github.com/lando/node/pull/128",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/joomla",
+			"number": 79,
+			"title": "chore(deps): bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T11:05:20Z",
+			"url": "https://github.com/lando/joomla/pull/79",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/elasticsearch",
+			"number": 53,
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T11:24:41Z",
+			"url": "https://github.com/lando/elasticsearch/pull/53",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lagoon",
+			"number": 108,
+			"title": "Bump the actions group with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T14:14:33Z",
+			"url": "https://github.com/lando/lagoon/pull/108",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/php",
+			"number": 250,
+			"title": "chore(deps): bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T17:04:54Z",
+			"url": "https://github.com/lando/php/pull/250",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 56,
+			"title": "Bump the actions group with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T20:14:05Z",
+			"url": "https://github.com/lando/leia/pull/56",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mean",
+			"number": 69,
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T21:44:03Z",
+			"url": "https://github.com/lando/mean/pull/69",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/backdrop",
+			"number": 94,
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T22:05:08Z",
+			"url": "https://github.com/lando/backdrop/pull/94",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mailpit",
+			"number": 56,
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T22:24:01Z",
+			"url": "https://github.com/lando/mailpit/pull/56",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/drupal",
+			"number": 191,
+			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-06-29T23:04:55Z",
+			"url": "https://github.com/lando/drupal/pull/191",
 			"type": "pr"
 		}
 	]
