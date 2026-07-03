@@ -1,7 +1,7 @@
 {
 	"name": "lando/code-sign-action",
 	"description": "A GitHub action to code sign files",
-	"language": "JavaScript",
+	"language": "PowerShell",
 	"issues": [
 		{
 			"title": "Cannot sign/notarize a macOS app",
@@ -28,16 +28,13 @@
 			"url": "https://github.com/lando/code-sign-action/issues/11"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "refresh GHA testing",
-			"author": "pirog",
-			"createdAt": "2026-07-02T16:43:40Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/code-sign-action/pull/30"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
+		{
+			"tagName": "v3.1.0",
+			"publishedAt": "2026-07-03T03:40:07Z",
+			"url": "https://github.com/lando/code-sign-action/releases/tag/v3.1.0"
+		},
 		{
 			"tagName": "v3.0.0",
 			"publishedAt": "2024-11-19T16:43:40Z",
@@ -57,11 +54,6 @@
 			"tagName": "v2.1.0",
 			"publishedAt": "2023-04-27T19:11:17Z",
 			"url": "https://github.com/lando/code-sign-action/releases/tag/v2.1.0"
-		},
-		{
-			"tagName": "v2.0.0",
-			"publishedAt": "2022-04-13T20:50:46Z",
-			"url": "https://github.com/lando/code-sign-action/releases/tag/v2.0.0"
 		}
 	]
 }
