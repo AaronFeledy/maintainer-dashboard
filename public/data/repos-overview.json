@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-04T13:15:39.728Z",
+		"fetchedAt": "2026-07-04T15:02:03.851Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-06-24T17:55:50Z",
-			"attentionScore": 564.5,
+			"attentionScore": 565,
 			"unengagedCount": 2
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-06-30T22:53:27Z",
-			"attentionScore": 426.5,
+			"attentionScore": 427,
 			"unengagedCount": 3
 		},
 		{
@@ -212,12 +212,12 @@
 			"name": "lando/core",
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
-			"openIssues": 54,
+			"openIssues": 55,
 			"openPRs": 20,
 			"lastRelease": "2026-07-03T05:49:00Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-07-03T05:54:25Z",
-			"attentionScore": 235.5,
+			"lastPush": "2026-07-04T13:43:03Z",
+			"attentionScore": 236.5,
 			"unengagedCount": 47
 		},
 		{
@@ -229,7 +229,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 203.5,
+			"attentionScore": 204,
 			"unengagedCount": 2
 		},
 		{
@@ -349,7 +349,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-06-27T02:43:50Z",
-			"attentionScore": 171,
+			"attentionScore": 171.5,
 			"unengagedCount": 12
 		},
 		{
@@ -361,7 +361,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-06-25T09:15:22Z",
-			"attentionScore": 170,
+			"attentionScore": 170.5,
 			"unengagedCount": 3
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-06-24T18:03:14Z",
-			"attentionScore": 124.5,
+			"attentionScore": 125,
 			"unengagedCount": 3
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2026-03-05T14:33:33Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-06-27T23:54:40Z",
-			"attentionScore": 115,
+			"attentionScore": 115.5,
 			"unengagedCount": 12
 		},
 		{
