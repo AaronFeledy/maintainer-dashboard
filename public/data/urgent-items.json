@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-04T22:55:04.415Z",
+		"fetchedAt": "2026-07-05T02:42:33.517Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2901,6 +2901,33 @@
 			"createdAt": "2026-06-30T22:53:28Z",
 			"url": "https://github.com/lando/transfer-issue-action/pull/121",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/dotnet",
+			"number": 67,
+			"title": "Bump the actions group with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-01T09:20:31Z",
+			"url": "https://github.com/lando/dotnet/pull/67",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mailhog",
+			"number": 55,
+			"title": "Bump the actions group with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-01T10:37:04Z",
+			"url": "https://github.com/lando/mailhog/pull/55",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/backdrop",
+			"number": 95,
+			"title": "MySQL 8.4 fails to start in Backdrop recipe — deprecated Bitnami config parameters",
+			"author": "dsearle-oaklins",
+			"createdAt": "2026-07-01T16:39:35Z",
+			"url": "https://github.com/lando/backdrop/issues/95",
+			"type": "issue"
 		}
 	]
 }
