@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Postgres 18 & Future?",
+			"author": "hailwood",
+			"labels": [],
+			"createdAt": "2026-07-07T05:09:26Z",
+			"commentCount": 2,
+			"url": "https://github.com/lando/postgres/issues/74"
+		},
+		{
 			"title": "Better Healthcheck Testing/Blank database name",
 			"author": "reynoldsalec",
 			"labels": [],
