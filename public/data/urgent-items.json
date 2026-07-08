@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-07T22:56:56.410Z",
+		"fetchedAt": "2026-07-08T02:22:04.816Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2918,6 +2918,15 @@
 			"author": "dsearle-oaklins",
 			"createdAt": "2026-07-01T16:39:35Z",
 			"url": "https://github.com/lando/backdrop/issues/95",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 472,
+			"title": "Stale `tested` constraint recommends Docker Desktop downgrade",
+			"author": "aadmathijssen",
+			"createdAt": "2026-07-04T13:54:26Z",
+			"url": "https://github.com/lando/core/issues/472",
 			"type": "issue"
 		}
 	]
