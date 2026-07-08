@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-08T02:22:04.816Z",
+		"fetchedAt": "2026-07-08T06:24:15.214Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2451,15 +2451,6 @@
 			"createdAt": "2026-04-03T23:16:15Z",
 			"url": "https://github.com/lando/core/pull/457",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/lando",
-			"number": 3843,
-			"title": "CLI process enforcing SUDO on cert installation",
-			"author": "owindsor",
-			"createdAt": "2026-04-13T06:45:39Z",
-			"url": "https://github.com/lando/lando/issues/3843",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/elasticsearch",
