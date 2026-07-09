@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Add support for MariaDB 12.x",
+			"author": "devtype",
+			"labels": [],
+			"createdAt": "2026-07-09T08:49:09Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/mariadb/issues/99"
+		},
+		{
 			"title": "Allow seamless update to new MariaDB versions",
 			"author": "Xilonz",
 			"labels": [],

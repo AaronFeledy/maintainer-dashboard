@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-09T07:33:24.134Z",
+		"fetchedAt": "2026-07-09T10:50:21.894Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -272,12 +272,12 @@
 			"name": "lando/mariadb",
 			"description": "The Official MariaDB Lando Plugin",
 			"language": "JavaScript",
-			"openIssues": 9,
+			"openIssues": 10,
 			"openPRs": 2,
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-06-25T20:43:19Z",
-			"attentionScore": 182.5,
+			"attentionScore": 183.5,
 			"unengagedCount": 6
 		},
 		{
