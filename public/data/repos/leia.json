@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "generated harness breaks on shell backticks and braced variable expansion",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-07-10T17:32:04Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/57"
+		},
+		{
 			"title": "How to handle lots of quote recursion in an execute string...",
 			"author": "tobybellwood",
 			"labels": [],
