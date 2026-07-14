@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-13T22:52:30.515Z",
+		"fetchedAt": "2026-07-14T02:04:50.143Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2945,6 +2945,15 @@
 			"author": "devtype",
 			"createdAt": "2026-07-09T08:49:09Z",
 			"url": "https://github.com/lando/mariadb/issues/99",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 57,
+			"title": "generated harness breaks on shell backticks and braced variable expansion",
+			"author": "pirog",
+			"createdAt": "2026-07-10T17:32:04Z",
+			"url": "https://github.com/lando/leia/issues/57",
 			"type": "issue"
 		}
 	]
