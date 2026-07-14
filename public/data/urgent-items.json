@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-14T19:12:53.478Z",
+		"fetchedAt": "2026-07-14T20:56:02.480Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2846,15 +2846,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-30T18:51:14Z",
 			"url": "https://github.com/lando/legacy-metrics/pull/13",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/python",
-			"number": 63,
-			"title": "Bump the actions group with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-30T20:13:29Z",
-			"url": "https://github.com/lando/python/pull/63",
 			"type": "pr"
 		},
 		{
