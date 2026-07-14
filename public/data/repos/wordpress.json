@@ -106,11 +106,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-30T12:04:08Z",
+			"createdAt": "2026-07-14T12:04:17Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/wordpress/pull/139"
+			"url": "https://github.com/lando/wordpress/pull/140"
 		}
 	],
 	"releases": [

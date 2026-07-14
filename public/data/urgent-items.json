@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-14T11:23:03.598Z",
+		"fetchedAt": "2026-07-14T13:24:44.813Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2837,15 +2837,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-29T23:04:55Z",
 			"url": "https://github.com/lando/drupal/pull/191",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/wordpress",
-			"number": 139,
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-30T12:04:08Z",
-			"url": "https://github.com/lando/wordpress/pull/139",
 			"type": "pr"
 		},
 		{
