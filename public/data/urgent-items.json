@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-14T02:04:50.143Z",
+		"fetchedAt": "2026-07-14T06:07:13.825Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2837,24 +2837,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-29T23:04:55Z",
 			"url": "https://github.com/lando/drupal/pull/191",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lamp",
-			"number": 109,
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-30T05:13:10Z",
-			"url": "https://github.com/lando/lamp/pull/109",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lemp",
-			"number": 89,
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-30T05:43:08Z",
-			"url": "https://github.com/lando/lemp/pull/89",
 			"type": "pr"
 		},
 		{

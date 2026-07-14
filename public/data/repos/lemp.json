@@ -55,11 +55,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-30T05:43:08Z",
+			"createdAt": "2026-07-14T05:43:33Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/lemp/pull/89"
+			"url": "https://github.com/lando/lemp/pull/90"
 		}
 	],
 	"releases": [

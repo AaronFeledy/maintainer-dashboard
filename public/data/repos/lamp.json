@@ -32,11 +32,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-30T05:13:10Z",
+			"createdAt": "2026-07-14T05:13:35Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/lamp/pull/109"
+			"url": "https://github.com/lando/lamp/pull/110"
 		},
 		{
 			"title": "fix(mysql-8.4): As of mysql 8.4, expire_logs_days is removed in favour of binlog_expire_logs_seconds.",
