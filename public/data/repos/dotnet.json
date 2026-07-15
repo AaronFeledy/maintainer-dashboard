@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 3 updates",
+			"title": "Bump the actions group across 1 directory with 4 updates",
 			"author": "dependabot",
-			"createdAt": "2026-07-01T09:20:31Z",
+			"createdAt": "2026-07-15T09:13:52Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/dotnet/pull/67"
+			"url": "https://github.com/lando/dotnet/pull/68"
 		}
 	],
 	"releases": [

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-15T06:10:30.429Z",
+		"fetchedAt": "2026-07-15T09:57:56.555Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2864,15 +2864,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-30T22:53:28Z",
 			"url": "https://github.com/lando/transfer-issue-action/pull/121",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/dotnet",
-			"number": 67,
-			"title": "Bump the actions group with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-01T09:20:31Z",
-			"url": "https://github.com/lando/dotnet/pull/67",
 			"type": "pr"
 		},
 		{

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-15T06:10:30.429Z",
+		"fetchedAt": "2026-07-15T09:57:56.555Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -473,18 +473,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/dotnet",
-			"description": "The Official Dotnet Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2025-12-05T19:46:36Z",
-			"commitsSinceRelease": 18,
-			"lastPush": "2026-07-01T09:20:31Z",
-			"attentionScore": 115.5,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/prepare-release-action",
 			"description": "Prepare a Lando plugin for publishing to a package registry.",
 			"language": "JavaScript",
@@ -495,6 +483,18 @@
 			"lastPush": "2026-06-26T21:13:45Z",
 			"attentionScore": 115.5,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/dotnet",
+			"description": "The Official Dotnet Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2025-12-05T19:46:36Z",
+			"commitsSinceRelease": 18,
+			"lastPush": "2026-07-15T09:13:52Z",
+			"attentionScore": 112.5,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/php",
