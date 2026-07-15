@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-15T09:57:56.555Z",
+		"fetchedAt": "2026-07-15T11:37:16.259Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2864,15 +2864,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-30T22:53:28Z",
 			"url": "https://github.com/lando/transfer-issue-action/pull/121",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mailhog",
-			"number": 55,
-			"title": "Bump the actions group with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-01T10:37:04Z",
-			"url": "https://github.com/lando/mailhog/pull/55",
 			"type": "pr"
 		},
 		{
