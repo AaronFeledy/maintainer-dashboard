@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-15T17:13:03.181Z",
+		"fetchedAt": "2026-07-15T19:04:19.830Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -405,11 +405,11 @@
 			"description": "The Official MongoDB Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 0,
-			"openPRs": 0,
+			"openPRs": 1,
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 20,
-			"lastPush": "2026-06-24T20:39:19Z",
-			"attentionScore": 158.5,
+			"lastPush": "2026-07-15T19:04:18Z",
+			"attentionScore": 160.5,
 			"unengagedCount": 0
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-06-29T11:24:40Z",
-			"attentionScore": 119,
+			"attentionScore": 119.5,
 			"unengagedCount": 2
 		},
 		{
@@ -649,7 +649,7 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-06-29T06:23:58Z",
-			"attentionScore": 78.5,
+			"attentionScore": 79,
 			"unengagedCount": 2
 		},
 		{
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 8,
 			"lastPush": "2026-07-15T10:13:47Z",
-			"attentionScore": 72.5,
+			"attentionScore": 73,
 			"unengagedCount": 0
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-06-27T18:53:58Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-06-29T15:49:44Z",
-			"attentionScore": 12.5,
+			"attentionScore": 13,
 			"unengagedCount": 1
 		},
 		{

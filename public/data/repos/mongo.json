@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 2 updates",
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
 			"author": "dependabot",
-			"createdAt": "2026-06-24T19:04:05Z",
+			"createdAt": "2026-07-15T19:04:18Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/mongo/pull/62"
+			"url": "https://github.com/lando/mongo/pull/63"
 		}
 	],
 	"releases": [
