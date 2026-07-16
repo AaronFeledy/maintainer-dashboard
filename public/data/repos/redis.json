@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "build(deps): bump the actions group across 1 directory with 3 updates",
+			"title": "build(deps): bump actions/setup-node from 6 to 7 in the actions group",
 			"author": "dependabot",
-			"createdAt": "2026-06-25T04:33:48Z",
+			"createdAt": "2026-07-16T04:33:34Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/redis/pull/61"
+			"url": "https://github.com/lando/redis/pull/62"
 		}
 	],
 	"releases": [

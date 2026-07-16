@@ -30,7 +30,15 @@
 			"url": "https://github.com/lando/postgres/issues/2"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T04:11:45Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/postgres/pull/75"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.6.0",
