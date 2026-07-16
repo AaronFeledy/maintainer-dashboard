@@ -14,11 +14,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-25T17:46:50Z",
+			"createdAt": "2026-07-16T17:43:54Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/varnish/pull/69"
+			"url": "https://github.com/lando/varnish/pull/70"
 		}
 	],
 	"releases": [
