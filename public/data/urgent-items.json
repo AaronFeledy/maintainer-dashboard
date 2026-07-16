@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-16T13:41:12.056Z",
+		"fetchedAt": "2026-07-16T15:29:07.389Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2612,15 +2612,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-24T21:06:53Z",
 			"url": "https://github.com/lando/desktop/pull/75",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/phpmyadmin",
-			"number": 82,
-			"title": "chore(deps): bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-25T13:54:04Z",
-			"url": "https://github.com/lando/phpmyadmin/pull/82",
 			"type": "pr"
 		},
 		{

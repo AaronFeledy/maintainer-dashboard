@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "chore(deps): bump the actions group with 2 updates",
+			"title": "chore(deps): bump the actions group across 1 directory with 3 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-25T13:54:04Z",
+			"createdAt": "2026-07-16T13:54:03Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/phpmyadmin/pull/82"
+			"url": "https://github.com/lando/phpmyadmin/pull/83"
 		}
 	],
 	"releases": [
