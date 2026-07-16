@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-16T19:03:04.919Z",
+		"fetchedAt": "2026-07-16T20:52:27.895Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2612,15 +2612,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-24T21:06:53Z",
 			"url": "https://github.com/lando/desktop/pull/75",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mariadb",
-			"number": 98,
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-25T20:43:20Z",
-			"url": "https://github.com/lando/mariadb/pull/98",
 			"type": "pr"
 		},
 		{

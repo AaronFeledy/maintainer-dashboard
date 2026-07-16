@@ -100,11 +100,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-25T20:43:20Z",
+			"createdAt": "2026-07-16T20:43:41Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/mariadb/pull/98"
+			"url": "https://github.com/lando/mariadb/pull/100"
 		},
 		{
 			"title": "Update default MariaDB version to 10.6, resolves lando/mariadb#25.",
