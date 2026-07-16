@@ -22,7 +22,15 @@
 			"url": "https://github.com/lando/mssql/issues/4"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T09:07:02Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mssql/pull/52"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.4.3",

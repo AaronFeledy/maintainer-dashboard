@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
 			"author": "dependabot",
-			"createdAt": "2026-01-23T07:22:48Z",
+			"createdAt": "2026-07-16T07:23:40Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/ruby/pull/65"
+			"url": "https://github.com/lando/ruby/pull/70"
 		}
 	],
 	"releases": [

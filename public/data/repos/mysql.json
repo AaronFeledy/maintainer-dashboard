@@ -56,6 +56,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T08:33:44Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mysql/pull/95"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:52Z",
