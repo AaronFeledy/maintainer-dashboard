@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 2 updates",
+			"title": "Bump the actions group across 1 directory with 3 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-26T21:13:10Z",
+			"createdAt": "2026-07-17T21:13:32Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/prepare-release-action/pull/29"
+			"url": "https://github.com/lando/prepare-release-action/pull/30"
 		}
 	],
 	"releases": [

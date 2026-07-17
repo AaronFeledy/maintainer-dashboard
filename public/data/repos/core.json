@@ -467,6 +467,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Restore Node 24 (and before) behavior as fs.existsSync() now throws deprecation warning",
+			"author": "kroh",
+			"createdAt": "2026-07-17T21:14:01Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/474"
+		},
+		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-17T12:06:10Z",

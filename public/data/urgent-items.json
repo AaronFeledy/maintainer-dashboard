@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-17T20:49:41.516Z",
+		"fetchedAt": "2026-07-17T22:43:59.510Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2612,24 +2612,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-24T21:06:53Z",
 			"url": "https://github.com/lando/desktop/pull/75",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/prepare-release-action",
-			"number": 29,
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-26T21:13:10Z",
-			"url": "https://github.com/lando/prepare-release-action/pull/29",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/nginx",
-			"number": 86,
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-26T22:13:11Z",
-			"url": "https://github.com/lando/nginx/pull/86",
 			"type": "pr"
 		},
 		{
