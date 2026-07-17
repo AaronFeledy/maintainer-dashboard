@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-17T11:18:24.687Z",
+		"fetchedAt": "2026-07-17T13:19:06.031Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2612,15 +2612,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-24T21:06:53Z",
 			"url": "https://github.com/lando/desktop/pull/75",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 470,
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-26T12:05:26Z",
-			"url": "https://github.com/lando/core/pull/470",
 			"type": "pr"
 		},
 		{
