@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-16T20:52:27.895Z",
+		"fetchedAt": "2026-07-17T02:17:58.714Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2612,15 +2612,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-24T21:06:53Z",
 			"url": "https://github.com/lando/desktop/pull/75",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/pantheon",
-			"number": 365,
-			"title": "build(deps): bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-25T21:53:14Z",
-			"url": "https://github.com/lando/pantheon/pull/365",
 			"type": "pr"
 		},
 		{
