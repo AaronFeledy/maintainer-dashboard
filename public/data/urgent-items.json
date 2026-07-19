@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-18T22:43:26.118Z",
+		"fetchedAt": "2026-07-19T02:20:48.317Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2837,6 +2837,69 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-14T20:13:37Z",
 			"url": "https://github.com/lando/python/pull/64",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/solr",
+			"number": 73,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T05:07:04Z",
+			"url": "https://github.com/lando/solr/pull/73",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/dotnet",
+			"number": 68,
+			"title": "Bump the actions group across 1 directory with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T09:13:52Z",
+			"url": "https://github.com/lando/dotnet/pull/68",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/go",
+			"number": 81,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T10:13:47Z",
+			"url": "https://github.com/lando/go/pull/81",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/memcached",
+			"number": 57,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T10:33:57Z",
+			"url": "https://github.com/lando/memcached/pull/57",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mailhog",
+			"number": 56,
+			"title": "Bump the actions group across 1 directory with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T10:33:58Z",
+			"url": "https://github.com/lando/mailhog/pull/56",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/acquia",
+			"number": 168,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T15:23:50Z",
+			"url": "https://github.com/lando/acquia/pull/168",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mongo",
+			"number": 63,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T19:04:18Z",
+			"url": "https://github.com/lando/mongo/pull/63",
 			"type": "pr"
 		}
 	]
