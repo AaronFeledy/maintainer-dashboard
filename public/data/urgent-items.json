@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-19T22:46:33.330Z",
+		"fetchedAt": "2026-07-20T02:36:16.906Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2900,6 +2900,105 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-15T19:04:18Z",
 			"url": "https://github.com/lando/mongo/pull/63",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/postgres",
+			"number": 75,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T04:11:45Z",
+			"url": "https://github.com/lando/postgres/pull/75",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/redis",
+			"number": 62,
+			"title": "build(deps): bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T04:33:34Z",
+			"url": "https://github.com/lando/redis/pull/62",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/node",
+			"number": 129,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T06:53:46Z",
+			"url": "https://github.com/lando/node/pull/129",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/ruby",
+			"number": 70,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T07:23:40Z",
+			"url": "https://github.com/lando/ruby/pull/70",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mysql",
+			"number": 95,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T08:33:44Z",
+			"url": "https://github.com/lando/mysql/pull/95",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mssql",
+			"number": 52,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T09:07:02Z",
+			"url": "https://github.com/lando/mssql/pull/52",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/phpmyadmin",
+			"number": 83,
+			"title": "chore(deps): bump the actions group across 1 directory with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T13:54:03Z",
+			"url": "https://github.com/lando/phpmyadmin/pull/83",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/tomcat",
+			"number": 56,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T15:43:41Z",
+			"url": "https://github.com/lando/tomcat/pull/56",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/varnish",
+			"number": 70,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T17:43:54Z",
+			"url": "https://github.com/lando/varnish/pull/70",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mariadb",
+			"number": 100,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T20:43:41Z",
+			"url": "https://github.com/lando/mariadb/pull/100",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 366,
+			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-16T21:53:52Z",
+			"url": "https://github.com/lando/pantheon/pull/366",
 			"type": "pr"
 		}
 	]
