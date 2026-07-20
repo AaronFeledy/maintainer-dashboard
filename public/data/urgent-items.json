@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-20T10:47:32.525Z",
+		"fetchedAt": "2026-07-20T13:57:02.299Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2013,15 +2013,6 @@
 		},
 		{
 			"repo": "lando/core",
-			"number": 386,
-			"title": "bell conflict",
-			"author": "haniframadhani",
-			"createdAt": "2025-09-09T08:34:41Z",
-			"url": "https://github.com/lando/core/issues/386",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
 			"number": 388,
 			"title": "It should be possible to opt out of mounting `/var/www` as a named mount since it can mess up certain containers such as adminer",
 			"author": "codebymikey",
@@ -2639,24 +2630,6 @@
 			"author": "todeveni",
 			"createdAt": "2026-06-29T08:55:04Z",
 			"url": "https://github.com/lando/node/pull/128",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/joomla",
-			"number": 79,
-			"title": "chore(deps): bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-29T11:05:20Z",
-			"url": "https://github.com/lando/joomla/pull/79",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/elasticsearch",
-			"number": 53,
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-29T11:24:41Z",
-			"url": "https://github.com/lando/elasticsearch/pull/53",
 			"type": "pr"
 		},
 		{
