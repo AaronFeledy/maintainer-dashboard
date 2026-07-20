@@ -30,11 +30,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 2 updates",
+			"title": "Bump the actions group across 1 directory with 3 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-29T20:14:05Z",
+			"createdAt": "2026-07-20T20:14:21Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/56"
+			"url": "https://github.com/lando/leia/pull/58"
 		},
 		{
 			"title": "fix: handle race condition in release promote job",

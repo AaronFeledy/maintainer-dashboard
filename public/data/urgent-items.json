@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-20T19:42:59.094Z",
+		"fetchedAt": "2026-07-20T21:07:25.749Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2630,15 +2630,6 @@
 			"author": "todeveni",
 			"createdAt": "2026-06-29T08:55:04Z",
 			"url": "https://github.com/lando/node/pull/128",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 56,
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-29T20:14:05Z",
-			"url": "https://github.com/lando/leia/pull/56",
 			"type": "pr"
 		},
 		{
