@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-20T02:36:16.906Z",
+		"fetchedAt": "2026-07-20T06:41:44.444Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2630,24 +2630,6 @@
 			"author": "florianPat",
 			"createdAt": "2026-06-28T18:26:57Z",
 			"url": "https://github.com/lando/lamp/pull/108",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/symfony",
-			"number": 92,
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-29T03:24:14Z",
-			"url": "https://github.com/lando/symfony/pull/92",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/laravel",
-			"number": 112,
-			"title": "Bump the actions group with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-06-29T06:23:58Z",
-			"url": "https://github.com/lando/laravel/pull/112",
 			"type": "pr"
 		},
 		{

@@ -59,11 +59,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump the actions group with 2 updates",
+			"title": "Bump the actions group across 1 directory with 3 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-29T06:23:58Z",
+			"createdAt": "2026-07-20T06:26:48Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/laravel/pull/112"
+			"url": "https://github.com/lando/laravel/pull/113"
 		}
 	],
 	"releases": [
