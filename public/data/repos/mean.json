@@ -22,11 +22,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-29T21:44:03Z",
+			"createdAt": "2026-07-20T21:44:21Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/mean/pull/69"
+			"url": "https://github.com/lando/mean/pull/70"
 		}
 	],
 	"releases": [

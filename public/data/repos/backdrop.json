@@ -26,11 +26,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
+			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-06-29T22:05:08Z",
+			"createdAt": "2026-07-20T22:05:23Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/backdrop/pull/94"
+			"url": "https://github.com/lando/backdrop/pull/96"
 		},
 		{
 			"title": "fix: handle race condition in release promote job",

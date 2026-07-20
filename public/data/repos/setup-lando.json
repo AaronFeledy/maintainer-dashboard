@@ -140,6 +140,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T21:54:29Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/setup-lando/pull/121"
+		},
+		{
 			"title": "fix: Compare versions in the right order so that lando setup is run if it is set and we are >= 3.24 and the -slim versions do not exist anymore",
 			"author": "florianPat",
 			"createdAt": "2026-01-02T14:56:23Z",
