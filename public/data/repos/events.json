@@ -12,7 +12,15 @@
 			"url": "https://github.com/lando/events/issues/10"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T08:24:56Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/events/pull/55"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v5.0.0",

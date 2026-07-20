@@ -30,6 +30,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T08:16:49Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/blog/pull/59"
+		},
+		{
 			"title": "Update 2021-01-26-pantheon-localdev-launch.md",
 			"author": "codyfishman",
 			"createdAt": "2024-09-10T18:33:46Z",
