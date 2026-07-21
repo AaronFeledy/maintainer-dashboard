@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-21T10:21:47.860Z",
+		"fetchedAt": "2026-07-21T13:38:26.842Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -84,9 +84,9 @@
 			"openPRs": 1,
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 12,
-			"lastPush": "2026-06-30T22:53:27Z",
-			"attentionScore": 435,
-			"unengagedCount": 3
+			"lastPush": "2026-07-21T11:07:18Z",
+			"attentionScore": 432,
+			"unengagedCount": 2
 		},
 		{
 			"name": "lando/leia",
