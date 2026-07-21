@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-20T22:55:31.620Z",
+		"fetchedAt": "2026-07-21T02:20:06.529Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2633,15 +2633,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/drupal",
-			"number": 191,
-			"title": "Bump actions/cache from 5 to 6 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-06-29T23:04:55Z",
-			"url": "https://github.com/lando/drupal/pull/191",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/legacy-metrics",
 			"number": 13,
 			"title": "Bump js-yaml from 3.14.1 to 3.15.0",
@@ -2900,6 +2891,42 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-16T21:53:52Z",
 			"url": "https://github.com/lando/pantheon/pull/366",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 473,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-17T12:06:10Z",
+			"url": "https://github.com/lando/core/pull/473",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/prepare-release-action",
+			"number": 30,
+			"title": "Bump the actions group across 1 directory with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-17T21:13:32Z",
+			"url": "https://github.com/lando/prepare-release-action/pull/30",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 474,
+			"title": "Restore Node 24 (and before) behavior as fs.existsSync() now throws deprecation warning",
+			"author": "kroh",
+			"createdAt": "2026-07-17T21:14:01Z",
+			"url": "https://github.com/lando/core/pull/474",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/nginx",
+			"number": 87,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-17T22:13:29Z",
+			"url": "https://github.com/lando/nginx/pull/87",
 			"type": "pr"
 		}
 	]
