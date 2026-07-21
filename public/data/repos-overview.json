@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-21T15:39:41.075Z",
+		"fetchedAt": "2026-07-21T17:13:07.261Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T00:38:59Z",
-			"attentionScore": 735,
+			"attentionScore": 735.5,
 			"unengagedCount": 10
 		},
 		{
@@ -145,7 +145,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 310,
+			"attentionScore": 310.5,
 			"unengagedCount": 1
 		},
 		{
@@ -385,8 +385,20 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-07-16T04:11:45Z",
-			"attentionScore": 168.5,
+			"attentionScore": 169,
 			"unengagedCount": 2
+		},
+		{
+			"name": "lando/mongo",
+			"description": "The Official MongoDB Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2025-09-01T15:49:33Z",
+			"commitsSinceRelease": 20,
+			"lastPush": "2026-07-15T19:04:18Z",
+			"attentionScore": 166.5,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/mean",
@@ -398,18 +410,6 @@
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-07-20T21:44:20Z",
 			"attentionScore": 166.5,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/mongo",
-			"description": "The Official MongoDB Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2025-09-01T15:49:33Z",
-			"commitsSinceRelease": 20,
-			"lastPush": "2026-07-15T19:04:18Z",
-			"attentionScore": 166,
 			"unengagedCount": 1
 		},
 		{
@@ -577,7 +577,7 @@
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-14T12:04:17Z",
-			"attentionScore": 92.5,
+			"attentionScore": 93,
 			"unengagedCount": 5
 		},
 		{
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-07-20T11:06:33Z",
-			"attentionScore": 82,
+			"attentionScore": 82.5,
 			"unengagedCount": 1
 		},
 		{
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-16T15:43:40Z",
-			"attentionScore": 71,
+			"attentionScore": 71.5,
 			"unengagedCount": 1
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-16T04:33:34Z",
-			"attentionScore": 64,
+			"attentionScore": 64.5,
 			"unengagedCount": 1
 		},
 		{
