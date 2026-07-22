@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-21T22:51:51.351Z",
+		"fetchedAt": "2026-07-22T02:12:40.983Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2918,6 +2918,33 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-17T22:13:29Z",
 			"url": "https://github.com/lando/nginx/pull/87",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/apache",
+			"number": 64,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-18T01:02:53Z",
+			"url": "https://github.com/lando/apache/pull/64",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 147,
+			"title": "Bump the actions group across 1 directory with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-18T02:43:56Z",
+			"url": "https://github.com/lando/core-next/pull/147",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/vitepress-theme-default-plus",
+			"number": 104,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-18T03:52:31Z",
+			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/104",
 			"type": "pr"
 		}
 	]
