@@ -467,6 +467,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Fix sudo bell with stdin",
+			"author": "AaronFeledy",
+			"createdAt": "2026-07-23T14:11:21Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/475"
+		},
+		{
 			"title": "Restore Node 24 (and before) behavior as fs.existsSync() now throws deprecation warning",
 			"author": "kroh",
 			"createdAt": "2026-07-17T21:14:01Z",
