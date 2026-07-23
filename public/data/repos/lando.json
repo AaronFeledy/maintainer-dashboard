@@ -98,16 +98,6 @@
 			"url": "https://github.com/lando/lando/issues/3823"
 		},
 		{
-			"title": "Lando setup crashes with Error: write EPIPE",
-			"author": "bmunslow",
-			"labels": [
-				"setup"
-			],
-			"createdAt": "2025-11-04T11:18:58Z",
-			"commentCount": 3,
-			"url": "https://github.com/lando/lando/issues/3818"
-		},
-		{
 			"title": "Gentoo: Could not locate package manager, failing to install the CA",
 			"author": "LelouchFR",
 			"labels": [
@@ -478,6 +468,16 @@
 			"createdAt": "2023-05-25T19:55:49Z",
 			"commentCount": 3,
 			"url": "https://github.com/lando/lando/issues/3573"
+		},
+		{
+			"title": "Make it possible to set language and locale in the recipe",
+			"author": "yorkshire-pudding",
+			"labels": [
+				"feature"
+			],
+			"createdAt": "2023-05-17T14:29:20Z",
+			"commentCount": 3,
+			"url": "https://github.com/lando/lando/issues/3571"
 		}
 	],
 	"pullRequests": [
