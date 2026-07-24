@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-23T22:52:07.084Z",
+		"fetchedAt": "2026-07-24T02:21:05.733Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2945,6 +2945,159 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-18T03:52:31Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/104",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/symfony",
+			"number": 93,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T03:24:53Z",
+			"url": "https://github.com/lando/symfony/pull/93",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/laravel",
+			"number": 113,
+			"title": "Bump the actions group across 1 directory with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T06:26:48Z",
+			"url": "https://github.com/lando/laravel/pull/113",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/website",
+			"number": 80,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T07:16:32Z",
+			"url": "https://github.com/lando/website/pull/80",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/blog",
+			"number": 59,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T08:16:49Z",
+			"url": "https://github.com/lando/blog/pull/59",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/events",
+			"number": 55,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T08:24:56Z",
+			"url": "https://github.com/lando/events/pull/55",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/joomla",
+			"number": 80,
+			"title": "chore(deps): bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T11:06:33Z",
+			"url": "https://github.com/lando/joomla/pull/80",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/elasticsearch",
+			"number": 54,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T11:24:56Z",
+			"url": "https://github.com/lando/elasticsearch/pull/54",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lagoon",
+			"number": 109,
+			"title": "Bump the actions group across 1 directory with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T14:15:08Z",
+			"url": "https://github.com/lando/lagoon/pull/109",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/php",
+			"number": 251,
+			"title": "chore(deps): bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T17:05:25Z",
+			"url": "https://github.com/lando/php/pull/251",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 76,
+			"title": "Bump axios from 0.32.0 to 0.33.0",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T18:11:23Z",
+			"url": "https://github.com/lando/desktop/pull/76",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/devtool",
+			"number": 36,
+			"title": "Bump axios from 1.16.0 to 1.18.0",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T18:19:03Z",
+			"url": "https://github.com/lando/devtool/pull/36",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 58,
+			"title": "Bump the actions group across 1 directory with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T20:14:21Z",
+			"url": "https://github.com/lando/leia/pull/58",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mean",
+			"number": 70,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T21:44:21Z",
+			"url": "https://github.com/lando/mean/pull/70",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/setup-lando",
+			"number": 121,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T21:54:29Z",
+			"url": "https://github.com/lando/setup-lando/pull/121",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/backdrop",
+			"number": 96,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T22:05:23Z",
+			"url": "https://github.com/lando/backdrop/pull/96",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mailpit",
+			"number": 57,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T22:24:43Z",
+			"url": "https://github.com/lando/mailpit/pull/57",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/drupal",
+			"number": 192,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T23:05:18Z",
+			"url": "https://github.com/lando/drupal/pull/192",
 			"type": "pr"
 		}
 	]
