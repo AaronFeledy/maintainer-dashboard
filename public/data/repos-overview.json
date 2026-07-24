@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-24T10:12:30.950Z",
+		"fetchedAt": "2026-07-24T13:27:26.364Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -216,7 +216,7 @@
 			"openPRs": 21,
 			"lastRelease": "2026-07-03T05:49:00Z",
 			"commitsSinceRelease": 2,
-			"lastPush": "2026-07-23T16:15:00Z",
+			"lastPush": "2026-07-24T12:05:57Z",
 			"attentionScore": 250.5,
 			"unengagedCount": 48
 		},
@@ -305,6 +305,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/telemetry",
+			"description": null,
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": null,
+			"commitsSinceRelease": 0,
+			"lastPush": "2026-07-24T12:48:03Z",
+			"attentionScore": 184.5,
+			"unengagedCount": 0
+		},
+		{
 			"name": "lando/lando-update-scripts",
 			"description": "Some starting points for ad-hoc scripts when bulk updating Lando plugins.",
 			"language": "Shell",
@@ -313,18 +325,6 @@
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
 			"lastPush": "2025-07-19T02:18:43Z",
-			"attentionScore": 182.5,
-			"unengagedCount": 0
-		},
-		{
-			"name": "lando/telemetry",
-			"description": null,
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 0,
-			"lastRelease": null,
-			"commitsSinceRelease": 0,
-			"lastPush": "2026-06-24T17:57:28Z",
 			"attentionScore": 182.5,
 			"unengagedCount": 0
 		},

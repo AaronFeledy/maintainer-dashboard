@@ -5,39 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump js-yaml from 4.1.0 to 4.2.0",
+			"title": "Bump brace-expansion from 1.1.11 to 1.1.16",
 			"author": "dependabot",
-			"createdAt": "2026-06-24T00:25:53Z",
+			"createdAt": "2026-07-24T12:48:03Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/telemetry/pull/10"
-		},
-		{
-			"title": "Bump picomatch from 2.3.1 to 2.3.2",
-			"author": "dependabot",
-			"createdAt": "2026-06-24T00:25:51Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/telemetry/pull/9"
-		},
-		{
-			"title": "Bump flatted from 3.2.7 to 3.4.2",
-			"author": "dependabot",
-			"createdAt": "2026-06-24T00:25:51Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/telemetry/pull/8"
-		},
-		{
-			"title": "Bump minimatch from 3.1.2 to 3.1.5",
-			"author": "dependabot",
-			"createdAt": "2026-06-24T00:25:51Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/telemetry/pull/7"
-		},
-		{
-			"title": "Bump lodash from 4.17.21 to 4.18.1",
-			"author": "dependabot",
-			"createdAt": "2026-06-24T00:25:37Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/telemetry/pull/6"
+			"url": "https://github.com/lando/telemetry/pull/11"
 		}
 	],
 	"releases": []
