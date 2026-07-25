@@ -465,6 +465,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump fast-uri from 3.1.2 to 3.1.4 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-07-25T07:42:22Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/476"
+		},
+		{
 			"title": "Restore Node 24 (and before) behavior as fs.existsSync() now throws deprecation warning",
 			"author": "kroh",
 			"createdAt": "2026-07-17T21:14:01Z",

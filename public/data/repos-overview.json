@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-25T06:12:41.397Z",
+		"fetchedAt": "2026-07-25T09:41:49.641Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -177,11 +177,11 @@
 			"description": null,
 			"language": "Vue",
 			"openIssues": 27,
-			"openPRs": 3,
+			"openPRs": 4,
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
-			"lastPush": "2026-07-20T18:11:22Z",
-			"attentionScore": 290.5,
+			"lastPush": "2026-07-25T08:28:43Z",
+			"attentionScore": 292.5,
 			"unengagedCount": 25
 		},
 		{
@@ -197,6 +197,18 @@
 			"unengagedCount": 27
 		},
 		{
+			"name": "lando/core",
+			"description": "Current Lando v3 runtime",
+			"language": "JavaScript",
+			"openIssues": 54,
+			"openPRs": 22,
+			"lastRelease": "2026-07-03T05:49:00Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-07-25T07:42:21Z",
+			"attentionScore": 253,
+			"unengagedCount": 48
+		},
+		{
 			"name": "lando/devtool",
 			"description": "???",
 			"language": "JavaScript",
@@ -207,18 +219,6 @@
 			"lastPush": "2026-07-20T18:19:02Z",
 			"attentionScore": 251.5,
 			"unengagedCount": 16
-		},
-		{
-			"name": "lando/core",
-			"description": "Current Lando v3 runtime",
-			"language": "JavaScript",
-			"openIssues": 54,
-			"openPRs": 21,
-			"lastRelease": "2026-07-03T05:49:00Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-07-24T12:05:57Z",
-			"attentionScore": 251,
-			"unengagedCount": 48
 		},
 		{
 			"name": "lando/auto-deploy-action",
@@ -317,6 +317,18 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 20,
+			"openPRs": 7,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 23,
+			"lastPush": "2026-07-25T08:55:16Z",
+			"attentionScore": 183.5,
+			"unengagedCount": 12
+		},
+		{
 			"name": "lando/lando-update-scripts",
 			"description": "Some starting points for ad-hoc scripts when bulk updating Lando plugins.",
 			"language": "Shell",
@@ -351,18 +363,6 @@
 			"lastPush": "2024-11-04T19:31:21Z",
 			"attentionScore": 182.5,
 			"unengagedCount": 0
-		},
-		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 20,
-			"openPRs": 6,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-07-18T02:43:55Z",
-			"attentionScore": 181.5,
-			"unengagedCount": 12
 		},
 		{
 			"name": "lando/memcached",

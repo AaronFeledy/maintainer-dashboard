@@ -200,6 +200,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump fast-uri from 3.1.2 to 3.1.4 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-07-25T08:55:17Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core-next/pull/148"
+		},
+		{
 			"title": "Bump the actions group across 1 directory with 3 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-18T02:43:56Z",
