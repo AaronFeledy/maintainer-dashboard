@@ -5,46 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump @babel/core from 7.20.5 to 7.29.7",
+			"title": "Bump immutable from 4.3.8 to 4.3.9",
 			"author": "dependabot",
-			"createdAt": "2026-06-21T17:16:27Z",
+			"createdAt": "2026-07-26T00:59:57Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/plugin-test/pull/13"
-		},
-		{
-			"title": "Bump postcss from 8.4.31 to 8.5.10",
-			"author": "dependabot",
-			"createdAt": "2026-04-25T00:02:15Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/plugin-test/pull/12"
-		},
-		{
-			"title": "Bump lodash from 4.17.21 to 4.18.1",
-			"author": "dependabot",
-			"createdAt": "2026-04-07T04:53:02Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/plugin-test/pull/11"
-		},
-		{
-			"title": "Bump picomatch from 2.3.1 to 2.3.2",
-			"author": "dependabot",
-			"createdAt": "2026-03-27T09:59:34Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/plugin-test/pull/10"
-		},
-		{
-			"title": "Bump immutable from 4.1.0 to 4.3.8",
-			"author": "dependabot",
-			"createdAt": "2026-03-05T05:30:19Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/plugin-test/pull/8"
-		},
-		{
-			"title": "Bump prismjs from 1.29.0 to 1.30.0",
-			"author": "dependabot",
-			"createdAt": "2025-09-11T14:23:45Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/plugin-test/pull/6"
+			"url": "https://github.com/lando/plugin-test/pull/14"
 		}
 	],
 	"releases": [
