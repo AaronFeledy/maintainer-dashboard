@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-26T22:55:53.898Z",
+		"fetchedAt": "2026-07-27T02:32:53.826Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,8 +13,8 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-07-23T13:38:40Z",
-			"attentionScore": 855.5,
-			"unengagedCount": 1
+			"attentionScore": 858.5,
+			"unengagedCount": 2
 		},
 		{
 			"name": "lando/lando-dev-container-feature",
@@ -85,8 +85,8 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-07-23T20:18:07Z",
-			"attentionScore": 440,
-			"unengagedCount": 3
+			"attentionScore": 443,
+			"unengagedCount": 4
 		},
 		{
 			"name": "lando/leia",
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 371.5,
+			"attentionScore": 372,
 			"unengagedCount": 1
 		},
 		{
@@ -121,7 +121,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 31,
 			"lastPush": "2026-07-20T14:15:07Z",
-			"attentionScore": 334,
+			"attentionScore": 334.5,
 			"unengagedCount": 6
 		},
 		{
@@ -201,11 +201,11 @@
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
 			"openIssues": 54,
-			"openPRs": 22,
+			"openPRs": 23,
 			"lastRelease": "2026-07-03T05:49:00Z",
 			"commitsSinceRelease": 2,
-			"lastPush": "2026-07-25T07:42:21Z",
-			"attentionScore": 253.5,
+			"lastPush": "2026-07-27T01:05:40Z",
+			"attentionScore": 255.5,
 			"unengagedCount": 48
 		},
 		{
@@ -277,7 +277,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-07-25T09:44:36Z",
-			"attentionScore": 188,
+			"attentionScore": 188.5,
 			"unengagedCount": 0
 		},
 		{
@@ -421,8 +421,8 @@
 			"lastRelease": "2025-12-06T00:49:38Z",
 			"commitsSinceRelease": 27,
 			"lastPush": "2026-07-23T16:24:53Z",
-			"attentionScore": 152,
-			"unengagedCount": 7
+			"attentionScore": 155.5,
+			"unengagedCount": 8
 		},
 		{
 			"name": "lando/solr",
@@ -493,7 +493,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 121,
+			"attentionScore": 121.5,
 			"unengagedCount": 1
 		},
 		{
@@ -505,7 +505,7 @@
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-07-20T17:05:25Z",
-			"attentionScore": 106,
+			"attentionScore": 106.5,
 			"unengagedCount": 5
 		},
 		{
@@ -565,7 +565,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-07-16T07:23:39Z",
-			"attentionScore": 97,
+			"attentionScore": 97.5,
 			"unengagedCount": 1
 		},
 		{
@@ -653,6 +653,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/phpmyadmin",
+			"description": "The Official phpMyAdmin Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T00:37:20Z",
+			"commitsSinceRelease": 6,
+			"lastPush": "2026-07-16T13:54:03Z",
+			"attentionScore": 82,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/go",
 			"description": "The Official Go Lando plugin.",
 			"language": "JavaScript",
@@ -677,18 +689,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/phpmyadmin",
-			"description": "The Official phpMyAdmin Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T00:37:20Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-07-16T13:54:03Z",
-			"attentionScore": 81.5,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/apache",
 			"description": "The Official Apache Lando Plugin",
 			"language": "JavaScript",
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-07-18T01:02:53Z",
-			"attentionScore": 75,
+			"attentionScore": 75.5,
 			"unengagedCount": 1
 		},
 		{
@@ -781,8 +781,8 @@
 			"lastRelease": "2026-07-03T05:54:02Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-07-23T21:33:30Z",
-			"attentionScore": 13.5,
-			"unengagedCount": 0
+			"attentionScore": 16.5,
+			"unengagedCount": 1
 		}
 	]
 }

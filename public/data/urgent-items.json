@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-26T22:55:53.898Z",
+		"fetchedAt": "2026-07-27T02:32:53.826Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3107,6 +3107,42 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-21T11:07:13Z",
 			"url": "https://github.com/lando/transfer-issue-action/pull/122",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/legacy-metrics",
+			"number": 14,
+			"title": "Bump brace-expansion from 1.1.11 to 1.1.16",
+			"author": "dependabot",
+			"createdAt": "2026-07-23T13:38:41Z",
+			"url": "https://github.com/lando/legacy-metrics/pull/14",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/node",
+			"number": 130,
+			"title": "Bump brace-expansion from 1.1.11 to 1.1.16 in /examples/20",
+			"author": "dependabot",
+			"createdAt": "2026-07-23T16:24:53Z",
+			"url": "https://github.com/lando/node/pull/130",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/transfer-issue-action",
+			"number": 123,
+			"title": "Bump brace-expansion and eslint",
+			"author": "dependabot",
+			"createdAt": "2026-07-23T20:18:08Z",
+			"url": "https://github.com/lando/transfer-issue-action/pull/123",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/legacy-cli",
+			"number": 309,
+			"title": "Bump immutable from 4.3.5 to 4.3.9",
+			"author": "dependabot",
+			"createdAt": "2026-07-23T21:33:31Z",
+			"url": "https://github.com/lando/legacy-cli/pull/309",
 			"type": "pr"
 		}
 	]
