@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-28T13:55:31.052Z",
+		"fetchedAt": "2026-07-28T16:03:24.577Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T00:38:59Z",
-			"attentionScore": 738.5,
+			"attentionScore": 739,
 			"unengagedCount": 10
 		},
 		{
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-06-24T17:55:50Z",
-			"attentionScore": 576.5,
+			"attentionScore": 577,
 			"unengagedCount": 2
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-07-23T20:18:07Z",
-			"attentionScore": 443.5,
+			"attentionScore": 444,
 			"unengagedCount": 4
 		},
 		{
@@ -229,7 +229,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 215.5,
+			"attentionScore": 216,
 			"unengagedCount": 2
 		},
 		{
@@ -245,6 +245,18 @@
 			"unengagedCount": 7
 		},
 		{
+			"name": "lando/mariadb",
+			"description": "The Official MariaDB Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 10,
+			"openPRs": 2,
+			"lastRelease": "2025-09-08T15:30:51Z",
+			"commitsSinceRelease": 16,
+			"lastPush": "2026-07-16T20:43:41Z",
+			"attentionScore": 196.5,
+			"unengagedCount": 7
+		},
+		{
 			"name": "lando/gitpod",
 			"description": null,
 			"language": "Dockerfile",
@@ -255,18 +267,6 @@
 			"lastPush": "2026-06-24T18:31:48Z",
 			"attentionScore": 196.5,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/mariadb",
-			"description": "The Official MariaDB Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 10,
-			"openPRs": 2,
-			"lastRelease": "2025-09-08T15:30:51Z",
-			"commitsSinceRelease": 16,
-			"lastPush": "2026-07-16T20:43:41Z",
-			"attentionScore": 196,
-			"unengagedCount": 7
 		},
 		{
 			"name": "lando/telemetry",
@@ -293,18 +293,6 @@
 			"unengagedCount": 0
 		},
 		{
-			"name": "lando/drupal-dev-environment",
-			"description": "Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.",
-			"language": "PHP",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": null,
-			"commitsSinceRelease": 0,
-			"lastPush": "2022-10-26T18:49:47Z",
-			"attentionScore": 187.5,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/mysql",
 			"description": "The Official MySQL Lando Plugin",
 			"language": "JavaScript",
@@ -313,7 +301,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-07-16T08:33:43Z",
-			"attentionScore": 187,
+			"attentionScore": 187.5,
 			"unengagedCount": 4
 		},
 		{
@@ -325,8 +313,20 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-07-27T02:50:39Z",
-			"attentionScore": 187,
+			"attentionScore": 187.5,
 			"unengagedCount": 12
+		},
+		{
+			"name": "lando/drupal-dev-environment",
+			"description": "Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.",
+			"language": "PHP",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": null,
+			"commitsSinceRelease": 0,
+			"lastPush": "2022-10-26T18:49:47Z",
+			"attentionScore": 187.5,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/lando-update-scripts",
@@ -397,7 +397,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-07-16T04:11:45Z",
-			"attentionScore": 172,
+			"attentionScore": 172.5,
 			"unengagedCount": 2
 		},
 		{
@@ -409,7 +409,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-07-15T19:04:18Z",
-			"attentionScore": 169.5,
+			"attentionScore": 170,
 			"unengagedCount": 1
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-07-15T05:07:04Z",
-			"attentionScore": 141.5,
+			"attentionScore": 142,
 			"unengagedCount": 4
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2026-03-05T14:33:33Z",
 			"commitsSinceRelease": 6,
 			"lastPush": "2026-07-18T03:52:31Z",
-			"attentionScore": 127,
+			"attentionScore": 127.5,
 			"unengagedCount": 12
 		},
 		{
@@ -709,7 +709,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-16T15:43:40Z",
-			"attentionScore": 74.5,
+			"attentionScore": 75,
 			"unengagedCount": 1
 		},
 		{
