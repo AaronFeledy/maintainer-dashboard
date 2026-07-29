@@ -465,6 +465,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: keep plugin list sorted alphabetically",
+			"author": "AaronFeledy",
+			"createdAt": "2026-07-29T04:30:58Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/478"
+		},
+		{
 			"title": "Bump find-my-way from 9.6.0 to 9.7.0 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-07-27T01:05:40Z",
