@@ -20,14 +20,6 @@
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/90"
 		},
 		{
-			"title": "Please make Team link to Github profiles not email address",
-			"author": "yorkshire-pudding",
-			"labels": [],
-			"createdAt": "2025-05-10T23:39:34Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/78"
-		},
-		{
 			"title": "Theme not exported",
 			"author": "spasticninja",
 			"labels": [],
@@ -111,20 +103,6 @@
 		}
 	],
 	"pullRequests": [
-		{
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-18T03:52:31Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/104"
-		},
-		{
-			"title": "feat: resolve team avatars to GitHub profiles (#78)",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-29T00:28:40Z",
-			"reviewCount": 9,
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/101"
-		},
 		{
 			"title": "Call user defined markdown configuration.",
 			"author": "dbrnz",
