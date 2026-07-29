@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-29T17:11:07.583Z",
+		"fetchedAt": "2026-07-29T19:08:06.988Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2885,15 +2885,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 473,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-17T12:06:10Z",
-			"url": "https://github.com/lando/core/pull/473",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/prepare-release-action",
 			"number": 30,
 			"title": "Bump the actions group across 1 directory with 3 updates",
@@ -3152,15 +3143,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-24T12:48:03Z",
 			"url": "https://github.com/lando/telemetry/pull/11",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 476,
-			"title": "Bump fast-uri from 3.1.2 to 3.1.4 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-07-25T07:42:22Z",
-			"url": "https://github.com/lando/core/pull/476",
 			"type": "pr"
 		},
 		{
