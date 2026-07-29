@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-28T22:54:16.664Z",
+		"fetchedAt": "2026-07-29T02:11:16.426Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3152,6 +3152,51 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-24T12:48:03Z",
 			"url": "https://github.com/lando/telemetry/pull/11",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 476,
+			"title": "Bump fast-uri from 3.1.2 to 3.1.4 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-07-25T07:42:22Z",
+			"url": "https://github.com/lando/core/pull/476",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 77,
+			"title": "Bump immutable from 4.1.0 to 4.3.9",
+			"author": "dependabot",
+			"createdAt": "2026-07-25T08:28:44Z",
+			"url": "https://github.com/lando/desktop/pull/77",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core-next",
+			"number": 148,
+			"title": "Bump fast-uri from 3.1.2 to 3.1.4 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-07-25T08:55:17Z",
+			"url": "https://github.com/lando/core-next/pull/148",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/argv",
+			"number": 19,
+			"title": "Bump fast-uri from 3.1.2 to 3.1.4",
+			"author": "dependabot",
+			"createdAt": "2026-07-25T09:44:37Z",
+			"url": "https://github.com/lando/argv/pull/19",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 78,
+			"title": "Bump shell-quote from 1.8.4 to 1.10.0",
+			"author": "dependabot",
+			"createdAt": "2026-07-25T23:44:07Z",
+			"url": "https://github.com/lando/desktop/pull/78",
 			"type": "pr"
 		}
 	]
