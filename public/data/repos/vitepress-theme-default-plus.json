@@ -4,14 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "mvb fails on fork PRs: branch doesn't exist in upstream repo",
-			"author": "AaronFeledy",
-			"labels": [],
-			"createdAt": "2026-01-23T00:06:40Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/93"
-		},
-		{
 			"title": "Revert to origenal color scheme",
 			"author": "A53o",
 			"labels": [],
@@ -102,15 +94,7 @@
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/2"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Call user defined markdown configuration.",
-			"author": "dbrnz",
-			"createdAt": "2025-03-16T07:22:31Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/74"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.1.5",

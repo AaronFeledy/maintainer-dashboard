@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-29T22:56:46.753Z",
+		"fetchedAt": "2026-07-30T02:00:32.200Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1761,15 +1761,6 @@
 		},
 		{
 			"repo": "lando/vitepress-theme-default-plus",
-			"number": 74,
-			"title": "Call user defined markdown configuration.",
-			"author": "dbrnz",
-			"createdAt": "2025-03-16T07:22:31Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/pull/74",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/vitepress-theme-default-plus",
 			"number": 75,
 			"title": "Error while updating dependencies",
 			"author": "szarkans",
@@ -2171,15 +2162,6 @@
 			"author": "kaszarobert",
 			"createdAt": "2026-01-21T09:36:25Z",
 			"url": "https://github.com/lando/lando/issues/3834",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/vitepress-theme-default-plus",
-			"number": 93,
-			"title": "mvb fails on fork PRs: branch doesn't exist in upstream repo",
-			"author": "AaronFeledy",
-			"createdAt": "2026-01-23T00:06:40Z",
-			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/93",
 			"type": "issue"
 		},
 		{
@@ -3161,6 +3143,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-25T23:44:07Z",
 			"url": "https://github.com/lando/desktop/pull/78",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/plugin-test",
+			"number": 14,
+			"title": "Bump immutable from 4.3.8 to 4.3.9",
+			"author": "dependabot",
+			"createdAt": "2026-07-26T00:59:57Z",
+			"url": "https://github.com/lando/plugin-test/pull/14",
 			"type": "pr"
 		}
 	]
