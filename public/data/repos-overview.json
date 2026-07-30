@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-30T17:21:40.436Z",
+		"fetchedAt": "2026-07-30T19:18:58.299Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -385,7 +385,7 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-07-30T02:39:41Z",
-			"attentionScore": 174,
+			"attentionScore": 174.5,
 			"unengagedCount": 2
 		},
 		{
@@ -456,7 +456,7 @@
 			"openPRs": 1,
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 14,
-			"lastPush": "2026-07-30T02:39:43Z",
+			"lastPush": "2026-07-30T17:43:40Z",
 			"attentionScore": 123.5,
 			"unengagedCount": 1
 		},
@@ -637,8 +637,20 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-07-30T02:39:57Z",
-			"attentionScore": 86,
+			"attentionScore": 86.5,
 			"unengagedCount": 2
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 9,
+			"lastPush": "2026-07-30T02:40:06Z",
+			"attentionScore": 83.5,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/mailpit",
@@ -662,18 +674,6 @@
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
 			"attentionScore": 83.5,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 9,
-			"lastPush": "2026-07-30T02:40:06Z",
-			"attentionScore": 83,
 			"unengagedCount": 1
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-06-27T19:13:14Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T08:16:48Z",
-			"attentionScore": 35,
+			"attentionScore": 35.5,
 			"unengagedCount": 4
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-06-27T18:53:58Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T07:16:31Z",
-			"attentionScore": 26,
+			"attentionScore": 26.5,
 			"unengagedCount": 2
 		},
 		{
