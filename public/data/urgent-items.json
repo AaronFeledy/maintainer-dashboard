@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-30T21:03:29.096Z",
+		"fetchedAt": "2026-07-30T23:00:59.027Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2846,15 +2846,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-16T20:43:41Z",
 			"url": "https://github.com/lando/mariadb/pull/100",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/pantheon",
-			"number": 366,
-			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T21:53:52Z",
-			"url": "https://github.com/lando/pantheon/pull/366",
 			"type": "pr"
 		},
 		{
