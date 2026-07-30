@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-30T02:00:32.200Z",
+		"fetchedAt": "2026-07-30T06:23:19.005Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -71,8 +71,8 @@
 			"openIssues": 67,
 			"openPRs": 17,
 			"lastRelease": "2024-11-04T21:03:53Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-06-23T20:15:29Z",
+			"commitsSinceRelease": 24,
+			"lastPush": "2026-07-30T02:39:47Z",
 			"attentionScore": 549,
 			"unengagedCount": 44
 		},
@@ -119,9 +119,9 @@
 			"openIssues": 12,
 			"openPRs": 4,
 			"lastRelease": "2024-12-11T02:08:03Z",
-			"commitsSinceRelease": 31,
-			"lastPush": "2026-07-20T14:15:07Z",
-			"attentionScore": 335.5,
+			"commitsSinceRelease": 32,
+			"lastPush": "2026-07-30T02:39:44Z",
+			"attentionScore": 336,
 			"unengagedCount": 6
 		},
 		{
@@ -131,8 +131,8 @@
 			"openIssues": 2,
 			"openPRs": 2,
 			"lastRelease": "2024-12-06T19:42:06Z",
-			"commitsSinceRelease": 29,
-			"lastPush": "2026-07-14T20:13:37Z",
+			"commitsSinceRelease": 30,
+			"lastPush": "2026-07-30T02:39:39Z",
 			"attentionScore": 318,
 			"unengagedCount": 4
 		},
@@ -155,8 +155,8 @@
 			"openIssues": 4,
 			"openPRs": 2,
 			"lastRelease": "2024-12-06T19:41:02Z",
-			"commitsSinceRelease": 27,
-			"lastPush": "2026-07-15T10:33:58Z",
+			"commitsSinceRelease": 28,
+			"lastPush": "2026-07-30T02:39:47Z",
 			"attentionScore": 314,
 			"unengagedCount": 2
 		},
@@ -167,8 +167,8 @@
 			"openIssues": 2,
 			"openPRs": 1,
 			"lastRelease": "2024-12-06T19:41:26Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-07-16T09:07:01Z",
+			"commitsSinceRelease": 24,
+			"lastPush": "2026-07-30T02:40:26Z",
 			"attentionScore": 307,
 			"unengagedCount": 1
 		},
@@ -193,7 +193,7 @@
 			"lastRelease": "2026-07-03T05:53:56Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-07-03T05:53:56Z",
-			"attentionScore": 275,
+			"attentionScore": 275.5,
 			"unengagedCount": 27
 		},
 		{
@@ -204,7 +204,7 @@
 			"openPRs": 2,
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
-			"lastPush": "2026-07-20T18:19:02Z",
+			"lastPush": "2026-07-30T02:42:57Z",
 			"attentionScore": 251.5,
 			"unengagedCount": 16
 		},
@@ -215,9 +215,9 @@
 			"openIssues": 54,
 			"openPRs": 20,
 			"lastRelease": "2026-07-03T05:49:00Z",
-			"commitsSinceRelease": 4,
-			"lastPush": "2026-07-29T18:45:22Z",
-			"attentionScore": 248,
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-07-30T02:39:56Z",
+			"attentionScore": 248.5,
 			"unengagedCount": 47
 		},
 		{
@@ -239,8 +239,8 @@
 			"openIssues": 15,
 			"openPRs": 3,
 			"lastRelease": "2025-08-31T20:57:45Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-07-20T21:54:29Z",
+			"commitsSinceRelease": 24,
+			"lastPush": "2026-07-30T02:39:41Z",
 			"attentionScore": 208,
 			"unengagedCount": 7
 		},
@@ -251,8 +251,8 @@
 			"openIssues": 10,
 			"openPRs": 2,
 			"lastRelease": "2025-09-08T15:30:51Z",
-			"commitsSinceRelease": 16,
-			"lastPush": "2026-07-16T20:43:41Z",
+			"commitsSinceRelease": 17,
+			"lastPush": "2026-07-30T02:39:41Z",
 			"attentionScore": 197,
 			"unengagedCount": 7
 		},
@@ -287,8 +287,8 @@
 			"openIssues": 20,
 			"openPRs": 8,
 			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-07-27T02:50:39Z",
+			"commitsSinceRelease": 24,
+			"lastPush": "2026-07-30T02:40:32Z",
 			"attentionScore": 191,
 			"unengagedCount": 13
 		},
@@ -311,8 +311,8 @@
 			"openIssues": 6,
 			"openPRs": 2,
 			"lastRelease": "2025-08-31T14:00:11Z",
-			"commitsSinceRelease": 24,
-			"lastPush": "2026-07-16T08:33:43Z",
+			"commitsSinceRelease": 25,
+			"lastPush": "2026-07-30T02:39:52Z",
 			"attentionScore": 188,
 			"unengagedCount": 4
 		},
@@ -371,8 +371,8 @@
 			"openIssues": 0,
 			"openPRs": 2,
 			"lastRelease": "2025-08-28T19:28:14Z",
-			"commitsSinceRelease": 17,
-			"lastPush": "2026-07-15T10:33:56Z",
+			"commitsSinceRelease": 18,
+			"lastPush": "2026-07-30T02:39:47Z",
 			"attentionScore": 177.5,
 			"unengagedCount": 2
 		},
@@ -383,8 +383,8 @@
 			"openIssues": 2,
 			"openPRs": 1,
 			"lastRelease": "2025-09-04T19:14:42Z",
-			"commitsSinceRelease": 25,
-			"lastPush": "2026-07-20T21:44:20Z",
+			"commitsSinceRelease": 26,
+			"lastPush": "2026-07-30T02:39:41Z",
 			"attentionScore": 174,
 			"unengagedCount": 2
 		},
@@ -395,8 +395,8 @@
 			"openIssues": 3,
 			"openPRs": 1,
 			"lastRelease": "2025-09-08T15:41:04Z",
-			"commitsSinceRelease": 22,
-			"lastPush": "2026-07-16T04:11:45Z",
+			"commitsSinceRelease": 23,
+			"lastPush": "2026-07-30T04:10:11Z",
 			"attentionScore": 173,
 			"unengagedCount": 2
 		},
@@ -407,8 +407,8 @@
 			"openIssues": 0,
 			"openPRs": 1,
 			"lastRelease": "2025-09-01T15:49:33Z",
-			"commitsSinceRelease": 20,
-			"lastPush": "2026-07-15T19:04:18Z",
+			"commitsSinceRelease": 21,
+			"lastPush": "2026-07-30T02:39:41Z",
 			"attentionScore": 170.5,
 			"unengagedCount": 1
 		},
@@ -419,8 +419,8 @@
 			"openIssues": 7,
 			"openPRs": 4,
 			"lastRelease": "2025-12-06T00:49:38Z",
-			"commitsSinceRelease": 27,
-			"lastPush": "2026-07-23T16:24:53Z",
+			"commitsSinceRelease": 28,
+			"lastPush": "2026-07-30T02:39:47Z",
 			"attentionScore": 157,
 			"unengagedCount": 8
 		},
@@ -431,8 +431,8 @@
 			"openIssues": 9,
 			"openPRs": 2,
 			"lastRelease": "2025-12-06T14:15:54Z",
-			"commitsSinceRelease": 21,
-			"lastPush": "2026-07-15T05:07:04Z",
+			"commitsSinceRelease": 22,
+			"lastPush": "2026-07-30T02:39:47Z",
 			"attentionScore": 142.5,
 			"unengagedCount": 4
 		},
@@ -443,8 +443,8 @@
 			"openIssues": 1,
 			"openPRs": 1,
 			"lastRelease": "2025-12-06T17:19:48Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-07-20T11:24:55Z",
+			"commitsSinceRelease": 14,
+			"lastPush": "2026-07-30T02:39:46Z",
 			"attentionScore": 126.5,
 			"unengagedCount": 2
 		},
@@ -455,8 +455,8 @@
 			"openIssues": 1,
 			"openPRs": 1,
 			"lastRelease": "2025-12-06T19:41:38Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-07-16T17:43:54Z",
+			"commitsSinceRelease": 14,
+			"lastPush": "2026-07-30T02:39:43Z",
 			"attentionScore": 123.5,
 			"unengagedCount": 1
 		},
@@ -467,8 +467,8 @@
 			"openIssues": 0,
 			"openPRs": 1,
 			"lastRelease": "2025-12-05T19:46:36Z",
-			"commitsSinceRelease": 18,
-			"lastPush": "2026-07-15T09:13:52Z",
+			"commitsSinceRelease": 19,
+			"lastPush": "2026-07-30T02:39:41Z",
 			"attentionScore": 123,
 			"unengagedCount": 1
 		},
@@ -491,22 +491,10 @@
 			"openIssues": 13,
 			"openPRs": 4,
 			"lastRelease": "2026-03-08T01:37:41Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-07-20T17:05:25Z",
+			"commitsSinceRelease": 4,
+			"lastPush": "2026-07-30T02:39:45Z",
 			"attentionScore": 108,
 			"unengagedCount": 5
-		},
-		{
-			"name": "lando/vitepress-theme-default-plus",
-			"description": "The VitePress Default Theme with a little more POWAH",
-			"language": "JavaScript",
-			"openIssues": 11,
-			"openPRs": 0,
-			"lastRelease": "2026-03-05T14:33:33Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-07-30T01:09:05Z",
-			"attentionScore": 108,
-			"unengagedCount": 8
 		},
 		{
 			"name": "lando/acquia",
@@ -515,9 +503,9 @@
 			"openIssues": 4,
 			"openPRs": 3,
 			"lastRelease": "2026-02-24T04:45:09Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-07-15T15:23:49Z",
-			"attentionScore": 105.5,
+			"commitsSinceRelease": 12,
+			"lastPush": "2026-07-30T02:39:41Z",
+			"attentionScore": 106,
 			"unengagedCount": 6
 		},
 		{
@@ -527,9 +515,9 @@
 			"openIssues": 7,
 			"openPRs": 1,
 			"lastRelease": "2026-02-23T04:24:29Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-07-17T22:13:28Z",
-			"attentionScore": 105,
+			"commitsSinceRelease": 7,
+			"lastPush": "2026-07-30T02:39:39Z",
+			"attentionScore": 105.5,
 			"unengagedCount": 6
 		},
 		{
@@ -539,9 +527,9 @@
 			"openIssues": 23,
 			"openPRs": 3,
 			"lastRelease": "2026-06-04T05:59:16Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-07-16T21:53:52Z",
-			"attentionScore": 104.5,
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-07-30T02:39:46Z",
+			"attentionScore": 105,
 			"unengagedCount": 16
 		},
 		{
@@ -551,9 +539,9 @@
 			"openIssues": 3,
 			"openPRs": 3,
 			"lastRelease": "2026-02-26T05:47:10Z",
-			"commitsSinceRelease": 10,
-			"lastPush": "2026-07-14T05:13:35Z",
-			"attentionScore": 100.5,
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-07-30T02:39:54Z",
+			"attentionScore": 101,
 			"unengagedCount": 5
 		},
 		{
@@ -563,8 +551,8 @@
 			"openIssues": 0,
 			"openPRs": 1,
 			"lastRelease": "2026-01-23T00:47:12Z",
-			"commitsSinceRelease": 12,
-			"lastPush": "2026-07-16T07:23:39Z",
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-07-30T02:39:43Z",
 			"attentionScore": 99,
 			"unengagedCount": 1
 		},
@@ -575,8 +563,8 @@
 			"openIssues": 10,
 			"openPRs": 1,
 			"lastRelease": "2026-03-11T16:53:00Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-07-14T12:04:17Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-07-30T02:39:43Z",
 			"attentionScore": 97,
 			"unengagedCount": 5
 		},
@@ -587,9 +575,9 @@
 			"openIssues": 2,
 			"openPRs": 2,
 			"lastRelease": "2026-02-22T03:14:52Z",
-			"commitsSinceRelease": 9,
-			"lastPush": "2026-07-20T22:05:23Z",
-			"attentionScore": 96.5,
+			"commitsSinceRelease": 10,
+			"lastPush": "2026-07-30T02:39:48Z",
+			"attentionScore": 97,
 			"unengagedCount": 4
 		},
 		{
@@ -599,9 +587,9 @@
 			"openIssues": 5,
 			"openPRs": 1,
 			"lastRelease": "2026-02-26T05:56:44Z",
-			"commitsSinceRelease": 10,
-			"lastPush": "2026-07-14T05:43:32Z",
-			"attentionScore": 95.5,
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-07-30T02:39:55Z",
+			"attentionScore": 96,
 			"unengagedCount": 4
 		},
 		{
@@ -611,9 +599,9 @@
 			"openIssues": 6,
 			"openPRs": 2,
 			"lastRelease": "2026-03-11T04:30:43Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-07-20T23:05:18Z",
-			"attentionScore": 95,
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-07-30T02:39:50Z",
+			"attentionScore": 95.5,
 			"unengagedCount": 5
 		},
 		{
@@ -623,8 +611,8 @@
 			"openIssues": 0,
 			"openPRs": 2,
 			"lastRelease": "2026-02-20T16:27:34Z",
-			"commitsSinceRelease": 15,
-			"lastPush": "2026-07-20T11:06:33Z",
+			"commitsSinceRelease": 16,
+			"lastPush": "2026-07-30T02:39:42Z",
 			"attentionScore": 89.5,
 			"unengagedCount": 2
 		},
@@ -635,9 +623,9 @@
 			"openIssues": 4,
 			"openPRs": 1,
 			"lastRelease": "2026-03-02T06:01:17Z",
-			"commitsSinceRelease": 9,
-			"lastPush": "2026-07-20T03:24:52Z",
-			"attentionScore": 86.5,
+			"commitsSinceRelease": 10,
+			"lastPush": "2026-07-30T02:39:53Z",
+			"attentionScore": 87,
 			"unengagedCount": 2
 		},
 		{
@@ -647,10 +635,22 @@
 			"openIssues": 5,
 			"openPRs": 1,
 			"lastRelease": "2026-03-05T17:51:42Z",
-			"commitsSinceRelease": 4,
-			"lastPush": "2026-07-20T06:26:47Z",
+			"commitsSinceRelease": 5,
+			"lastPush": "2026-07-30T02:39:57Z",
 			"attentionScore": 86,
 			"unengagedCount": 2
+		},
+		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-07-30T02:39:57Z",
+			"attentionScore": 83.5,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/phpmyadmin",
@@ -659,8 +659,8 @@
 			"openIssues": 0,
 			"openPRs": 1,
 			"lastRelease": "2026-02-23T00:37:20Z",
-			"commitsSinceRelease": 6,
-			"lastPush": "2026-07-16T13:54:03Z",
+			"commitsSinceRelease": 7,
+			"lastPush": "2026-07-30T02:39:40Z",
 			"attentionScore": 83.5,
 			"unengagedCount": 1
 		},
@@ -671,20 +671,8 @@
 			"openIssues": 0,
 			"openPRs": 1,
 			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 8,
-			"lastPush": "2026-07-15T10:13:47Z",
-			"attentionScore": 83,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 10,
-			"lastPush": "2026-07-20T22:24:45Z",
+			"commitsSinceRelease": 9,
+			"lastPush": "2026-07-30T02:40:06Z",
 			"attentionScore": 83,
 			"unengagedCount": 1
 		},
@@ -695,9 +683,9 @@
 			"openIssues": 0,
 			"openPRs": 1,
 			"lastRelease": "2026-03-08T02:17:59Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-07-18T01:02:53Z",
-			"attentionScore": 76.5,
+			"commitsSinceRelease": 4,
+			"lastPush": "2026-07-30T02:39:44Z",
+			"attentionScore": 77,
 			"unengagedCount": 1
 		},
 		{
@@ -707,8 +695,8 @@
 			"openIssues": 0,
 			"openPRs": 1,
 			"lastRelease": "2026-03-10T15:54:35Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-07-16T15:43:40Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-07-30T02:39:46Z",
 			"attentionScore": 75.5,
 			"unengagedCount": 1
 		},
@@ -719,8 +707,8 @@
 			"openIssues": 0,
 			"openPRs": 1,
 			"lastRelease": "2026-03-24T16:43:11Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-07-16T04:33:34Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-07-30T04:33:39Z",
 			"attentionScore": 68.5,
 			"unengagedCount": 1
 		},
@@ -735,6 +723,18 @@
 			"lastPush": "2026-07-20T08:16:48Z",
 			"attentionScore": 35,
 			"unengagedCount": 4
+		},
+		{
+			"name": "lando/vitepress-theme-default-plus",
+			"description": "The VitePress Default Theme with a little more POWAH",
+			"language": "JavaScript",
+			"openIssues": 11,
+			"openPRs": 0,
+			"lastRelease": "2026-07-30T02:38:21Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-07-30T02:39:00Z",
+			"attentionScore": 35,
+			"unengagedCount": 8
 		},
 		{
 			"name": "lando/website",
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-07-03T03:40:07Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-27T04:14:49Z",
-			"attentionScore": 21,
+			"attentionScore": 21.5,
 			"unengagedCount": 1
 		},
 		{
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-07-03T05:54:02Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-07-23T21:33:30Z",
-			"attentionScore": 18,
+			"attentionScore": 18.5,
 			"unengagedCount": 1
 		}
 	]

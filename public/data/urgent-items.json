@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-30T02:00:32.200Z",
+		"fetchedAt": "2026-07-30T06:23:19.005Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2761,7 +2761,7 @@
 		{
 			"repo": "lando/postgres",
 			"number": 75,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-16T04:11:45Z",
 			"url": "https://github.com/lando/postgres/pull/75",
@@ -2770,7 +2770,7 @@
 		{
 			"repo": "lando/redis",
 			"number": 62,
-			"title": "build(deps): bump actions/setup-node from 6 to 7 in the actions group",
+			"title": "build(deps): bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-16T04:33:34Z",
 			"url": "https://github.com/lando/redis/pull/62",
