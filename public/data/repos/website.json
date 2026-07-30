@@ -4,6 +4,14 @@
 	"language": "Vue",
 	"issues": [
 		{
+			"title": "Update website to use new Vitepress Default Theme",
+			"author": "yorkshire-pudding",
+			"labels": [],
+			"createdAt": "2026-07-30T09:25:13Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/website/issues/81"
+		},
+		{
 			"title": "DARK MODE",
 			"author": "pirog",
 			"labels": [],
