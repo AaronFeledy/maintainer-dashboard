@@ -4,6 +4,16 @@
 	"language": null,
 	"issues": [
 		{
+			"title": "Unable to stop scanner/ extremely long bootup times",
+			"author": "sodacrackers",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-07-31T18:41:44Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3846"
+		},
+		{
 			"title": "Turn off certain CLI messages",
 			"author": "Taelkir",
 			"labels": [
@@ -468,16 +478,6 @@
 			"createdAt": "2023-05-25T19:55:49Z",
 			"commentCount": 3,
 			"url": "https://github.com/lando/lando/issues/3573"
-		},
-		{
-			"title": "Make it possible to set language and locale in the recipe",
-			"author": "yorkshire-pudding",
-			"labels": [
-				"feature"
-			],
-			"createdAt": "2023-05-17T14:29:20Z",
-			"commentCount": 3,
-			"url": "https://github.com/lando/lando/issues/3571"
 		}
 	],
 	"pullRequests": [
