@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-07-31T22:55:33.343Z",
+		"fetchedAt": "2026-08-01T02:26:50.993Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3161,6 +3161,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-27T04:14:50Z",
 			"url": "https://github.com/lando/code-sign-action/pull/31",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/telemetry",
+			"number": 12,
+			"title": "Bump js-yaml from 4.2.0 to 4.3.0",
+			"author": "dependabot",
+			"createdAt": "2026-07-28T05:00:00Z",
+			"url": "https://github.com/lando/telemetry/pull/12",
 			"type": "pr"
 		}
 	]
