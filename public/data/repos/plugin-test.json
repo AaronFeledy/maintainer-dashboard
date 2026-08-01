@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump postcss from 8.5.10 to 8.5.25",
+			"author": "dependabot",
+			"createdAt": "2026-08-01T04:50:48Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/plugin-test/pull/15"
+		},
+		{
 			"title": "Bump immutable from 4.3.8 to 4.3.9",
 			"author": "dependabot",
 			"createdAt": "2026-07-26T00:59:57Z",
