@@ -272,6 +272,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump postcss from 8.5.15 to 8.5.25",
+			"author": "dependabot",
+			"createdAt": "2026-08-02T04:29:27Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/desktop/pull/79"
+		},
+		{
 			"title": "Bump shell-quote from 1.8.4 to 1.10.0",
 			"author": "dependabot",
 			"createdAt": "2026-07-25T23:44:07Z",
