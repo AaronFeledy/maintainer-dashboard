@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-03T11:17:34.018Z",
+		"fetchedAt": "2026-08-03T14:29:28.701Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-06-24T17:55:50Z",
-			"attentionScore": 579.5,
+			"attentionScore": 580,
 			"unengagedCount": 2
 		},
 		{
@@ -120,7 +120,7 @@
 			"openPRs": 4,
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 32,
-			"lastPush": "2026-07-30T02:39:44Z",
+			"lastPush": "2026-08-03T14:14:43Z",
 			"attentionScore": 338,
 			"unengagedCount": 6
 		},
@@ -188,12 +188,12 @@
 			"name": "lando/lando",
 			"description": "A development tool for all your projects that is fast, easy, powerful and liberating",
 			"language": null,
-			"openIssues": 176,
+			"openIssues": 177,
 			"openPRs": 3,
 			"lastRelease": "2026-07-03T05:53:56Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-07-03T05:53:56Z",
-			"attentionScore": 278.5,
+			"attentionScore": 279.5,
 			"unengagedCount": 27
 		},
 		{
@@ -257,6 +257,18 @@
 			"unengagedCount": 7
 		},
 		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 20,
+			"openPRs": 8,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 24,
+			"lastPush": "2026-08-01T02:45:29Z",
+			"attentionScore": 196.5,
+			"unengagedCount": 14
+		},
+		{
 			"name": "lando/gitpod",
 			"description": null,
 			"language": "Dockerfile",
@@ -267,18 +279,6 @@
 			"lastPush": "2026-06-24T18:31:48Z",
 			"attentionScore": 196.5,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 20,
-			"openPRs": 8,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 24,
-			"lastPush": "2026-08-01T02:45:29Z",
-			"attentionScore": 196,
-			"unengagedCount": 14
 		},
 		{
 			"name": "lando/argv",
@@ -313,7 +313,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-07-30T08:33:49Z",
-			"attentionScore": 190,
+			"attentionScore": 190.5,
 			"unengagedCount": 4
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-07-30T02:39:47Z",
-			"attentionScore": 144.5,
+			"attentionScore": 145,
 			"unengagedCount": 4
 		},
 		{
@@ -444,7 +444,7 @@
 			"openPRs": 1,
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 14,
-			"lastPush": "2026-07-30T02:39:46Z",
+			"lastPush": "2026-08-03T11:24:59Z",
 			"attentionScore": 128.5,
 			"unengagedCount": 2
 		},
