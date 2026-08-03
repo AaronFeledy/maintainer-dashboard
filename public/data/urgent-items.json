@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-02T22:51:54.583Z",
+		"fetchedAt": "2026-08-03T02:26:34.880Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3170,6 +3170,24 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-28T05:00:00Z",
 			"url": "https://github.com/lando/telemetry/pull/12",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/website",
+			"number": 81,
+			"title": "Update website to use new Vitepress Default Theme",
+			"author": "yorkshire-pudding",
+			"createdAt": "2026-07-30T09:25:13Z",
+			"url": "https://github.com/lando/website/issues/81",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 367,
+			"title": "build(deps): bump the actions group across 1 directory with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-30T21:54:16Z",
+			"url": "https://github.com/lando/pantheon/pull/367",
 			"type": "pr"
 		}
 	]
