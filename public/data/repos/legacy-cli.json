@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump brace-expansion from 1.1.11 to 2.1.4",
+			"author": "dependabot",
+			"createdAt": "2026-08-03T17:58:34Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/legacy-cli/pull/311"
+		},
+		{
 			"title": "Bump postcss from 8.5.15 to 8.5.25",
 			"author": "dependabot",
 			"createdAt": "2026-08-02T08:11:22Z",

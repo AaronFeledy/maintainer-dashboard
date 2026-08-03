@@ -467,18 +467,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: explain missing service cert paths",
+			"title": "ci: test default Docker Desktop versions",
 			"author": "AaronFeledy",
-			"createdAt": "2026-08-03T17:25:07Z",
+			"createdAt": "2026-08-03T18:29:01Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/480"
-		},
-		{
-			"title": "fix: preserve configured orchestrator binary",
-			"author": "AaronFeledy",
-			"createdAt": "2026-08-03T17:14:52Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/479"
+			"url": "https://github.com/lando/core/pull/481"
 		},
 		{
 			"title": "Restore Node 24 (and before) behavior as fs.existsSync() now throws deprecation warning",
