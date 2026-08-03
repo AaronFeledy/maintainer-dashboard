@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-03T14:29:28.701Z",
+		"fetchedAt": "2026-08-03T17:47:01.604Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2450,15 +2450,6 @@
 			"author": "eldair",
 			"createdAt": "2026-04-14T12:53:41Z",
 			"url": "https://github.com/lando/elasticsearch/issues/50",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 462,
-			"title": "PHP/Apache containers exit 1 after rebuild: LANDO_SERVICE_CERT env not present at runtime with Docker 29 + compose 2.31",
-			"author": "f-liva",
-			"createdAt": "2026-04-22T07:52:09Z",
-			"url": "https://github.com/lando/core/issues/462",
 			"type": "issue"
 		},
 		{
