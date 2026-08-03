@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-03T20:58:12.323Z",
+		"fetchedAt": "2026-08-03T22:55:57.093Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3004,7 +3004,7 @@
 		{
 			"repo": "lando/setup-lando",
 			"number": 121,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-20T21:54:29Z",
 			"url": "https://github.com/lando/setup-lando/pull/121",

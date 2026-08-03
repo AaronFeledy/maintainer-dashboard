@@ -140,7 +140,7 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-20T21:54:29Z",
 			"reviewCount": 0,
