@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-04T17:42:07.130Z",
+		"fetchedAt": "2026-08-04T19:25:31.943Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1751,15 +1751,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 345,
-			"title": "shell control characters printed to all output",
-			"author": "danielcavanagh",
-			"createdAt": "2025-02-25T04:25:38Z",
-			"url": "https://github.com/lando/core/issues/345",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/vitepress-theme-default-plus",
 			"number": 75,
 			"title": "Error while updating dependencies",
@@ -2351,15 +2342,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-27T14:59:14Z",
 			"url": "https://github.com/lando/node/pull/118",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 441,
-			"title": "fix: improve exec TTY handling and decompose into testable utilities",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-28T00:25:54Z",
-			"url": "https://github.com/lando/core/pull/441",
 			"type": "pr"
 		},
 		{

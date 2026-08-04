@@ -147,16 +147,6 @@
 			"url": "https://github.com/lando/core/issues/353"
 		},
 		{
-			"title": "shell control characters printed to all output",
-			"author": "danielcavanagh",
-			"labels": [
-				"Needs Triage"
-			],
-			"createdAt": "2025-02-25T04:25:38Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/core/issues/345"
-		},
-		{
 			"title": "Lando doesn't recognize Docker Desktop and keeps saying to install it",
 			"author": "Mgrmjp",
 			"labels": [],
@@ -463,6 +453,16 @@
 			"createdAt": "2023-03-01T20:05:35Z",
 			"commentCount": 0,
 			"url": "https://github.com/lando/core/issues/31"
+		},
+		{
+			"title": "ERROR ==> EACCES: permission denied, scandir '/home/$User/.ssh' ",
+			"author": "bahazaab",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-01-03T20:34:59Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/24"
 		}
 	],
 	"pullRequests": [
@@ -507,13 +507,6 @@
 			"createdAt": "2026-03-14T03:07:20Z",
 			"reviewCount": 3,
 			"url": "https://github.com/lando/core/pull/445"
-		},
-		{
-			"title": "fix: improve exec TTY handling and decompose into testable utilities",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-28T00:25:54Z",
-			"reviewCount": 9,
-			"url": "https://github.com/lando/core/pull/441"
 		},
 		{
 			"title": "chore: revise Lando usage guide with Orbstack instructions",
