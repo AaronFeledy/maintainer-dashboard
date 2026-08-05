@@ -467,6 +467,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump fast-uri from 3.1.2 to 3.1.5 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-08-05T16:40:52Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/482"
+		},
+		{
 			"title": "ci: test default Docker Desktop versions",
 			"author": "AaronFeledy",
 			"createdAt": "2026-08-03T18:29:01Z",

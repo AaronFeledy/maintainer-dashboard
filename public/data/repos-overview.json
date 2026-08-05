@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-05T16:02:01.745Z",
+		"fetchedAt": "2026-08-05T19:23:38.742Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-08-01T04:50:48Z",
-			"attentionScore": 587.5,
+			"attentionScore": 588,
 			"unengagedCount": 2
 		},
 		{
@@ -145,7 +145,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 317.5,
+			"attentionScore": 318,
 			"unengagedCount": 1
 		},
 		{
@@ -213,11 +213,11 @@
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
 			"openIssues": 52,
-			"openPRs": 20,
+			"openPRs": 21,
 			"lastRelease": "2026-07-03T05:49:00Z",
 			"commitsSinceRelease": 8,
-			"lastPush": "2026-08-05T05:18:22Z",
-			"attentionScore": 240.5,
+			"lastPush": "2026-08-05T16:40:51Z",
+			"attentionScore": 242.5,
 			"unengagedCount": 44
 		},
 		{
@@ -385,7 +385,7 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-08-03T21:44:25Z",
-			"attentionScore": 177,
+			"attentionScore": 177.5,
 			"unengagedCount": 2
 		},
 		{
@@ -408,7 +408,7 @@
 			"openPRs": 1,
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 21,
-			"lastPush": "2026-07-30T02:39:41Z",
+			"lastPush": "2026-08-05T19:04:23Z",
 			"attentionScore": 174,
 			"unengagedCount": 1
 		},
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-08-03T11:24:59Z",
-			"attentionScore": 129.5,
+			"attentionScore": 130,
 			"unengagedCount": 2
 		},
 		{
@@ -565,7 +565,7 @@
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-08-04T12:04:31Z",
-			"attentionScore": 100,
+			"attentionScore": 100.5,
 			"unengagedCount": 5
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-08-03T11:06:10Z",
-			"attentionScore": 92.5,
+			"attentionScore": 93,
 			"unengagedCount": 2
 		},
 		{
@@ -637,8 +637,20 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-08-03T06:26:20Z",
-			"attentionScore": 89,
+			"attentionScore": 89.5,
 			"unengagedCount": 2
+		},
+		{
+			"name": "lando/go",
+			"description": "The Official Go Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T17:48:12Z",
+			"commitsSinceRelease": 9,
+			"lastPush": "2026-08-05T10:14:06Z",
+			"attentionScore": 86.5,
+			"unengagedCount": 1
 		},
 		{
 			"name": "lando/mailpit",
@@ -662,18 +674,6 @@
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
 			"attentionScore": 86.5,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/go",
-			"description": "The Official Go Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T17:48:12Z",
-			"commitsSinceRelease": 9,
-			"lastPush": "2026-08-05T10:14:06Z",
-			"attentionScore": 86,
 			"unengagedCount": 1
 		},
 		{
@@ -709,7 +709,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-07-30T04:33:39Z",
-			"attentionScore": 71.5,
+			"attentionScore": 72,
 			"unengagedCount": 1
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-06-27T19:13:14Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T08:16:48Z",
-			"attentionScore": 38,
+			"attentionScore": 38.5,
 			"unengagedCount": 4
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-06-27T18:53:58Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T07:16:31Z",
-			"attentionScore": 32,
+			"attentionScore": 32.5,
 			"unengagedCount": 3
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-06-27T19:20:17Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-20T08:24:55Z",
-			"attentionScore": 28,
+			"attentionScore": 28.5,
 			"unengagedCount": 2
 		},
 		{
