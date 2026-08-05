@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-05T02:05:43.949Z",
+		"fetchedAt": "2026-08-05T06:23:42.263Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2671,7 +2671,7 @@
 		{
 			"repo": "lando/solr",
 			"number": 73,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-15T05:07:04Z",
 			"url": "https://github.com/lando/solr/pull/73",
