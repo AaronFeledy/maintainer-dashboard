@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-05T13:58:37.163Z",
+		"fetchedAt": "2026-08-05T16:02:01.745Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2716,7 +2716,7 @@
 		{
 			"repo": "lando/acquia",
 			"number": 168,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-15T15:23:50Z",
 			"url": "https://github.com/lando/acquia/pull/168",
