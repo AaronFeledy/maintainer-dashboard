@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-05T19:23:38.742Z",
+		"fetchedAt": "2026-08-05T21:02:59.788Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-07-23T13:38:40Z",
-			"attentionScore": 863,
+			"attentionScore": 863.5,
 			"unengagedCount": 2
 		},
 		{
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 825.5,
+			"attentionScore": 826,
 			"unengagedCount": 1
 		},
 		{
@@ -133,7 +133,7 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 30,
 			"lastPush": "2026-08-04T20:13:45Z",
-			"attentionScore": 321,
+			"attentionScore": 321.5,
 			"unengagedCount": 4
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 28,
 			"lastPush": "2026-08-05T10:34:23Z",
-			"attentionScore": 317,
+			"attentionScore": 317.5,
 			"unengagedCount": 2
 		},
 		{
@@ -169,7 +169,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-07-30T09:06:35Z",
-			"attentionScore": 310,
+			"attentionScore": 310.5,
 			"unengagedCount": 1
 		},
 		{
@@ -241,7 +241,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 211,
+			"attentionScore": 211.5,
 			"unengagedCount": 7
 		},
 		{
@@ -261,11 +261,11 @@
 			"description": "Next generation Lando v4 runtime",
 			"language": "JavaScript",
 			"openIssues": 20,
-			"openPRs": 8,
+			"openPRs": 9,
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 24,
-			"lastPush": "2026-08-01T02:45:29Z",
-			"attentionScore": 197.5,
+			"lastPush": "2026-08-05T19:50:18Z",
+			"attentionScore": 199.5,
 			"unengagedCount": 14
 		},
 		{
@@ -288,9 +288,9 @@
 			"openPRs": 1,
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
-			"lastPush": "2026-07-25T09:44:36Z",
-			"attentionScore": 196,
-			"unengagedCount": 1
+			"lastPush": "2026-08-05T20:07:30Z",
+			"attentionScore": 193,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/telemetry",
@@ -373,7 +373,7 @@
 			"lastRelease": "2025-08-28T19:28:14Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-08-05T10:34:10Z",
-			"attentionScore": 180.5,
+			"attentionScore": 181,
 			"unengagedCount": 2
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-07-30T17:43:40Z",
-			"attentionScore": 126.5,
+			"attentionScore": 127,
 			"unengagedCount": 1
 		},
 		{
@@ -469,7 +469,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 19,
 			"lastPush": "2026-08-05T09:14:03Z",
-			"attentionScore": 126,
+			"attentionScore": 126.5,
 			"unengagedCount": 1
 		},
 		{

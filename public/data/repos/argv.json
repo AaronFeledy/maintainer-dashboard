@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump fast-uri from 3.1.2 to 3.1.4",
+			"title": "Bump fast-uri from 3.1.2 to 3.1.5",
 			"author": "dependabot",
-			"createdAt": "2026-07-25T09:44:37Z",
+			"createdAt": "2026-08-05T20:07:24Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/argv/pull/19"
+			"url": "https://github.com/lando/argv/pull/20"
 		}
 	],
 	"releases": [
