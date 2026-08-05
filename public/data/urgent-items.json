@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-04T22:58:34.965Z",
+		"fetchedAt": "2026-08-05T02:05:43.949Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3161,6 +3161,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-30T21:54:16Z",
 			"url": "https://github.com/lando/pantheon/pull/367",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/plugin-test",
+			"number": 15,
+			"title": "Bump postcss from 8.5.10 to 8.5.25",
+			"author": "dependabot",
+			"createdAt": "2026-08-01T04:50:48Z",
+			"url": "https://github.com/lando/plugin-test/pull/15",
 			"type": "pr"
 		}
 	]
