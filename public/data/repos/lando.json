@@ -4,14 +4,14 @@
 	"language": null,
 	"issues": [
 		{
-			"title": "can you do a release for this bug that is already fixed? issues/3847",
+			"title": "EISDIR error when cert path is a directory instead of a file",
 			"author": "kathryn-moon-xylophone",
 			"labels": [
 				"bug"
 			],
-			"createdAt": "2026-08-05T12:48:39Z",
+			"createdAt": "2026-08-06T09:23:21Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/lando/issues/3848"
+			"url": "https://github.com/lando/lando/issues/3849"
 		},
 		{
 			"title": "Turn off certain CLI messages",
