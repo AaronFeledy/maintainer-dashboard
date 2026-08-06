@@ -467,6 +467,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "test: remove secrets from PR integration tests",
+			"author": "AaronFeledy",
+			"createdAt": "2026-08-06T15:28:59Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/484"
+		},
+		{
 			"title": "Bump fast-uri from 3.1.2 to 3.1.5 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-08-05T16:40:52Z",

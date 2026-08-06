@@ -230,11 +230,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "build(deps): bump the actions group across 1 directory with 3 updates",
+			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
-			"createdAt": "2026-07-30T21:54:16Z",
+			"createdAt": "2026-08-06T21:54:02Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/pantheon/pull/367"
+			"url": "https://github.com/lando/pantheon/pull/368"
 		},
 		{
 			"title": "fix: update Terminus to 4.2.2",
