@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-05T22:54:25.439Z",
+		"fetchedAt": "2026-08-06T02:09:38.760Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3161,6 +3161,24 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-01T04:50:48Z",
 			"url": "https://github.com/lando/plugin-test/pull/15",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 79,
+			"title": "Bump postcss from 8.5.15 to 8.5.25",
+			"author": "dependabot",
+			"createdAt": "2026-08-02T04:29:27Z",
+			"url": "https://github.com/lando/desktop/pull/79",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/legacy-cli",
+			"number": 310,
+			"title": "Bump postcss from 8.5.15 to 8.5.25",
+			"author": "dependabot",
+			"createdAt": "2026-08-02T08:11:22Z",
+			"url": "https://github.com/lando/legacy-cli/pull/310",
 			"type": "pr"
 		}
 	]
