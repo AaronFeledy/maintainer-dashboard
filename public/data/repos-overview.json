@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-07T08:53:41.441Z",
+		"fetchedAt": "2026-08-07T10:47:50.352Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -180,9 +180,9 @@
 			"openPRs": 6,
 			"lastRelease": null,
 			"commitsSinceRelease": 0,
-			"lastPush": "2026-08-02T04:29:26Z",
-			"attentionScore": 305.5,
-			"unengagedCount": 28
+			"lastPush": "2026-08-07T10:01:59Z",
+			"attentionScore": 302.5,
+			"unengagedCount": 27
 		},
 		{
 			"name": "lando/lando",

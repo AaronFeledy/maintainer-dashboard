@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-07T08:53:41.441Z",
+		"fetchedAt": "2026-08-07T10:47:50.352Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2540,15 +2540,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-06-24T18:20:19Z",
 			"url": "https://github.com/lando/desktop/pull/68",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/desktop",
-			"number": 75,
-			"title": "Bump electron from 17.4.6 to 39.8.5",
-			"author": "dependabot",
-			"createdAt": "2026-06-24T21:06:53Z",
-			"url": "https://github.com/lando/desktop/pull/75",
 			"type": "pr"
 		},
 		{
