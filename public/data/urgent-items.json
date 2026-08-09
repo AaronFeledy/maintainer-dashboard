@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-09T20:26:08.981Z",
+		"fetchedAt": "2026-08-09T22:25:30.232Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2588,15 +2588,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/core",
-			"number": 472,
-			"title": "Stale `tested` constraint recommends Docker Desktop downgrade",
-			"author": "aadmathijssen",
-			"createdAt": "2026-07-04T13:54:26Z",
-			"url": "https://github.com/lando/core/issues/472",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/mariadb",
 			"number": 99,
 			"title": "Add support for MariaDB 12.x",
@@ -2810,15 +2801,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-17T21:13:32Z",
 			"url": "https://github.com/lando/prepare-release-action/pull/30",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 474,
-			"title": "Restore Node 24 (and before) behavior as fs.existsSync() now throws deprecation warning",
-			"author": "kroh",
-			"createdAt": "2026-07-17T21:14:01Z",
-			"url": "https://github.com/lando/core/pull/474",
 			"type": "pr"
 		},
 		{

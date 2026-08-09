@@ -14,14 +14,6 @@
 			"url": "https://github.com/lando/core/issues/486"
 		},
 		{
-			"title": "Stale `tested` constraint recommends Docker Desktop downgrade",
-			"author": "aadmathijssen",
-			"labels": [],
-			"createdAt": "2026-07-04T13:54:26Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/core/issues/472"
-		},
-		{
 			"title": "Allow overriding proxy setting in .lando.local.yml",
 			"author": "monroecg",
 			"labels": [],
@@ -463,36 +455,25 @@
 			"createdAt": "2023-03-01T20:05:35Z",
 			"commentCount": 0,
 			"url": "https://github.com/lando/core/issues/31"
+		},
+		{
+			"title": "ERROR ==> EACCES: permission denied, scandir '/home/$User/.ssh' ",
+			"author": "bahazaab",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2023-01-03T20:34:59Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/24"
 		}
 	],
 	"pullRequests": [
-		{
-			"title": "fix: update Docker Desktop tested range and defaults",
-			"author": "AaronFeledy",
-			"createdAt": "2026-08-09T19:44:58Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/485"
-		},
-		{
-			"title": "test: remove secrets from PR integration tests",
-			"author": "AaronFeledy",
-			"createdAt": "2026-08-06T15:28:59Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/484"
-		},
 		{
 			"title": "Bump fast-uri from 3.1.2 to 3.1.5 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-08-05T16:40:52Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core/pull/482"
-		},
-		{
-			"title": "Restore Node 24 (and before) behavior as fs.existsSync() now throws deprecation warning",
-			"author": "kroh",
-			"createdAt": "2026-07-17T21:14:01Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/474"
 		},
 		{
 			"title": "Add a system-level plugin-auth.js",
