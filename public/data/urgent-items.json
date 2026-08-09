@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-09T18:33:09.040Z",
+		"fetchedAt": "2026-08-09T20:26:08.981Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3152,15 +3152,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-03T17:58:34Z",
 			"url": "https://github.com/lando/legacy-cli/pull/311",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 481,
-			"title": "ci: test default Docker Desktop versions",
-			"author": "AaronFeledy",
-			"createdAt": "2026-08-03T18:29:01Z",
-			"url": "https://github.com/lando/core/pull/481",
 			"type": "pr"
 		},
 		{

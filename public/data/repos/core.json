@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "EISDIR error when cert path is a directory instead of a file",
+			"author": "kathryn-moon-xylophone",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-08-06T09:23:21Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/486"
+		},
+		{
 			"title": "Stale `tested` constraint recommends Docker Desktop downgrade",
 			"author": "aadmathijssen",
 			"labels": [],
@@ -453,19 +463,16 @@
 			"createdAt": "2023-03-01T20:05:35Z",
 			"commentCount": 0,
 			"url": "https://github.com/lando/core/issues/31"
-		},
-		{
-			"title": "ERROR ==> EACCES: permission denied, scandir '/home/$User/.ssh' ",
-			"author": "bahazaab",
-			"labels": [
-				"Needs Triage"
-			],
-			"createdAt": "2023-01-03T20:34:59Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/core/issues/24"
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "fix: update Docker Desktop tested range and defaults",
+			"author": "AaronFeledy",
+			"createdAt": "2026-08-09T19:44:58Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/485"
+		},
 		{
 			"title": "test: remove secrets from PR integration tests",
 			"author": "AaronFeledy",
@@ -479,13 +486,6 @@
 			"createdAt": "2026-08-05T16:40:52Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core/pull/482"
-		},
-		{
-			"title": "ci: test default Docker Desktop versions",
-			"author": "AaronFeledy",
-			"createdAt": "2026-08-03T18:29:01Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/481"
 		},
 		{
 			"title": "Restore Node 24 (and before) behavior as fs.existsSync() now throws deprecation warning",
