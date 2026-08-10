@@ -467,11 +467,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: clear Dependabot security alerts via direct bumps and overrides",
+			"title": "fix: clear remaining Dependabot security alerts",
 			"author": "AaronFeledy",
-			"createdAt": "2026-08-10T02:24:06Z",
+			"createdAt": "2026-08-10T04:20:41Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/490"
+			"url": "https://github.com/lando/core/pull/491"
 		},
 		{
 			"title": "Add a system-level plugin-auth.js",
