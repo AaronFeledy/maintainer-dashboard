@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-09T22:25:30.232Z",
+		"fetchedAt": "2026-08-10T01:21:59.272Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3137,15 +3137,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 482,
-			"title": "Bump fast-uri from 3.1.2 to 3.1.5 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-08-05T16:40:52Z",
-			"url": "https://github.com/lando/core/pull/482",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 150,
 			"title": "Bump fast-uri from 3.1.2 to 3.1.5 in /examples/command",
@@ -3161,6 +3152,24 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-05T20:07:24Z",
 			"url": "https://github.com/lando/argv/pull/20",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 486,
+			"title": "EISDIR error when cert path is a directory instead of a file",
+			"author": "kathryn-moon-xylophone",
+			"createdAt": "2026-08-06T09:23:21Z",
+			"url": "https://github.com/lando/core/issues/486",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 368,
+			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-08-06T21:54:02Z",
+			"url": "https://github.com/lando/pantheon/pull/368",
 			"type": "pr"
 		}
 	]

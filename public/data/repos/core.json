@@ -469,11 +469,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Bump fast-uri from 3.1.2 to 3.1.5 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-08-05T16:40:52Z",
+			"title": "Fix rogue cert directories causing EISDIR on start",
+			"author": "AaronFeledy",
+			"createdAt": "2026-08-09T22:31:03Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/482"
+			"url": "https://github.com/lando/core/pull/488"
 		},
 		{
 			"title": "Add a system-level plugin-auth.js",
