@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-10T20:36:43.775Z",
+		"fetchedAt": "2026-08-10T22:32:15.501Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2162,15 +2162,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-01-23T23:11:03Z",
 			"url": "https://github.com/lando/core-next/pull/120",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 429,
-			"title": "chore: revise Lando usage guide with Orbstack instructions",
-			"author": "arzola",
-			"createdAt": "2026-02-10T21:57:01Z",
-			"url": "https://github.com/lando/core/pull/429",
 			"type": "pr"
 		},
 		{

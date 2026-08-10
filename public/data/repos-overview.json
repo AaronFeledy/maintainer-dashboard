@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-10T20:36:43.775Z",
+		"fetchedAt": "2026-08-10T22:32:15.501Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-08-08T09:10:15Z",
-			"attentionScore": 862.5,
+			"attentionScore": 863,
 			"unengagedCount": 1
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-07-30T02:39:47Z",
-			"attentionScore": 554.5,
+			"attentionScore": 555,
 			"unengagedCount": 44
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-07-20T20:14:20Z",
-			"attentionScore": 393,
+			"attentionScore": 393.5,
 			"unengagedCount": 4
 		},
 		{
@@ -229,20 +229,8 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 213.5,
+			"attentionScore": 214,
 			"unengagedCount": 7
-		},
-		{
-			"name": "lando/core",
-			"description": "Current Lando v3 runtime",
-			"language": "JavaScript",
-			"openIssues": 51,
-			"openPRs": 17,
-			"lastRelease": "2026-08-10T19:34:02Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-08-10T19:52:41Z",
-			"attentionScore": 208,
-			"unengagedCount": 41
 		},
 		{
 			"name": "lando/core-next",
@@ -267,6 +255,18 @@
 			"lastPush": "2026-07-30T20:43:43Z",
 			"attentionScore": 203,
 			"unengagedCount": 7
+		},
+		{
+			"name": "lando/core",
+			"description": "Current Lando v3 runtime",
+			"language": "JavaScript",
+			"openIssues": 51,
+			"openPRs": 16,
+			"lastRelease": "2026-08-10T19:34:02Z",
+			"commitsSinceRelease": 2,
+			"lastPush": "2026-08-10T21:46:57Z",
+			"attentionScore": 203,
+			"unengagedCount": 40
 		},
 		{
 			"name": "lando/argv",

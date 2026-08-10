@@ -488,13 +488,6 @@
 			"url": "https://github.com/lando/core/pull/445"
 		},
 		{
-			"title": "chore: revise Lando usage guide with Orbstack instructions",
-			"author": "arzola",
-			"createdAt": "2026-02-10T21:57:01Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/429"
-		},
-		{
 			"title": "Pedantically fixing verb tense in init command description",
 			"author": "amklose",
 			"createdAt": "2026-01-14T09:23:13Z",
