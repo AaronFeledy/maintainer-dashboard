@@ -349,7 +349,7 @@
 				"bug"
 			],
 			"createdAt": "2024-04-05T21:54:40Z",
-			"commentCount": 4,
+			"commentCount": 5,
 			"url": "https://github.com/lando/core/issues/138"
 		},
 		{
@@ -589,7 +589,7 @@
 	"releases": [
 		{
 			"tagName": "v3.26.8",
-			"publishedAt": "2026-08-10T17:37:43Z",
+			"publishedAt": "2026-08-10T19:34:02Z",
 			"url": "https://github.com/lando/core/releases/tag/v3.26.8"
 		},
 		{
