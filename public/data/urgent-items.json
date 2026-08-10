@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-10T01:21:59.272Z",
+		"fetchedAt": "2026-08-10T03:49:32.349Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2408,15 +2408,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/core",
-			"number": 457,
-			"title": "fix: update Node engine floor for major npm dep bumps",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-03T23:16:15Z",
-			"url": "https://github.com/lando/core/pull/457",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3843,
 			"title": "CLI process enforcing SUDO on cert installation",
@@ -3153,15 +3144,6 @@
 			"createdAt": "2026-08-05T20:07:24Z",
 			"url": "https://github.com/lando/argv/pull/20",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 486,
-			"title": "EISDIR error when cert path is a directory instead of a file",
-			"author": "kathryn-moon-xylophone",
-			"createdAt": "2026-08-06T09:23:21Z",
-			"url": "https://github.com/lando/core/issues/486",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/pantheon",

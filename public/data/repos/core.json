@@ -4,16 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "EISDIR error when cert path is a directory instead of a file",
-			"author": "kathryn-moon-xylophone",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2026-08-06T09:23:21Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/core/issues/486"
-		},
-		{
 			"title": "Allow overriding proxy setting in .lando.local.yml",
 			"author": "monroecg",
 			"labels": [],
@@ -465,15 +455,23 @@
 			"createdAt": "2023-01-03T20:34:59Z",
 			"commentCount": 1,
 			"url": "https://github.com/lando/core/issues/24"
+		},
+		{
+			"title": "Core Plugins are not usable without lando/cli",
+			"author": "sjinks",
+			"labels": [],
+			"createdAt": "2022-12-23T14:25:09Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/18"
 		}
 	],
 	"pullRequests": [
 		{
-			"title": "Fix rogue cert directories causing EISDIR on start",
+			"title": "fix: clear Dependabot security alerts via direct bumps and overrides",
 			"author": "AaronFeledy",
-			"createdAt": "2026-08-09T22:31:03Z",
+			"createdAt": "2026-08-10T02:24:06Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/488"
+			"url": "https://github.com/lando/core/pull/490"
 		},
 		{
 			"title": "Add a system-level plugin-auth.js",
@@ -488,13 +486,6 @@
 			"createdAt": "2026-05-11T17:43:41Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core/pull/467"
-		},
-		{
-			"title": "fix: update Node engine floor for major npm dep bumps",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-03T23:16:15Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/457"
 		},
 		{
 			"title": "feat: containerd/nerdctl engine backend",
