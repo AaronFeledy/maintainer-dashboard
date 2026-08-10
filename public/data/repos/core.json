@@ -467,13 +467,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: clear remaining Dependabot security alerts",
-			"author": "AaronFeledy",
-			"createdAt": "2026-08-10T04:20:41Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/491"
-		},
-		{
 			"title": "Add a system-level plugin-auth.js",
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-12T17:07:18Z",
@@ -595,6 +588,11 @@
 	],
 	"releases": [
 		{
+			"tagName": "v3.26.8",
+			"publishedAt": "2026-08-10T17:37:43Z",
+			"url": "https://github.com/lando/core/releases/tag/v3.26.8"
+		},
+		{
 			"tagName": "v3.26.7",
 			"publishedAt": "2026-07-03T05:49:00Z",
 			"url": "https://github.com/lando/core/releases/tag/v3.26.7"
@@ -613,11 +611,6 @@
 			"tagName": "v3.26.4",
 			"publishedAt": "2026-04-28T22:26:09Z",
 			"url": "https://github.com/lando/core/releases/tag/v3.26.4"
-		},
-		{
-			"tagName": "v3.26.3",
-			"publishedAt": "2026-04-14T18:12:09Z",
-			"url": "https://github.com/lando/core/releases/tag/v3.26.3"
 		}
 	]
 }
