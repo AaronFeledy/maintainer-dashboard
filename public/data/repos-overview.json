@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-11T03:39:20.519Z",
+		"fetchedAt": "2026-08-11T05:03:11.400Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -505,7 +505,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-08-05T15:23:44Z",
-			"attentionScore": 111.5,
+			"attentionScore": 112,
 			"unengagedCount": 6
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-31T22:13:36Z",
-			"attentionScore": 111,
+			"attentionScore": 111.5,
 			"unengagedCount": 6
 		},
 		{
@@ -581,6 +581,18 @@
 			"unengagedCount": 4
 		},
 		{
+			"name": "lando/drupal",
+			"description": "The Official Drupal Lando plugin",
+			"language": "JavaScript",
+			"openIssues": 6,
+			"openPRs": 2,
+			"lastRelease": "2026-03-11T04:30:43Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-08-03T23:05:00Z",
+			"attentionScore": 101.5,
+			"unengagedCount": 5
+		},
+		{
 			"name": "lando/lemp",
 			"description": "The Official LEMP Lando Plugin",
 			"language": "JavaScript",
@@ -591,18 +603,6 @@
 			"lastPush": "2026-08-04T05:43:22Z",
 			"attentionScore": 101.5,
 			"unengagedCount": 4
-		},
-		{
-			"name": "lando/drupal",
-			"description": "The Official Drupal Lando plugin",
-			"language": "JavaScript",
-			"openIssues": 6,
-			"openPRs": 2,
-			"lastRelease": "2026-03-11T04:30:43Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-08-03T23:05:00Z",
-			"attentionScore": 101,
-			"unengagedCount": 5
 		},
 		{
 			"name": "lando/joomla",
@@ -641,6 +641,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-08-03T22:24:34Z",
+			"attentionScore": 89.5,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -661,18 +673,6 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-08-05T10:14:06Z",
-			"attentionScore": 89,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-08-03T22:24:34Z",
 			"attentionScore": 89,
 			"unengagedCount": 1
 		},
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-07-03T03:40:07Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-27T04:14:49Z",
-			"attentionScore": 30,
+			"attentionScore": 30.5,
 			"unengagedCount": 2
 		},
 		{
