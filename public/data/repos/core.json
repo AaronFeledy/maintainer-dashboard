@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Issues uncovered while running an LLM agent in a sandbox",
+			"author": "ohnotnow",
+			"labels": [
+				"Needs Triage"
+			],
+			"createdAt": "2026-08-10T22:56:42Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/492"
+		},
+		{
 			"title": "Allow overriding proxy setting in .lando.local.yml",
 			"author": "monroecg",
 			"labels": [],
@@ -455,14 +465,6 @@
 			"createdAt": "2023-01-03T20:34:59Z",
 			"commentCount": 1,
 			"url": "https://github.com/lando/core/issues/24"
-		},
-		{
-			"title": "Core Plugins are not usable without lando/cli",
-			"author": "sjinks",
-			"labels": [],
-			"createdAt": "2022-12-23T14:25:09Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/core/issues/18"
 		}
 	],
 	"pullRequests": [

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-10T22:32:15.501Z",
+		"fetchedAt": "2026-08-11T01:19:57.192Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3143,6 +3143,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-06T21:54:02Z",
 			"url": "https://github.com/lando/pantheon/pull/368",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 80,
+			"title": "Bump electron from 17.4.6 to 39.8.10",
+			"author": "dependabot",
+			"createdAt": "2026-08-07T10:01:56Z",
+			"url": "https://github.com/lando/desktop/pull/80",
 			"type": "pr"
 		}
 	]
