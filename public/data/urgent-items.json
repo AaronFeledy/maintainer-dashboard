@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-11T22:36:35.504Z",
+		"fetchedAt": "2026-08-12T01:28:35.233Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3143,6 +3143,24 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-07T10:01:56Z",
 			"url": "https://github.com/lando/desktop/pull/80",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/legacy-metrics",
+			"number": 15,
+			"title": "Bump js-yaml from 3.14.1 to 3.15.1",
+			"author": "dependabot",
+			"createdAt": "2026-08-08T09:10:11Z",
+			"url": "https://github.com/lando/legacy-metrics/pull/15",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/transfer-issue-action",
+			"number": 124,
+			"title": "Bump js-yaml and eslint",
+			"author": "dependabot",
+			"createdAt": "2026-08-08T10:34:00Z",
+			"url": "https://github.com/lando/transfer-issue-action/pull/124",
 			"type": "pr"
 		}
 	]
