@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "checksum of v3.26.8 source tarball has been changed",
+			"author": "daeho-ro",
+			"labels": [],
+			"createdAt": "2026-08-12T03:41:01Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/493"
+		},
+		{
 			"title": "Issues uncovered while running an LLM agent in a sandbox",
 			"author": "ohnotnow",
 			"labels": [
@@ -455,16 +463,6 @@
 			"createdAt": "2023-03-01T20:05:35Z",
 			"commentCount": 0,
 			"url": "https://github.com/lando/core/issues/31"
-		},
-		{
-			"title": "ERROR ==> EACCES: permission denied, scandir '/home/$User/.ssh' ",
-			"author": "bahazaab",
-			"labels": [
-				"Needs Triage"
-			],
-			"createdAt": "2023-01-03T20:34:59Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/core/issues/24"
 		}
 	],
 	"pullRequests": [
