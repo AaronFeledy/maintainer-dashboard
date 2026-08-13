@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-13T12:59:39.802Z",
+		"fetchedAt": "2026-08-13T14:52:34.480Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-06-24T17:55:50Z",
-			"attentionScore": 584.5,
+			"attentionScore": 585,
 			"unengagedCount": 2
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-08-08T10:34:03Z",
-			"attentionScore": 451.5,
+			"attentionScore": 452,
 			"unengagedCount": 4
 		},
 		{
@@ -233,6 +233,18 @@
 			"unengagedCount": 7
 		},
 		{
+			"name": "lando/core-next",
+			"description": "Next generation Lando v4 runtime",
+			"language": "JavaScript",
+			"openIssues": 20,
+			"openPRs": 9,
+			"lastRelease": "2025-12-09T14:17:19Z",
+			"commitsSinceRelease": 24,
+			"lastPush": "2026-08-05T19:50:18Z",
+			"attentionScore": 206.5,
+			"unengagedCount": 15
+		},
+		{
 			"name": "lando/core",
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
@@ -243,18 +255,6 @@
 			"lastPush": "2026-08-10T21:46:57Z",
 			"attentionScore": 206,
 			"unengagedCount": 40
-		},
-		{
-			"name": "lando/core-next",
-			"description": "Next generation Lando v4 runtime",
-			"language": "JavaScript",
-			"openIssues": 20,
-			"openPRs": 9,
-			"lastRelease": "2025-12-09T14:17:19Z",
-			"commitsSinceRelease": 24,
-			"lastPush": "2026-08-05T19:50:18Z",
-			"attentionScore": 206,
-			"unengagedCount": 15
 		},
 		{
 			"name": "lando/mariadb",
@@ -301,7 +301,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-07-30T08:33:49Z",
-			"attentionScore": 195,
+			"attentionScore": 195.5,
 			"unengagedCount": 4
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-08-05T05:07:28Z",
-			"attentionScore": 149.5,
+			"attentionScore": 150,
 			"unengagedCount": 4
 		},
 		{
