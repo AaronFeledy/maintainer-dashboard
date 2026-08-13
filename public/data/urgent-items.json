@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-13T20:37:03.702Z",
+		"fetchedAt": "2026-08-13T22:36:25.006Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2327,15 +2327,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/node",
-			"number": 118,
-			"title": "feat: add Node 25 support, update versions and docs",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-27T14:59:14Z",
-			"url": "https://github.com/lando/node/pull/118",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/symfony",
 			"number": 88,
 			"title": "expire_logs_days MySQL config option has been removed in MySQL 8.4",
@@ -2540,15 +2531,6 @@
 			"author": "florianPat",
 			"createdAt": "2026-06-28T18:26:57Z",
 			"url": "https://github.com/lando/lamp/pull/108",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/node",
-			"number": 128,
-			"title": "Add support for Node 26, bump LTS minor versions",
-			"author": "todeveni",
-			"createdAt": "2026-06-29T08:55:04Z",
-			"url": "https://github.com/lando/node/pull/128",
 			"type": "pr"
 		},
 		{

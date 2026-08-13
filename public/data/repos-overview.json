@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-13T20:37:03.702Z",
+		"fetchedAt": "2026-08-13T22:36:25.006Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-08-08T09:10:15Z",
-			"attentionScore": 867,
+			"attentionScore": 867.5,
 			"unengagedCount": 2
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-07-30T02:39:47Z",
-			"attentionScore": 556,
+			"attentionScore": 556.5,
 			"unengagedCount": 44
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-07-20T20:14:20Z",
-			"attentionScore": 394.5,
+			"attentionScore": 395,
 			"unengagedCount": 4
 		},
 		{
@@ -229,7 +229,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 215,
+			"attentionScore": 215.5,
 			"unengagedCount": 7
 		},
 		{
@@ -417,12 +417,12 @@
 			"description": "The Official Node Lando plugin.",
 			"language": "JavaScript",
 			"openIssues": 7,
-			"openPRs": 4,
+			"openPRs": 2,
 			"lastRelease": "2025-12-06T00:49:38Z",
-			"commitsSinceRelease": 28,
-			"lastPush": "2026-07-30T06:53:31Z",
-			"attentionScore": 164,
-			"unengagedCount": 8
+			"commitsSinceRelease": 36,
+			"lastPush": "2026-08-13T22:32:35Z",
+			"attentionScore": 154,
+			"unengagedCount": 6
 		},
 		{
 			"name": "lando/solr",
