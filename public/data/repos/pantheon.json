@@ -230,6 +230,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "feat: add support for pantheon.yml frontend_build",
+			"author": "AaronFeledy",
+			"createdAt": "2026-08-14T00:02:17Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/369"
+		},
+		{
 			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-08-06T21:54:02Z",

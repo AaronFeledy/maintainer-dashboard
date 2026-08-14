@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-13T22:36:25.006Z",
+		"fetchedAt": "2026-08-14T01:37:21.728Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -689,15 +689,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/node",
-			"number": 19,
-			"title": "Lando configuration for custom service with nodejs building for gatby fails",
-			"author": "AbhayPai",
-			"createdAt": "2022-11-03T05:05:32Z",
-			"url": "https://github.com/lando/node/issues/19",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/core",
 			"number": 10,
 			"title": "Document that a rebuild / destroy is needed when updating .lando.local.yml",
@@ -1181,15 +1172,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2024-01-28T18:00:43Z",
 			"url": "https://github.com/lando/lando/issues/3658",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/node",
-			"number": 69,
-			"title": "[Help] Setting up Nextjs project",
-			"author": "Aniket-IN",
-			"createdAt": "2024-02-10T19:10:01Z",
-			"url": "https://github.com/lando/node/issues/69",
 			"type": "issue"
 		},
 		{
@@ -2687,15 +2669,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/node",
-			"number": 129,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T06:53:46Z",
-			"url": "https://github.com/lando/node/pull/129",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/ruby",
 			"number": 70,
 			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
@@ -2957,15 +2930,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/node",
-			"number": 130,
-			"title": "Bump brace-expansion from 1.1.11 to 1.1.16 in /examples/20",
-			"author": "dependabot",
-			"createdAt": "2026-07-23T16:24:53Z",
-			"url": "https://github.com/lando/node/pull/130",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/transfer-issue-action",
 			"number": 123,
 			"title": "Bump brace-expansion and eslint",
@@ -3144,6 +3108,15 @@
 			"createdAt": "2026-08-08T10:34:00Z",
 			"url": "https://github.com/lando/transfer-issue-action/pull/124",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 492,
+			"title": "Issues uncovered while running an LLM agent in a sandbox",
+			"author": "ohnotnow",
+			"createdAt": "2026-08-10T22:56:42Z",
+			"url": "https://github.com/lando/core/issues/492",
+			"type": "issue"
 		}
 	]
 }
