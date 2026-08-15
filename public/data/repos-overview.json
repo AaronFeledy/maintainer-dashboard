@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-15T18:21:45.723Z",
+		"fetchedAt": "2026-08-15T20:16:42.057Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 830.5,
+			"attentionScore": 831,
 			"unengagedCount": 1
 		},
 		{
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-08-01T04:50:48Z",
-			"attentionScore": 592.5,
+			"attentionScore": 593,
 			"unengagedCount": 2
 		},
 		{
@@ -133,7 +133,7 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 30,
 			"lastPush": "2026-08-04T20:13:45Z",
-			"attentionScore": 326,
+			"attentionScore": 326.5,
 			"unengagedCount": 4
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 28,
 			"lastPush": "2026-08-05T10:34:23Z",
-			"attentionScore": 322,
+			"attentionScore": 322.5,
 			"unengagedCount": 2
 		},
 		{
@@ -169,7 +169,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-07-30T09:06:35Z",
-			"attentionScore": 315,
+			"attentionScore": 315.5,
 			"unengagedCount": 1
 		},
 		{
@@ -193,7 +193,7 @@
 			"lastRelease": "2026-08-10T19:52:09Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-10T19:52:09Z",
-			"attentionScore": 264,
+			"attentionScore": 264.5,
 			"unengagedCount": 27
 		},
 		{
@@ -241,7 +241,7 @@
 			"lastRelease": "2026-08-10T19:34:02Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-08-10T21:46:57Z",
-			"attentionScore": 210,
+			"attentionScore": 210.5,
 			"unengagedCount": 41
 		},
 		{
@@ -337,7 +337,19 @@
 			"lastRelease": "2025-08-28T19:28:14Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-08-05T10:34:10Z",
-			"attentionScore": 185.5,
+			"attentionScore": 186,
+			"unengagedCount": 2
+		},
+		{
+			"name": "lando/mean",
+			"description": "The Official MEAN Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 2,
+			"openPRs": 1,
+			"lastRelease": "2025-09-04T19:14:42Z",
+			"commitsSinceRelease": 26,
+			"lastPush": "2026-08-03T21:44:25Z",
+			"attentionScore": 182.5,
 			"unengagedCount": 2
 		},
 		{
@@ -375,18 +387,6 @@
 			"lastPush": "2024-11-04T19:31:21Z",
 			"attentionScore": 182.5,
 			"unengagedCount": 0
-		},
-		{
-			"name": "lando/mean",
-			"description": "The Official MEAN Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 2,
-			"openPRs": 1,
-			"lastRelease": "2025-09-04T19:14:42Z",
-			"commitsSinceRelease": 26,
-			"lastPush": "2026-08-03T21:44:25Z",
-			"attentionScore": 182,
-			"unengagedCount": 2
 		},
 		{
 			"name": "lando/postgres",
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-07-30T17:43:40Z",
-			"attentionScore": 131.5,
+			"attentionScore": 132,
 			"unengagedCount": 1
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 19,
 			"lastPush": "2026-08-05T09:14:03Z",
-			"attentionScore": 131,
+			"attentionScore": 131.5,
 			"unengagedCount": 1
 		},
 		{
@@ -709,7 +709,7 @@
 			"lastRelease": "2026-06-27T19:13:14Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T08:16:48Z",
-			"attentionScore": 43,
+			"attentionScore": 43.5,
 			"unengagedCount": 4
 		},
 		{
@@ -733,7 +733,7 @@
 			"lastRelease": "2026-06-27T18:53:58Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T07:16:31Z",
-			"attentionScore": 37,
+			"attentionScore": 37.5,
 			"unengagedCount": 3
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-06-27T19:20:17Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-20T08:24:55Z",
-			"attentionScore": 33,
+			"attentionScore": 33.5,
 			"unengagedCount": 2
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-08-10T19:52:23Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-10T19:52:23Z",
-			"attentionScore": 17,
+			"attentionScore": 17.5,
 			"unengagedCount": 3
 		},
 		{
