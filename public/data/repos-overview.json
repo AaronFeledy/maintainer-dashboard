@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-15T12:28:27.494Z",
+		"fetchedAt": "2026-08-15T14:17:23.772Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-06-24T17:55:50Z",
-			"attentionScore": 585.5,
+			"attentionScore": 586,
 			"unengagedCount": 2
 		},
 		{
@@ -253,7 +253,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-05T19:50:18Z",
-			"attentionScore": 207,
+			"attentionScore": 207.5,
 			"unengagedCount": 15
 		},
 		{
@@ -281,6 +281,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/mysql",
+			"description": "The Official MySQL Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 6,
+			"openPRs": 2,
+			"lastRelease": "2025-08-31T14:00:11Z",
+			"commitsSinceRelease": 25,
+			"lastPush": "2026-07-30T08:33:49Z",
+			"attentionScore": 196.5,
+			"unengagedCount": 4
+		},
+		{
 			"name": "lando/gitpod",
 			"description": null,
 			"language": "Dockerfile",
@@ -291,18 +303,6 @@
 			"lastPush": "2026-06-24T18:31:48Z",
 			"attentionScore": 196.5,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/mysql",
-			"description": "The Official MySQL Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 6,
-			"openPRs": 2,
-			"lastRelease": "2025-08-31T14:00:11Z",
-			"commitsSinceRelease": 25,
-			"lastPush": "2026-07-30T08:33:49Z",
-			"attentionScore": 196,
-			"unengagedCount": 4
 		},
 		{
 			"name": "lando/telemetry",
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-08-05T05:07:28Z",
-			"attentionScore": 150.5,
+			"attentionScore": 151,
 			"unengagedCount": 4
 		},
 		{
