@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-16T06:31:44.077Z",
+		"fetchedAt": "2026-08-16T08:23:02.675Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -236,12 +236,12 @@
 			"name": "lando/core",
 			"description": "Current Lando v3 runtime",
 			"language": "JavaScript",
-			"openIssues": 53,
+			"openIssues": 52,
 			"openPRs": 16,
 			"lastRelease": "2026-08-10T19:34:02Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-08-10T21:46:57Z",
-			"attentionScore": 210.5,
+			"attentionScore": 209.5,
 			"unengagedCount": 41
 		},
 		{
