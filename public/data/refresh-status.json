@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"lastFullRefresh": "2026-08-17T16:21:24.380Z"
+		"lastFullRefresh": "2026-08-17T18:32:04.195Z"
 	},
 	"repos": {
 		"lando/php": {
@@ -136,132 +136,132 @@
 			"detail": "2026-08-17T16:21:24.380Z"
 		},
 		"lando/lagoon": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/platformsh": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/lando": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/core": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/core-next": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/legacy-cli": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/setup-lando": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/code-sign-action": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/notarize-action": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/pkg-action": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/run-leia-action": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/auto-deploy-action": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/prepare-release-action": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/transfer-issue-action": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/website": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/blog": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/events": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/leia": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/hyperdrive": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/argv": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/vitepress-theme-default-plus": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/lando-update-scripts": {
-			"overview": "2026-08-17T16:21:24.380Z",
+			"overview": "2026-08-17T18:32:04.195Z",
 			"detail": null
 		},
 		"lando/lando-dev-container-feature": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/gitpod": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/devtool": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/plugin-test": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/legacy-metrics": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/telemetry": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/desktop": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		},
 		"lando/homebrew-lando": {
-			"overview": "2026-08-17T16:21:24.380Z",
+			"overview": "2026-08-17T18:32:04.195Z",
 			"detail": null
 		},
 		"lando/homebrew-core": {
-			"overview": "2026-08-17T16:21:24.380Z",
+			"overview": "2026-08-17T18:32:04.195Z",
 			"detail": null
 		},
 		"lando/drupal-dev-environment": {
-			"overview": "2026-08-17T16:21:24.380Z",
-			"detail": "2026-08-17T16:21:24.380Z"
+			"overview": "2026-08-17T18:32:04.195Z",
+			"detail": "2026-08-17T18:32:04.195Z"
 		}
 	}
 }
