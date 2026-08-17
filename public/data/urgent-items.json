@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-17T12:34:33.549Z",
+		"fetchedAt": "2026-08-17T16:21:24.380Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2129,15 +2129,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/lando",
-			"number": 3834,
-			"title": "Cannot install lando on Windows 11 25H2 due to powershell Syntax error: \"(\" unexpected (expecting \")\")  FAILED",
-			"author": "kaszarobert",
-			"createdAt": "2026-01-21T09:36:25Z",
-			"url": "https://github.com/lando/lando/issues/3834",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/core-next",
 			"number": 120,
 			"title": "feat: add buildx check/install to lando setup",
@@ -2369,15 +2360,6 @@
 			"author": "dpagini",
 			"createdAt": "2026-03-30T19:30:47Z",
 			"url": "https://github.com/lando/core-next/issues/141",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/lando",
-			"number": 3843,
-			"title": "CLI process enforcing SUDO on cert installation",
-			"author": "owindsor",
-			"createdAt": "2026-04-13T06:45:39Z",
-			"url": "https://github.com/lando/lando/issues/3843",
 			"type": "issue"
 		},
 		{
