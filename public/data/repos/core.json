@@ -469,6 +469,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: surface real git errors instead of fake tar detection",
+			"author": "AaronFeledy",
+			"createdAt": "2026-08-19T18:42:58Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/494"
+		},
+		{
 			"title": "Add a system-level plugin-auth.js",
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-12T17:07:18Z",
