@@ -469,11 +469,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: surface real git errors instead of fake tar detection",
+			"title": "fix: copy SSH keys off bind mounts on all platforms",
 			"author": "AaronFeledy",
-			"createdAt": "2026-08-19T18:42:58Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/494"
+			"createdAt": "2026-08-19T20:58:36Z",
+			"reviewCount": 2,
+			"url": "https://github.com/lando/core/pull/495"
 		},
 		{
 			"title": "Add a system-level plugin-auth.js",
