@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "lando pull fails on Pantheon next-gen GCDN sites — bundled Terminus 4.1.1 predates the env:wake fix; release requested",
+			"author": "square360-george",
+			"labels": [],
+			"createdAt": "2026-08-20T17:20:06Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/371"
+		},
+		{
 			"title": "Pantheon - Team Workspaces",
 			"author": "rayskin",
 			"labels": [
