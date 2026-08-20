@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-20T00:58:51.045Z",
+		"fetchedAt": "2026-08-20T02:52:02.542Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2336,15 +2336,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/pantheon",
-			"number": 348,
-			"title": "fix: warn and fallback for unsupported PHP images",
-			"author": "AaronFeledy",
-			"createdAt": "2026-03-23T20:39:37Z",
-			"url": "https://github.com/lando/pantheon/pull/348",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3841,
 			"title": "Create FrankenPHP Recipe",
@@ -2423,15 +2414,6 @@
 			"author": "Taelkir",
 			"createdAt": "2026-05-26T12:05:48Z",
 			"url": "https://github.com/lando/lando/issues/3844",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/pantheon",
-			"number": 361,
-			"title": "Pantheon - Team Workspaces",
-			"author": "rayskin",
-			"createdAt": "2026-05-26T16:10:07Z",
-			"url": "https://github.com/lando/pantheon/issues/361",
 			"type": "issue"
 		},
 		{
@@ -3035,15 +3017,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-05T20:07:24Z",
 			"url": "https://github.com/lando/argv/pull/20",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/pantheon",
-			"number": 368,
-			"title": "build(deps): bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-08-06T21:54:02Z",
-			"url": "https://github.com/lando/pantheon/pull/368",
 			"type": "pr"
 		},
 		{

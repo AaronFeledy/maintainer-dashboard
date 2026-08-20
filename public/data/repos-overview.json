@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-20T00:58:51.045Z",
+		"fetchedAt": "2026-08-20T02:52:02.542Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -121,7 +121,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 32,
 			"lastPush": "2026-08-03T14:14:43Z",
-			"attentionScore": 346,
+			"attentionScore": 346.5,
 			"unengagedCount": 6
 		},
 		{
@@ -481,7 +481,7 @@
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-08-03T17:05:38Z",
-			"attentionScore": 118,
+			"attentionScore": 118.5,
 			"unengagedCount": 5
 		},
 		{
@@ -581,18 +581,6 @@
 			"unengagedCount": 5
 		},
 		{
-			"name": "lando/pantheon",
-			"description": "The Official Lando Pantheon plugin.",
-			"language": "JavaScript",
-			"openIssues": 21,
-			"openPRs": 2,
-			"lastRelease": "2026-06-04T05:59:16Z",
-			"commitsSinceRelease": 5,
-			"lastPush": "2026-08-20T00:26:37Z",
-			"attentionScore": 105,
-			"unengagedCount": 14
-		},
-		{
 			"name": "lando/joomla",
 			"description": "The Official Joomla Lando Plugin",
 			"language": "JavaScript",
@@ -665,6 +653,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/pantheon",
+			"description": "The Official Lando Pantheon plugin.",
+			"language": "JavaScript",
+			"openIssues": 20,
+			"openPRs": 1,
+			"lastRelease": "2026-06-04T05:59:16Z",
+			"commitsSinceRelease": 7,
+			"lastPush": "2026-08-20T02:47:19Z",
+			"attentionScore": 93,
+			"unengagedCount": 11
+		},
+		{
 			"name": "lando/apache",
 			"description": "The Official Apache Lando Plugin",
 			"language": "JavaScript",
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-08-01T01:07:19Z",
-			"attentionScore": 87,
+			"attentionScore": 87.5,
 			"unengagedCount": 1
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-07-30T02:38:21Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-30T02:39:00Z",
-			"attentionScore": 45,
+			"attentionScore": 45.5,
 			"unengagedCount": 8
 		},
 		{
