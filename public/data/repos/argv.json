@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump brace-expansion",
+			"author": "dependabot",
+			"createdAt": "2026-08-20T07:31:04Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/argv/pull/21"
+		},
+		{
 			"title": "Bump fast-uri from 3.1.2 to 3.1.5",
 			"author": "dependabot",
 			"createdAt": "2026-08-05T20:07:24Z",

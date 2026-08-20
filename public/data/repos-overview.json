@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-20T06:37:56.399Z",
+		"fetchedAt": "2026-08-20T08:32:15.214Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -273,11 +273,11 @@
 			"description": "A small utility for argv parsing",
 			"language": "JavaScript",
 			"openIssues": 0,
-			"openPRs": 1,
+			"openPRs": 2,
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
-			"lastPush": "2026-08-05T20:07:30Z",
-			"attentionScore": 203.5,
+			"lastPush": "2026-08-20T07:31:03Z",
+			"attentionScore": 205.5,
 			"unengagedCount": 1
 		},
 		{
