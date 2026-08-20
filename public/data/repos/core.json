@@ -469,13 +469,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: copy SSH keys off bind mounts on all platforms",
-			"author": "AaronFeledy",
-			"createdAt": "2026-08-19T20:58:36Z",
-			"reviewCount": 2,
-			"url": "https://github.com/lando/core/pull/495"
-		},
-		{
 			"title": "Add a system-level plugin-auth.js",
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-12T17:07:18Z",

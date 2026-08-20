@@ -14,24 +14,6 @@
 			"url": "https://github.com/lando/pantheon/issues/361"
 		},
 		{
-			"title": "Terminius 4.1.X causing build errors",
-			"author": "caosborne89",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2026-05-22T18:00:52Z",
-			"commentCount": 2,
-			"url": "https://github.com/lando/pantheon/issues/360"
-		},
-		{
-			"title": "Evaluate Pantheon Solr 9 beta support",
-			"author": "AaronFeledy",
-			"labels": [],
-			"createdAt": "2026-04-29T05:51:14Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/pantheon/issues/355"
-		},
-		{
 			"title": "Add Leia coverage for PHP 8.5",
 			"author": "AaronFeledy",
 			"labels": [],
@@ -237,14 +219,7 @@
 			"url": "https://github.com/lando/pantheon/pull/368"
 		},
 		{
-			"title": "fix: update Terminus to 4.2.2",
-			"author": "AaronFeledy",
-			"createdAt": "2026-06-19T22:19:17Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/pantheon/pull/364"
-		},
-		{
-			"title": "fix: warn and fallback for unsupported PHP versions",
+			"title": "fix: warn and fallback for unsupported PHP images",
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-23T20:39:37Z",
 			"reviewCount": 2,
