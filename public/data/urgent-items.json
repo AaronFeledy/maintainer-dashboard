@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-20T22:21:41.014Z",
+		"fetchedAt": "2026-08-21T01:02:25.042Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2378,15 +2378,6 @@
 			"author": "bronius-congruity",
 			"createdAt": "2026-04-29T04:55:02Z",
 			"url": "https://github.com/lando/drupal/issues/186",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/pantheon",
-			"number": 352,
-			"title": "Add Leia coverage for PHP 8.5",
-			"author": "AaronFeledy",
-			"createdAt": "2026-04-29T05:51:14Z",
-			"url": "https://github.com/lando/pantheon/issues/352",
 			"type": "issue"
 		},
 		{
