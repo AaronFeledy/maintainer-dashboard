@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-23T04:31:46.425Z",
+		"fetchedAt": "2026-08-23T06:34:02.140Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -485,6 +485,18 @@
 			"unengagedCount": 5
 		},
 		{
+			"name": "lando/acquia",
+			"description": "The Official Acquia Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 4,
+			"openPRs": 3,
+			"lastRelease": "2026-02-24T04:45:09Z",
+			"commitsSinceRelease": 12,
+			"lastPush": "2026-08-05T15:23:44Z",
+			"attentionScore": 118,
+			"unengagedCount": 6
+		},
+		{
 			"name": "lando/nginx",
 			"description": "The Official NGINX Lando Plugin",
 			"language": "JavaScript",
@@ -497,18 +509,6 @@
 			"unengagedCount": 6
 		},
 		{
-			"name": "lando/acquia",
-			"description": "The Official Acquia Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 4,
-			"openPRs": 3,
-			"lastRelease": "2026-02-24T04:45:09Z",
-			"commitsSinceRelease": 12,
-			"lastPush": "2026-08-05T15:23:44Z",
-			"attentionScore": 117.5,
-			"unengagedCount": 6
-		},
-		{
 			"name": "lando/lamp",
 			"description": "The Official LAMP Lando Plugin",
 			"language": "JavaScript",
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-08-04T05:13:37Z",
-			"attentionScore": 112.5,
+			"attentionScore": 113,
 			"unengagedCount": 5
 		},
 		{
@@ -557,6 +557,18 @@
 			"unengagedCount": 4
 		},
 		{
+			"name": "lando/lemp",
+			"description": "The Official LEMP Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 5,
+			"openPRs": 1,
+			"lastRelease": "2026-02-26T05:56:44Z",
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-08-04T05:43:22Z",
+			"attentionScore": 108,
+			"unengagedCount": 4
+		},
+		{
 			"name": "lando/drupal",
 			"description": "The Official Drupal Lando plugin",
 			"language": "JavaScript",
@@ -567,18 +579,6 @@
 			"lastPush": "2026-08-03T23:05:00Z",
 			"attentionScore": 107.5,
 			"unengagedCount": 5
-		},
-		{
-			"name": "lando/lemp",
-			"description": "The Official LEMP Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 5,
-			"openPRs": 1,
-			"lastRelease": "2026-02-26T05:56:44Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-08-04T05:43:22Z",
-			"attentionScore": 107.5,
-			"unengagedCount": 4
 		},
 		{
 			"name": "lando/joomla",
@@ -601,7 +601,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 10,
 			"lastPush": "2026-08-03T03:24:50Z",
-			"attentionScore": 98.5,
+			"attentionScore": 99,
 			"unengagedCount": 2
 		},
 		{
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-08-22T03:35:05Z",
-			"attentionScore": 97,
+			"attentionScore": 97.5,
 			"unengagedCount": 1
 		},
 		{
