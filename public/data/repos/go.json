@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Updated Go to v1.27",
+			"author": "github-actions",
+			"createdAt": "2026-08-24T07:04:59Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/go/pull/82"
+		},
+		{
 			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-15T10:13:47Z",
