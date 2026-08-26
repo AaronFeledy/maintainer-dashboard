@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-26T19:42:59.315Z",
+		"fetchedAt": "2026-08-26T22:40:33.652Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-08-08T09:10:15Z",
-			"attentionScore": 873.5,
+			"attentionScore": 874,
 			"unengagedCount": 2
 		},
 		{
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 836,
+			"attentionScore": 836.5,
 			"unengagedCount": 1
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-07-30T02:39:47Z",
-			"attentionScore": 562.5,
+			"attentionScore": 563,
 			"unengagedCount": 44
 		},
 		{
@@ -92,12 +92,12 @@
 			"name": "lando/leia",
 			"description": "A testing utility that tests code blocks in documentation.",
 			"language": "JavaScript",
-			"openIssues": 5,
+			"openIssues": 13,
 			"openPRs": 1,
 			"lastRelease": "2024-07-22T22:08:03Z",
-			"commitsSinceRelease": 17,
-			"lastPush": "2026-08-24T17:07:27Z",
-			"attentionScore": 398,
+			"commitsSinceRelease": 18,
+			"lastPush": "2026-08-26T22:30:43Z",
+			"attentionScore": 406.5,
 			"unengagedCount": 3
 		},
 		{
@@ -229,7 +229,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 221.5,
+			"attentionScore": 222,
 			"unengagedCount": 7
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 19,
 			"lastPush": "2026-08-05T09:14:03Z",
-			"attentionScore": 136.5,
+			"attentionScore": 137,
 			"unengagedCount": 1
 		},
 		{

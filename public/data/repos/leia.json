@@ -4,12 +4,76 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "Standardize on Node 24 LTS",
+			"title": "Release Leia 2.0.0",
 			"author": "pirog",
 			"labels": [],
-			"createdAt": "2026-08-26T15:36:41Z",
+			"createdAt": "2026-08-26T20:21:45Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/leia/issues/60"
+			"url": "https://github.com/lando/leia/issues/69"
+		},
+		{
+			"title": "Rewrite Leia documentation for 2.0",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T20:21:40Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/68"
+		},
+		{
+			"title": "Modernize the Leia CLI presentation for 2.0",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T20:21:35Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/67"
+		},
+		{
+			"title": "Publish dual ESM and CommonJS artifacts for Leia 2.0",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T20:21:29Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/66"
+		},
+		{
+			"title": "Port Leia's CLI and test runner to TypeScript ESM on Bun",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T20:21:25Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/65"
+		},
+		{
+			"title": "Port Leia's Markdown compilation pipeline to TypeScript ESM",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T20:21:20Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/64"
+		},
+		{
+			"title": "Establish the Bun, TypeScript, and ESM development foundation",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T20:21:15Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/63"
+		},
+		{
+			"title": "Lock Leia's current behavior for the 2.0 rewrite",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T20:21:09Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/leia/issues/62"
+		},
+		{
+			"title": "Create and protect the Leia 2.x integration branch",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T20:21:04Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/leia/issues/61"
 		},
 		{
 			"title": "Support ESM",
