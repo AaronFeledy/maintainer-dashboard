@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-26T14:38:53.001Z",
+		"fetchedAt": "2026-08-26T16:44:22.091Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T00:38:59Z",
-			"attentionScore": 753,
+			"attentionScore": 753.5,
 			"unengagedCount": 10
 		},
 		{
@@ -85,19 +85,19 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-08-08T10:34:03Z",
-			"attentionScore": 458,
+			"attentionScore": 458.5,
 			"unengagedCount": 4
 		},
 		{
 			"name": "lando/leia",
 			"description": "A testing utility that tests code blocks in documentation.",
 			"language": "JavaScript",
-			"openIssues": 3,
+			"openIssues": 5,
 			"openPRs": 1,
 			"lastRelease": "2024-07-22T22:08:03Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-08-24T17:07:27Z",
-			"attentionScore": 396,
+			"attentionScore": 398,
 			"unengagedCount": 3
 		},
 		{
@@ -217,7 +217,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 230,
+			"attentionScore": 230.5,
 			"unengagedCount": 2
 		},
 		{
@@ -265,7 +265,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-07-30T20:43:43Z",
-			"attentionScore": 210.5,
+			"attentionScore": 211,
 			"unengagedCount": 7
 		},
 		{
@@ -361,7 +361,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-07-30T04:10:11Z",
-			"attentionScore": 186.5,
+			"attentionScore": 187,
 			"unengagedCount": 2
 		},
 		{
@@ -373,7 +373,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-08-05T19:04:23Z",
-			"attentionScore": 184,
+			"attentionScore": 184.5,
 			"unengagedCount": 1
 		},
 		{
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-08-03T11:06:10Z",
-			"attentionScore": 103,
+			"attentionScore": 103.5,
 			"unengagedCount": 2
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-07-30T15:43:42Z",
-			"attentionScore": 89,
+			"attentionScore": 89.5,
 			"unengagedCount": 1
 		},
 		{
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-07-30T04:33:39Z",
-			"attentionScore": 82,
+			"attentionScore": 82.5,
 			"unengagedCount": 1
 		},
 		{

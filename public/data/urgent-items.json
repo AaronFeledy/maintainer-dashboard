@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-26T14:38:53.001Z",
+		"fetchedAt": "2026-08-26T16:44:22.091Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2482,7 +2482,7 @@
 		{
 			"repo": "lando/leia",
 			"number": 57,
-			"title": "generated harness breaks on shell backticks and braced variable expansion",
+			"title": "generated harness cannot safely embed shell command text",
 			"author": "pirog",
 			"createdAt": "2026-07-10T17:32:04Z",
 			"url": "https://github.com/lando/leia/issues/57",

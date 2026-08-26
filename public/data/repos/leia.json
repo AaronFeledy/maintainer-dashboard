@@ -4,7 +4,23 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "generated harness breaks on shell backticks and braced variable expansion",
+			"title": "Standardize on Node 24 LTS",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T15:36:41Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/60"
+		},
+		{
+			"title": "Support ESM",
+			"author": "pirog",
+			"labels": [],
+			"createdAt": "2026-08-26T15:22:41Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/59"
+		},
+		{
+			"title": "generated harness cannot safely embed shell command text",
 			"author": "pirog",
 			"labels": [],
 			"createdAt": "2026-07-10T17:32:04Z",
