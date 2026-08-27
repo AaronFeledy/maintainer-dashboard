@@ -4,14 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "Repair shell detection and complete core parser and finder coverage",
-			"author": "emoriwan",
-			"labels": [],
-			"createdAt": "2026-08-27T04:14:50Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/leia/issues/75"
-		},
-		{
 			"title": "Publish npm releases with trusted publishing and least privilege",
 			"author": "emoriwan",
 			"labels": [],
@@ -24,7 +16,7 @@
 			"author": "emoriwan",
 			"labels": [],
 			"createdAt": "2026-08-27T04:14:50Z",
-			"commentCount": 0,
+			"commentCount": 2,
 			"url": "https://github.com/lando/leia/issues/73"
 		},
 		{
@@ -100,14 +92,6 @@
 			"url": "https://github.com/lando/leia/issues/61"
 		},
 		{
-			"title": "Support ESM",
-			"author": "pirog",
-			"labels": [],
-			"createdAt": "2026-08-26T15:22:41Z",
-			"commentCount": 3,
-			"url": "https://github.com/lando/leia/issues/59"
-		},
-		{
 			"title": "How to handle lots of quote recursion in an execute string...",
 			"author": "tobybellwood",
 			"labels": [],
@@ -126,11 +110,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Support ESM",
-			"author": "emoriwan",
-			"createdAt": "2026-08-27T01:50:34Z",
+			"title": "fix: upgrade brace-expansion to 1.1.18, 2.1.4, 3.0.6, 5.0.9 (CVE-2026-69152)",
+			"author": "anupamme",
+			"createdAt": "2026-08-27T16:17:30Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/72"
+			"url": "https://github.com/lando/leia/pull/77"
 		},
 		{
 			"title": "fix: handle race condition in release promote job",
