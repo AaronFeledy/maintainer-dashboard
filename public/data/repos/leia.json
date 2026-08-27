@@ -4,6 +4,30 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Repair shell detection and complete core parser and finder coverage",
+			"author": "emoriwan",
+			"labels": [],
+			"createdAt": "2026-08-27T04:14:50Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/75"
+		},
+		{
+			"title": "Publish npm releases with trusted publishing and least privilege",
+			"author": "emoriwan",
+			"labels": [],
+			"createdAt": "2026-08-27T04:14:50Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/74"
+		},
+		{
+			"title": "Validate and safely serialize generated harness metadata",
+			"author": "emoriwan",
+			"labels": [],
+			"createdAt": "2026-08-27T04:14:50Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/leia/issues/73"
+		},
+		{
 			"title": "Release Leia 2.0.0",
 			"author": "pirog",
 			"labels": [],
@@ -80,16 +104,8 @@
 			"author": "pirog",
 			"labels": [],
 			"createdAt": "2026-08-26T15:22:41Z",
-			"commentCount": 0,
+			"commentCount": 3,
 			"url": "https://github.com/lando/leia/issues/59"
-		},
-		{
-			"title": "generated harness cannot safely embed shell command text",
-			"author": "pirog",
-			"labels": [],
-			"createdAt": "2026-07-10T17:32:04Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/leia/issues/57"
 		},
 		{
 			"title": "How to handle lots of quote recursion in an execute string...",
@@ -109,6 +125,13 @@
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "Support ESM",
+			"author": "emoriwan",
+			"createdAt": "2026-08-27T01:50:34Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/leia/pull/72"
+		},
 		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",

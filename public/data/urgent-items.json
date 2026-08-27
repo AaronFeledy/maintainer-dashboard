@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-26T22:40:33.652Z",
+		"fetchedAt": "2026-08-27T07:00:53.710Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2477,15 +2477,6 @@
 			"author": "devtype",
 			"createdAt": "2026-07-09T08:49:09Z",
 			"url": "https://github.com/lando/mariadb/issues/99",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 57,
-			"title": "generated harness cannot safely embed shell command text",
-			"author": "pirog",
-			"createdAt": "2026-07-10T17:32:04Z",
-			"url": "https://github.com/lando/leia/issues/57",
 			"type": "issue"
 		},
 		{
