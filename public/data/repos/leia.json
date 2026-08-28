@@ -16,7 +16,7 @@
 			"author": "emoriwan",
 			"labels": [],
 			"createdAt": "2026-08-27T04:14:50Z",
-			"commentCount": 2,
+			"commentCount": 3,
 			"url": "https://github.com/lando/leia/issues/73"
 		},
 		{
@@ -109,6 +109,13 @@
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "Validate and safely serialize generated harness metadata",
+			"author": "emoriwan",
+			"createdAt": "2026-08-27T19:31:02Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/leia/pull/78"
+		},
 		{
 			"title": "fix: upgrade brace-expansion to 1.1.18, 2.1.4, 3.0.6, 5.0.9 (CVE-2026-69152)",
 			"author": "anupamme",

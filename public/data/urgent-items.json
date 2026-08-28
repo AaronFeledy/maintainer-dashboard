@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-27T18:46:31.022Z",
+		"fetchedAt": "2026-08-28T03:59:42.891Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3035,6 +3035,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-20T07:31:04Z",
 			"url": "https://github.com/lando/argv/pull/21",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/go",
+			"number": 82,
+			"title": "Updated Go to v1.27",
+			"author": "github-actions",
+			"createdAt": "2026-08-24T07:04:59Z",
+			"url": "https://github.com/lando/go/pull/82",
 			"type": "pr"
 		}
 	]
