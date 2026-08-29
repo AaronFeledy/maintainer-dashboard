@@ -4,14 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "Publish npm releases with trusted publishing and least privilege",
-			"author": "emoriwan",
-			"labels": [],
-			"createdAt": "2026-08-27T04:14:50Z",
-			"commentCount": 3,
-			"url": "https://github.com/lando/leia/issues/74"
-		},
-		{
 			"title": "Release Leia 2.0.0",
 			"author": "pirog",
 			"labels": [],
@@ -102,11 +94,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Publish npm releases with trusted publishing and least privilege",
+			"title": "ci: harden npm release workflow",
 			"author": "emoriwan",
-			"createdAt": "2026-08-28T05:47:45Z",
+			"createdAt": "2026-08-29T05:57:34Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/79"
+			"url": "https://github.com/lando/leia/pull/81"
 		},
 		{
 			"title": "fix: upgrade brace-expansion to 1.1.18, 2.1.4, 3.0.6, 5.0.9 (CVE-2026-69152)",
