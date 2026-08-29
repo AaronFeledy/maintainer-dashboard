@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-29T14:54:31.784Z",
+		"fetchedAt": "2026-08-29T19:07:37.810Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T00:38:59Z",
-			"attentionScore": 754.5,
+			"attentionScore": 755,
 			"unengagedCount": 10
 		},
 		{
@@ -133,7 +133,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 329.5,
+			"attentionScore": 330,
 			"unengagedCount": 1
 		},
 		{
@@ -205,7 +205,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 231.5,
+			"attentionScore": 232,
 			"unengagedCount": 2
 		},
 		{
@@ -253,7 +253,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-07-30T20:43:43Z",
-			"attentionScore": 212,
+			"attentionScore": 212.5,
 			"unengagedCount": 7
 		},
 		{
@@ -337,7 +337,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-07-30T04:10:11Z",
-			"attentionScore": 188,
+			"attentionScore": 188.5,
 			"unengagedCount": 2
 		},
 		{
@@ -361,7 +361,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-08-05T19:04:23Z",
-			"attentionScore": 185.5,
+			"attentionScore": 186,
 			"unengagedCount": 1
 		},
 		{
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-08-03T11:24:59Z",
-			"attentionScore": 141.5,
+			"attentionScore": 142,
 			"unengagedCount": 2
 		},
 		{
@@ -529,7 +529,7 @@
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-08-04T12:04:31Z",
-			"attentionScore": 112,
+			"attentionScore": 112.5,
 			"unengagedCount": 5
 		},
 		{
@@ -577,7 +577,7 @@
 			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-08-03T11:06:10Z",
-			"attentionScore": 104.5,
+			"attentionScore": 105,
 			"unengagedCount": 2
 		},
 		{
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-08-24T07:04:59Z",
-			"attentionScore": 103,
+			"attentionScore": 103.5,
 			"unengagedCount": 2
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-08-03T06:26:20Z",
-			"attentionScore": 101,
+			"attentionScore": 101.5,
 			"unengagedCount": 2
 		},
 		{
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-07-30T15:43:42Z",
-			"attentionScore": 90.5,
+			"attentionScore": 91,
 			"unengagedCount": 1
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-07-30T04:33:39Z",
-			"attentionScore": 83.5,
+			"attentionScore": 84,
 			"unengagedCount": 1
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-06-27T18:53:58Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T07:16:31Z",
-			"attentionScore": 44,
+			"attentionScore": 44.5,
 			"unengagedCount": 3
 		},
 		{
@@ -749,18 +749,6 @@
 			"unengagedCount": 2
 		},
 		{
-			"name": "lando/leia",
-			"description": "A testing utility that tests code blocks in documentation.",
-			"language": "JavaScript",
-			"openIssues": 11,
-			"openPRs": 3,
-			"lastRelease": "2026-08-29T14:20:38Z",
-			"commitsSinceRelease": 0,
-			"lastPush": "2026-08-29T14:45:22Z",
-			"attentionScore": 23,
-			"unengagedCount": 2
-		},
-		{
 			"name": "lando/legacy-cli",
 			"description": "The cli part of Lando",
 			"language": "JavaScript",
@@ -771,6 +759,18 @@
 			"lastPush": "2026-08-20T23:17:12Z",
 			"attentionScore": 19,
 			"unengagedCount": 3
+		},
+		{
+			"name": "lando/leia",
+			"description": "A testing utility that tests code blocks in documentation.",
+			"language": "JavaScript",
+			"openIssues": 11,
+			"openPRs": 1,
+			"lastRelease": "2026-08-29T17:32:50Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-08-29T17:33:15Z",
+			"attentionScore": 19,
+			"unengagedCount": 2
 		},
 		{
 			"name": "lando/node",
