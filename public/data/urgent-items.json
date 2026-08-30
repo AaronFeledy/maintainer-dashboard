@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-29T22:15:44.798Z",
+		"fetchedAt": "2026-08-30T03:21:12.073Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -3045,6 +3045,69 @@
 			"createdAt": "2026-08-24T07:04:59Z",
 			"url": "https://github.com/lando/go/pull/82",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 63,
+			"title": "Establish the Bun, TypeScript, and ESM development foundation",
+			"author": "pirog",
+			"createdAt": "2026-08-26T20:21:15Z",
+			"url": "https://github.com/lando/leia/issues/63",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 64,
+			"title": "Port Leia's Markdown compilation pipeline to TypeScript ESM",
+			"author": "pirog",
+			"createdAt": "2026-08-26T20:21:20Z",
+			"url": "https://github.com/lando/leia/issues/64",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 65,
+			"title": "Port Leia's CLI and test runner to TypeScript ESM on Bun",
+			"author": "pirog",
+			"createdAt": "2026-08-26T20:21:25Z",
+			"url": "https://github.com/lando/leia/issues/65",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 66,
+			"title": "Publish dual ESM and CommonJS artifacts for Leia 2.0",
+			"author": "pirog",
+			"createdAt": "2026-08-26T20:21:29Z",
+			"url": "https://github.com/lando/leia/issues/66",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 67,
+			"title": "Modernize the Leia CLI presentation for 2.0",
+			"author": "pirog",
+			"createdAt": "2026-08-26T20:21:35Z",
+			"url": "https://github.com/lando/leia/issues/67",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 68,
+			"title": "Rewrite Leia documentation for 2.0",
+			"author": "pirog",
+			"createdAt": "2026-08-26T20:21:40Z",
+			"url": "https://github.com/lando/leia/issues/68",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 69,
+			"title": "Release Leia 2.0.0",
+			"author": "pirog",
+			"createdAt": "2026-08-26T20:21:45Z",
+			"url": "https://github.com/lando/leia/issues/69",
+			"type": "issue"
 		}
 	]
 }
