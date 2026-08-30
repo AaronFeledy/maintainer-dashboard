@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-30T03:21:12.073Z",
+		"fetchedAt": "2026-08-30T09:41:36.901Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -481,7 +481,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-08-05T15:23:44Z",
-			"attentionScore": 121,
+			"attentionScore": 121.5,
 			"unengagedCount": 6
 		},
 		{
@@ -493,7 +493,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-31T22:13:36Z",
-			"attentionScore": 120.5,
+			"attentionScore": 121,
 			"unengagedCount": 6
 		},
 		{
@@ -505,7 +505,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-08-04T05:13:37Z",
-			"attentionScore": 116,
+			"attentionScore": 116.5,
 			"unengagedCount": 5
 		},
 		{
@@ -553,7 +553,7 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-08-04T05:43:22Z",
-			"attentionScore": 111,
+			"attentionScore": 111.5,
 			"unengagedCount": 4
 		},
 		{
@@ -565,7 +565,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-08-03T23:05:00Z",
-			"attentionScore": 110.5,
+			"attentionScore": 111,
 			"unengagedCount": 5
 		},
 		{
@@ -601,7 +601,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 10,
 			"lastPush": "2026-08-03T03:24:50Z",
-			"attentionScore": 102,
+			"attentionScore": 102.5,
 			"unengagedCount": 2
 		},
 		{
@@ -637,7 +637,7 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-08-24T02:05:21Z",
-			"attentionScore": 93.5,
+			"attentionScore": 94,
 			"unengagedCount": 0
 		},
 		{
@@ -737,6 +737,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/code-sign-action",
+			"description": "A GitHub action to code sign files",
+			"language": "PowerShell",
+			"openIssues": 3,
+			"openPRs": 1,
+			"lastRelease": "2026-07-03T03:40:07Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-07-27T04:14:49Z",
+			"attentionScore": 40,
+			"unengagedCount": 2
+		},
+		{
 			"name": "lando/leia",
 			"description": "A testing utility that tests code blocks in documentation.",
 			"language": "JavaScript",
@@ -747,18 +759,6 @@
 			"lastPush": "2026-08-29T17:33:15Z",
 			"attentionScore": 40,
 			"unengagedCount": 9
-		},
-		{
-			"name": "lando/code-sign-action",
-			"description": "A GitHub action to code sign files",
-			"language": "PowerShell",
-			"openIssues": 3,
-			"openPRs": 1,
-			"lastRelease": "2026-07-03T03:40:07Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-07-27T04:14:49Z",
-			"attentionScore": 39.5,
-			"unengagedCount": 2
 		},
 		{
 			"name": "lando/legacy-cli",
