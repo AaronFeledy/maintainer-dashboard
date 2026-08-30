@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-08-30T14:38:51.953Z",
+		"fetchedAt": "2026-08-30T19:00:18.091Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -37,7 +37,7 @@
 			"lastRelease": "2022-10-11T15:56:12Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T00:38:59Z",
-			"attentionScore": 755,
+			"attentionScore": 755.5,
 			"unengagedCount": 10
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-08-08T10:34:03Z",
-			"attentionScore": 460,
+			"attentionScore": 460.5,
 			"unengagedCount": 4
 		},
 		{
@@ -133,7 +133,7 @@
 			"lastRelease": "2024-11-15T17:11:16Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:47:02Z",
-			"attentionScore": 330,
+			"attentionScore": 330.5,
 			"unengagedCount": 1
 		},
 		{
@@ -205,7 +205,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 232,
+			"attentionScore": 232.5,
 			"unengagedCount": 2
 		},
 		{
@@ -253,7 +253,7 @@
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-07-30T20:43:43Z",
-			"attentionScore": 212.5,
+			"attentionScore": 213,
 			"unengagedCount": 7
 		},
 		{
@@ -337,7 +337,7 @@
 			"lastRelease": "2025-09-08T15:41:04Z",
 			"commitsSinceRelease": 23,
 			"lastPush": "2026-07-30T04:10:11Z",
-			"attentionScore": 188.5,
+			"attentionScore": 189,
 			"unengagedCount": 2
 		},
 		{
@@ -361,7 +361,7 @@
 			"lastRelease": "2025-09-01T15:49:33Z",
 			"commitsSinceRelease": 21,
 			"lastPush": "2026-08-05T19:04:23Z",
-			"attentionScore": 186,
+			"attentionScore": 186.5,
 			"unengagedCount": 1
 		},
 		{
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-12-06T17:19:48Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-08-03T11:24:59Z",
-			"attentionScore": 142,
+			"attentionScore": 142.5,
 			"unengagedCount": 2
 		},
 		{
@@ -529,7 +529,7 @@
 			"lastRelease": "2026-03-11T16:53:00Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-08-04T12:04:31Z",
-			"attentionScore": 112.5,
+			"attentionScore": 113,
 			"unengagedCount": 5
 		},
 		{
@@ -577,7 +577,7 @@
 			"lastRelease": "2026-02-20T16:27:34Z",
 			"commitsSinceRelease": 16,
 			"lastPush": "2026-08-03T11:06:10Z",
-			"attentionScore": 105,
+			"attentionScore": 105.5,
 			"unengagedCount": 2
 		},
 		{
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-02-23T17:48:12Z",
 			"commitsSinceRelease": 9,
 			"lastPush": "2026-08-24T07:04:59Z",
-			"attentionScore": 103.5,
+			"attentionScore": 104,
 			"unengagedCount": 2
 		},
 		{
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-08-03T06:26:20Z",
-			"attentionScore": 101.5,
+			"attentionScore": 102,
 			"unengagedCount": 2
 		},
 		{
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-03-10T15:54:35Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-07-30T15:43:42Z",
-			"attentionScore": 91,
+			"attentionScore": 91.5,
 			"unengagedCount": 1
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-03-24T16:43:11Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-07-30T04:33:39Z",
-			"attentionScore": 84,
+			"attentionScore": 84.5,
 			"unengagedCount": 1
 		},
 		{
@@ -721,7 +721,7 @@
 			"lastRelease": "2026-06-27T18:53:58Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T07:16:31Z",
-			"attentionScore": 44.5,
+			"attentionScore": 45,
 			"unengagedCount": 3
 		},
 		{
@@ -737,6 +737,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/leia",
+			"description": "A testing utility that tests code blocks in documentation.",
+			"language": "JavaScript",
+			"openIssues": 11,
+			"openPRs": 1,
+			"lastRelease": "2026-08-29T17:32:50Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-08-29T17:33:15Z",
+			"attentionScore": 40.5,
+			"unengagedCount": 9
+		},
+		{
 			"name": "lando/code-sign-action",
 			"description": "A GitHub action to code sign files",
 			"language": "PowerShell",
@@ -747,18 +759,6 @@
 			"lastPush": "2026-07-27T04:14:49Z",
 			"attentionScore": 40,
 			"unengagedCount": 2
-		},
-		{
-			"name": "lando/leia",
-			"description": "A testing utility that tests code blocks in documentation.",
-			"language": "JavaScript",
-			"openIssues": 11,
-			"openPRs": 1,
-			"lastRelease": "2026-08-29T17:32:50Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-08-29T17:33:15Z",
-			"attentionScore": 40,
-			"unengagedCount": 9
 		},
 		{
 			"name": "lando/legacy-cli",
