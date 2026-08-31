@@ -94,6 +94,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump tanaabased/prepare-release-action from 1 to 99 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-08-31T20:14:58Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/leia/pull/86"
+		},
+		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:57:01Z",
