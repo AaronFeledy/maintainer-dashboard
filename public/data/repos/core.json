@@ -467,6 +467,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.1 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-09-02T16:51:27Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/core/pull/497"
+		},
+		{
 			"title": "Add a system-level plugin-auth.js",
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-12T17:07:18Z",
