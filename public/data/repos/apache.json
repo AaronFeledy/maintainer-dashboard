@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump @lando/leia from 1.0.0-beta.4 to 1.0.0-beta.9",
+			"author": "dependabot",
+			"createdAt": "2026-09-02T01:02:49Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/apache/pull/65"
+		},
+		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-18T01:02:53Z",
