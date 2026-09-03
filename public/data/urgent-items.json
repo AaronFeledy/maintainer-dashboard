@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-02T22:18:03.487Z",
+		"fetchedAt": "2026-09-03T02:44:15.071Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2876,15 +2876,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core-next",
-			"number": 148,
-			"title": "Bump fast-uri from 3.1.2 to 3.1.4 in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-07-25T08:55:17Z",
-			"url": "https://github.com/lando/core-next/pull/148",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/desktop",
 			"number": 78,
 			"title": "Bump shell-quote from 1.8.4 to 1.10.0",
@@ -2972,15 +2963,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-05T19:50:18Z",
 			"url": "https://github.com/lando/core-next/pull/150",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/argv",
-			"number": 20,
-			"title": "Bump fast-uri from 3.1.2 to 3.1.5",
-			"author": "dependabot",
-			"createdAt": "2026-08-05T20:07:24Z",
-			"url": "https://github.com/lando/argv/pull/20",
 			"type": "pr"
 		},
 		{

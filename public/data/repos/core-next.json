@@ -200,6 +200,20 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump fastify from 5.8.5 to 5.12.1 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-09-03T00:46:15Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/core-next/pull/153"
+		},
+		{
+			"title": "Bump fast-uri from 3.1.2 to 3.1.7 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-09-02T23:53:39Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/core-next/pull/152"
+		},
+		{
 			"title": "Bump fastify from 5.8.5 to 5.12.1 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-09-02T17:06:47Z",
@@ -219,13 +233,6 @@
 			"createdAt": "2026-07-27T02:50:39Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core-next/pull/149"
-		},
-		{
-			"title": "Bump fast-uri from 3.1.2 to 3.1.4 in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-07-25T08:55:17Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/148"
 		},
 		{
 			"title": "Bump the actions group across 1 directory with 3 updates",

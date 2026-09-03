@@ -467,6 +467,27 @@
 	],
 	"pullRequests": [
 		{
+			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.1 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-09-03T00:15:07Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/core/pull/500"
+		},
+		{
+			"title": "chore(deps): bump fast-uri from 3.1.5 to 3.1.7 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-09-02T23:38:06Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/core/pull/499"
+		},
+		{
+			"title": "chore(deps): bump fast-uri from 3.1.2 to 3.1.7 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-09-02T23:30:39Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/core/pull/498"
+		},
+		{
 			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.1 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-09-02T16:51:27Z",
