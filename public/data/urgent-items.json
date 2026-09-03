@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-03T14:04:21.919Z",
+		"fetchedAt": "2026-09-03T19:03:02.851Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2954,15 +2954,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-03T17:58:34Z",
 			"url": "https://github.com/lando/legacy-cli/pull/311",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 150,
-			"title": "Bump fast-uri from 3.1.2 to 3.1.5 in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-08-05T19:50:18Z",
-			"url": "https://github.com/lando/core-next/pull/150",
 			"type": "pr"
 		},
 		{

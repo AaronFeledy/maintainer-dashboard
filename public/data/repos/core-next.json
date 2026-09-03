@@ -200,6 +200,20 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump fast-uri from 3.1.2 to 3.1.7 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-09-03T17:54:58Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/core-next/pull/155"
+		},
+		{
+			"title": "Bump fast-uri from 3.1.2 to 3.1.7 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-09-03T17:09:07Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/core-next/pull/154"
+		},
+		{
 			"title": "Bump fastify from 5.8.5 to 5.12.1 in /examples/entrypoint",
 			"author": "dependabot",
 			"createdAt": "2026-09-03T00:46:15Z",
@@ -219,13 +233,6 @@
 			"createdAt": "2026-09-02T17:06:47Z",
 			"reviewCount": 1,
 			"url": "https://github.com/lando/core-next/pull/151"
-		},
-		{
-			"title": "Bump fast-uri from 3.1.2 to 3.1.5 in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-08-05T19:50:18Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/150"
 		},
 		{
 			"title": "Bump find-my-way from 9.6.0 to 9.7.0 in /examples/entrypoint",

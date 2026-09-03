@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump browserslist from 4.21.4 to 4.28.8",
+			"author": "dependabot",
+			"createdAt": "2026-09-03T16:29:05Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/plugin-test/pull/16"
+		},
+		{
 			"title": "Bump postcss from 8.5.10 to 8.5.25",
 			"author": "dependabot",
 			"createdAt": "2026-08-01T04:50:48Z",
