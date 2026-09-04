@@ -511,11 +511,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "feat: @lando/upsun rename, Fixed gate, keep platform auth",
+			"title": "feat: Phase-2 Fixed pull/push resume + Upsun Fixed sync docs",
 			"author": "AaronFeledy",
-			"createdAt": "2026-09-04T16:45:46Z",
+			"createdAt": "2026-09-04T19:55:41Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/upsun/pull/221"
+			"url": "https://github.com/lando/upsun/pull/223"
 		},
 		{
 			"title": "fix: handle race condition in release promote job",
