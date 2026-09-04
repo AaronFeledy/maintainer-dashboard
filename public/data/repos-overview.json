@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-04T20:12:08.295Z",
+		"fetchedAt": "2026-09-04T23:39:46.569Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-08-08T09:10:15Z",
-			"attentionScore": 878,
+			"attentionScore": 878.5,
 			"unengagedCount": 2
 		},
 		{
@@ -83,9 +83,9 @@
 			"openIssues": 67,
 			"openPRs": 18,
 			"lastRelease": "2024-11-04T21:03:53Z",
-			"commitsSinceRelease": 26,
-			"lastPush": "2026-09-04T20:02:55Z",
-			"attentionScore": 437,
+			"commitsSinceRelease": 27,
+			"lastPush": "2026-09-04T22:28:50Z",
+			"attentionScore": 437.5,
 			"unengagedCount": 0
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 391.5,
+			"attentionScore": 392,
 			"unengagedCount": 1
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-08-20T23:16:59Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:16:59Z",
-			"attentionScore": 263,
+			"attentionScore": 263.5,
 			"unengagedCount": 25
 		},
 		{
@@ -217,7 +217,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 226,
+			"attentionScore": 226.5,
 			"unengagedCount": 7
 		},
 		{
@@ -229,7 +229,7 @@
 			"lastRelease": "2026-08-20T23:11:32Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-09-03T17:05:38Z",
-			"attentionScore": 225,
+			"attentionScore": 225.5,
 			"unengagedCount": 41
 		},
 		{
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-08-20T23:21:08Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-08-20T23:21:40Z",
-			"attentionScore": 56,
+			"attentionScore": 56.5,
 			"unengagedCount": 10
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-08-20T23:17:12Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:17:12Z",
-			"attentionScore": 22,
+			"attentionScore": 22.5,
 			"unengagedCount": 3
 		},
 		{

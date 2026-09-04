@@ -511,11 +511,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "feat: Phase-2 Fixed pull/push resume + Upsun Fixed sync docs",
+			"title": "docs: Phase-2.5 offline honesty after #223",
 			"author": "AaronFeledy",
-			"createdAt": "2026-09-04T19:55:41Z",
+			"createdAt": "2026-09-04T22:28:57Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/upsun/pull/223"
+			"url": "https://github.com/lando/upsun/pull/224"
 		},
 		{
 			"title": "fix: handle race condition in release promote job",
