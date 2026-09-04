@@ -1,18 +1,9 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-04T13:57:31.312Z",
+		"fetchedAt": "2026-09-04T17:25:49.305Z",
 		"repoCount": 65
 	},
 	"items": [
-		{
-			"repo": "lando/platformsh",
-			"number": 215,
-			"title": "Platform.sh custom xdebug configuration example not working",
-			"author": "scottfalkingham",
-			"createdAt": "2021-05-12T15:44:14Z",
-			"url": "https://github.com/lando/platformsh/issues/215",
-			"type": "issue"
-		},
 		{
 			"repo": "lando/hyperdrive",
 			"number": 25,
@@ -30,150 +21,6 @@
 			"createdAt": "2021-08-23T20:41:44Z",
 			"url": "https://github.com/lando/leia/issues/20",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 65,
-			"title": "platformsh integration routes issue",
-			"author": "gilzow",
-			"createdAt": "2021-09-17T18:48:56Z",
-			"url": "https://github.com/lando/platformsh/issues/65",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 58,
-			"title": "platformsh recipe, no routes available from inside of lando if `{all}` is set as upstream in routes.yaml",
-			"author": "gilzow",
-			"createdAt": "2021-09-17T21:35:37Z",
-			"url": "https://github.com/lando/platformsh/issues/58",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 16,
-			"title": "#3: Initial ES test.",
-			"author": "reynoldsalec",
-			"createdAt": "2021-10-22T03:45:47Z",
-			"url": "https://github.com/lando/platformsh/pull/16",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 117,
-			"title": "rabbitmq leia tests",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:49:39Z",
-			"url": "https://github.com/lando/platformsh/issues/117",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 118,
-			"title": "influxdb leia tests",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:50:17Z",
-			"url": "https://github.com/lando/platformsh/issues/118",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 119,
-			"title": "kafka leia tests",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:51:26Z",
-			"url": "https://github.com/lando/platformsh/issues/119",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 120,
-			"title": "Add support for vault kms service",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:52:00Z",
-			"url": "https://github.com/lando/platformsh/issues/120",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 121,
-			"title": "Support for oracle mysql db service",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:53:06Z",
-			"url": "https://github.com/lando/platformsh/issues/121",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 122,
-			"title": "non-persistent redis persists",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:54:21Z",
-			"url": "https://github.com/lando/platformsh/issues/122",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 123,
-			"title": "Relationship that maps to a service that doesnt exist breaks things",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:54:56Z",
-			"url": "https://github.com/lando/platformsh/issues/123",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 124,
-			"title": "Advanced postgres tests",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:56:18Z",
-			"url": "https://github.com/lando/platformsh/issues/124",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 125,
-			"title": "\"Red\" URL for legacy solr services",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:57:56Z",
-			"url": "https://github.com/lando/platformsh/issues/125",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 126,
-			"title": "softpurge module doesnt appear to work in varnish 6.3 but it is in the docs",
-			"author": "pirog",
-			"createdAt": "2021-10-27T17:58:54Z",
-			"url": "https://github.com/lando/platformsh/issues/126",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 127,
-			"title": "varnish 5.1 image is actually varnish 5.2",
-			"author": "pirog",
-			"createdAt": "2021-10-27T18:01:54Z",
-			"url": "https://github.com/lando/platformsh/issues/127",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 128,
-			"title": "Headless chrome version 73 is actually version 75",
-			"author": "pirog",
-			"createdAt": "2021-10-27T18:06:17Z",
-			"url": "https://github.com/lando/platformsh/issues/128",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 134,
-			"title": "#130: Doc PR tests",
-			"author": "pirog",
-			"createdAt": "2021-11-03T13:03:06Z",
-			"url": "https://github.com/lando/platformsh/pull/134",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/lagoon",
@@ -200,15 +47,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2021-12-12T01:14:16Z",
 			"url": "https://github.com/lando/hyperdrive/issues/33",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 139,
-			"title": "PLATFORM_RELATIONSHIPS not set when using xdebug and php 8.0",
-			"author": "simonkey",
-			"createdAt": "2022-01-10T14:38:45Z",
-			"url": "https://github.com/lando/platformsh/issues/139",
 			"type": "issue"
 		},
 		{
@@ -308,15 +146,6 @@
 			"author": "reynoldsalec",
 			"createdAt": "2022-03-18T15:59:40Z",
 			"url": "https://github.com/lando/desktop/issues/18",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 155,
-			"title": "Sending mail locally is broken (bad msmtprc config)",
-			"author": "ptmkenny",
-			"createdAt": "2022-03-19T11:15:30Z",
-			"url": "https://github.com/lando/platformsh/issues/155",
 			"type": "issue"
 		},
 		{
@@ -554,24 +383,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/platformsh",
-			"number": 158,
-			"title": "/helpers/sql-export.sh connects to wrong database",
-			"author": "tirwin",
-			"createdAt": "2022-05-03T17:01:15Z",
-			"url": "https://github.com/lando/platformsh/issues/158",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 159,
-			"title": "Add opensearch to supported services",
-			"author": "simonkey",
-			"createdAt": "2022-05-04T09:48:06Z",
-			"url": "https://github.com/lando/platformsh/issues/159",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3398,
 			"title": "chore: Set permissions for GitHub actions",
@@ -626,24 +437,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/platformsh",
-			"number": 168,
-			"title": "Elasticsearch fails to start",
-			"author": "tylers-username",
-			"createdAt": "2022-07-21T16:46:05Z",
-			"url": "https://github.com/lando/platformsh/issues/168",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 170,
-			"title": "Lando Platform Command Not Found",
-			"author": "alex-corlew",
-			"createdAt": "2022-08-04T17:31:51Z",
-			"url": "https://github.com/lando/platformsh/issues/170",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/hyperdrive",
 			"number": 71,
 			"title": "Its Easy!Nothing stays permanent in life! What is Dynamic Programming! A program which runs during the time of the memory! Agile Methodologies is the new Trick! What is Agile Methodologies",
@@ -668,15 +461,6 @@
 			"author": "luispimentellopes",
 			"createdAt": "2022-09-26T16:34:48Z",
 			"url": "https://github.com/lando/node/issues/18",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 175,
-			"title": "Start/rebuild fails",
-			"author": "omahm",
-			"createdAt": "2022-10-07T08:25:08Z",
-			"url": "https://github.com/lando/platformsh/issues/175",
 			"type": "issue"
 		},
 		{
@@ -824,30 +608,12 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/platformsh",
-			"number": 186,
-			"title": "drupal8 recipe on existing project \"lando composer\" command not available",
-			"author": "prashantdsala",
-			"createdAt": "2023-04-10T16:24:45Z",
-			"url": "https://github.com/lando/platformsh/issues/186",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/pantheon",
 			"number": 170,
 			"title": "Index on pantheon recipe is served on 449, not 8983",
 			"author": "generalredneck",
 			"createdAt": "2023-04-11T16:37:05Z",
 			"url": "https://github.com/lando/pantheon/issues/170",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 187,
-			"title": "Platformsh lando recipe is missing opensearch support",
-			"author": "myleswright2",
-			"createdAt": "2023-04-17T17:59:25Z",
-			"url": "https://github.com/lando/platformsh/issues/187",
 			"type": "issue"
 		},
 		{
@@ -995,15 +761,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/platformsh",
-			"number": 192,
-			"title": "lando/core#71: Wait for user to clone repo + update devops",
-			"author": "reynoldsalec",
-			"createdAt": "2023-10-05T21:40:56Z",
-			"url": "https://github.com/lando/platformsh/pull/192",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lagoon",
 			"number": 57,
 			"title": "#53: Disable Docker Buildkit for Lagoon.",
@@ -1049,24 +806,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/platformsh",
-			"number": 193,
-			"title": "Add supports to Adobe Commerce Cloud",
-			"author": "ronaldwong-adobe",
-			"createdAt": "2023-11-08T16:28:49Z",
-			"url": "https://github.com/lando/platformsh/issues/193",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 194,
-			"title": "Dial fully for `lando update`",
-			"author": "reynoldsalec",
-			"createdAt": "2023-12-07T22:07:20Z",
-			"url": "https://github.com/lando/platformsh/pull/194",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3647,
 			"title": "can't reach a node service through proxy (502 bad gateway)",
@@ -1091,15 +830,6 @@
 			"author": "hkirsman",
 			"createdAt": "2023-12-28T13:32:12Z",
 			"url": "https://github.com/lando/mariadb/issues/37",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 195,
-			"title": "Drupal 10 recipe not working, multiple errors",
-			"author": "AleMadLei",
-			"createdAt": "2024-01-01T05:04:21Z",
-			"url": "https://github.com/lando/platformsh/issues/195",
 			"type": "issue"
 		},
 		{
@@ -1175,42 +905,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/platformsh",
-			"number": 199,
-			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.0",
-			"author": "dependabot",
-			"createdAt": "2024-02-12T21:08:37Z",
-			"url": "https://github.com/lando/platformsh/pull/199",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 200,
-			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.6",
-			"author": "dependabot",
-			"createdAt": "2024-02-12T21:08:40Z",
-			"url": "https://github.com/lando/platformsh/pull/200",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 202,
-			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.2",
-			"author": "dependabot",
-			"createdAt": "2024-02-12T21:09:06Z",
-			"url": "https://github.com/lando/platformsh/pull/202",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 201,
-			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.4",
-			"author": "dependabot",
-			"createdAt": "2024-02-12T21:09:06Z",
-			"url": "https://github.com/lando/platformsh/pull/201",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 103,
 			"title": "api: 3 healthcheck will fail if it relies on certs",
@@ -1272,15 +966,6 @@
 			"createdAt": "2024-03-25T15:21:23Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/33",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 205,
-			"title": "Bump minimist and @lando/leia",
-			"author": "dependabot",
-			"createdAt": "2024-03-28T13:12:46Z",
-			"url": "https://github.com/lando/platformsh/pull/205",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/transfer-issue-action",
@@ -1362,24 +1047,6 @@
 			"createdAt": "2024-04-09T16:31:59Z",
 			"url": "https://github.com/lando/setup-lando/issues/34",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 207,
-			"title": "Bump tar from 6.2.0 to 6.2.1",
-			"author": "dependabot",
-			"createdAt": "2024-04-11T14:44:18Z",
-			"url": "https://github.com/lando/platformsh/pull/207",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 208,
-			"title": "Bump vite from 5.1.1 to 5.2.9",
-			"author": "dependabot",
-			"createdAt": "2024-04-17T20:32:57Z",
-			"url": "https://github.com/lando/platformsh/pull/208",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/setup-lando",
@@ -1481,15 +1148,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/platformsh",
-			"number": 210,
-			"title": "Update setup-lando to v3, ubuntu-24.04, and 3-edge-slim. Introduce new .lando.yml template for docs.",
-			"author": "reynoldsalec",
-			"createdAt": "2024-09-09T18:57:43Z",
-			"url": "https://github.com/lando/platformsh/pull/210",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/blog",
 			"number": 47,
 			"title": "Update 2021-01-26-pantheon-localdev-launch.md",
@@ -1506,15 +1164,6 @@
 			"createdAt": "2024-09-18T03:22:04Z",
 			"url": "https://github.com/lando/core/issues/211",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 211,
-			"title": "Update docs build to create multi-version builds.",
-			"author": "reynoldsalec",
-			"createdAt": "2024-10-08T20:47:28Z",
-			"url": "https://github.com/lando/platformsh/pull/211",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/setup-lando",
@@ -1560,15 +1209,6 @@
 			"createdAt": "2024-10-25T06:40:44Z",
 			"url": "https://github.com/lando/core/issues/252",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 212,
-			"title": "Generate an edge release when stable releases are created.",
-			"author": "reynoldsalec",
-			"createdAt": "2024-10-25T19:12:05Z",
-			"url": "https://github.com/lando/platformsh/pull/212",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -2066,15 +1706,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/platformsh",
-			"number": 216,
-			"title": "Adding Adobe Commerce recipe to Lando",
-			"author": "ronald2wing",
-			"createdAt": "2025-11-21T14:52:38Z",
-			"url": "https://github.com/lando/platformsh/issues/216",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3829,
 			"title": "Is Lando compatible with \"Enhanced Container Isolation\" ?",
@@ -2192,24 +1823,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/platformsh",
-			"number": 217,
-			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:12:35Z",
-			"url": "https://github.com/lando/platformsh/pull/217",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 218,
-			"title": "Bump the actions group with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:13:49Z",
-			"url": "https://github.com/lando/platformsh/pull/218",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/acquia",
 			"number": 159,
 			"title": "fix: handle race condition in release promote job",
@@ -2225,15 +1838,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:54:50Z",
 			"url": "https://github.com/lando/backdrop/pull/89",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/platformsh",
-			"number": 220,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:41Z",
-			"url": "https://github.com/lando/platformsh/pull/220",
 			"type": "pr"
 		},
 		{

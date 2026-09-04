@@ -1,6 +1,6 @@
 {
 	"name": "lando/platformsh",
-	"description": "**UNSUPPORTED** The Official Platform.sh Lando Plugin",
+	"description": "Lando plugin for Upsun Fixed (.platform) apps via platform CLI. Flex (.upsun) not supported yet.",
 	"language": "JavaScript",
 	"issues": [
 		{
@@ -12,7 +12,7 @@
 			],
 			"createdAt": "2025-11-21T14:52:38Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/216"
+			"url": "https://github.com/lando/upsun/issues/216"
 		},
 		{
 			"title": "Drupal 10 recipe not working, multiple errors",
@@ -22,7 +22,7 @@
 			],
 			"createdAt": "2024-01-01T05:04:21Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/195"
+			"url": "https://github.com/lando/upsun/issues/195"
 		},
 		{
 			"title": "Add supports to Adobe Commerce Cloud",
@@ -32,7 +32,7 @@
 			],
 			"createdAt": "2023-11-08T16:28:49Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/193"
+			"url": "https://github.com/lando/upsun/issues/193"
 		},
 		{
 			"title": "Platformsh lando recipe is missing opensearch support",
@@ -42,7 +42,7 @@
 			],
 			"createdAt": "2023-04-17T17:59:25Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/187"
+			"url": "https://github.com/lando/upsun/issues/187"
 		},
 		{
 			"title": "drupal8 recipe on existing project \"lando composer\" command not available",
@@ -50,7 +50,7 @@
 			"labels": [],
 			"createdAt": "2023-04-10T16:24:45Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/186"
+			"url": "https://github.com/lando/upsun/issues/186"
 		},
 		{
 			"title": "Xdebug extension binary missing on php 8.1",
@@ -60,7 +60,7 @@
 			],
 			"createdAt": "2022-11-03T09:43:14Z",
 			"commentCount": 1,
-			"url": "https://github.com/lando/platformsh/issues/178"
+			"url": "https://github.com/lando/upsun/issues/178"
 		},
 		{
 			"title": "Deploy hook fails (permission denied)",
@@ -70,7 +70,7 @@
 			],
 			"createdAt": "2022-10-14T07:29:06Z",
 			"commentCount": 2,
-			"url": "https://github.com/lando/platformsh/issues/177"
+			"url": "https://github.com/lando/upsun/issues/177"
 		},
 		{
 			"title": "another Platform.sh install fails...",
@@ -80,7 +80,7 @@
 			],
 			"createdAt": "2022-10-13T04:04:25Z",
 			"commentCount": 1,
-			"url": "https://github.com/lando/platformsh/issues/176"
+			"url": "https://github.com/lando/upsun/issues/176"
 		},
 		{
 			"title": "Start/rebuild fails",
@@ -90,7 +90,7 @@
 			],
 			"createdAt": "2022-10-07T08:25:08Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/175"
+			"url": "https://github.com/lando/upsun/issues/175"
 		},
 		{
 			"title": "Error \"Cannot read property 'type' of undefined\" when redirect to url in routes.yaml",
@@ -100,7 +100,7 @@
 			],
 			"createdAt": "2022-09-13T04:12:53Z",
 			"commentCount": 1,
-			"url": "https://github.com/lando/platformsh/issues/174"
+			"url": "https://github.com/lando/upsun/issues/174"
 		},
 		{
 			"title": "Locking down ports for external database connection not working",
@@ -110,7 +110,7 @@
 			],
 			"createdAt": "2022-08-25T20:02:01Z",
 			"commentCount": 5,
-			"url": "https://github.com/lando/platformsh/issues/171"
+			"url": "https://github.com/lando/upsun/issues/171"
 		},
 		{
 			"title": "Lando Platform Command Not Found",
@@ -121,7 +121,7 @@
 			],
 			"createdAt": "2022-08-04T17:31:51Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/170"
+			"url": "https://github.com/lando/upsun/issues/170"
 		},
 		{
 			"title": "Can't pull image from platform registry",
@@ -131,7 +131,7 @@
 			],
 			"createdAt": "2022-08-01T12:46:53Z",
 			"commentCount": 5,
-			"url": "https://github.com/lando/platformsh/issues/169"
+			"url": "https://github.com/lando/upsun/issues/169"
 		},
 		{
 			"title": "Elasticsearch fails to start",
@@ -141,7 +141,7 @@
 			],
 			"createdAt": "2022-07-21T16:46:05Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/168"
+			"url": "https://github.com/lando/upsun/issues/168"
 		},
 		{
 			"title": "composer install from source with platform.sh recipe",
@@ -152,7 +152,7 @@
 			],
 			"createdAt": "2022-06-13T16:41:25Z",
 			"commentCount": 3,
-			"url": "https://github.com/lando/platformsh/issues/166"
+			"url": "https://github.com/lando/upsun/issues/166"
 		},
 		{
 			"title": "xdebug with phpstorm",
@@ -160,7 +160,7 @@
 			"labels": [],
 			"createdAt": "2022-05-04T15:10:02Z",
 			"commentCount": 4,
-			"url": "https://github.com/lando/platformsh/issues/160"
+			"url": "https://github.com/lando/upsun/issues/160"
 		},
 		{
 			"title": "Add opensearch to supported services",
@@ -170,7 +170,7 @@
 			],
 			"createdAt": "2022-05-04T09:48:06Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/159"
+			"url": "https://github.com/lando/upsun/issues/159"
 		},
 		{
 			"title": "/helpers/sql-export.sh connects to wrong database",
@@ -180,7 +180,7 @@
 			],
 			"createdAt": "2022-05-03T17:01:15Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/158"
+			"url": "https://github.com/lando/upsun/issues/158"
 		},
 		{
 			"title": "Build failure during psh-open.sh",
@@ -190,7 +190,7 @@
 			],
 			"createdAt": "2022-04-05T17:51:55Z",
 			"commentCount": 4,
-			"url": "https://github.com/lando/platformsh/issues/157"
+			"url": "https://github.com/lando/upsun/issues/157"
 		},
 		{
 			"title": "Sending mail locally is broken (bad msmtprc config)",
@@ -200,7 +200,7 @@
 			],
 			"createdAt": "2022-03-19T11:15:30Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/155"
+			"url": "https://github.com/lando/upsun/issues/155"
 		},
 		{
 			"title": "When running, lando rebuild or lando start it fails due to too many sym links",
@@ -210,7 +210,7 @@
 			],
 			"createdAt": "2022-03-08T13:14:12Z",
 			"commentCount": 1,
-			"url": "https://github.com/lando/platformsh/issues/153"
+			"url": "https://github.com/lando/upsun/issues/153"
 		},
 		{
 			"title": "Errors when trying to build PHP 8.1 environment",
@@ -220,7 +220,7 @@
 			],
 			"createdAt": "2022-02-28T12:44:54Z",
 			"commentCount": 1,
-			"url": "https://github.com/lando/platformsh/issues/152"
+			"url": "https://github.com/lando/upsun/issues/152"
 		},
 		{
 			"title": "Can't install correct nodejs version",
@@ -230,7 +230,7 @@
 			],
 			"createdAt": "2022-02-16T13:08:22Z",
 			"commentCount": 1,
-			"url": "https://github.com/lando/platformsh/issues/149"
+			"url": "https://github.com/lando/upsun/issues/149"
 		},
 		{
 			"title": "Composer 2 not installed using composer_version",
@@ -240,7 +240,7 @@
 			],
 			"createdAt": "2022-01-19T07:45:35Z",
 			"commentCount": 2,
-			"url": "https://github.com/lando/platformsh/issues/142"
+			"url": "https://github.com/lando/upsun/issues/142"
 		},
 		{
 			"title": "PLATFORM_RELATIONSHIPS not set when using xdebug and php 8.0",
@@ -250,7 +250,7 @@
 			],
 			"createdAt": "2022-01-10T14:38:45Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/139"
+			"url": "https://github.com/lando/upsun/issues/139"
 		},
 		{
 			"title": "PHP 8.0 Imagick not supported / causes error",
@@ -260,7 +260,7 @@
 			],
 			"createdAt": "2021-12-30T09:26:14Z",
 			"commentCount": 7,
-			"url": "https://github.com/lando/platformsh/issues/138"
+			"url": "https://github.com/lando/upsun/issues/138"
 		},
 		{
 			"title": "Redis service doesn't start properly on Apple Silicon",
@@ -271,7 +271,7 @@
 			],
 			"createdAt": "2021-12-13T15:56:40Z",
 			"commentCount": 12,
-			"url": "https://github.com/lando/platformsh/issues/135"
+			"url": "https://github.com/lando/upsun/issues/135"
 		},
 		{
 			"title": "MailHog Service Fails on Apple Silicon Because cURL Can't Resolve GitHub.com",
@@ -282,7 +282,7 @@
 			],
 			"createdAt": "2021-12-07T20:55:58Z",
 			"commentCount": 11,
-			"url": "https://github.com/lando/platformsh/issues/137"
+			"url": "https://github.com/lando/upsun/issues/137"
 		},
 		{
 			"title": "Convert platform plugin vuepress theme into actual vuepress theme",
@@ -290,7 +290,7 @@
 			"labels": [],
 			"createdAt": "2021-11-01T15:38:58Z",
 			"commentCount": 1,
-			"url": "https://github.com/lando/platformsh/issues/132"
+			"url": "https://github.com/lando/upsun/issues/132"
 		},
 		{
 			"title": "Add changelog reminder",
@@ -300,7 +300,7 @@
 			],
 			"createdAt": "2021-10-27T18:14:30Z",
 			"commentCount": 1,
-			"url": "https://github.com/lando/platformsh/issues/129"
+			"url": "https://github.com/lando/upsun/issues/129"
 		},
 		{
 			"title": "Headless chrome version 73 is actually version 75",
@@ -311,7 +311,7 @@
 			],
 			"createdAt": "2021-10-27T18:06:17Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/128"
+			"url": "https://github.com/lando/upsun/issues/128"
 		},
 		{
 			"title": "varnish 5.1 image is actually varnish 5.2",
@@ -322,7 +322,7 @@
 			],
 			"createdAt": "2021-10-27T18:01:54Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/127"
+			"url": "https://github.com/lando/upsun/issues/127"
 		},
 		{
 			"title": "softpurge module doesnt appear to work in varnish 6.3 but it is in the docs",
@@ -333,7 +333,7 @@
 			],
 			"createdAt": "2021-10-27T17:58:54Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/126"
+			"url": "https://github.com/lando/upsun/issues/126"
 		},
 		{
 			"title": "\"Red\" URL for legacy solr services",
@@ -343,7 +343,7 @@
 			],
 			"createdAt": "2021-10-27T17:57:56Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/125"
+			"url": "https://github.com/lando/upsun/issues/125"
 		},
 		{
 			"title": "Advanced postgres tests",
@@ -354,7 +354,7 @@
 			],
 			"createdAt": "2021-10-27T17:56:18Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/124"
+			"url": "https://github.com/lando/upsun/issues/124"
 		},
 		{
 			"title": "Relationship that maps to a service that doesnt exist breaks things",
@@ -364,7 +364,7 @@
 			],
 			"createdAt": "2021-10-27T17:54:56Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/123"
+			"url": "https://github.com/lando/upsun/issues/123"
 		},
 		{
 			"title": "non-persistent redis persists",
@@ -374,7 +374,7 @@
 			],
 			"createdAt": "2021-10-27T17:54:21Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/122"
+			"url": "https://github.com/lando/upsun/issues/122"
 		},
 		{
 			"title": "Support for oracle mysql db service",
@@ -384,7 +384,7 @@
 			],
 			"createdAt": "2021-10-27T17:53:06Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/121"
+			"url": "https://github.com/lando/upsun/issues/121"
 		},
 		{
 			"title": "Add support for vault kms service",
@@ -394,7 +394,7 @@
 			],
 			"createdAt": "2021-10-27T17:52:00Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/120"
+			"url": "https://github.com/lando/upsun/issues/120"
 		},
 		{
 			"title": "kafka leia tests",
@@ -405,7 +405,7 @@
 			],
 			"createdAt": "2021-10-27T17:51:26Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/119"
+			"url": "https://github.com/lando/upsun/issues/119"
 		},
 		{
 			"title": "influxdb leia tests",
@@ -416,7 +416,7 @@
 			],
 			"createdAt": "2021-10-27T17:50:17Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/118"
+			"url": "https://github.com/lando/upsun/issues/118"
 		},
 		{
 			"title": "rabbitmq leia tests",
@@ -427,7 +427,7 @@
 			],
 			"createdAt": "2021-10-27T17:49:39Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/117"
+			"url": "https://github.com/lando/upsun/issues/117"
 		},
 		{
 			"title": "Errors were encountered while processing libc6:amd64",
@@ -435,7 +435,7 @@
 			"labels": [],
 			"createdAt": "2021-10-26T09:29:30Z",
 			"commentCount": 3,
-			"url": "https://github.com/lando/platformsh/issues/23"
+			"url": "https://github.com/lando/upsun/issues/23"
 		},
 		{
 			"title": "Complete ES tests",
@@ -447,7 +447,7 @@
 			],
 			"createdAt": "2021-10-14T14:30:08Z",
 			"commentCount": 4,
-			"url": "https://github.com/lando/platformsh/issues/3"
+			"url": "https://github.com/lando/upsun/issues/3"
 		},
 		{
 			"title": "Platform.sh recipe, MariaDB 10.5 unavailable when connecting",
@@ -455,7 +455,7 @@
 			"labels": [],
 			"createdAt": "2021-09-28T17:00:43Z",
 			"commentCount": 17,
-			"url": "https://github.com/lando/platformsh/issues/63"
+			"url": "https://github.com/lando/upsun/issues/63"
 		},
 		{
 			"title": "platformsh recipe, no routes available from inside of lando if `{all}` is set as upstream in routes.yaml",
@@ -465,7 +465,7 @@
 			],
 			"createdAt": "2021-09-17T21:35:37Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/58"
+			"url": "https://github.com/lando/upsun/issues/58"
 		},
 		{
 			"title": "platform.sh integration, map all domains to local urls",
@@ -475,7 +475,7 @@
 			],
 			"createdAt": "2021-09-17T19:09:57Z",
 			"commentCount": 3,
-			"url": "https://github.com/lando/platformsh/issues/73"
+			"url": "https://github.com/lando/upsun/issues/73"
 		},
 		{
 			"title": "platformsh integration routes issue",
@@ -485,7 +485,7 @@
 			],
 			"createdAt": "2021-09-17T18:48:56Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/platformsh/issues/65"
+			"url": "https://github.com/lando/upsun/issues/65"
 		},
 		{
 			"title": "platform.sh recipe and lando drush command",
@@ -495,7 +495,7 @@
 			],
 			"createdAt": "2021-08-23T19:41:36Z",
 			"commentCount": 2,
-			"url": "https://github.com/lando/platformsh/issues/52"
+			"url": "https://github.com/lando/upsun/issues/52"
 		},
 		{
 			"title": "Platform.sh are processed in app order, not as defined in routes.yaml",
@@ -506,155 +506,162 @@
 			],
 			"createdAt": "2021-08-05T10:07:22Z",
 			"commentCount": 4,
-			"url": "https://github.com/lando/platformsh/issues/64"
+			"url": "https://github.com/lando/upsun/issues/64"
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "feat: @lando/upsun rename, Fixed gate, keep platform auth",
+			"author": "AaronFeledy",
+			"createdAt": "2026-09-04T16:45:46Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/upsun/pull/221"
+		},
 		{
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:41Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/220"
+			"url": "https://github.com/lando/upsun/pull/220"
 		},
 		{
 			"title": "Bump the actions group with 4 updates",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:13:49Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/218"
+			"url": "https://github.com/lando/upsun/pull/218"
 		},
 		{
 			"title": "Bump @lando/argv from 1.1.2 to 1.2.0",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:12:35Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/217"
+			"url": "https://github.com/lando/upsun/pull/217"
 		},
 		{
 			"title": "Generate an edge release when stable releases are created.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-10-25T19:12:05Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/212"
+			"url": "https://github.com/lando/upsun/pull/212"
 		},
 		{
 			"title": "Update docs build to create multi-version builds.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-10-08T20:47:28Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/211"
+			"url": "https://github.com/lando/upsun/pull/211"
 		},
 		{
 			"title": "Update setup-lando to v3, ubuntu-24.04, and 3-edge-slim. Introduce new .lando.yml template for docs.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-09-09T18:57:43Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/210"
+			"url": "https://github.com/lando/upsun/pull/210"
 		},
 		{
 			"title": "Bump vite from 5.1.1 to 5.2.9",
 			"author": "dependabot",
 			"createdAt": "2024-04-17T20:32:57Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/208"
+			"url": "https://github.com/lando/upsun/pull/208"
 		},
 		{
 			"title": "Bump tar from 6.2.0 to 6.2.1",
 			"author": "dependabot",
 			"createdAt": "2024-04-11T14:44:18Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/207"
+			"url": "https://github.com/lando/upsun/pull/207"
 		},
 		{
 			"title": "Bump minimist and @lando/leia",
 			"author": "dependabot",
 			"createdAt": "2024-03-28T13:12:46Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/205"
+			"url": "https://github.com/lando/upsun/pull/205"
 		},
 		{
 			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.2",
 			"author": "dependabot",
 			"createdAt": "2024-02-12T21:09:06Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/202"
+			"url": "https://github.com/lando/upsun/pull/202"
 		},
 		{
 			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.4",
 			"author": "dependabot",
 			"createdAt": "2024-02-12T21:09:06Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/201"
+			"url": "https://github.com/lando/upsun/pull/201"
 		},
 		{
 			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.6",
 			"author": "dependabot",
 			"createdAt": "2024-02-12T21:08:40Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/200"
+			"url": "https://github.com/lando/upsun/pull/200"
 		},
 		{
 			"title": "Bump mongodb/mongodb from 1.8.0 to 1.10.0 in /examples/mongodb-3.0",
 			"author": "dependabot",
 			"createdAt": "2024-02-12T21:08:37Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/199"
+			"url": "https://github.com/lando/upsun/pull/199"
 		},
 		{
 			"title": "Dial fully for `lando update`",
 			"author": "reynoldsalec",
 			"createdAt": "2023-12-07T22:07:20Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/194"
+			"url": "https://github.com/lando/upsun/pull/194"
 		},
 		{
 			"title": "lando/core#71: Wait for user to clone repo + update devops",
 			"author": "reynoldsalec",
 			"createdAt": "2023-10-05T21:40:56Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/192"
+			"url": "https://github.com/lando/upsun/pull/192"
 		},
 		{
 			"title": "#130: Doc PR tests",
 			"author": "pirog",
 			"createdAt": "2021-11-03T13:03:06Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/134"
+			"url": "https://github.com/lando/upsun/pull/134"
 		},
 		{
 			"title": "#3: Initial ES test.",
 			"author": "reynoldsalec",
 			"createdAt": "2021-10-22T03:45:47Z",
 			"reviewCount": 0,
-			"url": "https://github.com/lando/platformsh/pull/16"
+			"url": "https://github.com/lando/upsun/pull/16"
 		}
 	],
 	"releases": [
 		{
 			"tagName": "v0.9.1",
 			"publishedAt": "2024-11-04T21:03:53Z",
-			"url": "https://github.com/lando/platformsh/releases/tag/v0.9.1"
+			"url": "https://github.com/lando/upsun/releases/tag/v0.9.1"
 		},
 		{
 			"tagName": "v0.10.0",
 			"publishedAt": "2024-03-11T17:56:53Z",
-			"url": "https://github.com/lando/platformsh/releases/tag/v0.10.0"
+			"url": "https://github.com/lando/upsun/releases/tag/v0.10.0"
 		},
 		{
 			"tagName": "v0.9.0",
 			"publishedAt": "2023-07-03T19:48:09Z",
-			"url": "https://github.com/lando/platformsh/releases/tag/v0.9.0"
+			"url": "https://github.com/lando/upsun/releases/tag/v0.9.0"
 		},
 		{
 			"tagName": "v0.8.0",
 			"publishedAt": "2023-04-21T00:18:08Z",
-			"url": "https://github.com/lando/platformsh/releases/tag/v0.8.0"
+			"url": "https://github.com/lando/upsun/releases/tag/v0.8.0"
 		},
 		{
 			"tagName": "v0.7.0",
 			"publishedAt": "2022-12-13T18:04:11Z",
-			"url": "https://github.com/lando/platformsh/releases/tag/v0.7.0"
+			"url": "https://github.com/lando/upsun/releases/tag/v0.7.0"
 		}
 	]
 }

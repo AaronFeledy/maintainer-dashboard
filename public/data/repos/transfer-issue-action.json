@@ -22,6 +22,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump browserslist from 4.17.3 to 4.28.9",
+			"author": "dependabot",
+			"createdAt": "2026-09-04T15:13:30Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/transfer-issue-action/pull/125"
+		},
+		{
 			"title": "Bump js-yaml and eslint",
 			"author": "dependabot",
 			"createdAt": "2026-08-08T10:34:00Z",
