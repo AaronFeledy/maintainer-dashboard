@@ -272,6 +272,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump browserslist from 4.20.3 to 4.28.8",
+			"author": "dependabot",
+			"createdAt": "2026-09-04T07:51:58Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/desktop/pull/81"
+		},
+		{
 			"title": "Bump electron from 17.4.6 to 39.8.10",
 			"author": "dependabot",
 			"createdAt": "2026-08-07T10:01:56Z",
