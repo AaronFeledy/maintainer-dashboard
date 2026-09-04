@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-03T22:12:07.118Z",
+		"fetchedAt": "2026-09-04T02:41:34.756Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 391,
+			"attentionScore": 391.5,
 			"unengagedCount": 1
 		},
 		{
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 32,
 			"lastPush": "2026-08-03T14:14:43Z",
-			"attentionScore": 353.5,
+			"attentionScore": 354,
 			"unengagedCount": 6
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-08-20T23:16:59Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:16:59Z",
-			"attentionScore": 262.5,
+			"attentionScore": 263,
 			"unengagedCount": 25
 		},
 		{
@@ -229,7 +229,7 @@
 			"lastRelease": "2026-08-20T23:11:32Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-09-03T17:05:38Z",
-			"attentionScore": 224.5,
+			"attentionScore": 225,
 			"unengagedCount": 41
 		},
 		{
@@ -265,7 +265,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-09-02T23:30:25Z",
-			"attentionScore": 212.5,
+			"attentionScore": 213,
 			"unengagedCount": 1
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 140.5,
+			"attentionScore": 141,
 			"unengagedCount": 1
 		},
 		{
@@ -469,7 +469,7 @@
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-08-03T17:05:38Z",
-			"attentionScore": 125.5,
+			"attentionScore": 126,
 			"unengagedCount": 5
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-07-30T07:23:35Z",
-			"attentionScore": 116.5,
+			"attentionScore": 117,
 			"unengagedCount": 1
 		},
 		{
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
-			"attentionScore": 101,
+			"attentionScore": 101.5,
 			"unengagedCount": 1
 		},
 		{
@@ -637,7 +637,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-09-02T01:02:47Z",
-			"attentionScore": 96.5,
+			"attentionScore": 97,
 			"unengagedCount": 1
 		},
 		{
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-08-20T23:21:08Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-08-20T23:21:40Z",
-			"attentionScore": 55.5,
+			"attentionScore": 56,
 			"unengagedCount": 10
 		},
 		{
@@ -709,8 +709,20 @@
 			"lastRelease": "2026-07-30T02:38:21Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-30T02:39:00Z",
-			"attentionScore": 52.5,
+			"attentionScore": 53,
 			"unengagedCount": 8
+		},
+		{
+			"name": "lando/leia",
+			"description": "A testing utility that tests code blocks in documentation.",
+			"language": "JavaScript",
+			"openIssues": 11,
+			"openPRs": 2,
+			"lastRelease": "2026-08-29T17:32:50Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-08-31T20:14:58Z",
+			"attentionScore": 47.5,
+			"unengagedCount": 10
 		},
 		{
 			"name": "lando/website",
@@ -723,18 +735,6 @@
 			"lastPush": "2026-07-20T07:16:31Z",
 			"attentionScore": 47,
 			"unengagedCount": 3
-		},
-		{
-			"name": "lando/leia",
-			"description": "A testing utility that tests code blocks in documentation.",
-			"language": "JavaScript",
-			"openIssues": 11,
-			"openPRs": 2,
-			"lastRelease": "2026-08-29T17:32:50Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-08-31T20:14:58Z",
-			"attentionScore": 44.5,
-			"unengagedCount": 9
 		},
 		{
 			"name": "lando/events",
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-08-20T23:17:12Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:17:12Z",
-			"attentionScore": 21.5,
+			"attentionScore": 22,
 			"unengagedCount": 3
 		},
 		{
@@ -781,7 +781,7 @@
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-08-13T23:57:00Z",
-			"attentionScore": 19,
+			"attentionScore": 19.5,
 			"unengagedCount": 2
 		}
 	]
