@@ -28,7 +28,15 @@
 			"url": "https://github.com/lando/notarize-action/issues/25"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump browserslist from 4.28.4 to 4.28.9",
+			"author": "dependabot",
+			"createdAt": "2026-09-07T14:09:56Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/notarize-action/pull/40"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v2.0.2",

@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump browserslist from 4.28.4 to 4.28.9",
+			"author": "dependabot",
+			"createdAt": "2026-09-07T14:07:05Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/legacy-cli/pull/312"
+		},
+		{
 			"title": "Bump brace-expansion from 1.1.11 to 2.1.4",
 			"author": "dependabot",
 			"createdAt": "2026-08-03T17:58:34Z",

@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump browserslist from 4.28.4 to 4.28.9",
+			"author": "dependabot",
+			"createdAt": "2026-09-07T14:08:22Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/argv/pull/23"
+		},
+		{
 			"title": "Bump fast-uri from 3.1.2 to 3.1.7",
 			"author": "dependabot",
 			"createdAt": "2026-09-02T23:30:20Z",
