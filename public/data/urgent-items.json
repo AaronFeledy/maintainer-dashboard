@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-09T08:33:59.596Z",
+		"fetchedAt": "2026-09-09T14:06:56.679Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -23,12 +23,21 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/lagoon",
-			"number": 14,
-			"title": "domains used in proxies aren't added to LAGOON_ROUTES",
-			"author": "tobybellwood",
-			"createdAt": "2021-11-25T00:03:20Z",
-			"url": "https://github.com/lando/lagoon/issues/14",
+			"repo": "lando/leia",
+			"number": 20,
+			"title": "Get blocker.js to COMPLY with Github Actions",
+			"author": "labboy0276",
+			"createdAt": "2021-08-23T20:41:44Z",
+			"url": "https://github.com/lando/leia/issues/20",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/acquia",
+			"number": 26,
+			"title": "Lando 'acquia' recipe uses different host OS than Acquia environments",
+			"author": "derytim",
+			"createdAt": "2021-12-08T21:40:40Z",
+			"url": "https://github.com/lando/acquia/issues/26",
 			"type": "issue"
 		},
 		{
@@ -77,12 +86,30 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/nginx",
+			"number": 4,
+			"title": "Support following symlinks by default",
+			"author": "helgatheviking",
+			"createdAt": "2022-02-26T17:44:16Z",
+			"url": "https://github.com/lando/nginx/issues/4",
+			"type": "issue"
+		},
+		{
 			"repo": "lando/hyperdrive",
 			"number": 35,
 			"title": "Invalid response when pressing Enter on \"recommended actions\" prompt",
 			"author": "quentint",
 			"createdAt": "2022-03-12T22:48:59Z",
 			"url": "https://github.com/lando/hyperdrive/issues/35",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 2,
+			"title": "Plugin Management Page Prototype",
+			"author": "reynoldsalec",
+			"createdAt": "2022-03-14T15:43:02Z",
+			"url": "https://github.com/lando/desktop/issues/2",
 			"type": "issue"
 		},
 		{
@@ -105,6 +132,24 @@
 		},
 		{
 			"repo": "lando/desktop",
+			"number": 3,
+			"title": "Configurations Page Prototype",
+			"author": "reynoldsalec",
+			"createdAt": "2022-03-14T15:49:02Z",
+			"url": "https://github.com/lando/desktop/issues/3",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 4,
+			"title": "Initial Account-based features",
+			"author": "reynoldsalec",
+			"createdAt": "2022-03-14T16:10:03Z",
+			"url": "https://github.com/lando/desktop/issues/4",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
 			"number": 4,
 			"title": "Initial Account-based features",
 			"author": "reynoldsalec",
@@ -119,6 +164,24 @@
 			"author": "reynoldsalec",
 			"createdAt": "2022-03-14T16:20:29Z",
 			"url": "https://github.com/lando/desktop/issues/8",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 8,
+			"title": "Lando Desktop Auto Update",
+			"author": "reynoldsalec",
+			"createdAt": "2022-03-14T16:20:29Z",
+			"url": "https://github.com/lando/desktop/issues/8",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 9,
+			"title": "Update Page Prototype",
+			"author": "reynoldsalec",
+			"createdAt": "2022-03-14T18:04:10Z",
+			"url": "https://github.com/lando/desktop/issues/9",
 			"type": "issue"
 		},
 		{
@@ -149,12 +212,39 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/desktop",
+			"number": 18,
+			"title": "Storing Data Locally",
+			"author": "reynoldsalec",
+			"createdAt": "2022-03-18T15:59:40Z",
+			"url": "https://github.com/lando/desktop/issues/18",
+			"type": "issue"
+		},
+		{
 			"repo": "lando/mean",
 			"number": 5,
 			"title": "Support for debugging node from Visual Studio code (etc)",
 			"author": "badrange",
 			"createdAt": "2022-03-21T16:02:37Z",
 			"url": "https://github.com/lando/mean/issues/5",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/mean",
+			"number": 5,
+			"title": "Support for debugging node from Visual Studio code (etc)",
+			"author": "badrange",
+			"createdAt": "2022-03-21T16:02:37Z",
+			"url": "https://github.com/lando/mean/issues/5",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/acquia",
+			"number": 35,
+			"title": "Adjust 'max_input_var' value",
+			"author": "rubenvarela",
+			"createdAt": "2022-03-21T20:57:16Z",
+			"url": "https://github.com/lando/acquia/issues/35",
 			"type": "issue"
 		},
 		{
@@ -176,12 +266,30 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/gitpod",
+			"number": 12,
+			"title": "Lando / Lagoon / Gitpod permission woes",
+			"author": "tobybellwood",
+			"createdAt": "2022-03-25T22:22:21Z",
+			"url": "https://github.com/lando/gitpod/issues/12",
+			"type": "issue"
+		},
+		{
 			"repo": "lando/lemp",
 			"number": 14,
 			"title": "How to change the /app mount folder to a custom one",
 			"author": "Daisuke-sama",
 			"createdAt": "2022-03-27T22:02:12Z",
 			"url": "https://github.com/lando/lemp/issues/14",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/events",
+			"number": 10,
+			"title": "Dark mode",
+			"author": "pirog",
+			"createdAt": "2022-03-28T16:08:08Z",
+			"url": "https://github.com/lando/events/issues/10",
 			"type": "issue"
 		},
 		{
@@ -222,11 +330,38 @@
 		},
 		{
 			"repo": "lando/desktop",
+			"number": 32,
+			"title": "Mac Docker Desktop Installation Check",
+			"author": "reynoldsalec",
+			"createdAt": "2022-04-06T21:52:41Z",
+			"url": "https://github.com/lando/desktop/issues/32",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
 			"number": 33,
 			"title": "Mac Operating System Check",
 			"author": "reynoldsalec",
 			"createdAt": "2022-04-06T21:53:22Z",
 			"url": "https://github.com/lando/desktop/issues/33",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 33,
+			"title": "Mac Operating System Check",
+			"author": "reynoldsalec",
+			"createdAt": "2022-04-06T21:53:22Z",
+			"url": "https://github.com/lando/desktop/issues/33",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 34,
+			"title": "Mac Installer Install Docker Compose Separately",
+			"author": "reynoldsalec",
+			"createdAt": "2022-04-06T21:54:21Z",
+			"url": "https://github.com/lando/desktop/issues/34",
 			"type": "issue"
 		},
 		{
@@ -249,11 +384,38 @@
 		},
 		{
 			"repo": "lando/desktop",
+			"number": 35,
+			"title": "Whitelist Lando CA",
+			"author": "reynoldsalec",
+			"createdAt": "2022-04-06T21:55:28Z",
+			"url": "https://github.com/lando/desktop/issues/35",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
 			"number": 36,
 			"title": "Usage Stats Opt Out",
 			"author": "reynoldsalec",
 			"createdAt": "2022-04-06T21:56:29Z",
 			"url": "https://github.com/lando/desktop/issues/36",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 36,
+			"title": "Usage Stats Opt Out",
+			"author": "reynoldsalec",
+			"createdAt": "2022-04-06T21:56:29Z",
+			"url": "https://github.com/lando/desktop/issues/36",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 39,
+			"title": "docker-desktop installer",
+			"author": "pirog",
+			"createdAt": "2022-04-07T17:51:12Z",
+			"url": "https://github.com/lando/desktop/issues/39",
 			"type": "issue"
 		},
 		{
@@ -276,11 +438,38 @@
 		},
 		{
 			"repo": "lando/desktop",
+			"number": 40,
+			"title": "docker-engine installer",
+			"author": "pirog",
+			"createdAt": "2022-04-07T17:52:49Z",
+			"url": "https://github.com/lando/desktop/issues/40",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
 			"number": 41,
 			"title": "docker-compose cli installer",
 			"author": "pirog",
 			"createdAt": "2022-04-07T17:54:15Z",
 			"url": "https://github.com/lando/desktop/issues/41",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 41,
+			"title": "docker-compose cli installer",
+			"author": "pirog",
+			"createdAt": "2022-04-07T17:54:15Z",
+			"url": "https://github.com/lando/desktop/issues/41",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 42,
+			"title": "lando-ca installer",
+			"author": "pirog",
+			"createdAt": "2022-04-07T17:56:47Z",
+			"url": "https://github.com/lando/desktop/issues/42",
 			"type": "issue"
 		},
 		{
@@ -303,11 +492,38 @@
 		},
 		{
 			"repo": "lando/desktop",
+			"number": 43,
+			"title": "Release channel support",
+			"author": "pirog",
+			"createdAt": "2022-04-07T18:04:51Z",
+			"url": "https://github.com/lando/desktop/issues/43",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
 			"number": 44,
 			"title": "lando-cli-installer",
 			"author": "pirog",
 			"createdAt": "2022-04-07T18:06:27Z",
 			"url": "https://github.com/lando/desktop/issues/44",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 44,
+			"title": "lando-cli-installer",
+			"author": "pirog",
+			"createdAt": "2022-04-07T18:06:27Z",
+			"url": "https://github.com/lando/desktop/issues/44",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 45,
+			"title": "hyperdrive-installer",
+			"author": "pirog",
+			"createdAt": "2022-04-07T18:07:14Z",
+			"url": "https://github.com/lando/desktop/issues/45",
 			"type": "issue"
 		},
 		{
@@ -330,11 +546,38 @@
 		},
 		{
 			"repo": "lando/desktop",
+			"number": 46,
+			"title": "plugin-installer",
+			"author": "pirog",
+			"createdAt": "2022-04-07T18:08:25Z",
+			"url": "https://github.com/lando/desktop/issues/46",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
 			"number": 47,
 			"title": "installer interface",
 			"author": "pirog",
 			"createdAt": "2022-04-07T18:10:09Z",
 			"url": "https://github.com/lando/desktop/issues/47",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/desktop",
+			"number": 47,
+			"title": "installer interface",
+			"author": "pirog",
+			"createdAt": "2022-04-07T18:10:09Z",
+			"url": "https://github.com/lando/desktop/issues/47",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/auto-deploy-action",
+			"number": 6,
+			"title": "Add examples to the README",
+			"author": "pirog",
+			"createdAt": "2022-04-13T21:04:09Z",
+			"url": "https://github.com/lando/auto-deploy-action/issues/6",
 			"type": "issue"
 		},
 		{
@@ -383,6 +626,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/desktop",
+			"number": 52,
+			"title": "Save Config Values to Auth Provider",
+			"author": "reynoldsalec",
+			"createdAt": "2022-05-03T15:10:07Z",
+			"url": "https://github.com/lando/desktop/issues/52",
+			"type": "issue"
+		},
+		{
 			"repo": "lando/lando",
 			"number": 3398,
 			"title": "chore: Set permissions for GitHub actions",
@@ -390,6 +642,15 @@
 			"createdAt": "2022-05-18T01:53:59Z",
 			"url": "https://github.com/lando/lando/pull/3398",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/nginx",
+			"number": 9,
+			"title": "Enable GZip",
+			"author": "kamalkech",
+			"createdAt": "2022-05-22T15:36:35Z",
+			"url": "https://github.com/lando/nginx/issues/9",
+			"type": "issue"
 		},
 		{
 			"repo": "lando/nginx",
@@ -419,12 +680,21 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/solr",
-			"number": 14,
-			"title": "Two sites both running solr (different versions) collide",
-			"author": "seanr",
-			"createdAt": "2022-06-13T20:23:09Z",
-			"url": "https://github.com/lando/solr/issues/14",
+			"repo": "lando/desktop",
+			"number": 62,
+			"title": "API ",
+			"author": "labboy0276",
+			"createdAt": "2022-06-03T17:28:16Z",
+			"url": "https://github.com/lando/desktop/issues/62",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/drupal",
+			"number": 28,
+			"title": "S3FS module + Image style support ",
+			"author": "Coufu",
+			"createdAt": "2022-06-26T06:44:29Z",
+			"url": "https://github.com/lando/drupal/issues/28",
 			"type": "issue"
 		},
 		{
@@ -464,6 +734,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/node",
+			"number": 18,
+			"title": "Node container can't get environment variables",
+			"author": "luispimentellopes",
+			"createdAt": "2022-09-26T16:34:48Z",
+			"url": "https://github.com/lando/node/issues/18",
+			"type": "issue"
+		},
+		{
 			"repo": "lando/python",
 			"number": 14,
 			"title": "Lando rebuild, python 2.7 grammar.txt issue - drupal 9, php 8.1",
@@ -491,6 +770,24 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/auto-deploy-action",
+			"number": 7,
+			"title": "add some sort of pre/post script section",
+			"author": "pirog",
+			"createdAt": "2022-11-30T00:59:49Z",
+			"url": "https://github.com/lando/auto-deploy-action/issues/7",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/lando",
+			"number": 3489,
+			"title": "New Storage",
+			"author": "tribecar-shurn",
+			"createdAt": "2022-12-24T08:08:43Z",
+			"url": "https://github.com/lando/lando/issues/3489",
+			"type": "issue"
+		},
+		{
 			"repo": "lando/lando",
 			"number": 3489,
 			"title": "New Storage",
@@ -506,6 +803,24 @@
 			"author": "arcanefeenix",
 			"createdAt": "2023-01-16T21:46:27Z",
 			"url": "https://github.com/lando/lando/issues/3494",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/lando",
+			"number": 3494,
+			"title": "Lando for Windows fails to mount app dir from network volume",
+			"author": "arcanefeenix",
+			"createdAt": "2023-01-16T21:46:27Z",
+			"url": "https://github.com/lando/lando/issues/3494",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 157,
+			"title": "Lando confuses site in pantheon when name has spaces vs no spaces",
+			"author": "agn507",
+			"createdAt": "2023-02-02T20:09:34Z",
+			"url": "https://github.com/lando/pantheon/issues/157",
 			"type": "issue"
 		},
 		{
@@ -617,15 +932,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/solr",
-			"number": 27,
-			"title": "Support patch versions",
-			"author": "pfrenssen",
-			"createdAt": "2023-04-18T11:57:23Z",
-			"url": "https://github.com/lando/solr/issues/27",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/pantheon",
 			"number": 172,
 			"title": "Document workaround for nonstandard table prefixes",
@@ -641,15 +947,6 @@
 			"author": "phpsa",
 			"createdAt": "2023-06-01T23:59:49Z",
 			"url": "https://github.com/lando/core/issues/44",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 34,
-			"title": "Option to disable scanner for localhost domains",
-			"author": "pvanhemmen",
-			"createdAt": "2023-06-05T12:54:41Z",
-			"url": "https://github.com/lando/core-next/issues/34",
 			"type": "issue"
 		},
 		{
@@ -716,24 +1013,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core-next",
-			"number": 43,
-			"title": "Lando should be able to install itself",
-			"author": "AaronFeledy",
-			"createdAt": "2023-08-02T21:30:50Z",
-			"url": "https://github.com/lando/core-next/issues/43",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 44,
-			"title": "Lando should be able to update itself",
-			"author": "AaronFeledy",
-			"createdAt": "2023-08-02T21:42:47Z",
-			"url": "https://github.com/lando/core-next/issues/44",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/acquia",
 			"number": 62,
 			"title": "Missing directories available at Acquia",
@@ -779,39 +1058,12 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/lagoon",
-			"number": 58,
-			"title": "Allow user to configure whether the {PWD} is always mounted into /app",
-			"author": "tobybellwood",
-			"createdAt": "2023-10-18T02:48:14Z",
-			"url": "https://github.com/lando/lagoon/issues/58",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 51,
-			"title": "Global Landofile",
-			"author": "MichelJonkman",
-			"createdAt": "2023-10-24T16:51:54Z",
-			"url": "https://github.com/lando/core-next/issues/51",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/lamp",
 			"number": 37,
 			"title": "recipe: lamp: Cannot seem to get php.ini error_reporting to register, and it's unclear why",
 			"author": "bronius",
 			"createdAt": "2023-10-24T21:15:48Z",
 			"url": "https://github.com/lando/lamp/issues/37",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/lando",
-			"number": 3647,
-			"title": "can't reach a node service through proxy (502 bad gateway)",
-			"author": "marcelbusch",
-			"createdAt": "2023-12-13T11:04:17Z",
-			"url": "https://github.com/lando/lando/issues/3647",
 			"type": "issue"
 		},
 		{
@@ -822,42 +1074,6 @@
 			"createdAt": "2023-12-27T18:31:36Z",
 			"url": "https://github.com/lando/acquia/pull/74",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/mariadb",
-			"number": 37,
-			"title": "Fast backup",
-			"author": "hkirsman",
-			"createdAt": "2023-12-28T13:32:12Z",
-			"url": "https://github.com/lando/mariadb/issues/37",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 91,
-			"title": "Proxy URLs Cause Round Robin Results for `appserver_nginx`",
-			"author": "reynoldsalec",
-			"createdAt": "2024-01-08T20:07:46Z",
-			"url": "https://github.com/lando/core/issues/91",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/lando",
-			"number": 3655,
-			"title": "tooling in ubuntu fails due to adding tooling name to docker command",
-			"author": "eg-soft-dev",
-			"createdAt": "2024-01-14T19:33:39Z",
-			"url": "https://github.com/lando/lando/issues/3655",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/gitpod",
-			"number": 13,
-			"title": "Old php version requested",
-			"author": "aangelinsf",
-			"createdAt": "2024-01-17T16:05:32Z",
-			"url": "https://github.com/lando/gitpod/issues/13",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/lando",
@@ -875,15 +1091,6 @@
 			"author": "pirog",
 			"createdAt": "2024-01-23T14:34:36Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/2",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/nginx",
-			"number": 44,
-			"title": "Setting client_max_body_size",
-			"author": "sinnbeck",
-			"createdAt": "2024-01-25T13:33:48Z",
-			"url": "https://github.com/lando/nginx/issues/44",
 			"type": "issue"
 		},
 		{
@@ -905,15 +1112,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/core",
-			"number": 103,
-			"title": "api: 3 healthcheck will fail if it relies on certs",
-			"author": "pirog",
-			"createdAt": "2024-02-20T15:45:33Z",
-			"url": "https://github.com/lando/core/issues/103",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3675,
 			"title": "Provide a way to get `LANDO_APP_PROJECT` via host lando cli command.",
@@ -929,15 +1127,6 @@
 			"author": "kinglouie",
 			"createdAt": "2024-02-27T08:57:07Z",
 			"url": "https://github.com/lando/lando/issues/3682",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/mysql",
-			"number": 45,
-			"title": "Better Healthcheck Testing/Blank dbname/user Testing",
-			"author": "reynoldsalec",
-			"createdAt": "2024-03-11T22:12:05Z",
-			"url": "https://github.com/lando/mysql/issues/45",
 			"type": "issue"
 		},
 		{
@@ -1031,24 +1220,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/core",
-			"number": 140,
-			"title": "shutdown alias of poweroff command",
-			"author": "RohitM-IN",
-			"createdAt": "2024-04-09T15:58:23Z",
-			"url": "https://github.com/lando/core/issues/140",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/setup-lando",
-			"number": 34,
-			"title": "Investigate an MSI Generator",
-			"author": "reynoldsalec",
-			"createdAt": "2024-04-09T16:31:59Z",
-			"url": "https://github.com/lando/setup-lando/issues/34",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/setup-lando",
 			"number": 37,
 			"title": "Generate exe from ps1 in GHA",
@@ -1056,15 +1227,6 @@
 			"createdAt": "2024-04-21T20:47:45Z",
 			"url": "https://github.com/lando/setup-lando/pull/37",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 155,
-			"title": "Lando starts docker after cache clear on linux",
-			"author": "AaronFeledy",
-			"createdAt": "2024-04-22T16:49:59Z",
-			"url": "https://github.com/lando/core/issues/155",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/pantheon",
@@ -1113,21 +1275,21 @@
 		},
 		{
 			"repo": "lando/core",
-			"number": 192,
-			"title": "Version task fails if .lando.yml contains invalid config",
-			"author": "AaronFeledy",
-			"createdAt": "2024-08-11T15:45:51Z",
-			"url": "https://github.com/lando/core/issues/192",
-			"type": "issue"
+			"number": 188,
+			"title": "Debugging Compose Path Setup Errors",
+			"author": "reynoldsalec",
+			"createdAt": "2024-08-07T20:40:56Z",
+			"url": "https://github.com/lando/core/pull/188",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
-			"number": 193,
-			"title": "Switch to Using Docker Compose Plugin Version",
-			"author": "reynoldsalec",
-			"createdAt": "2024-08-12T19:34:57Z",
-			"url": "https://github.com/lando/core/issues/193",
-			"type": "issue"
+			"number": 194,
+			"title": "Allow specifying services to destroy",
+			"author": "AaronFeledy",
+			"createdAt": "2024-08-14T14:14:41Z",
+			"url": "https://github.com/lando/core/pull/194",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -1157,42 +1319,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 211,
-			"title": "Identify error sources when possible",
-			"author": "AaronFeledy",
-			"createdAt": "2024-09-18T03:22:04Z",
-			"url": "https://github.com/lando/core/issues/211",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/setup-lando",
-			"number": 61,
-			"title": "Improve install docs",
-			"author": "cgmonroe",
-			"createdAt": "2024-10-11T17:23:53Z",
-			"url": "https://github.com/lando/setup-lando/issues/61",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 230,
-			"title": "Adding ssl to services phpmyadmin and mailhog enables but shows errors",
-			"author": "yorkshire-pudding",
-			"createdAt": "2024-10-15T19:10:33Z",
-			"url": "https://github.com/lando/core/issues/230",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 232,
-			"title": "Add option to skip scanner as a one-off",
-			"author": "AaronFeledy",
-			"createdAt": "2024-10-16T15:28:08Z",
-			"url": "https://github.com/lando/core/issues/232",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/php",
 			"number": 136,
 			"title": "lando/lando#2718: Explicitly set client_port to 9003.",
@@ -1200,15 +1326,6 @@
 			"createdAt": "2024-10-21T18:15:22Z",
 			"url": "https://github.com/lando/php/pull/136",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 252,
-			"title": "Plugin-add doesn't work for Gitlab registries",
-			"author": "Xilonz",
-			"createdAt": "2024-10-25T06:40:44Z",
-			"url": "https://github.com/lando/core/issues/252",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/core",
@@ -1221,21 +1338,12 @@
 		},
 		{
 			"repo": "lando/core",
-			"number": 258,
-			"title": "Plugin name and Package name need to be equal (?)",
+			"number": 257,
+			"title": "Allow plugin force install",
 			"author": "Xilonz",
-			"createdAt": "2024-10-28T10:29:14Z",
-			"url": "https://github.com/lando/core/issues/258",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 270,
-			"title": "Update check failed!",
-			"author": "MatthiasBrodelet",
-			"createdAt": "2024-10-31T12:57:11Z",
-			"url": "https://github.com/lando/core/issues/270",
-			"type": "issue"
+			"createdAt": "2024-10-28T10:19:51Z",
+			"url": "https://github.com/lando/core/pull/257",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/notarize-action",
@@ -1245,6 +1353,15 @@
 			"createdAt": "2024-11-06T12:54:07Z",
 			"url": "https://github.com/lando/notarize-action/issues/32",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 280,
+			"title": "Add WSL2 workflow for setup tests",
+			"author": "AaronFeledy",
+			"createdAt": "2024-11-27T01:59:14Z",
+			"url": "https://github.com/lando/core/pull/280",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -1283,12 +1400,39 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/hyperdrive",
+			"number": 83,
+			"title": "GHA has ended support for macos-12",
+			"author": "AaronFeledy",
+			"createdAt": "2024-12-04T04:22:53Z",
+			"url": "https://github.com/lando/hyperdrive/pull/83",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/lamp",
 			"number": 75,
 			"title": "Added init defaults.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-12-19T22:42:16Z",
 			"url": "https://github.com/lando/lamp/pull/75",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lamp",
+			"number": 75,
+			"title": "Added init defaults.",
+			"author": "reynoldsalec",
+			"createdAt": "2024-12-19T22:42:16Z",
+			"url": "https://github.com/lando/lamp/pull/75",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/joomla",
+			"number": 57,
+			"title": "Init defaults1",
+			"author": "reynoldsalec",
+			"createdAt": "2024-12-20T22:34:51Z",
+			"url": "https://github.com/lando/joomla/pull/57",
 			"type": "pr"
 		},
 		{
@@ -1310,31 +1454,13 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/setup-lando",
-			"number": 81,
-			"title": "  lando ERROR Error: A setup error occured! Rerun with lando setup --debug for more info.",
-			"author": "jagatjitsinghmunjal",
-			"createdAt": "2025-01-08T12:06:48Z",
-			"url": "https://github.com/lando/setup-lando/issues/81",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/setup-lando",
-			"number": 82,
-			"title": "  lando [COMPLETED] Downloading orchestrator Completed  +16349ms",
-			"author": "jagatjitsinghmunjal",
-			"createdAt": "2025-01-08T14:30:05Z",
-			"url": "https://github.com/lando/setup-lando/issues/82",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/core",
-			"number": 320,
-			"title": "Setup fails on Solus",
-			"author": "ianmjones",
-			"createdAt": "2025-01-14T21:30:14Z",
-			"url": "https://github.com/lando/core/issues/320",
-			"type": "issue"
+			"number": 330,
+			"title": "Stages hooks vibes",
+			"author": "pirog",
+			"createdAt": "2025-01-30T15:49:51Z",
+			"url": "https://github.com/lando/core/pull/330",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -1373,30 +1499,21 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/core",
+			"number": 339,
+			"title": "Add `--tail` `--since` `--until` flags to `lando logs`",
+			"author": "AaronFeledy",
+			"createdAt": "2025-02-20T19:37:57Z",
+			"url": "https://github.com/lando/core/pull/339",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/vitepress-theme-default-plus",
 			"number": 75,
 			"title": "Error while updating dependencies",
 			"author": "szarkans",
 			"createdAt": "2025-03-16T21:09:57Z",
 			"url": "https://github.com/lando/vitepress-theme-default-plus/issues/75",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 358,
-			"title": "Can't connect Wordpress Vite with lando",
-			"author": "YevheniiVolosiuk",
-			"createdAt": "2025-04-02T13:52:53Z",
-			"url": "https://github.com/lando/core/issues/358",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 360,
-			"title": "Incorrect next page for first page of Landofile section",
-			"author": "crstauf",
-			"createdAt": "2025-04-23T20:15:18Z",
-			"url": "https://github.com/lando/core/issues/360",
 			"type": "issue"
 		},
 		{
@@ -1446,21 +1563,21 @@
 		},
 		{
 			"repo": "lando/core",
-			"number": 372,
-			"title": "Lando seems to ignore overriding the orchestratorBin configuration",
-			"author": "gabesullice",
-			"createdAt": "2025-06-18T12:43:07Z",
-			"url": "https://github.com/lando/core/issues/372",
-			"type": "issue"
+			"number": 370,
+			"title": "Fix URL for proxy docs",
+			"author": "LorenzoSapora",
+			"createdAt": "2025-06-09T10:33:34Z",
+			"url": "https://github.com/lando/core/pull/370",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
-			"number": 376,
-			"title": "My site does not load on the browser",
+			"number": 377,
+			"title": "Config Xdebug with drush",
 			"author": "rpayanm",
-			"createdAt": "2025-07-03T17:24:14Z",
-			"url": "https://github.com/lando/core/issues/376",
-			"type": "issue"
+			"createdAt": "2025-07-18T14:47:52Z",
+			"url": "https://github.com/lando/core/pull/377",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -1617,12 +1734,12 @@
 		},
 		{
 			"repo": "lando/core",
-			"number": 388,
-			"title": "It should be possible to opt out of mounting `/var/www` as a named mount since it can mess up certain containers such as adminer",
-			"author": "codebymikey",
-			"createdAt": "2025-09-10T09:28:04Z",
-			"url": "https://github.com/lando/core/issues/388",
-			"type": "issue"
+			"number": 384,
+			"title": "Addresses #2268",
+			"author": "rpayanm",
+			"createdAt": "2025-09-04T16:11:17Z",
+			"url": "https://github.com/lando/core/pull/384",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/wordpress",
@@ -1640,15 +1757,6 @@
 			"author": "Mgrmjp",
 			"createdAt": "2025-09-24T04:27:54Z",
 			"url": "https://github.com/lando/lando/issues/3809",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 392,
-			"title": "Windows for https://docs.lando.dev/guides/offline-dev.html ?",
-			"author": "Mgrmjp",
-			"createdAt": "2025-10-01T09:07:05Z",
-			"url": "https://github.com/lando/core/issues/392",
 			"type": "issue"
 		},
 		{
@@ -1676,24 +1784,6 @@
 			"author": "slam-campup",
 			"createdAt": "2025-10-26T01:00:40Z",
 			"url": "https://github.com/lando/wordpress/issues/107",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 397,
-			"title": "Setup shouldn't try to download plugins when running from alternate directory",
-			"author": "AaronFeledy",
-			"createdAt": "2025-10-28T06:06:39Z",
-			"url": "https://github.com/lando/core/issues/397",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 398,
-			"title": "pluginDirs should point to the actual directory containing the plugins",
-			"author": "AaronFeledy",
-			"createdAt": "2025-10-28T06:17:25Z",
-			"url": "https://github.com/lando/core/issues/398",
 			"type": "issue"
 		},
 		{
@@ -1760,6 +1850,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/core",
+			"number": 417,
+			"title": "Pedantically fixing verb tense in init command description",
+			"author": "amklose",
+			"createdAt": "2026-01-14T09:23:13Z",
+			"url": "https://github.com/lando/core/pull/417",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/core-next",
 			"number": 120,
 			"title": "feat: add buildx check/install to lando setup",
@@ -1769,13 +1868,13 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core",
-			"number": 432,
-			"title": "Allow overriding proxy setting in .lando.local.yml",
-			"author": "monroecg",
-			"createdAt": "2026-02-12T17:13:48Z",
-			"url": "https://github.com/lando/core/issues/432",
-			"type": "issue"
+			"repo": "lando/solr",
+			"number": 62,
+			"title": "chore: update @lando/php to ^1.11.0",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-19T17:15:09Z",
+			"url": "https://github.com/lando/solr/pull/62",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/solr",
@@ -1806,6 +1905,24 @@
 		},
 		{
 			"repo": "lando/hyperdrive",
+			"number": 84,
+			"title": "Bump @lando/leia from 0.6.4 to 0.6.7",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:13Z",
+			"url": "https://github.com/lando/hyperdrive/pull/84",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/hyperdrive",
+			"number": 85,
+			"title": "Bump @lando/argv from 1.1.0 to 1.2.0",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:19Z",
+			"url": "https://github.com/lando/hyperdrive/pull/85",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/hyperdrive",
 			"number": 85,
 			"title": "Bump @lando/argv from 1.1.0 to 1.2.0",
 			"author": "dependabot",
@@ -1820,6 +1937,24 @@
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:37Z",
 			"url": "https://github.com/lando/hyperdrive/pull/86",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/hyperdrive",
+			"number": 86,
+			"title": "Bump the actions group with 8 updates",
+			"author": "dependabot",
+			"createdAt": "2026-02-19T22:11:37Z",
+			"url": "https://github.com/lando/hyperdrive/pull/86",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/acquia",
+			"number": 159,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:54:33Z",
+			"url": "https://github.com/lando/acquia/pull/159",
 			"type": "pr"
 		},
 		{
@@ -1850,12 +1985,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mysql",
-			"number": 89,
+			"repo": "lando/python",
+			"number": 62,
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:52Z",
-			"url": "https://github.com/lando/mysql/pull/89",
+			"createdAt": "2026-02-22T20:55:46Z",
+			"url": "https://github.com/lando/python/pull/62",
 			"type": "pr"
 		},
 		{
@@ -1865,6 +2000,24 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:57Z",
 			"url": "https://github.com/lando/memcached/pull/55",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/memcached",
+			"number": 55,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:55:57Z",
+			"url": "https://github.com/lando/memcached/pull/55",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 55,
+			"title": "fix: handle race condition in release promote job",
+			"author": "AaronFeledy",
+			"createdAt": "2026-02-22T20:57:01Z",
+			"url": "https://github.com/lando/leia/pull/55",
 			"type": "pr"
 		},
 		{
@@ -1931,6 +2084,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/core",
+			"number": 445,
+			"title": "feat: containerd/nerdctl engine backend",
+			"author": "AaronFeledy",
+			"createdAt": "2026-03-14T03:07:20Z",
+			"url": "https://github.com/lando/core/pull/445",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/php",
 			"number": 247,
 			"title": "feat: xdebug configurability overhaul",
@@ -1967,15 +2129,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/backdrop",
-			"number": 91,
-			"title": "Composer remove failing on startup/rebuild, causing build steps to be skipped",
-			"author": "daggerhart",
-			"createdAt": "2026-04-28T13:43:39Z",
-			"url": "https://github.com/lando/backdrop/issues/91",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/drupal",
 			"number": 186,
 			"title": "Missing deprecated variables in mysql:8.4 on Drupal10 recipe",
@@ -1991,6 +2144,24 @@
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-11T17:43:41Z",
 			"url": "https://github.com/lando/core/pull/467",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 467,
+			"title": "docs: add guide for hosting and distributing a private Lando plugin",
+			"author": "reynoldsalec",
+			"createdAt": "2026-05-11T17:43:41Z",
+			"url": "https://github.com/lando/core/pull/467",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 468,
+			"title": "Add a system-level plugin-auth.js",
+			"author": "reynoldsalec",
+			"createdAt": "2026-05-12T17:07:18Z",
+			"url": "https://github.com/lando/core/pull/468",
 			"type": "pr"
 		},
 		{
@@ -2039,13 +2210,13 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mysql",
-			"number": 94,
-			"title": "Mysql 8.4 authentication plugin fix release",
+			"repo": "lando/lamp",
+			"number": 108,
+			"title": "fix(mysql-8.4): As of mysql 8.4, expire_logs_days is removed in favour of binlog_expire_logs_seconds.",
 			"author": "florianPat",
-			"createdAt": "2026-06-28T18:17:41Z",
-			"url": "https://github.com/lando/mysql/issues/94",
-			"type": "issue"
+			"createdAt": "2026-06-28T18:26:57Z",
+			"url": "https://github.com/lando/lamp/pull/108",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/lamp",
@@ -2066,15 +2237,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/backdrop",
-			"number": 95,
-			"title": "MySQL 8.4 fails to start in Backdrop recipe — deprecated Bitnami config parameters",
-			"author": "dsearle-oaklins",
-			"createdAt": "2026-07-01T16:39:35Z",
-			"url": "https://github.com/lando/backdrop/issues/95",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/mariadb",
 			"number": 99,
 			"title": "Add support for MariaDB 12.x",
@@ -2082,6 +2244,15 @@
 			"createdAt": "2026-07-09T08:49:09Z",
 			"url": "https://github.com/lando/mariadb/issues/99",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/lamp",
+			"number": 110,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-14T05:13:35Z",
+			"url": "https://github.com/lando/lamp/pull/110",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/lamp",
@@ -2102,12 +2273,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/wordpress",
-			"number": 140,
-			"title": "Bump the actions group across 1 directory with 2 updates",
+			"repo": "lando/python",
+			"number": 64,
+			"title": "Bump the actions group across 1 directory with 4 updates",
 			"author": "dependabot",
-			"createdAt": "2026-07-14T12:04:17Z",
-			"url": "https://github.com/lando/wordpress/pull/140",
+			"createdAt": "2026-07-14T20:13:37Z",
+			"url": "https://github.com/lando/python/pull/64",
 			"type": "pr"
 		},
 		{
@@ -2117,6 +2288,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-14T20:13:37Z",
 			"url": "https://github.com/lando/python/pull/64",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/solr",
+			"number": 73,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T05:07:04Z",
+			"url": "https://github.com/lando/solr/pull/73",
 			"type": "pr"
 		},
 		{
@@ -2156,12 +2336,30 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/memcached",
+			"number": 57,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T10:33:57Z",
+			"url": "https://github.com/lando/memcached/pull/57",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/mailhog",
 			"number": 56,
 			"title": "Bump the actions group across 1 directory with 4 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-15T10:33:58Z",
 			"url": "https://github.com/lando/mailhog/pull/56",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/acquia",
+			"number": 168,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T15:23:50Z",
+			"url": "https://github.com/lando/acquia/pull/168",
 			"type": "pr"
 		},
 		{
@@ -2192,12 +2390,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/redis",
-			"number": 62,
-			"title": "build(deps): bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
+			"repo": "lando/postgres",
+			"number": 75,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
-			"createdAt": "2026-07-16T04:33:34Z",
-			"url": "https://github.com/lando/redis/pull/62",
+			"createdAt": "2026-07-16T04:11:45Z",
+			"url": "https://github.com/lando/postgres/pull/75",
 			"type": "pr"
 		},
 		{
@@ -2210,93 +2408,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/mysql",
-			"number": 95,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T08:33:44Z",
-			"url": "https://github.com/lando/mysql/pull/95",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mssql",
-			"number": 52,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T09:07:02Z",
-			"url": "https://github.com/lando/mssql/pull/52",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/phpmyadmin",
-			"number": 83,
-			"title": "chore(deps): bump the actions group across 1 directory with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T13:54:03Z",
-			"url": "https://github.com/lando/phpmyadmin/pull/83",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/tomcat",
-			"number": 56,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T15:43:41Z",
-			"url": "https://github.com/lando/tomcat/pull/56",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/varnish",
-			"number": 70,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T17:43:54Z",
-			"url": "https://github.com/lando/varnish/pull/70",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mariadb",
-			"number": 100,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T20:43:41Z",
-			"url": "https://github.com/lando/mariadb/pull/100",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/prepare-release-action",
 			"number": 30,
 			"title": "Bump the actions group across 1 directory with 3 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-17T21:13:32Z",
 			"url": "https://github.com/lando/prepare-release-action/pull/30",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/nginx",
-			"number": 87,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-17T22:13:29Z",
-			"url": "https://github.com/lando/nginx/pull/87",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/apache",
-			"number": 64,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-18T01:02:53Z",
-			"url": "https://github.com/lando/apache/pull/64",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 147,
-			"title": "Bump the actions group across 1 directory with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-18T02:43:56Z",
-			"url": "https://github.com/lando/core-next/pull/147",
 			"type": "pr"
 		},
 		{
@@ -2309,147 +2426,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/laravel",
-			"number": 113,
-			"title": "Bump the actions group across 1 directory with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T06:26:48Z",
-			"url": "https://github.com/lando/laravel/pull/113",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/website",
-			"number": 80,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T07:16:32Z",
-			"url": "https://github.com/lando/website/pull/80",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/blog",
-			"number": 59,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T08:16:49Z",
-			"url": "https://github.com/lando/blog/pull/59",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/events",
-			"number": 55,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T08:24:56Z",
-			"url": "https://github.com/lando/events/pull/55",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/joomla",
 			"number": 80,
 			"title": "chore(deps): bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-20T11:06:33Z",
 			"url": "https://github.com/lando/joomla/pull/80",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/elasticsearch",
-			"number": 54,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T11:24:56Z",
-			"url": "https://github.com/lando/elasticsearch/pull/54",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lagoon",
-			"number": 109,
-			"title": "Bump the actions group across 1 directory with 4 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T14:15:08Z",
-			"url": "https://github.com/lando/lagoon/pull/109",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/php",
-			"number": 251,
-			"title": "chore(deps): bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T17:05:25Z",
-			"url": "https://github.com/lando/php/pull/251",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/desktop",
-			"number": 76,
-			"title": "Bump axios from 0.32.0 to 0.33.0",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T18:11:23Z",
-			"url": "https://github.com/lando/desktop/pull/76",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/devtool",
-			"number": 36,
-			"title": "Bump axios from 1.16.0 to 1.18.0",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T18:19:03Z",
-			"url": "https://github.com/lando/devtool/pull/36",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mean",
-			"number": 70,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T21:44:21Z",
-			"url": "https://github.com/lando/mean/pull/70",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/setup-lando",
-			"number": 121,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T21:54:29Z",
-			"url": "https://github.com/lando/setup-lando/pull/121",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/backdrop",
-			"number": 96,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T22:05:23Z",
-			"url": "https://github.com/lando/backdrop/pull/96",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/drupal",
-			"number": 192,
-			"title": "Bump the actions group across 1 directory with 2 updates",
-			"author": "dependabot",
-			"createdAt": "2026-07-20T23:05:18Z",
-			"url": "https://github.com/lando/drupal/pull/192",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/legacy-metrics",
-			"number": 14,
-			"title": "Bump brace-expansion from 1.1.11 to 1.1.16",
-			"author": "dependabot",
-			"createdAt": "2026-07-23T13:38:41Z",
-			"url": "https://github.com/lando/legacy-metrics/pull/14",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/transfer-issue-action",
-			"number": 123,
-			"title": "Bump brace-expansion and eslint",
-			"author": "dependabot",
-			"createdAt": "2026-07-23T20:18:08Z",
-			"url": "https://github.com/lando/transfer-issue-action/pull/123",
 			"type": "pr"
 		},
 		{
@@ -2471,78 +2453,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/desktop",
-			"number": 77,
-			"title": "Bump immutable from 4.1.0 to 4.3.9",
-			"author": "dependabot",
-			"createdAt": "2026-07-25T08:28:44Z",
-			"url": "https://github.com/lando/desktop/pull/77",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/desktop",
-			"number": 78,
-			"title": "Bump shell-quote from 1.8.4 to 1.10.0",
-			"author": "dependabot",
-			"createdAt": "2026-07-25T23:44:07Z",
-			"url": "https://github.com/lando/desktop/pull/78",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 14,
-			"title": "Bump immutable from 4.3.8 to 4.3.9",
-			"author": "dependabot",
-			"createdAt": "2026-07-26T00:59:57Z",
-			"url": "https://github.com/lando/plugin-test/pull/14",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 149,
-			"title": "Bump find-my-way from 9.6.0 to 9.7.0 in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-07-27T02:50:39Z",
-			"url": "https://github.com/lando/core-next/pull/149",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/code-sign-action",
-			"number": 31,
-			"title": "Bump tar from 7.5.16 to 7.5.22",
-			"author": "dependabot",
-			"createdAt": "2026-07-27T04:14:50Z",
-			"url": "https://github.com/lando/code-sign-action/pull/31",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/website",
-			"number": 81,
-			"title": "Update website to use new Vitepress Default Theme",
-			"author": "yorkshire-pudding",
-			"createdAt": "2026-07-30T09:25:13Z",
-			"url": "https://github.com/lando/website/issues/81",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/plugin-test",
-			"number": 15,
-			"title": "Bump postcss from 8.5.10 to 8.5.25",
-			"author": "dependabot",
-			"createdAt": "2026-08-01T04:50:48Z",
-			"url": "https://github.com/lando/plugin-test/pull/15",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/desktop",
-			"number": 79,
-			"title": "Bump postcss from 8.5.15 to 8.5.25",
-			"author": "dependabot",
-			"createdAt": "2026-08-02T04:29:27Z",
-			"url": "https://github.com/lando/desktop/pull/79",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/legacy-cli",
 			"number": 310,
 			"title": "Bump postcss from 8.5.15 to 8.5.25",
@@ -2561,66 +2471,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/desktop",
-			"number": 80,
-			"title": "Bump electron from 17.4.6 to 39.8.10",
-			"author": "dependabot",
-			"createdAt": "2026-08-07T10:01:56Z",
-			"url": "https://github.com/lando/desktop/pull/80",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/legacy-metrics",
-			"number": 15,
-			"title": "Bump js-yaml from 3.14.1 to 3.15.1",
-			"author": "dependabot",
-			"createdAt": "2026-08-08T09:10:11Z",
-			"url": "https://github.com/lando/legacy-metrics/pull/15",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/transfer-issue-action",
-			"number": 124,
-			"title": "Bump js-yaml and eslint",
-			"author": "dependabot",
-			"createdAt": "2026-08-08T10:34:00Z",
-			"url": "https://github.com/lando/transfer-issue-action/pull/124",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core",
-			"number": 492,
-			"title": "Issues uncovered while running an LLM agent in a sandbox",
-			"author": "ohnotnow",
-			"createdAt": "2026-08-10T22:56:42Z",
-			"url": "https://github.com/lando/core/issues/492",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/telemetry",
 			"number": 13,
 			"title": "Bump js-yaml from 4.2.0 to 4.3.1",
 			"author": "dependabot",
 			"createdAt": "2026-08-11T20:52:36Z",
 			"url": "https://github.com/lando/telemetry/pull/13",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/argv",
-			"number": 21,
-			"title": "Bump brace-expansion",
-			"author": "dependabot",
-			"createdAt": "2026-08-20T07:31:04Z",
-			"url": "https://github.com/lando/argv/pull/21",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/go",
-			"number": 82,
-			"title": "Updated Go to v1.27",
-			"author": "github-actions",
-			"createdAt": "2026-08-24T07:04:59Z",
-			"url": "https://github.com/lando/go/pull/82",
 			"type": "pr"
 		},
 		{

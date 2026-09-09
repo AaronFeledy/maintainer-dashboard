@@ -5,11 +5,11 @@
 	"issues": [],
 	"pullRequests": [
 		{
-			"title": "Bump js-yaml from 3.14.1 to 3.15.1",
+			"title": "Bump js-yaml from 3.14.1 to 3.15.2",
 			"author": "dependabot",
-			"createdAt": "2026-08-08T09:10:11Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/legacy-metrics/pull/15"
+			"createdAt": "2026-09-09T12:57:59Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/legacy-metrics/pull/16"
 		},
 		{
 			"title": "Bump brace-expansion from 1.1.11 to 1.1.16",
