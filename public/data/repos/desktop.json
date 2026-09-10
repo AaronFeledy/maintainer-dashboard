@@ -272,6 +272,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump joi from 17.6.0 to 17.13.7",
+			"author": "dependabot",
+			"createdAt": "2026-09-09T23:51:53Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/desktop/pull/82"
+		},
+		{
 			"title": "Bump browserslist from 4.20.3 to 4.28.8",
 			"author": "dependabot",
 			"createdAt": "2026-09-04T07:51:58Z",
