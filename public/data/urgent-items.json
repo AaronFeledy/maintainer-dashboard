@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-10T14:01:32.445Z",
+		"fetchedAt": "2026-09-10T18:54:35.919Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1101,15 +1101,6 @@
 			"createdAt": "2024-07-08T15:31:25Z",
 			"url": "https://github.com/lando/pantheon/issues/251",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 188,
-			"title": "Debugging Compose Path Setup Errors",
-			"author": "reynoldsalec",
-			"createdAt": "2024-08-07T20:40:56Z",
-			"url": "https://github.com/lando/core/pull/188",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/core",
@@ -2324,6 +2315,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-20T06:26:48Z",
 			"url": "https://github.com/lando/laravel/pull/113",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/website",
+			"number": 80,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T07:16:32Z",
+			"url": "https://github.com/lando/website/pull/80",
 			"type": "pr"
 		},
 		{
