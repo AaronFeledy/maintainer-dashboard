@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-10T08:36:17.557Z",
+		"fetchedAt": "2026-09-10T14:01:32.445Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -209,6 +209,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/core",
+			"description": "Current Lando v3 runtime",
+			"language": "JavaScript",
+			"openIssues": 53,
+			"openPRs": 21,
+			"lastRelease": "2026-08-20T23:11:32Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-09-03T17:05:38Z",
+			"attentionScore": 231,
+			"unengagedCount": 42
+		},
+		{
 			"name": "lando/setup-lando",
 			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
 			"language": "Shell",
@@ -219,18 +231,6 @@
 			"lastPush": "2026-08-03T21:54:20Z",
 			"attentionScore": 229,
 			"unengagedCount": 7
-		},
-		{
-			"name": "lando/core",
-			"description": "Current Lando v3 runtime",
-			"language": "JavaScript",
-			"openIssues": 53,
-			"openPRs": 21,
-			"lastRelease": "2026-08-20T23:11:32Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-09-03T17:05:38Z",
-			"attentionScore": 228,
-			"unengagedCount": 41
 		},
 		{
 			"name": "lando/core-next",
@@ -277,7 +277,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-07-30T08:33:49Z",
-			"attentionScore": 209,
+			"attentionScore": 209.5,
 			"unengagedCount": 4
 		},
 		{
@@ -733,8 +733,8 @@
 			"lastRelease": "2026-06-27T18:53:58Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T07:16:31Z",
-			"attentionScore": 50,
-			"unengagedCount": 3
+			"attentionScore": 47,
+			"unengagedCount": 2
 		},
 		{
 			"name": "lando/events",
