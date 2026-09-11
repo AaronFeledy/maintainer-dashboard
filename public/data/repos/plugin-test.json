@@ -5,6 +5,13 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump baseline-browser-mapping from 2.10.38 to 2.11.22",
+			"author": "dependabot",
+			"createdAt": "2026-09-11T03:13:36Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/plugin-test/pull/17"
+		},
+		{
 			"title": "Bump browserslist from 4.21.4 to 4.28.8",
 			"author": "dependabot",
 			"createdAt": "2026-09-03T16:29:05Z",
