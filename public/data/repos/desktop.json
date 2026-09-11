@@ -272,6 +272,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump baseline-browser-mapping from 2.10.38 to 2.11.22",
+			"author": "dependabot",
+			"createdAt": "2026-09-11T01:09:13Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/desktop/pull/83"
+		},
+		{
 			"title": "Bump joi from 17.6.0 to 17.13.7",
 			"author": "dependabot",
 			"createdAt": "2026-09-09T23:51:53Z",

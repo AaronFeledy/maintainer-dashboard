@@ -30,6 +30,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump baseline-browser-mapping from 2.10.38 to 2.11.22",
+			"author": "dependabot",
+			"createdAt": "2026-09-11T01:14:46Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/notarize-action/pull/41"
+		},
+		{
 			"title": "Bump browserslist from 4.28.4 to 4.28.9",
 			"author": "dependabot",
 			"createdAt": "2026-09-07T14:09:56Z",
