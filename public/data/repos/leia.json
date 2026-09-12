@@ -68,14 +68,6 @@
 			"url": "https://github.com/lando/leia/issues/62"
 		},
 		{
-			"title": "Create and protect the Leia 2.x integration branch",
-			"author": "pirog",
-			"labels": [],
-			"createdAt": "2026-08-26T20:21:04Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/leia/issues/61"
-		},
-		{
 			"title": "How to handle lots of quote recursion in an execute string...",
 			"author": "tobybellwood",
 			"labels": [],
@@ -92,22 +84,7 @@
 			"url": "https://github.com/lando/leia/issues/20"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Bump tanaabased/prepare-release-action from 1 to 99 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-08-31T20:14:58Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/86"
-		},
-		{
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:57:01Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/55"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.0.0-beta.9",

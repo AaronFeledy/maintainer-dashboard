@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-12T16:42:07.552Z",
+		"fetchedAt": "2026-09-12T20:06:42.197Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1868,15 +1868,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/leia",
-			"number": 55,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:57:01Z",
-			"url": "https://github.com/lando/leia/pull/55",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/pantheon",
 			"number": 343,
 			"title": "Add Tesseract OCR support for PHP Runtime Generation 2 parity",
@@ -2676,15 +2667,6 @@
 			"createdAt": "2026-08-26T20:21:45Z",
 			"url": "https://github.com/lando/leia/issues/69",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 86,
-			"title": "Bump tanaabased/prepare-release-action from 1 to 99 in the actions group",
-			"author": "dependabot",
-			"createdAt": "2026-08-31T20:14:58Z",
-			"url": "https://github.com/lando/leia/pull/86",
-			"type": "pr"
 		}
 	]
 }
