@@ -64,7 +64,7 @@
 			"author": "pirog",
 			"labels": [],
 			"createdAt": "2026-08-26T20:21:09Z",
-			"commentCount": 1,
+			"commentCount": 4,
 			"url": "https://github.com/lando/leia/issues/62"
 		},
 		{
@@ -84,7 +84,15 @@
 			"url": "https://github.com/lando/leia/issues/20"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Lock Leia's current behavior for the 2.0 rewrite",
+			"author": "emoriwan",
+			"createdAt": "2026-09-13T17:56:25Z",
+			"reviewCount": 1,
+			"url": "https://github.com/lando/leia/pull/88"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.0.0-beta.9",
