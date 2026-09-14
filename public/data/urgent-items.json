@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-14T16:07:32.237Z",
+		"fetchedAt": "2026-09-14T21:22:46.831Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2595,15 +2595,6 @@
 			"createdAt": "2026-08-24T07:04:59Z",
 			"url": "https://github.com/lando/go/pull/82",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 63,
-			"title": "Establish the Bun, TypeScript, and ESM development foundation",
-			"author": "pirog",
-			"createdAt": "2026-08-26T20:21:15Z",
-			"url": "https://github.com/lando/leia/issues/63",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/leia",

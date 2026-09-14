@@ -56,16 +56,8 @@
 			"author": "pirog",
 			"labels": [],
 			"createdAt": "2026-08-26T20:21:15Z",
-			"commentCount": 0,
+			"commentCount": 2,
 			"url": "https://github.com/lando/leia/issues/63"
-		},
-		{
-			"title": "Lock Leia's current behavior for the 2.0 rewrite",
-			"author": "pirog",
-			"labels": [],
-			"createdAt": "2026-08-26T20:21:09Z",
-			"commentCount": 4,
-			"url": "https://github.com/lando/leia/issues/62"
 		},
 		{
 			"title": "How to handle lots of quote recursion in an execute string...",
@@ -86,11 +78,11 @@
 	],
 	"pullRequests": [
 		{
-			"title": "Lock Leia's current behavior for the 2.0 rewrite",
+			"title": "#63: establish the Bun, TypeScript, and ESM development foundation",
 			"author": "emoriwan",
-			"createdAt": "2026-09-13T17:56:25Z",
+			"createdAt": "2026-09-14T19:09:38Z",
 			"reviewCount": 2,
-			"url": "https://github.com/lando/leia/pull/88"
+			"url": "https://github.com/lando/leia/pull/89"
 		}
 	],
 	"releases": [
