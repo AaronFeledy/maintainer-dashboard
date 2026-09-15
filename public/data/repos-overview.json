@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-15T07:07:07.117Z",
+		"fetchedAt": "2026-09-15T13:05:16.484Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -749,18 +749,6 @@
 			"unengagedCount": 2
 		},
 		{
-			"name": "lando/leia",
-			"description": "A testing utility that tests code blocks in documentation.",
-			"language": "JavaScript",
-			"openIssues": 8,
-			"openPRs": 0,
-			"lastRelease": "2026-08-29T17:32:50Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-09-14T23:24:05Z",
-			"attentionScore": 37,
-			"unengagedCount": 7
-		},
-		{
 			"name": "lando/legacy-cli",
 			"description": "The cli part of Lando",
 			"language": "JavaScript",
@@ -771,6 +759,18 @@
 			"lastPush": "2026-09-11T01:31:37Z",
 			"attentionScore": 31.5,
 			"unengagedCount": 3
+		},
+		{
+			"name": "lando/leia",
+			"description": "A testing utility that tests code blocks in documentation.",
+			"language": "JavaScript",
+			"openIssues": 7,
+			"openPRs": 0,
+			"lastRelease": "2026-08-29T17:32:50Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-09-15T12:57:29Z",
+			"attentionScore": 30,
+			"unengagedCount": 5
 		},
 		{
 			"name": "lando/node",

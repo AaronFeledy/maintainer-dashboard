@@ -40,16 +40,8 @@
 			"author": "pirog",
 			"labels": [],
 			"createdAt": "2026-08-26T20:21:25Z",
-			"commentCount": 0,
+			"commentCount": 2,
 			"url": "https://github.com/lando/leia/issues/65"
-		},
-		{
-			"title": "Port Leia's Markdown compilation pipeline to TypeScript ESM",
-			"author": "pirog",
-			"labels": [],
-			"createdAt": "2026-08-26T20:21:20Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/leia/issues/64"
 		},
 		{
 			"title": "How to handle lots of quote recursion in an execute string...",

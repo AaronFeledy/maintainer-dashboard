@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-15T07:07:07.117Z",
+		"fetchedAt": "2026-09-15T13:05:16.484Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2595,24 +2595,6 @@
 			"createdAt": "2026-08-24T07:04:59Z",
 			"url": "https://github.com/lando/go/pull/82",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 64,
-			"title": "Port Leia's Markdown compilation pipeline to TypeScript ESM",
-			"author": "pirog",
-			"createdAt": "2026-08-26T20:21:20Z",
-			"url": "https://github.com/lando/leia/issues/64",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 65,
-			"title": "Port Leia's CLI and test runner to TypeScript ESM on Bun",
-			"author": "pirog",
-			"createdAt": "2026-08-26T20:21:25Z",
-			"url": "https://github.com/lando/leia/issues/65",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/leia",
