@@ -20,22 +20,6 @@
 			"url": "https://github.com/lando/leia/issues/68"
 		},
 		{
-			"title": "Modernize the Leia CLI presentation for 2.0",
-			"author": "pirog",
-			"labels": [],
-			"createdAt": "2026-08-26T20:21:35Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/leia/issues/67"
-		},
-		{
-			"title": "Publish dual ESM and CommonJS artifacts for Leia 2.0",
-			"author": "pirog",
-			"labels": [],
-			"createdAt": "2026-08-26T20:21:29Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/leia/issues/66"
-		},
-		{
 			"title": "How to handle lots of quote recursion in an execute string...",
 			"author": "tobybellwood",
 			"labels": [],
@@ -52,15 +36,7 @@
 			"url": "https://github.com/lando/leia/issues/20"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Publish typed ESM and CommonJS package entrypoints",
-			"author": "emoriwan",
-			"createdAt": "2026-09-15T17:23:57Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/leia/pull/92"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.0.0-beta.9",
