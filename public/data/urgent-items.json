@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-15T20:48:29.963Z",
+		"fetchedAt": "2026-09-15T23:55:41.739Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2595,15 +2595,6 @@
 			"createdAt": "2026-08-24T07:04:59Z",
 			"url": "https://github.com/lando/go/pull/82",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 68,
-			"title": "Rewrite Leia documentation for 2.0",
-			"author": "pirog",
-			"createdAt": "2026-08-26T20:21:40Z",
-			"url": "https://github.com/lando/leia/issues/68",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/leia",

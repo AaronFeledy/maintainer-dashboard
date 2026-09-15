@@ -16,7 +16,7 @@
 			"author": "pirog",
 			"labels": [],
 			"createdAt": "2026-08-26T20:21:40Z",
-			"commentCount": 0,
+			"commentCount": 2,
 			"url": "https://github.com/lando/leia/issues/68"
 		},
 		{
@@ -36,7 +36,15 @@
 			"url": "https://github.com/lando/leia/issues/20"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Rewrite Leia documentation for 2.0",
+			"author": "emoriwan",
+			"createdAt": "2026-09-15T23:40:21Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/leia/pull/95"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.0.0-beta.9",
