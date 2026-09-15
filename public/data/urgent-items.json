@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-15T13:05:16.484Z",
+		"fetchedAt": "2026-09-15T17:53:44.548Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2595,15 +2595,6 @@
 			"createdAt": "2026-08-24T07:04:59Z",
 			"url": "https://github.com/lando/go/pull/82",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/leia",
-			"number": 66,
-			"title": "Publish dual ESM and CommonJS artifacts for Leia 2.0",
-			"author": "pirog",
-			"createdAt": "2026-08-26T20:21:29Z",
-			"url": "https://github.com/lando/leia/issues/66",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/leia",
