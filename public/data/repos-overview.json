@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-16T09:01:29.235Z",
+		"fetchedAt": "2026-09-16T14:32:52.433Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-09-11T04:22:39Z",
-			"attentionScore": 607.5,
+			"attentionScore": 608,
 			"unengagedCount": 2
 		},
 		{
@@ -253,7 +253,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-09-03T17:54:57Z",
-			"attentionScore": 223,
+			"attentionScore": 223.5,
 			"unengagedCount": 13
 		},
 		{
@@ -277,7 +277,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-07-30T08:33:49Z",
-			"attentionScore": 212,
+			"attentionScore": 212.5,
 			"unengagedCount": 4
 		},
 		{
@@ -409,7 +409,7 @@
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-08-05T05:07:28Z",
-			"attentionScore": 166.5,
+			"attentionScore": 167,
 			"unengagedCount": 4
 		},
 		{
@@ -425,6 +425,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/dotnet",
+			"description": "The Official Dotnet Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 2,
+			"lastRelease": "2025-12-05T19:46:36Z",
+			"commitsSinceRelease": 19,
+			"lastPush": "2026-09-16T14:22:26Z",
+			"attentionScore": 149,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/varnish",
 			"description": "The Official Varnish Lando Plugin",
 			"language": "JavaScript",
@@ -434,18 +446,6 @@
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-07-30T17:43:40Z",
 			"attentionScore": 147.5,
-			"unengagedCount": 1
-		},
-		{
-			"name": "lando/dotnet",
-			"description": "The Official Dotnet Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2025-12-05T19:46:36Z",
-			"commitsSinceRelease": 19,
-			"lastPush": "2026-08-05T09:14:03Z",
-			"attentionScore": 147,
 			"unengagedCount": 1
 		},
 		{
@@ -776,12 +776,12 @@
 			"name": "lando/leia",
 			"description": "A testing utility that tests code blocks in documentation.",
 			"language": "JavaScript",
-			"openIssues": 4,
-			"openPRs": 1,
-			"lastRelease": "2026-08-29T17:32:50Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-09-15T23:40:06Z",
-			"attentionScore": 20.5,
+			"openIssues": 3,
+			"openPRs": 0,
+			"lastRelease": "2026-09-16T14:03:22Z",
+			"commitsSinceRelease": 0,
+			"lastPush": "2026-09-16T14:03:46Z",
+			"attentionScore": 9,
 			"unengagedCount": 2
 		}
 	]
