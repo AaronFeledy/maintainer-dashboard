@@ -4,6 +4,14 @@
 	"language": "Dockerfile",
 	"issues": [
 		{
+			"title": "MariaDB 11 client TLS breaks Drush/--defaults-file (ERROR 2026)",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2026-09-17T21:17:23Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/php/issues/252"
+		},
+		{
 			"title": "Xdebug extension not enabled on PHP 8.3 suffix 6 (Debian 13/trixie) images",
 			"author": "krisvanderven",
 			"labels": [],
@@ -135,6 +143,13 @@
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "fix: MariaDB --defaults-file TLS/SSL error (Drush sql:*)",
+			"author": "AaronFeledy",
+			"createdAt": "2026-09-17T21:21:41Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/253"
+		},
 		{
 			"title": "chore(deps): bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
