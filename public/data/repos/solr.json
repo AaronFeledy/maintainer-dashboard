@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Support for Solr 10",
+			"author": "DuaelFr",
+			"labels": [],
+			"createdAt": "2026-09-18T10:25:08Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/solr/issues/74"
+		},
+		{
 			"title": "Add custom plugins like solr-analysis-extras-9.8.1",
 			"author": "AndreaCorda01",
 			"labels": [],
@@ -89,6 +97,13 @@
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "Add Solr 10 support",
+			"author": "DuaelFr",
+			"createdAt": "2026-09-18T10:27:30Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/solr/pull/75"
+		},
 		{
 			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",

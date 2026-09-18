@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-18T08:41:40.205Z",
+		"fetchedAt": "2026-09-18T14:03:35.077Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -277,7 +277,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-07-30T08:33:49Z",
-			"attentionScore": 213,
+			"attentionScore": 213.5,
 			"unengagedCount": 4
 		},
 		{
@@ -404,12 +404,12 @@
 			"name": "lando/solr",
 			"description": "The Official Solr Lando Plugin",
 			"language": "JavaScript",
-			"openIssues": 9,
-			"openPRs": 2,
+			"openIssues": 10,
+			"openPRs": 3,
 			"lastRelease": "2025-12-06T14:15:54Z",
 			"commitsSinceRelease": 22,
 			"lastPush": "2026-08-05T05:07:28Z",
-			"attentionScore": 167.5,
+			"attentionScore": 170.5,
 			"unengagedCount": 4
 		},
 		{
