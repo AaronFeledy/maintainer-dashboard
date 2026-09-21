@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-20T23:48:31.613Z",
+		"fetchedAt": "2026-09-21T03:05:15.549Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2594,6 +2594,24 @@
 			"author": "github-actions",
 			"createdAt": "2026-08-24T07:04:59Z",
 			"url": "https://github.com/lando/go/pull/82",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/php",
+			"number": 252,
+			"title": "MariaDB 11 client TLS breaks Drush/--defaults-file (ERROR 2026)",
+			"author": "AaronFeledy",
+			"createdAt": "2026-09-17T21:17:23Z",
+			"url": "https://github.com/lando/php/issues/252",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/php",
+			"number": 253,
+			"title": "fix: MariaDB --defaults-file TLS/SSL error (Drush sql:*)",
+			"author": "AaronFeledy",
+			"createdAt": "2026-09-17T21:21:41Z",
+			"url": "https://github.com/lando/php/pull/253",
 			"type": "pr"
 		}
 	]

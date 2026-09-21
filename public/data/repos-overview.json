@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-20T23:48:31.613Z",
+		"fetchedAt": "2026-09-21T03:05:15.549Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 32,
 			"lastPush": "2026-08-03T14:14:43Z",
-			"attentionScore": 362,
+			"attentionScore": 362.5,
 			"unengagedCount": 6
 		},
 		{
@@ -241,7 +241,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-09-13T07:35:25Z",
-			"attentionScore": 227,
+			"attentionScore": 227.5,
 			"unengagedCount": 1
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 149,
+			"attentionScore": 149.5,
 			"unengagedCount": 1
 		},
 		{
@@ -469,8 +469,8 @@
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-09-17T21:57:45Z",
-			"attentionScore": 137,
-			"unengagedCount": 5
+			"attentionScore": 143.5,
+			"unengagedCount": 7
 		},
 		{
 			"name": "lando/acquia",
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-07-30T07:23:35Z",
-			"attentionScore": 125,
+			"attentionScore": 125.5,
 			"unengagedCount": 1
 		},
 		{
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
-			"attentionScore": 109.5,
+			"attentionScore": 110,
 			"unengagedCount": 1
 		},
 		{
@@ -636,8 +636,8 @@
 			"openPRs": 2,
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 4,
-			"lastPush": "2026-09-02T01:02:47Z",
-			"attentionScore": 105,
+			"lastPush": "2026-09-21T01:03:10Z",
+			"attentionScore": 105.5,
 			"unengagedCount": 1
 		},
 		{
@@ -709,7 +709,7 @@
 			"lastRelease": "2026-07-30T02:38:21Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-30T02:39:00Z",
-			"attentionScore": 61,
+			"attentionScore": 61.5,
 			"unengagedCount": 8
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-08-13T23:57:00Z",
-			"attentionScore": 27.5,
+			"attentionScore": 28,
 			"unengagedCount": 2
 		},
 		{
