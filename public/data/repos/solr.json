@@ -98,6 +98,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump @lando/leia from 0.6.7 to 2.0.0",
+			"author": "dependabot",
+			"createdAt": "2026-09-21T05:02:59Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/solr/pull/76"
+		},
+		{
 			"title": "Add Solr 10 support",
 			"author": "DuaelFr",
 			"createdAt": "2026-09-18T10:27:30Z",

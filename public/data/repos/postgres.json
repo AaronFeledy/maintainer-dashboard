@@ -32,6 +32,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump @lando/leia from 0.6.7 to 2.0.0",
+			"author": "dependabot",
+			"createdAt": "2026-09-21T04:04:21Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/postgres/pull/76"
+		},
+		{
 			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-16T04:11:45Z",

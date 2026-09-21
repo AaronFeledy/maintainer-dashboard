@@ -30,7 +30,15 @@
 			"url": "https://github.com/lando/node/issues/16"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump @lando/leia from 0.6.7 to 2.0.0",
+			"author": "dependabot",
+			"createdAt": "2026-09-21T06:53:19Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/132"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.7.0",
