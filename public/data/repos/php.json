@@ -144,6 +144,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "chore(deps-dev): bump @lando/leia from 0.6.7 to 2.0.0",
+			"author": "dependabot",
+			"createdAt": "2026-09-21T17:02:53Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/php/pull/254"
+		},
+		{
 			"title": "fix: MariaDB --defaults-file TLS/SSL error (Drush sql:*)",
 			"author": "AaronFeledy",
 			"createdAt": "2026-09-17T21:21:41Z",
