@@ -14,6 +14,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump @lando/leia from 0.6.7 to 2.0.0",
+			"author": "dependabot",
+			"createdAt": "2026-09-21T11:22:48Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/elasticsearch/pull/55"
+		},
+		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-20T11:24:56Z",
