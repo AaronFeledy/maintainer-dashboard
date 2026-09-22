@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-21T21:38:32.876Z",
+		"fetchedAt": "2026-09-22T00:32:39.976Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2612,6 +2612,24 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-09-17T21:21:41Z",
 			"url": "https://github.com/lando/php/pull/253",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/solr",
+			"number": 74,
+			"title": "Support for Solr 10",
+			"author": "DuaelFr",
+			"createdAt": "2026-09-18T10:25:08Z",
+			"url": "https://github.com/lando/solr/issues/74",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/solr",
+			"number": 75,
+			"title": "Add Solr 10 support",
+			"author": "DuaelFr",
+			"createdAt": "2026-09-18T10:27:30Z",
+			"url": "https://github.com/lando/solr/pull/75",
 			"type": "pr"
 		}
 	]
