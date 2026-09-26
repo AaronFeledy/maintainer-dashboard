@@ -47,13 +47,6 @@
 			"createdAt": "2026-07-15T10:33:58Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/mailhog/pull/56"
-		},
-		{
-			"title": "35 curl me",
-			"author": "pirog",
-			"createdAt": "2024-04-02T13:26:31Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/mailhog/pull/36"
 		}
 	],
 	"releases": [

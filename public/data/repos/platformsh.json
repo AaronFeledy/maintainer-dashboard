@@ -623,13 +623,6 @@
 			"url": "https://github.com/lando/upsun/pull/192"
 		},
 		{
-			"title": "#130: Doc PR tests",
-			"author": "pirog",
-			"createdAt": "2021-11-03T13:03:06Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/upsun/pull/134"
-		},
-		{
 			"title": "#3: Initial ES test.",
 			"author": "reynoldsalec",
 			"createdAt": "2021-10-22T03:45:47Z",

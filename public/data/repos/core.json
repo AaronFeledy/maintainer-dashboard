@@ -558,13 +558,6 @@
 			"url": "https://github.com/lando/core/pull/339"
 		},
 		{
-			"title": "Stages hooks vibes",
-			"author": "pirog",
-			"createdAt": "2025-01-30T15:49:51Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/330"
-		},
-		{
 			"title": "Add WSL2 workflow for setup tests",
 			"author": "AaronFeledy",
 			"createdAt": "2024-11-27T01:59:14Z",

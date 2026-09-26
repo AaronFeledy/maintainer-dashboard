@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-26T09:01:58.021Z",
+		"fetchedAt": "2026-09-26T14:01:32.320Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1013,15 +1013,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/mailhog",
-			"number": 36,
-			"title": "35 curl me",
-			"author": "pirog",
-			"createdAt": "2024-04-02T13:26:31Z",
-			"url": "https://github.com/lando/mailhog/pull/36",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lando",
 			"number": 3700,
 			"title": "Anyone has success with Rails? Can we add support for Rails?",
@@ -1335,15 +1326,6 @@
 			"createdAt": "2025-01-14T21:30:14Z",
 			"url": "https://github.com/lando/core/issues/320",
 			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 330,
-			"title": "Stages hooks vibes",
-			"author": "pirog",
-			"createdAt": "2025-01-30T15:49:51Z",
-			"url": "https://github.com/lando/core/pull/330",
-			"type": "pr"
 		},
 		{
 			"repo": "lando/pantheon",
