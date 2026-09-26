@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-26T18:57:04.958Z",
+		"fetchedAt": "2026-09-26T22:19:51.128Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-09-09T12:58:04Z",
-			"attentionScore": 886,
+			"attentionScore": 886.5,
 			"unengagedCount": 1
 		},
 		{
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 851.5,
+			"attentionScore": 852,
 			"unengagedCount": 1
 		},
 		{
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-06T19:23:56Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-09-11T03:13:36Z",
-			"attentionScore": 617.5,
+			"attentionScore": 618,
 			"unengagedCount": 2
 		},
 		{
@@ -78,14 +78,14 @@
 		},
 		{
 			"name": "lando/platformsh",
-			"description": "Lando plugin for Upsun Fixed (.platform) apps via platform CLI. Flex (.upsun) not supported yet.",
+			"description": "The official Upsun integration for Lando",
 			"language": "JavaScript",
 			"openIssues": 67,
 			"openPRs": 17,
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 27,
 			"lastPush": "2026-09-04T22:28:50Z",
-			"attentionScore": 446,
+			"attentionScore": 446.5,
 			"unengagedCount": 0
 		},
 		{
@@ -121,7 +121,7 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 30,
 			"lastPush": "2026-08-04T20:13:45Z",
-			"attentionScore": 347,
+			"attentionScore": 347.5,
 			"unengagedCount": 4
 		},
 		{
@@ -145,7 +145,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-09-21T09:02:51Z",
-			"attentionScore": 341,
+			"attentionScore": 341.5,
 			"unengagedCount": 2
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 28,
 			"lastPush": "2026-08-05T10:34:23Z",
-			"attentionScore": 338,
+			"attentionScore": 338.5,
 			"unengagedCount": 1
 		},
 		{
@@ -217,7 +217,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 237,
+			"attentionScore": 237.5,
 			"unengagedCount": 7
 		},
 		{
@@ -301,7 +301,7 @@
 			"lastRelease": "2025-08-28T19:28:14Z",
 			"commitsSinceRelease": 18,
 			"lastPush": "2026-08-05T10:34:10Z",
-			"attentionScore": 206.5,
+			"attentionScore": 207,
 			"unengagedCount": 2
 		},
 		{
@@ -313,7 +313,7 @@
 			"lastRelease": "2025-09-04T19:14:42Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-08-03T21:44:25Z",
-			"attentionScore": 203,
+			"attentionScore": 203.5,
 			"unengagedCount": 2
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-07-30T17:43:40Z",
-			"attentionScore": 152.5,
+			"attentionScore": 153,
 			"unengagedCount": 1
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-09-23T09:13:44Z",
-			"attentionScore": 152,
+			"attentionScore": 152.5,
 			"unengagedCount": 1
 		},
 		{
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-06-27T19:13:14Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-07-20T08:16:48Z",
-			"attentionScore": 64,
+			"attentionScore": 64.5,
 			"unengagedCount": 4
 		},
 		{
@@ -733,7 +733,7 @@
 			"lastRelease": "2026-06-27T19:20:17Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-20T08:24:55Z",
-			"attentionScore": 54,
+			"attentionScore": 54.5,
 			"unengagedCount": 2
 		},
 		{

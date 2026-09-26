@@ -1,6 +1,6 @@
 {
 	"name": "lando/platformsh",
-	"description": "Lando plugin for Upsun Fixed (.platform) apps via platform CLI. Flex (.upsun) not supported yet.",
+	"description": "The official Upsun integration for Lando",
 	"language": "JavaScript",
 	"issues": [
 		{
