@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-27T03:24:31.693Z",
+		"fetchedAt": "2026-09-27T09:46:13.965Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -77,18 +77,6 @@
 			"unengagedCount": 4
 		},
 		{
-			"name": "lando/platformsh",
-			"description": "The official Upsun integration for Lando",
-			"language": "JavaScript",
-			"openIssues": 67,
-			"openPRs": 16,
-			"lastRelease": "2024-11-04T21:03:53Z",
-			"commitsSinceRelease": 27,
-			"lastPush": "2026-09-04T22:28:50Z",
-			"attentionScore": 444.5,
-			"unengagedCount": 0
-		},
-		{
 			"name": "lando/run-leia-action",
 			"description": "A GitHub action to run leia tests",
 			"language": null,
@@ -99,6 +87,18 @@
 			"lastPush": "2026-06-24T17:55:59Z",
 			"attentionScore": 403,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/platformsh",
+			"description": "The official Upsun integration for Lando",
+			"language": "JavaScript",
+			"openIssues": 39,
+			"openPRs": 1,
+			"lastRelease": "2024-11-04T21:03:53Z",
+			"commitsSinceRelease": 27,
+			"lastPush": "2026-09-27T05:26:36Z",
+			"attentionScore": 386.5,
+			"unengagedCount": 0
 		},
 		{
 			"name": "lando/lagoon",
@@ -481,7 +481,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-08-05T15:23:44Z",
-			"attentionScore": 135,
+			"attentionScore": 135.5,
 			"unengagedCount": 6
 		},
 		{
@@ -493,7 +493,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-31T22:13:36Z",
-			"attentionScore": 134.5,
+			"attentionScore": 135,
 			"unengagedCount": 6
 		},
 		{
@@ -505,7 +505,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-08-04T05:13:37Z",
-			"attentionScore": 130,
+			"attentionScore": 130.5,
 			"unengagedCount": 5
 		},
 		{
@@ -553,7 +553,7 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-08-04T05:43:22Z",
-			"attentionScore": 125,
+			"attentionScore": 125.5,
 			"unengagedCount": 4
 		},
 		{
@@ -565,7 +565,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-08-03T23:05:00Z",
-			"attentionScore": 124.5,
+			"attentionScore": 125,
 			"unengagedCount": 5
 		},
 		{
@@ -601,7 +601,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 10,
 			"lastPush": "2026-08-03T03:24:50Z",
-			"attentionScore": 116,
+			"attentionScore": 116.5,
 			"unengagedCount": 2
 		},
 		{
@@ -649,7 +649,7 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-08-24T02:05:21Z",
-			"attentionScore": 107.5,
+			"attentionScore": 108,
 			"unengagedCount": 0
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-07-03T03:40:07Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-27T04:14:49Z",
-			"attentionScore": 53.5,
+			"attentionScore": 54,
 			"unengagedCount": 2
 		},
 		{
