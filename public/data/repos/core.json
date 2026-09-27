@@ -572,13 +572,6 @@
 			"url": "https://github.com/lando/core/pull/257"
 		},
 		{
-			"title": "Allow specifying services to destroy",
-			"author": "AaronFeledy",
-			"createdAt": "2024-08-14T14:14:41Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/194"
-		},
-		{
 			"title": "Debugging Compose Path Setup Errors",
 			"author": "reynoldsalec",
 			"createdAt": "2024-08-07T20:40:56Z",

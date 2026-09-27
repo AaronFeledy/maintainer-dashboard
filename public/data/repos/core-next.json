@@ -275,13 +275,6 @@
 			"createdAt": "2025-12-12T00:40:09Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core-next/pull/111"
-		},
-		{
-			"title": "Use DROP/CREATE strategy for MySQL DB reset",
-			"author": "xurizaemon",
-			"createdAt": "2023-07-21T19:19:44Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core-next/pull/40"
 		}
 	],
 	"releases": [

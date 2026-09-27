@@ -621,13 +621,6 @@
 			"createdAt": "2023-10-05T21:40:56Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/upsun/pull/192"
-		},
-		{
-			"title": "#3: Initial ES test.",
-			"author": "reynoldsalec",
-			"createdAt": "2021-10-22T03:45:47Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/upsun/pull/16"
 		}
 	],
 	"releases": [
