@@ -191,7 +191,15 @@
 			"url": "https://github.com/lando/pantheon/issues/10"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "refactor: extract a testable recipe model and add unit coverage",
+			"author": "AaronFeledy",
+			"createdAt": "2026-09-28T01:25:42Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/372"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v1.15.0",
