@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-29T07:49:18.818Z",
+		"fetchedAt": "2026-09-29T14:33:50.371Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-09-11T04:22:39Z",
-			"attentionScore": 614,
+			"attentionScore": 614.5,
 			"unengagedCount": 2
 		},
 		{
@@ -265,7 +265,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-09-03T17:54:57Z",
-			"attentionScore": 224.5,
+			"attentionScore": 225,
 			"unengagedCount": 12
 		},
 		{
@@ -277,7 +277,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-07-30T08:33:49Z",
-			"attentionScore": 218.5,
+			"attentionScore": 219,
 			"unengagedCount": 4
 		},
 		{
@@ -353,6 +353,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/solr",
+			"description": "The Official Solr Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 10,
+			"openPRs": 4,
+			"lastRelease": "2025-12-06T14:15:54Z",
+			"commitsSinceRelease": 22,
+			"lastPush": "2026-09-21T05:02:59Z",
+			"attentionScore": 187.5,
+			"unengagedCount": 7
+		},
+		{
 			"name": "lando/drupal-dev-environment",
 			"description": "Verbatim mirror of the git.drupal.org repository for Drupal core. Please see the https://github.com/drupal/drupal#contributing. PRs are not accepted on GitHub.",
 			"language": "PHP",
@@ -363,18 +375,6 @@
 			"lastPush": "2022-10-26T18:49:47Z",
 			"attentionScore": 187.5,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/solr",
-			"description": "The Official Solr Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 10,
-			"openPRs": 4,
-			"lastRelease": "2025-12-06T14:15:54Z",
-			"commitsSinceRelease": 22,
-			"lastPush": "2026-09-21T05:02:59Z",
-			"attentionScore": 187,
-			"unengagedCount": 7
 		},
 		{
 			"name": "lando/lando-update-scripts",
