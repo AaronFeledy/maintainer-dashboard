@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-09-30T20:29:20.610Z",
+		"fetchedAt": "2026-10-01T01:01:43.037Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-09-09T12:58:04Z",
-			"attentionScore": 888,
+			"attentionScore": 888.5,
 			"unengagedCount": 1
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 404.5,
+			"attentionScore": 405,
 			"unengagedCount": 1
 		},
 		{
@@ -96,8 +96,8 @@
 			"openPRs": 1,
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 27,
-			"lastPush": "2026-09-30T04:31:42Z",
-			"attentionScore": 388,
+			"lastPush": "2026-10-01T00:14:34Z",
+			"attentionScore": 388.5,
 			"unengagedCount": 0
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-08-20T23:16:59Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:16:59Z",
-			"attentionScore": 276,
+			"attentionScore": 276.5,
 			"unengagedCount": 25
 		},
 		{
@@ -217,7 +217,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 239,
+			"attentionScore": 239.5,
 			"unengagedCount": 7
 		},
 		{
@@ -229,7 +229,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-09-13T07:35:25Z",
-			"attentionScore": 232,
+			"attentionScore": 232.5,
 			"unengagedCount": 1
 		},
 		{
@@ -253,7 +253,7 @@
 			"lastRelease": "2026-08-20T23:11:32Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-09-03T17:05:38Z",
-			"attentionScore": 228,
+			"attentionScore": 228.5,
 			"unengagedCount": 39
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 154,
+			"attentionScore": 154.5,
 			"unengagedCount": 1
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-07-30T07:23:35Z",
-			"attentionScore": 130,
+			"attentionScore": 130.5,
 			"unengagedCount": 1
 		},
 		{
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
-			"attentionScore": 114.5,
+			"attentionScore": 115,
 			"unengagedCount": 1
 		},
 		{
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-08-20T23:21:08Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-09-28T04:03:25Z",
-			"attentionScore": 71,
+			"attentionScore": 71.5,
 			"unengagedCount": 10
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-08-20T23:17:12Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-09-11T01:31:37Z",
-			"attentionScore": 39,
+			"attentionScore": 39.5,
 			"unengagedCount": 3
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-09-21T06:53:18Z",
-			"attentionScore": 37.5,
+			"attentionScore": 38,
 			"unengagedCount": 3
 		},
 		{
