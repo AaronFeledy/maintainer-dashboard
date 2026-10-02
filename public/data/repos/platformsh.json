@@ -382,6 +382,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump the actions group with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-10-02T09:05:37Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/upsun/pull/226"
+		},
+		{
 			"title": "Upsun recipe v1 rewrite",
 			"author": "AaronFeledy",
 			"createdAt": "2026-09-27T04:38:25Z",
