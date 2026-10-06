@@ -4,6 +4,14 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Tooling router routes override Landofile tooling on the warm path",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2026-10-05T19:27:09Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/502"
+		},
+		{
 			"title": "macOS files for v3.26.9 release have no extension",
 			"author": "alexgreyhead-r",
 			"labels": [],
@@ -453,16 +461,6 @@
 			"createdAt": "2023-06-01T23:59:49Z",
 			"commentCount": 0,
 			"url": "https://github.com/lando/core/issues/44"
-		},
-		{
-			"title": "Add support for running against a local docker image.",
-			"author": "codebymikey",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2023-03-01T20:05:35Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/core/issues/31"
 		}
 	],
 	"pullRequests": [
