@@ -382,6 +382,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Load Xdebug from runtime.xdebug.idekey and fix the xdebug toggles",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-07T09:18:47Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/upsun/pull/227"
+		},
+		{
 			"title": "Bump the actions group with 3 updates",
 			"author": "dependabot",
 			"createdAt": "2026-10-02T09:05:37Z",
