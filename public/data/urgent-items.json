@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-07T23:59:14.930Z",
+		"fetchedAt": "2026-10-08T05:42:44.605Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2108,24 +2108,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-15T19:04:18Z",
 			"url": "https://github.com/lando/mongo/pull/63",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/postgres",
-			"number": 75,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T04:11:45Z",
-			"url": "https://github.com/lando/postgres/pull/75",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/redis",
-			"number": 62,
-			"title": "build(deps): bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T04:33:34Z",
-			"url": "https://github.com/lando/redis/pull/62",
 			"type": "pr"
 		},
 		{
