@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-08T05:42:44.605Z",
+		"fetchedAt": "2026-10-08T12:43:18.580Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2108,33 +2108,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-15T19:04:18Z",
 			"url": "https://github.com/lando/mongo/pull/63",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/ruby",
-			"number": 70,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T07:23:40Z",
-			"url": "https://github.com/lando/ruby/pull/70",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mysql",
-			"number": 95,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T08:33:44Z",
-			"url": "https://github.com/lando/mysql/pull/95",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mssql",
-			"number": 52,
-			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
-			"author": "dependabot",
-			"createdAt": "2026-07-16T09:07:02Z",
-			"url": "https://github.com/lando/mssql/pull/52",
 			"type": "pr"
 		},
 		{
