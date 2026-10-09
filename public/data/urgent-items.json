@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-08T19:38:02.173Z",
+		"fetchedAt": "2026-10-09T00:06:49.533Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2577,6 +2577,15 @@
 			"createdAt": "2026-09-28T01:25:42Z",
 			"url": "https://github.com/lando/pantheon/pull/372",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 502,
+			"title": "Tooling router routes override Landofile tooling on the warm path",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-05T19:27:09Z",
+			"url": "https://github.com/lando/core/issues/502",
+			"type": "issue"
 		}
 	]
 }

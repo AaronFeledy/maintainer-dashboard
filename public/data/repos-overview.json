@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-08T19:38:02.173Z",
+		"fetchedAt": "2026-10-09T00:06:49.533Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-09-09T12:58:04Z",
-			"attentionScore": 892,
+			"attentionScore": 892.5,
 			"unengagedCount": 1
 		},
 		{
@@ -25,7 +25,7 @@
 			"lastRelease": "2022-02-03T19:56:16Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2025-07-19T02:11:02Z",
-			"attentionScore": 857.5,
+			"attentionScore": 858,
 			"unengagedCount": 1
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 408.5,
+			"attentionScore": 409,
 			"unengagedCount": 1
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 27,
 			"lastPush": "2026-10-08T04:57:17Z",
-			"attentionScore": 396,
+			"attentionScore": 396.5,
 			"unengagedCount": 0
 		},
 		{
@@ -121,7 +121,7 @@
 			"lastRelease": "2024-12-06T19:42:06Z",
 			"commitsSinceRelease": 30,
 			"lastPush": "2026-08-04T20:13:45Z",
-			"attentionScore": 353,
+			"attentionScore": 353.5,
 			"unengagedCount": 4
 		},
 		{
@@ -145,7 +145,7 @@
 			"lastRelease": "2024-12-06T19:41:02Z",
 			"commitsSinceRelease": 28,
 			"lastPush": "2026-08-05T10:34:23Z",
-			"attentionScore": 344,
+			"attentionScore": 344.5,
 			"unengagedCount": 1
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2024-12-06T19:41:26Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-10-08T09:07:26Z",
-			"attentionScore": 342,
+			"attentionScore": 342.5,
 			"unengagedCount": 1
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-08-20T23:16:59Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:16:59Z",
-			"attentionScore": 280,
+			"attentionScore": 280.5,
 			"unengagedCount": 25
 		},
 		{
@@ -217,8 +217,20 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 243,
+			"attentionScore": 243.5,
 			"unengagedCount": 7
+		},
+		{
+			"name": "lando/core",
+			"description": "Current Lando v3 runtime",
+			"language": "JavaScript",
+			"openIssues": 54,
+			"openPRs": 20,
+			"lastRelease": "2026-08-20T23:11:32Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-10-07T03:29:36Z",
+			"attentionScore": 238.5,
+			"unengagedCount": 40
 		},
 		{
 			"name": "lando/argv",
@@ -231,18 +243,6 @@
 			"lastPush": "2026-09-13T07:35:25Z",
 			"attentionScore": 236,
 			"unengagedCount": 1
-		},
-		{
-			"name": "lando/core",
-			"description": "Current Lando v3 runtime",
-			"language": "JavaScript",
-			"openIssues": 54,
-			"openPRs": 20,
-			"lastRelease": "2026-08-20T23:11:32Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-10-07T03:29:36Z",
-			"attentionScore": 235,
-			"unengagedCount": 39
 		},
 		{
 			"name": "lando/mariadb",
@@ -421,7 +421,7 @@
 			"lastRelease": "2025-12-06T19:41:38Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-07-30T17:43:40Z",
-			"attentionScore": 158.5,
+			"attentionScore": 159,
 			"unengagedCount": 1
 		},
 		{
@@ -433,7 +433,7 @@
 			"lastRelease": "2025-12-05T19:46:36Z",
 			"commitsSinceRelease": 20,
 			"lastPush": "2026-09-23T09:13:44Z",
-			"attentionScore": 158,
+			"attentionScore": 158.5,
 			"unengagedCount": 1
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-08-20T23:21:08Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-09-28T04:03:25Z",
-			"attentionScore": 78,
+			"attentionScore": 78.5,
 			"unengagedCount": 11
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-08-20T23:17:12Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-09-11T01:31:37Z",
-			"attentionScore": 43,
+			"attentionScore": 43.5,
 			"unengagedCount": 3
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-09-21T06:53:18Z",
-			"attentionScore": 41.5,
+			"attentionScore": 42,
 			"unengagedCount": 3
 		},
 		{
