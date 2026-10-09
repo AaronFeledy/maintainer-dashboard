@@ -24,18 +24,18 @@
 	],
 	"pullRequests": [
 		{
+			"title": "build(deps): bump actions/add-to-project from 1.0.2 to 2.0.0 in the actions group across 1 directory",
+			"author": "dependabot",
+			"createdAt": "2026-10-09T08:27:27Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/upsun/pull/228"
+		},
+		{
 			"title": "Load Xdebug from runtime.xdebug.idekey and fix the xdebug toggles",
 			"author": "AaronFeledy",
 			"createdAt": "2026-10-07T09:18:47Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/upsun/pull/227"
-		},
-		{
-			"title": "Bump the actions group with 3 updates",
-			"author": "dependabot",
-			"createdAt": "2026-10-02T09:05:37Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/upsun/pull/226"
 		}
 	],
 	"releases": [
