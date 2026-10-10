@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-10T04:06:01.425Z",
+		"fetchedAt": "2026-10-10T11:49:18.976Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -105,11 +105,11 @@
 			"description": "The official Upsun integration for Lando",
 			"language": "JavaScript",
 			"openIssues": 2,
-			"openPRs": 2,
+			"openPRs": 1,
 			"lastRelease": "2024-11-04T21:03:53Z",
-			"commitsSinceRelease": 45,
-			"lastPush": "2026-10-09T08:27:35Z",
-			"attentionScore": 358,
+			"commitsSinceRelease": 46,
+			"lastPush": "2026-10-10T09:53:25Z",
+			"attentionScore": 356,
 			"unengagedCount": 0
 		},
 		{
@@ -469,7 +469,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-08-05T15:23:44Z",
-			"attentionScore": 141.5,
+			"attentionScore": 142,
 			"unengagedCount": 6
 		},
 		{
@@ -481,7 +481,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-31T22:13:36Z",
-			"attentionScore": 141,
+			"attentionScore": 141.5,
 			"unengagedCount": 6
 		},
 		{
@@ -493,7 +493,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-08-04T05:13:37Z",
-			"attentionScore": 136.5,
+			"attentionScore": 137,
 			"unengagedCount": 5
 		},
 		{
@@ -529,7 +529,7 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-08-04T05:43:22Z",
-			"attentionScore": 131.5,
+			"attentionScore": 132,
 			"unengagedCount": 4
 		},
 		{
@@ -541,7 +541,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 3,
 			"lastPush": "2026-08-03T23:05:00Z",
-			"attentionScore": 131,
+			"attentionScore": 131.5,
 			"unengagedCount": 5
 		},
 		{
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 10,
 			"lastPush": "2026-08-03T03:24:50Z",
-			"attentionScore": 122.5,
+			"attentionScore": 123,
 			"unengagedCount": 2
 		},
 		{
@@ -637,7 +637,7 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-08-24T02:05:21Z",
-			"attentionScore": 114,
+			"attentionScore": 114.5,
 			"unengagedCount": 0
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-10-05T04:51:39Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-10-05T04:52:06Z",
-			"attentionScore": 18,
+			"attentionScore": 18.5,
 			"unengagedCount": 2
 		},
 		{
