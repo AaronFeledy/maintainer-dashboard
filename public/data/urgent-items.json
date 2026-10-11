@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-10T21:04:37.983Z",
+		"fetchedAt": "2026-10-11T00:38:28.852Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2586,6 +2586,33 @@
 			"createdAt": "2026-10-05T19:27:09Z",
 			"url": "https://github.com/lando/core/issues/502",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 503,
+			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.5 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-10-07T01:13:55Z",
+			"url": "https://github.com/lando/core/pull/503",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 504,
+			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.5 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-10-07T03:19:21Z",
+			"url": "https://github.com/lando/core/pull/504",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 505,
+			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.5 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-10-07T03:29:38Z",
+			"url": "https://github.com/lando/core/pull/505",
+			"type": "pr"
 		}
 	]
 }
