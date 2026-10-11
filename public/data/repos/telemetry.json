@@ -5,18 +5,18 @@
 	"issues": [],
 	"pullRequests": [
 		{
+			"title": "Bump brace-expansion from 1.1.11 to 1.1.21",
+			"author": "dependabot",
+			"createdAt": "2026-10-11T16:43:25Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/telemetry/pull/15"
+		},
+		{
 			"title": "Bump js-yaml from 4.2.0 to 4.3.2",
 			"author": "dependabot",
 			"createdAt": "2026-09-13T20:11:21Z",
 			"reviewCount": 1,
 			"url": "https://github.com/lando/telemetry/pull/14"
-		},
-		{
-			"title": "Bump brace-expansion from 1.1.11 to 1.1.16",
-			"author": "dependabot",
-			"createdAt": "2026-07-24T12:48:03Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/telemetry/pull/11"
 		}
 	],
 	"releases": []
