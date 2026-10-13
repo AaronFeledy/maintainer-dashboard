@@ -465,6 +465,20 @@
 	],
 	"pullRequests": [
 		{
+			"title": "chore(deps): bump fast-copy from 4.0.3 to 4.1.2 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-10-13T02:35:28Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/507"
+		},
+		{
+			"title": "chore(deps): bump fast-copy from 4.0.3 to 4.1.2 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-10-13T02:35:19Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/506"
+		},
+		{
 			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.5 in /examples/command",
 			"author": "dependabot",
 			"createdAt": "2026-10-07T03:29:38Z",
