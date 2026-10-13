@@ -4,6 +4,16 @@
 	"language": "Shell",
 	"issues": [
 		{
+			"title": "Solr 9 fails to start / support 9.11",
+			"author": "ericgsmith",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-10-13T19:52:04Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/solr/issues/80"
+		},
+		{
 			"title": "Add custom plugins like solr-analysis-extras-9.8.1",
 			"author": "AndreaCorda01",
 			"labels": [],
