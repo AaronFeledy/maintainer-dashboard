@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-13T22:14:14.552Z",
+		"fetchedAt": "2026-10-14T03:20:09.752Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2603,6 +2603,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-10-07T03:29:38Z",
 			"url": "https://github.com/lando/core/pull/505",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/node",
+			"number": 133,
+			"title": "Bump brace-expansion from 1.1.11 to 1.1.21 in /examples/12",
+			"author": "dependabot",
+			"createdAt": "2026-10-10T19:23:49Z",
+			"url": "https://github.com/lando/node/pull/133",
 			"type": "pr"
 		}
 	]
