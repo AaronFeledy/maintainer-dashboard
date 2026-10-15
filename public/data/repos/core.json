@@ -465,6 +465,27 @@
 	],
 	"pullRequests": [
 		{
+			"title": "feat(engine): add engineProvider to run Lando on OrbStack, Rancher Desktop or Podman (macOS)",
+			"author": "jordan8037310",
+			"createdAt": "2026-10-15T05:35:03Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/510"
+		},
+		{
+			"title": "fix(engine): use the configured socket for docker and docker compose too",
+			"author": "jordan8037310",
+			"createdAt": "2026-10-15T05:34:26Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/509"
+		},
+		{
+			"title": "fix(daemon): report skip instead of null when Docker.app is missing",
+			"author": "jordan8037310",
+			"createdAt": "2026-10-15T05:34:21Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/508"
+		},
+		{
 			"title": "chore(deps): bump fast-copy from 4.0.3 to 4.1.2 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-10-13T02:35:28Z",
