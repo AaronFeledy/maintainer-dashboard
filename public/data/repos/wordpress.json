@@ -106,6 +106,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: MySQL 8.2+ and mysql:8 failing to start",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-15T02:55:10Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/wordpress/pull/141"
+		},
+		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-14T12:04:17Z",

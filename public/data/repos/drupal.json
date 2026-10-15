@@ -66,6 +66,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: MySQL 8.2+ and mysql:8 failing to start",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-15T02:54:40Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/drupal/pull/193"
+		},
+		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-20T23:05:18Z",

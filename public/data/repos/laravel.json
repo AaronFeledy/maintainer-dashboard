@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "expire_logs_days MySQL config option has been removed in MySQL 8.4",
+			"author": "BrookeDot",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-10-14T23:54:49Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/laravel/issues/114"
+		},
+		{
 			"title": "Lando scanners scans .lndo.site urls which are not in config",
 			"author": "eldair",
 			"labels": [
@@ -58,6 +68,13 @@
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "fix: MySQL 8.2+ and mysql:8 failing to start",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-15T02:54:53Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/laravel/pull/115"
+		},
 		{
 			"title": "Bump the actions group across 1 directory with 3 updates",
 			"author": "dependabot",

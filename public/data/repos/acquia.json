@@ -44,6 +44,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: MySQL 8.2+ and mysql:8 failing to start",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-15T02:54:31Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/acquia/pull/169"
+		},
+		{
 			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-15T15:23:50Z",
