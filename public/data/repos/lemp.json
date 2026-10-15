@@ -55,13 +55,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: MySQL 8.2+ and mysql:8 failing to start",
-			"author": "AaronFeledy",
-			"createdAt": "2026-10-15T02:54:57Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/lemp/pull/91"
-		},
-		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-14T05:43:33Z",

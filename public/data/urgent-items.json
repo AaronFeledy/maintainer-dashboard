@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-15T08:48:12.891Z",
+		"fetchedAt": "2026-10-15T14:42:26.566Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1625,15 +1625,6 @@
 			"type": "issue"
 		},
 		{
-			"repo": "lando/wordpress",
-			"number": 107,
-			"title": "expire_logs_days not supported under MySQL 8.2+",
-			"author": "slam-campup",
-			"createdAt": "2025-10-26T01:00:40Z",
-			"url": "https://github.com/lando/wordpress/issues/107",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/core",
 			"number": 397,
 			"title": "Setup shouldn't try to download plugins when running from alternate directory",
@@ -1841,15 +1832,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/symfony",
-			"number": 88,
-			"title": "expire_logs_days MySQL config option has been removed in MySQL 8.4",
-			"author": "darrylhein",
-			"createdAt": "2026-03-03T00:17:07Z",
-			"url": "https://github.com/lando/symfony/issues/88",
-			"type": "issue"
-		},
-		{
 			"repo": "lando/lagoon",
 			"number": 107,
 			"title": "fix: strip additional_contexts and resolve relative build contexts",
@@ -1910,15 +1892,6 @@
 			"author": "daggerhart",
 			"createdAt": "2026-04-28T13:43:39Z",
 			"url": "https://github.com/lando/backdrop/issues/91",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/drupal",
-			"number": 186,
-			"title": "Missing deprecated variables in mysql:8.4 on Drupal10 recipe",
-			"author": "bronius-congruity",
-			"createdAt": "2026-04-29T04:55:02Z",
-			"url": "https://github.com/lando/drupal/issues/186",
 			"type": "issue"
 		},
 		{
@@ -2001,15 +1974,6 @@
 			"createdAt": "2026-06-30T21:05:04Z",
 			"url": "https://github.com/lando/lando/pull/3845",
 			"type": "pr"
-		},
-		{
-			"repo": "lando/backdrop",
-			"number": 95,
-			"title": "MySQL 8.4 fails to start in Backdrop recipe — deprecated Bitnami config parameters",
-			"author": "dsearle-oaklins",
-			"createdAt": "2026-07-01T16:39:35Z",
-			"url": "https://github.com/lando/backdrop/issues/95",
-			"type": "issue"
 		},
 		{
 			"repo": "lando/mariadb",

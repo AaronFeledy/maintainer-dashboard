@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-15T08:48:12.891Z",
+		"fetchedAt": "2026-10-15T14:42:26.566Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -61,7 +61,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-10-12T03:09:53Z",
-			"attentionScore": 624,
+			"attentionScore": 624.5,
 			"unengagedCount": 2
 		},
 		{
@@ -265,7 +265,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-09-03T17:54:57Z",
-			"attentionScore": 232.5,
+			"attentionScore": 233,
 			"unengagedCount": 12
 		},
 		{
@@ -277,7 +277,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-10-08T08:34:31Z",
-			"attentionScore": 221.5,
+			"attentionScore": 222,
 			"unengagedCount": 3
 		},
 		{
@@ -297,11 +297,11 @@
 			"description": "The Official MEAN Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 2,
-			"openPRs": 2,
+			"openPRs": 1,
 			"lastRelease": "2025-09-04T19:14:42Z",
-			"commitsSinceRelease": 26,
-			"lastPush": "2026-10-15T03:21:20Z",
-			"attentionScore": 214.5,
+			"commitsSinceRelease": 27,
+			"lastPush": "2026-10-15T11:54:31Z",
+			"attentionScore": 212.5,
 			"unengagedCount": 2
 		},
 		{
@@ -465,11 +465,11 @@
 			"description": "The Official Acquia Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 4,
-			"openPRs": 4,
+			"openPRs": 3,
 			"lastRelease": "2026-02-24T04:45:09Z",
-			"commitsSinceRelease": 12,
-			"lastPush": "2026-10-15T03:21:02Z",
-			"attentionScore": 146.5,
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-10-15T11:53:48Z",
+			"attentionScore": 144.5,
 			"unengagedCount": 6
 		},
 		{
@@ -489,60 +489,24 @@
 			"description": "The Official LAMP Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 3,
-			"openPRs": 4,
-			"lastRelease": "2026-02-26T05:47:10Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-10-15T03:21:13Z",
-			"attentionScore": 141.5,
-			"unengagedCount": 5
-		},
-		{
-			"name": "lando/wordpress",
-			"description": "The Official WordPress Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 10,
-			"openPRs": 2,
-			"lastRelease": "2026-03-11T16:53:00Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-10-15T03:21:26Z",
-			"attentionScore": 137.5,
-			"unengagedCount": 5
-		},
-		{
-			"name": "lando/backdrop",
-			"description": "The Official Backdrop Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 2,
 			"openPRs": 3,
-			"lastRelease": "2026-02-22T03:14:52Z",
-			"commitsSinceRelease": 10,
-			"lastPush": "2026-10-15T03:21:05Z",
-			"attentionScore": 137.5,
-			"unengagedCount": 4
+			"lastRelease": "2026-02-26T05:47:10Z",
+			"commitsSinceRelease": 12,
+			"lastPush": "2026-10-15T11:54:17Z",
+			"attentionScore": 139.5,
+			"unengagedCount": 5
 		},
 		{
 			"name": "lando/lemp",
 			"description": "The Official LEMP Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 5,
-			"openPRs": 2,
+			"openPRs": 1,
 			"lastRelease": "2026-02-26T05:56:44Z",
-			"commitsSinceRelease": 11,
-			"lastPush": "2026-10-15T03:21:18Z",
-			"attentionScore": 136.5,
+			"commitsSinceRelease": 12,
+			"lastPush": "2026-10-15T11:54:24Z",
+			"attentionScore": 134.5,
 			"unengagedCount": 4
-		},
-		{
-			"name": "lando/drupal",
-			"description": "The Official Drupal Lando plugin",
-			"language": "JavaScript",
-			"openIssues": 6,
-			"openPRs": 3,
-			"lastRelease": "2026-03-11T04:30:43Z",
-			"commitsSinceRelease": 3,
-			"lastPush": "2026-10-15T03:21:08Z",
-			"attentionScore": 136,
-			"unengagedCount": 5
 		},
 		{
 			"name": "lando/ruby",
@@ -557,15 +521,51 @@
 			"unengagedCount": 0
 		},
 		{
+			"name": "lando/wordpress",
+			"description": "The Official WordPress Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 9,
+			"openPRs": 1,
+			"lastRelease": "2026-03-11T16:53:00Z",
+			"commitsSinceRelease": 4,
+			"lastPush": "2026-10-15T11:54:43Z",
+			"attentionScore": 131.5,
+			"unengagedCount": 4
+		},
+		{
+			"name": "lando/backdrop",
+			"description": "The Official Backdrop Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 1,
+			"openPRs": 2,
+			"lastRelease": "2026-02-22T03:14:52Z",
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-10-15T11:53:56Z",
+			"attentionScore": 131.5,
+			"unengagedCount": 3
+		},
+		{
+			"name": "lando/drupal",
+			"description": "The Official Drupal Lando plugin",
+			"language": "JavaScript",
+			"openIssues": 5,
+			"openPRs": 2,
+			"lastRelease": "2026-03-11T04:30:43Z",
+			"commitsSinceRelease": 4,
+			"lastPush": "2026-10-15T11:54:02Z",
+			"attentionScore": 130,
+			"unengagedCount": 4
+		},
+		{
 			"name": "lando/joomla",
 			"description": "The Official Joomla Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 0,
-			"openPRs": 3,
+			"openPRs": 2,
 			"lastRelease": "2026-02-20T16:27:34Z",
-			"commitsSinceRelease": 16,
-			"lastPush": "2026-10-15T03:21:10Z",
-			"attentionScore": 130,
+			"commitsSinceRelease": 17,
+			"lastPush": "2026-10-15T11:54:10Z",
+			"attentionScore": 128,
 			"unengagedCount": 2
 		},
 		{
@@ -576,19 +576,7 @@
 			"openPRs": 2,
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 5,
-			"lastPush": "2026-10-15T03:21:16Z",
-			"attentionScore": 127.5,
-			"unengagedCount": 2
-		},
-		{
-			"name": "lando/symfony",
-			"description": "The Official Symfony Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 4,
-			"openPRs": 2,
-			"lastRelease": "2026-03-02T06:01:17Z",
-			"commitsSinceRelease": 10,
-			"lastPush": "2026-10-15T03:21:23Z",
+			"lastPush": "2026-10-15T11:41:23Z",
 			"attentionScore": 127.5,
 			"unengagedCount": 2
 		},
@@ -614,6 +602,18 @@
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
 			"attentionScore": 122,
+			"unengagedCount": 1
+		},
+		{
+			"name": "lando/symfony",
+			"description": "The Official Symfony Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 3,
+			"openPRs": 1,
+			"lastRelease": "2026-03-02T06:01:17Z",
+			"commitsSinceRelease": 11,
+			"lastPush": "2026-10-15T11:54:37Z",
+			"attentionScore": 121.5,
 			"unengagedCount": 1
 		},
 		{

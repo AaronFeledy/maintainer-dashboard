@@ -4,16 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "expire_logs_days not supported under MySQL 8.2+",
-			"author": "slam-campup",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2025-10-26T01:00:40Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/wordpress/issues/107"
-		},
-		{
 			"title": "Allow creating wordpress recipe without database",
 			"author": "pauguri",
 			"labels": [],
@@ -105,13 +95,6 @@
 		}
 	],
 	"pullRequests": [
-		{
-			"title": "fix: MySQL 8.2+ and mysql:8 failing to start",
-			"author": "AaronFeledy",
-			"createdAt": "2026-10-15T02:55:10Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/wordpress/pull/141"
-		},
 		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",

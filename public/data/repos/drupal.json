@@ -14,14 +14,6 @@
 			"url": "https://github.com/lando/drupal/issues/188"
 		},
 		{
-			"title": "Missing deprecated variables in mysql:8.4 on Drupal10 recipe",
-			"author": "bronius-congruity",
-			"labels": [],
-			"createdAt": "2026-04-29T04:55:02Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/drupal/issues/186"
-		},
-		{
 			"title": "Error: Service \"edge\" depends on undefined service \"appserver_nginx\":",
 			"author": "ravearvind",
 			"labels": [
@@ -65,13 +57,6 @@
 		}
 	],
 	"pullRequests": [
-		{
-			"title": "fix: MySQL 8.2+ and mysql:8 failing to start",
-			"author": "AaronFeledy",
-			"createdAt": "2026-10-15T02:54:40Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/drupal/pull/193"
-		},
 		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",

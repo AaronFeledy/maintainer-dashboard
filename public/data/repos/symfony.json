@@ -4,16 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "expire_logs_days MySQL config option has been removed in MySQL 8.4",
-			"author": "darrylhein",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2026-03-03T00:17:07Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/symfony/issues/88"
-		},
-		{
 			"title": "Incorrect volume path when using nginx volume override",
 			"author": "ttk",
 			"labels": [
@@ -46,13 +36,6 @@
 		}
 	],
 	"pullRequests": [
-		{
-			"title": "fix: MySQL 8.2+ and mysql:8 failing to start",
-			"author": "AaronFeledy",
-			"createdAt": "2026-10-15T02:55:06Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/symfony/pull/94"
-		},
 		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
