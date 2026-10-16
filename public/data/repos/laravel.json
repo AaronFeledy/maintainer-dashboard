@@ -57,15 +57,7 @@
 			"url": "https://github.com/lando/laravel/issues/4"
 		}
 	],
-	"pullRequests": [
-		{
-			"title": "Remove version from Laravel Links",
-			"author": "BrookeDot",
-			"createdAt": "2026-10-16T07:07:56Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/laravel/pull/116"
-		}
-	],
+	"pullRequests": [],
 	"releases": [
 		{
 			"tagName": "v1.12.3",
