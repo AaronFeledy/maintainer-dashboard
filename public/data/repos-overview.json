@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-15T22:51:44.540Z",
+		"fetchedAt": "2026-10-16T02:56:15.965Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -41,6 +41,18 @@
 			"unengagedCount": 10
 		},
 		{
+			"name": "lando/notarize-action",
+			"description": "A GitHub action to Apple notarize files. Originally adapted from https://github.com/devbotsxyz/xcode-notarize",
+			"language": "JavaScript",
+			"openIssues": 3,
+			"openPRs": 4,
+			"lastRelease": "2023-06-18T14:17:09Z",
+			"commitsSinceRelease": 15,
+			"lastPush": "2026-10-12T03:09:53Z",
+			"attentionScore": 627.5,
+			"unengagedCount": 3
+		},
+		{
 			"name": "lando/plugin-test",
 			"description": "Dummy plugin for testing Lando's plugin-related commands.",
 			"language": "JavaScript",
@@ -50,18 +62,6 @@
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-09-11T03:13:36Z",
 			"attentionScore": 627.5,
-			"unengagedCount": 2
-		},
-		{
-			"name": "lando/notarize-action",
-			"description": "A GitHub action to Apple notarize files. Originally adapted from https://github.com/devbotsxyz/xcode-notarize",
-			"language": "JavaScript",
-			"openIssues": 3,
-			"openPRs": 4,
-			"lastRelease": "2023-06-18T14:17:09Z",
-			"commitsSinceRelease": 15,
-			"lastPush": "2026-10-12T03:09:53Z",
-			"attentionScore": 624.5,
 			"unengagedCount": 2
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 412,
+			"attentionScore": 412.5,
 			"unengagedCount": 1
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 32,
 			"lastPush": "2026-08-03T14:14:43Z",
-			"attentionScore": 374.5,
+			"attentionScore": 375,
 			"unengagedCount": 6
 		},
 		{
@@ -181,8 +181,8 @@
 			"lastRelease": "2026-08-20T23:16:59Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:16:59Z",
-			"attentionScore": 284.5,
-			"unengagedCount": 25
+			"attentionScore": 288,
+			"unengagedCount": 26
 		},
 		{
 			"name": "lando/core",
@@ -193,7 +193,7 @@
 			"lastRelease": "2026-08-20T23:11:32Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-10-13T02:35:26Z",
-			"attentionScore": 260.5,
+			"attentionScore": 261,
 			"unengagedCount": 43
 		},
 		{
@@ -241,7 +241,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-09-13T07:35:25Z",
-			"attentionScore": 239.5,
+			"attentionScore": 240,
 			"unengagedCount": 1
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 161.5,
+			"attentionScore": 162,
 			"unengagedCount": 1
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-09-21T17:02:52Z",
-			"attentionScore": 160.5,
+			"attentionScore": 161,
 			"unengagedCount": 8
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-08T07:23:37Z",
-			"attentionScore": 132.5,
+			"attentionScore": 133,
 			"unengagedCount": 0
 		},
 		{
@@ -576,7 +576,7 @@
 			"openPRs": 2,
 			"lastRelease": "2026-03-05T17:51:42Z",
 			"commitsSinceRelease": 5,
-			"lastPush": "2026-10-15T22:28:25Z",
+			"lastPush": "2026-10-16T02:49:17Z",
 			"attentionScore": 128,
 			"unengagedCount": 2
 		},
@@ -601,7 +601,7 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
-			"attentionScore": 122,
+			"attentionScore": 122.5,
 			"unengagedCount": 1
 		},
 		{
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-09-21T01:03:10Z",
-			"attentionScore": 120.5,
+			"attentionScore": 121,
 			"unengagedCount": 2
 		},
 		{
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-08-20T23:21:08Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-09-28T04:03:25Z",
-			"attentionScore": 81.5,
+			"attentionScore": 82,
 			"unengagedCount": 11
 		},
 		{
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-07-30T02:38:21Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-30T02:39:00Z",
-			"attentionScore": 73.5,
+			"attentionScore": 74,
 			"unengagedCount": 8
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-10-10T19:23:48Z",
-			"attentionScore": 50,
+			"attentionScore": 50.5,
 			"unengagedCount": 4
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-08-20T23:17:12Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-09-11T01:31:37Z",
-			"attentionScore": 46.5,
+			"attentionScore": 47,
 			"unengagedCount": 3
 		},
 		{

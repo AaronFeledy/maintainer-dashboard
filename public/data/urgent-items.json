@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-15T22:51:44.540Z",
+		"fetchedAt": "2026-10-16T02:56:15.965Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2577,6 +2577,24 @@
 			"createdAt": "2026-10-11T16:43:25Z",
 			"url": "https://github.com/lando/telemetry/pull/15",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/notarize-action",
+			"number": 43,
+			"title": "Bump brace-expansion from 1.1.11 to 1.1.21",
+			"author": "dependabot",
+			"createdAt": "2026-10-12T03:09:54Z",
+			"url": "https://github.com/lando/notarize-action/pull/43",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lando",
+			"number": 3851,
+			"title": "Unexpected behavior overriding base tooling",
+			"author": "wtflm",
+			"createdAt": "2026-10-12T10:09:14Z",
+			"url": "https://github.com/lando/lando/issues/3851",
+			"type": "issue"
 		}
 	]
 }
