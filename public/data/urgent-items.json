@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-16T22:27:01.414Z",
+		"fetchedAt": "2026-10-17T02:47:35.246Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2586,6 +2586,24 @@
 			"createdAt": "2026-10-12T10:09:14Z",
 			"url": "https://github.com/lando/lando/issues/3851",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 506,
+			"title": "chore(deps): bump fast-copy from 4.0.3 to 4.1.2 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-10-13T02:35:19Z",
+			"url": "https://github.com/lando/core/pull/506",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 507,
+			"title": "chore(deps): bump fast-copy from 4.0.3 to 4.1.2 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-10-13T02:35:28Z",
+			"url": "https://github.com/lando/core/pull/507",
+			"type": "pr"
 		}
 	]
 }
