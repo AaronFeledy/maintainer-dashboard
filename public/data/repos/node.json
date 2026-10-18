@@ -32,6 +32,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump brace-expansion from 1.1.16 to 1.1.21 in /examples/20",
+			"author": "dependabot",
+			"createdAt": "2026-10-18T10:02:36Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/134"
+		},
+		{
 			"title": "Bump brace-expansion from 1.1.11 to 1.1.21 in /examples/12",
 			"author": "dependabot",
 			"createdAt": "2026-10-10T19:23:49Z",

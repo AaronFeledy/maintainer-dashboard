@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-18T08:30:26.801Z",
+		"fetchedAt": "2026-10-18T13:44:14.626Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -741,11 +741,11 @@
 			"description": "The Official Node Lando plugin.",
 			"language": "JavaScript",
 			"openIssues": 3,
-			"openPRs": 2,
+			"openPRs": 3,
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-10-10T19:23:48Z",
-			"attentionScore": 51.5,
+			"lastPush": "2026-10-18T10:02:34Z",
+			"attentionScore": 53.5,
 			"unengagedCount": 4
 		},
 		{
