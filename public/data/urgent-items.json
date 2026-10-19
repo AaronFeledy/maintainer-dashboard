@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-18T23:52:37.497Z",
+		"fetchedAt": "2026-10-19T03:04:39.221Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2603,6 +2603,33 @@
 			"author": "dependabot",
 			"createdAt": "2026-10-13T02:35:28Z",
 			"url": "https://github.com/lando/core/pull/507",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 508,
+			"title": "fix(daemon): report skip instead of null when Docker.app is missing",
+			"author": "jordan8037310",
+			"createdAt": "2026-10-15T05:34:21Z",
+			"url": "https://github.com/lando/core/pull/508",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 509,
+			"title": "fix(engine): use the configured socket for docker and docker compose too",
+			"author": "jordan8037310",
+			"createdAt": "2026-10-15T05:34:26Z",
+			"url": "https://github.com/lando/core/pull/509",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 510,
+			"title": "feat(engine): add engineProvider to run Lando on OrbStack, Rancher Desktop or Podman (macOS)",
+			"author": "jordan8037310",
+			"createdAt": "2026-10-15T05:35:03Z",
+			"url": "https://github.com/lando/core/pull/510",
 			"type": "pr"
 		}
 	]
