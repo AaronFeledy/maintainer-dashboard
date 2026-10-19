@@ -36,7 +36,7 @@
 			"title": "Bump immutable from 4.3.5 to 4.3.9",
 			"author": "dependabot",
 			"createdAt": "2026-07-23T21:33:31Z",
-			"reviewCount": 0,
+			"reviewCount": 1,
 			"url": "https://github.com/lando/legacy-cli/pull/309"
 		}
 	],
