@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-22T14:53:56.525Z",
+		"fetchedAt": "2026-10-22T19:42:18.060Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -48,6 +48,15 @@
 			"createdAt": "2021-12-12T01:14:16Z",
 			"url": "https://github.com/lando/hyperdrive/issues/33",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/drupal-dev-environment",
+			"number": 2,
+			"title": "Composer, drush si, should run during prebuild",
+			"author": "shaal",
+			"createdAt": "2022-02-09T16:03:48Z",
+			"url": "https://github.com/lando/drupal-dev-environment/pull/2",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/lemp",
@@ -191,6 +200,15 @@
 			"author": "pirog",
 			"createdAt": "2022-03-28T16:34:36Z",
 			"url": "https://github.com/lando/website/issues/25",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/blog",
+			"number": 12,
+			"title": "DARK MODE",
+			"author": "pirog",
+			"createdAt": "2022-03-28T16:34:58Z",
+			"url": "https://github.com/lando/blog/issues/12",
 			"type": "issue"
 		},
 		{
@@ -506,6 +524,15 @@
 			"author": "clrockwell",
 			"createdAt": "2023-02-08T00:39:04Z",
 			"url": "https://github.com/lando/lando/issues/3514",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/blog",
+			"number": 32,
+			"title": "Clarity for Windows users who run it all in WSL2",
+			"author": "danksearle",
+			"createdAt": "2023-02-08T11:44:28Z",
+			"url": "https://github.com/lando/blog/issues/32",
 			"type": "issue"
 		},
 		{
@@ -1220,30 +1247,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/hyperdrive",
-			"number": 83,
-			"title": "GHA has ended support for macos-12",
-			"author": "AaronFeledy",
-			"createdAt": "2024-12-04T04:22:53Z",
-			"url": "https://github.com/lando/hyperdrive/pull/83",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/lamp",
 			"number": 75,
 			"title": "Added init defaults.",
 			"author": "reynoldsalec",
 			"createdAt": "2024-12-19T22:42:16Z",
 			"url": "https://github.com/lando/lamp/pull/75",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/joomla",
-			"number": 57,
-			"title": "Init defaults1",
-			"author": "reynoldsalec",
-			"createdAt": "2024-12-20T22:34:51Z",
-			"url": "https://github.com/lando/joomla/pull/57",
 			"type": "pr"
 		},
 		{
@@ -1553,15 +1562,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/devtool",
-			"number": 30,
-			"title": "fix: resolve CLI hanging and add basic functionality",
-			"author": "AaronFeledy",
-			"createdAt": "2025-08-20T03:59:20Z",
-			"url": "https://github.com/lando/devtool/pull/30",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 384,
 			"title": "Addresses #2268",
@@ -1670,39 +1670,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core-next",
-			"number": 111,
-			"title": "Bun me",
-			"author": "pirog",
-			"createdAt": "2025-12-12T00:40:09Z",
-			"url": "https://github.com/lando/core-next/pull/111",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/run-leia-action",
 			"number": 13,
 			"title": "Add Bun runtime support",
 			"author": "AaronFeledy",
 			"createdAt": "2025-12-31T22:12:24Z",
 			"url": "https://github.com/lando/run-leia-action/pull/13",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/run-leia-action",
-			"number": 13,
-			"title": "Add Bun runtime support",
-			"author": "AaronFeledy",
-			"createdAt": "2025-12-31T22:12:24Z",
-			"url": "https://github.com/lando/run-leia-action/pull/13",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/setup-lando",
-			"number": 108,
-			"title": "fix: Compare versions in the right order so that lando setup is run if it is set and we are >= 3.24 and the -slim versions do not exist anymore",
-			"author": "florianPat",
-			"createdAt": "2026-01-02T14:56:23Z",
-			"url": "https://github.com/lando/setup-lando/pull/108",
 			"type": "pr"
 		},
 		{
@@ -1742,15 +1715,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/core-next",
-			"number": 120,
-			"title": "feat: add buildx check/install to lando setup",
-			"author": "AaronFeledy",
-			"createdAt": "2026-01-23T23:11:03Z",
-			"url": "https://github.com/lando/core-next/pull/120",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/core",
 			"number": 432,
 			"title": "Allow overriding proxy setting in .lando.local.yml",
@@ -1769,39 +1733,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/gitpod",
-			"number": 15,
-			"title": "Bump the actions group with 5 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:10:50Z",
-			"url": "https://github.com/lando/gitpod/pull/15",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/hyperdrive",
 			"number": 84,
 			"title": "Bump @lando/leia from 0.6.4 to 0.6.7",
 			"author": "dependabot",
 			"createdAt": "2026-02-19T22:11:13Z",
 			"url": "https://github.com/lando/hyperdrive/pull/84",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/hyperdrive",
-			"number": 84,
-			"title": "Bump @lando/leia from 0.6.4 to 0.6.7",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:13Z",
-			"url": "https://github.com/lando/hyperdrive/pull/84",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/hyperdrive",
-			"number": 85,
-			"title": "Bump @lando/argv from 1.1.0 to 1.2.0",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:19Z",
-			"url": "https://github.com/lando/hyperdrive/pull/85",
 			"type": "pr"
 		},
 		{
@@ -1823,39 +1760,12 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/hyperdrive",
-			"number": 86,
-			"title": "Bump the actions group with 8 updates",
-			"author": "dependabot",
-			"createdAt": "2026-02-19T22:11:37Z",
-			"url": "https://github.com/lando/hyperdrive/pull/86",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/acquia",
 			"number": 159,
 			"title": "fix: handle race condition in release promote job",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:54:33Z",
 			"url": "https://github.com/lando/acquia/pull/159",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/acquia",
-			"number": 159,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:54:33Z",
-			"url": "https://github.com/lando/acquia/pull/159",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/backdrop",
-			"number": 89,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:54:50Z",
-			"url": "https://github.com/lando/backdrop/pull/89",
 			"type": "pr"
 		},
 		{
@@ -1874,15 +1784,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-22T20:55:46Z",
 			"url": "https://github.com/lando/python/pull/62",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/mysql",
-			"number": 89,
-			"title": "fix: handle race condition in release promote job",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-22T20:55:52Z",
-			"url": "https://github.com/lando/mysql/pull/89",
 			"type": "pr"
 		},
 		{
@@ -1923,38 +1824,11 @@
 		},
 		{
 			"repo": "lando/core-next",
-			"number": 132,
-			"title": "fix: handle empty YAML config files gracefully",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-25T04:56:48Z",
-			"url": "https://github.com/lando/core-next/pull/132",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
 			"number": 133,
 			"title": "fix: add --load to buildx to ensure images are available locally",
 			"author": "AaronFeledy",
 			"createdAt": "2026-02-25T05:00:48Z",
 			"url": "https://github.com/lando/core-next/pull/133",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/core-next",
-			"number": 133,
-			"title": "fix: add --load to buildx to ensure images are available locally",
-			"author": "AaronFeledy",
-			"createdAt": "2026-02-25T05:00:48Z",
-			"url": "https://github.com/lando/core-next/pull/133",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/lagoon",
-			"number": 107,
-			"title": "fix: strip additional_contexts and resolve relative build contexts",
-			"author": "AaronFeledy",
-			"createdAt": "2026-03-10T01:16:25Z",
-			"url": "https://github.com/lando/lagoon/pull/107",
 			"type": "pr"
 		},
 		{
@@ -1973,15 +1847,6 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-03-14T03:07:20Z",
 			"url": "https://github.com/lando/core/pull/445",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/php",
-			"number": 247,
-			"title": "feat: xdebug configurability overhaul",
-			"author": "AaronFeledy",
-			"createdAt": "2026-03-17T02:52:53Z",
-			"url": "https://github.com/lando/php/pull/247",
 			"type": "pr"
 		},
 		{
@@ -2036,6 +1901,15 @@
 			"author": "reynoldsalec",
 			"createdAt": "2026-05-11T17:43:41Z",
 			"url": "https://github.com/lando/core/pull/467",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 468,
+			"title": "Add a system-level plugin-auth.js",
+			"author": "reynoldsalec",
+			"createdAt": "2026-05-12T17:07:18Z",
+			"url": "https://github.com/lando/core/pull/468",
 			"type": "pr"
 		},
 		{
@@ -2102,6 +1976,15 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/lamp",
+			"number": 110,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-14T05:13:35Z",
+			"url": "https://github.com/lando/lamp/pull/110",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/lemp",
 			"number": 90,
 			"title": "Bump the actions group across 1 directory with 2 updates",
@@ -2120,6 +2003,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/python",
+			"number": 64,
+			"title": "Bump the actions group across 1 directory with 4 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-14T20:13:37Z",
+			"url": "https://github.com/lando/python/pull/64",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/dotnet",
 			"number": 68,
 			"title": "Bump the actions group across 1 directory with 4 updates",
@@ -2135,6 +2027,15 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-15T10:13:47Z",
 			"url": "https://github.com/lando/go/pull/81",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/memcached",
+			"number": 57,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
+			"author": "dependabot",
+			"createdAt": "2026-07-15T10:33:57Z",
+			"url": "https://github.com/lando/memcached/pull/57",
 			"type": "pr"
 		},
 		{
@@ -2201,6 +2102,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/prepare-release-action",
+			"number": 30,
+			"title": "Bump the actions group across 1 directory with 3 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-17T21:13:32Z",
+			"url": "https://github.com/lando/prepare-release-action/pull/30",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/nginx",
 			"number": 87,
 			"title": "Bump the actions group across 1 directory with 2 updates",
@@ -2225,6 +2135,24 @@
 			"author": "dependabot",
 			"createdAt": "2026-07-18T02:43:56Z",
 			"url": "https://github.com/lando/core-next/pull/147",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/symfony",
+			"number": 93,
+			"title": "Bump the actions group across 1 directory with 2 updates",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T03:24:53Z",
+			"url": "https://github.com/lando/symfony/pull/93",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/website",
+			"number": 80,
+			"title": "Bump actions/setup-node from 6 to 7 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-07-20T07:16:32Z",
+			"url": "https://github.com/lando/website/pull/80",
 			"type": "pr"
 		},
 		{
@@ -2525,6 +2453,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/postgres",
+			"number": 76,
+			"title": "Bump @lando/leia from 0.6.7 to 2.0.0",
+			"author": "dependabot",
+			"createdAt": "2026-09-21T04:04:21Z",
+			"url": "https://github.com/lando/postgres/pull/76",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/solr",
 			"number": 76,
 			"title": "Bump @lando/leia from 0.6.7 to 2.0.0",
@@ -2570,6 +2507,15 @@
 			"type": "pr"
 		},
 		{
+			"repo": "lando/pantheon",
+			"number": 372,
+			"title": "refactor: extract a testable recipe model and add unit coverage",
+			"author": "AaronFeledy",
+			"createdAt": "2026-09-28T01:25:42Z",
+			"url": "https://github.com/lando/pantheon/pull/372",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/core",
 			"number": 502,
 			"title": "Tooling router routes override Landofile tooling on the warm path",
@@ -2579,12 +2525,48 @@
 			"type": "issue"
 		},
 		{
+			"repo": "lando/core",
+			"number": 503,
+			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.5 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-10-07T01:13:55Z",
+			"url": "https://github.com/lando/core/pull/503",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 504,
+			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.5 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-10-07T03:19:21Z",
+			"url": "https://github.com/lando/core/pull/504",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 505,
+			"title": "chore(deps): bump fastify from 5.8.5 to 5.12.5 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-10-07T03:29:38Z",
+			"url": "https://github.com/lando/core/pull/505",
+			"type": "pr"
+		},
+		{
 			"repo": "lando/node",
 			"number": 133,
 			"title": "Bump brace-expansion from 1.1.11 to 1.1.21 in /examples/12",
 			"author": "dependabot",
 			"createdAt": "2026-10-10T19:23:49Z",
 			"url": "https://github.com/lando/node/pull/133",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/telemetry",
+			"number": 15,
+			"title": "Bump brace-expansion from 1.1.11 to 1.1.21",
+			"author": "dependabot",
+			"createdAt": "2026-10-11T16:43:25Z",
+			"url": "https://github.com/lando/telemetry/pull/15",
 			"type": "pr"
 		},
 		{
@@ -2604,6 +2586,51 @@
 			"createdAt": "2026-10-12T10:09:14Z",
 			"url": "https://github.com/lando/lando/issues/3851",
 			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 506,
+			"title": "chore(deps): bump fast-copy from 4.0.3 to 4.1.2 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-10-13T02:35:19Z",
+			"url": "https://github.com/lando/core/pull/506",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 507,
+			"title": "chore(deps): bump fast-copy from 4.0.3 to 4.1.2 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-10-13T02:35:28Z",
+			"url": "https://github.com/lando/core/pull/507",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 508,
+			"title": "fix(daemon): report skip instead of null when Docker.app is missing",
+			"author": "jordan8037310",
+			"createdAt": "2026-10-15T05:34:21Z",
+			"url": "https://github.com/lando/core/pull/508",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 509,
+			"title": "fix(engine): use the configured socket for docker and docker compose too",
+			"author": "jordan8037310",
+			"createdAt": "2026-10-15T05:34:26Z",
+			"url": "https://github.com/lando/core/pull/509",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 510,
+			"title": "feat(engine): add engineProvider to run Lando on OrbStack, Rancher Desktop or Podman (macOS)",
+			"author": "jordan8037310",
+			"createdAt": "2026-10-15T05:35:03Z",
+			"url": "https://github.com/lando/core/pull/510",
+			"type": "pr"
 		},
 		{
 			"repo": "lando/node",
