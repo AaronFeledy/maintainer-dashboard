@@ -563,13 +563,6 @@
 			"url": "https://github.com/lando/core/pull/445"
 		},
 		{
-			"title": "Pedantically fixing verb tense in init command description",
-			"author": "amklose",
-			"createdAt": "2026-01-14T09:23:13Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/417"
-		},
-		{
 			"title": "Addresses #2268",
 			"author": "rpayanm",
 			"createdAt": "2025-09-04T16:11:17Z",
