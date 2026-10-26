@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-26T02:58:16.043Z",
+		"fetchedAt": "2026-10-26T09:36:57.783Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -1595,15 +1595,6 @@
 			"author": "Mgrmjp",
 			"createdAt": "2025-09-24T04:27:54Z",
 			"url": "https://github.com/lando/lando/issues/3809",
-			"type": "issue"
-		},
-		{
-			"repo": "lando/core",
-			"number": 392,
-			"title": "Windows for https://docs.lando.dev/guides/offline-dev.html ?",
-			"author": "Mgrmjp",
-			"createdAt": "2025-10-01T09:07:05Z",
-			"url": "https://github.com/lando/core/issues/392",
 			"type": "issue"
 		},
 		{
