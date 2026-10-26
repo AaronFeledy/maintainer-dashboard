@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-25T22:15:11.659Z",
+		"fetchedAt": "2026-10-26T02:58:16.043Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2630,6 +2630,33 @@
 			"author": "dependabot",
 			"createdAt": "2026-10-18T10:02:36Z",
 			"url": "https://github.com/lando/node/pull/134",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/solr",
+			"number": 82,
+			"title": "fix: start Solr 9.11+ without gosu",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-22T21:06:06Z",
+			"url": "https://github.com/lando/solr/pull/82",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/php",
+			"number": 255,
+			"title": "fix: fail supported PHP image builds below the Oct 2026 security release",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-22T21:33:06Z",
+			"url": "https://github.com/lando/php/pull/255",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 373,
+			"title": "fix: rebuild supported Pantheon appservers on patched PHP images",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-22T21:33:16Z",
+			"url": "https://github.com/lando/pantheon/pull/373",
 			"type": "pr"
 		}
 	]
