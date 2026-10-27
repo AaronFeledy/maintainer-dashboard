@@ -492,14 +492,14 @@
 			"title": "Fix \"introduction\" link, so docs work",
 			"author": "nottrobin",
 			"createdAt": "2022-09-26T10:00:01Z",
-			"reviewCount": 1,
+			"reviewCount": 0,
 			"url": "https://github.com/lando/lando/pull/3446"
 		},
 		{
 			"title": "chore: Set permissions for GitHub actions",
 			"author": "naveensrinivasan",
 			"createdAt": "2022-05-18T01:53:59Z",
-			"reviewCount": 3,
+			"reviewCount": 1,
 			"url": "https://github.com/lando/lando/pull/3398"
 		}
 	],
