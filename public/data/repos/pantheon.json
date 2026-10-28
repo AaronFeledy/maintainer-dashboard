@@ -4,6 +4,17 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Support Pantheon MySQL 8.4 (database.type: mysql)",
+			"author": "AaronFeledy",
+			"labels": [
+				"pantheon",
+				"enhancement"
+			],
+			"createdAt": "2026-10-27T20:39:02Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/pantheon/issues/374"
+		},
+		{
 			"title": "Pantheon - Team Workspaces",
 			"author": "rayskin",
 			"labels": [
@@ -192,6 +203,13 @@
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "Support Pantheon MySQL 8.4",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-27T21:45:01Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/375"
+		},
 		{
 			"title": "fix: rebuild supported Pantheon appservers on patched PHP images",
 			"author": "AaronFeledy",
