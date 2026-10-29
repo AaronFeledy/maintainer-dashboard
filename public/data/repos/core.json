@@ -465,6 +465,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "chore(deps): bump fast-uri from 3.1.5 to 3.1.9 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-10-29T08:16:44Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/511"
+		},
+		{
 			"title": "feat(engine): add engineProvider to run Lando on OrbStack, Rancher Desktop or Podman (macOS)",
 			"author": "jordan8037310",
 			"createdAt": "2026-10-15T05:35:03Z",
@@ -526,13 +533,6 @@
 			"createdAt": "2026-09-03T17:05:39Z",
 			"reviewCount": 1,
 			"url": "https://github.com/lando/core/pull/501"
-		},
-		{
-			"title": "chore(deps): bump fast-uri from 3.1.5 to 3.1.7 in /examples/mounts",
-			"author": "dependabot",
-			"createdAt": "2026-09-02T23:38:06Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/core/pull/499"
 		},
 		{
 			"title": "chore(deps): bump fast-uri from 3.1.2 to 3.1.7 in /examples/entrypoint",

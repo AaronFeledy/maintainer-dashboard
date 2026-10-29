@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-29T07:56:59.068Z",
+		"fetchedAt": "2026-10-29T14:58:47.674Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -49,7 +49,7 @@
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
 			"lastPush": "2026-10-12T03:09:53Z",
-			"attentionScore": 634,
+			"attentionScore": 634.5,
 			"unengagedCount": 3
 		},
 		{
@@ -73,7 +73,7 @@
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-09-10T02:08:48Z",
-			"attentionScore": 494,
+			"attentionScore": 494.5,
 			"unengagedCount": 4
 		},
 		{
@@ -192,7 +192,7 @@
 			"openPRs": 24,
 			"lastRelease": "2026-08-20T23:11:32Z",
 			"commitsSinceRelease": 2,
-			"lastPush": "2026-10-24T23:55:45Z",
+			"lastPush": "2026-10-29T08:16:59Z",
 			"attentionScore": 274.5,
 			"unengagedCount": 46
 		},
@@ -205,7 +205,7 @@
 			"lastRelease": "2025-06-07T14:57:38Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2025-07-23T20:46:52Z",
-			"attentionScore": 262,
+			"attentionScore": 262.5,
 			"unengagedCount": 2
 		},
 		{
@@ -249,11 +249,11 @@
 			"description": "The Official MariaDB Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 10,
-			"openPRs": 2,
+			"openPRs": 3,
 			"lastRelease": "2025-09-08T15:30:51Z",
 			"commitsSinceRelease": 17,
 			"lastPush": "2026-07-30T20:43:43Z",
-			"attentionScore": 242.5,
+			"attentionScore": 244.5,
 			"unengagedCount": 7
 		},
 		{
@@ -265,7 +265,7 @@
 			"lastRelease": "2025-12-09T14:17:19Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-09-03T17:54:57Z",
-			"attentionScore": 239.5,
+			"attentionScore": 240,
 			"unengagedCount": 12
 		},
 		{
@@ -277,7 +277,7 @@
 			"lastRelease": "2025-08-31T14:00:11Z",
 			"commitsSinceRelease": 25,
 			"lastPush": "2026-10-08T08:34:31Z",
-			"attentionScore": 228.5,
+			"attentionScore": 229,
 			"unengagedCount": 3
 		},
 		{
@@ -417,11 +417,11 @@
 			"description": "The Official Lando PHP plugin.",
 			"language": "Dockerfile",
 			"openIssues": 14,
-			"openPRs": 7,
+			"openPRs": 8,
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-10-22T22:20:53Z",
-			"attentionScore": 172.5,
+			"attentionScore": 174.5,
 			"unengagedCount": 9
 		},
 		{
@@ -741,11 +741,11 @@
 			"description": "The Official Node Lando plugin.",
 			"language": "JavaScript",
 			"openIssues": 3,
-			"openPRs": 3,
+			"openPRs": 4,
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-10-18T10:02:34Z",
-			"attentionScore": 62,
+			"attentionScore": 64,
 			"unengagedCount": 5
 		},
 		{

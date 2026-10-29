@@ -100,6 +100,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Add MariaDB 12.3 using official MariaDB images",
+			"author": "todeveni",
+			"createdAt": "2026-10-29T09:58:29Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/mariadb/pull/101"
+		},
+		{
 			"title": "Bump the actions group across 1 directory with 2 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-16T20:43:41Z",
