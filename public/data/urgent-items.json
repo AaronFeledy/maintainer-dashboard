@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-10-30T20:20:09.018Z",
+		"fetchedAt": "2026-10-31T01:23:44.796Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2657,6 +2657,24 @@
 			"author": "github-actions",
 			"createdAt": "2026-10-23T08:08:39Z",
 			"url": "https://github.com/lando/mailpit/pull/59",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 374,
+			"title": "Support Pantheon MySQL 8.4 (database.type: mysql)",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-27T20:39:02Z",
+			"url": "https://github.com/lando/pantheon/issues/374",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 375,
+			"title": "Support Pantheon MySQL 8.4",
+			"author": "AaronFeledy",
+			"createdAt": "2026-10-27T21:45:01Z",
+			"url": "https://github.com/lando/pantheon/pull/375",
 			"type": "pr"
 		}
 	]
