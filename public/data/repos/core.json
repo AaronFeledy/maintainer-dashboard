@@ -465,6 +465,20 @@
 	],
 	"pullRequests": [
 		{
+			"title": "chore(deps): bump fast-uri from 3.1.2 to 3.1.9 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-10-31T16:18:47Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/513"
+		},
+		{
+			"title": "chore(deps): bump fast-uri from 3.1.2 to 3.1.9 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-10-31T16:08:11Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/512"
+		},
+		{
 			"title": "chore(deps): bump fast-uri from 3.1.5 to 3.1.9 in /examples/mounts",
 			"author": "dependabot",
 			"createdAt": "2026-10-29T08:16:44Z",
@@ -526,20 +540,6 @@
 			"createdAt": "2026-10-07T01:13:55Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/core/pull/503"
-		},
-		{
-			"title": "chore(deps): bump fast-uri from 3.1.2 to 3.1.7 in /examples/command",
-			"author": "dependabot",
-			"createdAt": "2026-09-03T17:05:39Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/core/pull/501"
-		},
-		{
-			"title": "chore(deps): bump fast-uri from 3.1.2 to 3.1.7 in /examples/entrypoint",
-			"author": "dependabot",
-			"createdAt": "2026-09-02T23:30:39Z",
-			"reviewCount": 1,
-			"url": "https://github.com/lando/core/pull/498"
 		},
 		{
 			"title": "Add a system-level plugin-auth.js",
