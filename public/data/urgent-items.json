@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-01T23:19:06.055Z",
+		"fetchedAt": "2026-11-02T04:07:24.000Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2675,6 +2675,42 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-10-27T21:45:01Z",
 			"url": "https://github.com/lando/pantheon/pull/375",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 511,
+			"title": "chore(deps): bump fast-uri from 3.1.5 to 3.1.9 in /examples/mounts",
+			"author": "dependabot",
+			"createdAt": "2026-10-29T08:16:44Z",
+			"url": "https://github.com/lando/core/pull/511",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/node",
+			"number": 135,
+			"title": "Bump Node LTS versions",
+			"author": "todeveni",
+			"createdAt": "2026-10-29T09:19:48Z",
+			"url": "https://github.com/lando/node/pull/135",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/php",
+			"number": 256,
+			"title": "Rebuild PHP images weekly to pick up upstream patch releases",
+			"author": "todeveni",
+			"createdAt": "2026-10-29T09:51:36Z",
+			"url": "https://github.com/lando/php/pull/256",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mariadb",
+			"number": 101,
+			"title": "Add MariaDB 12.3 using official MariaDB images",
+			"author": "todeveni",
+			"createdAt": "2026-10-29T09:58:29Z",
+			"url": "https://github.com/lando/mariadb/pull/101",
 			"type": "pr"
 		}
 	]
