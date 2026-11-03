@@ -1,7 +1,7 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-03T05:07:29.184Z",
-		"repoCount": 65
+		"fetchedAt": "2026-11-03T13:31:25.182Z",
+		"repoCount": 64
 	},
 	"items": [
 		{
@@ -2264,15 +2264,6 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/legacy-cli",
-			"number": 309,
-			"title": "Bump immutable from 4.3.5 to 4.3.9",
-			"author": "dependabot",
-			"createdAt": "2026-07-23T21:33:31Z",
-			"url": "https://github.com/lando/legacy-cli/pull/309",
-			"type": "pr"
-		},
-		{
 			"repo": "lando/desktop",
 			"number": 77,
 			"title": "Bump immutable from 4.1.0 to 4.3.9",
@@ -2342,24 +2333,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-08-02T04:29:27Z",
 			"url": "https://github.com/lando/desktop/pull/79",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/legacy-cli",
-			"number": 310,
-			"title": "Bump postcss from 8.5.15 to 8.5.25",
-			"author": "dependabot",
-			"createdAt": "2026-08-02T08:11:22Z",
-			"url": "https://github.com/lando/legacy-cli/pull/310",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/legacy-cli",
-			"number": 311,
-			"title": "Bump brace-expansion from 1.1.11 to 2.1.4",
-			"author": "dependabot",
-			"createdAt": "2026-08-03T17:58:34Z",
-			"url": "https://github.com/lando/legacy-cli/pull/311",
 			"type": "pr"
 		},
 		{
