@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-03T20:23:18.002Z",
+		"fetchedAt": "2026-11-04T01:51:25.896Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -13,7 +13,7 @@
 			"lastRelease": "2021-12-02T20:39:57Z",
 			"commitsSinceRelease": 26,
 			"lastPush": "2026-09-09T12:58:04Z",
-			"attentionScore": 905,
+			"attentionScore": 905.5,
 			"unengagedCount": 1
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 421.5,
+			"attentionScore": 422,
 			"unengagedCount": 1
 		},
 		{
@@ -109,7 +109,7 @@
 			"lastRelease": "2024-11-04T21:03:53Z",
 			"commitsSinceRelease": 46,
 			"lastPush": "2026-10-16T09:05:57Z",
-			"attentionScore": 368,
+			"attentionScore": 368.5,
 			"unengagedCount": 0
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-08-20T23:16:59Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:16:59Z",
-			"attentionScore": 297,
+			"attentionScore": 297.5,
 			"unengagedCount": 26
 		},
 		{
@@ -193,8 +193,8 @@
 			"lastRelease": "2026-08-20T23:11:32Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-10-31T16:18:58Z",
-			"attentionScore": 280,
-			"unengagedCount": 47
+			"attentionScore": 286.5,
+			"unengagedCount": 49
 		},
 		{
 			"name": "lando/auto-deploy-action",
@@ -217,7 +217,7 @@
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
 			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 256,
+			"attentionScore": 256.5,
 			"unengagedCount": 7
 		},
 		{
@@ -253,7 +253,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-09-13T07:35:25Z",
-			"attentionScore": 249,
+			"attentionScore": 249.5,
 			"unengagedCount": 1
 		},
 		{
@@ -409,7 +409,7 @@
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-10-22T22:20:53Z",
-			"attentionScore": 180,
+			"attentionScore": 180.5,
 			"unengagedCount": 10
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 171,
+			"attentionScore": 171.5,
 			"unengagedCount": 1
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-08T07:23:37Z",
-			"attentionScore": 142,
+			"attentionScore": 142.5,
 			"unengagedCount": 0
 		},
 		{
@@ -581,18 +581,6 @@
 			"unengagedCount": 2
 		},
 		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-10-23T08:08:38Z",
-			"attentionScore": 131.5,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -601,6 +589,18 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
+			"attentionScore": 132,
+			"unengagedCount": 1
+		},
+		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-10-23T08:08:38Z",
 			"attentionScore": 131.5,
 			"unengagedCount": 1
 		},
@@ -673,7 +673,7 @@
 			"lastRelease": "2026-08-20T23:21:08Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-10-28T05:49:45Z",
-			"attentionScore": 105,
+			"attentionScore": 105.5,
 			"unengagedCount": 14
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-10-18T10:02:34Z",
-			"attentionScore": 69.5,
+			"attentionScore": 70,
 			"unengagedCount": 6
 		},
 		{
@@ -757,7 +757,7 @@
 			"lastRelease": "2026-08-20T23:17:12Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-09-11T01:31:37Z",
-			"attentionScore": 56,
+			"attentionScore": 56.5,
 			"unengagedCount": 3
 		},
 		{

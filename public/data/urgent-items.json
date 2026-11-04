@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-03T20:23:18.002Z",
+		"fetchedAt": "2026-11-04T01:51:25.896Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2711,6 +2711,24 @@
 			"author": "todeveni",
 			"createdAt": "2026-10-29T09:58:29Z",
 			"url": "https://github.com/lando/mariadb/pull/101",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 512,
+			"title": "chore(deps): bump fast-uri from 3.1.2 to 3.1.9 in /examples/entrypoint",
+			"author": "dependabot",
+			"createdAt": "2026-10-31T16:08:11Z",
+			"url": "https://github.com/lando/core/pull/512",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 513,
+			"title": "chore(deps): bump fast-uri from 3.1.2 to 3.1.9 in /examples/command",
+			"author": "dependabot",
+			"createdAt": "2026-10-31T16:18:47Z",
+			"url": "https://github.com/lando/core/pull/513",
 			"type": "pr"
 		}
 	]
