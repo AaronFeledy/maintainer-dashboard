@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-07T23:22:46.767Z",
+		"fetchedAt": "2026-11-08T04:09:21.451Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 32,
 			"lastPush": "2026-08-03T14:14:43Z",
-			"attentionScore": 386,
+			"attentionScore": 386.5,
 			"unengagedCount": 6
 		},
 		{
@@ -233,6 +233,18 @@
 			"unengagedCount": 8
 		},
 		{
+			"name": "lando/argv",
+			"description": "A small utility for argv parsing",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 5,
+			"lastRelease": "2025-07-19T00:12:10Z",
+			"commitsSinceRelease": 14,
+			"lastPush": "2026-09-13T07:35:25Z",
+			"attentionScore": 251.5,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/devtool",
 			"description": "???",
 			"language": "JavaScript",
@@ -243,18 +255,6 @@
 			"lastPush": "2026-07-30T02:42:57Z",
 			"attentionScore": 251.5,
 			"unengagedCount": 16
-		},
-		{
-			"name": "lando/argv",
-			"description": "A small utility for argv parsing",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 5,
-			"lastRelease": "2025-07-19T00:12:10Z",
-			"commitsSinceRelease": 14,
-			"lastPush": "2026-09-13T07:35:25Z",
-			"attentionScore": 251,
-			"unengagedCount": 1
 		},
 		{
 			"name": "lando/core-next",
@@ -365,6 +365,18 @@
 			"unengagedCount": 1
 		},
 		{
+			"name": "lando/php",
+			"description": "The Official Lando PHP plugin.",
+			"language": "Dockerfile",
+			"openIssues": 14,
+			"openPRs": 8,
+			"lastRelease": "2026-03-08T01:37:41Z",
+			"commitsSinceRelease": 4,
+			"lastPush": "2026-10-22T22:20:53Z",
+			"attentionScore": 182.5,
+			"unengagedCount": 10
+		},
+		{
 			"name": "lando/lando-update-scripts",
 			"description": "Some starting points for ad-hoc scripts when bulk updating Lando plugins.",
 			"language": "Shell",
@@ -399,18 +411,6 @@
 			"lastPush": "2024-11-04T19:31:21Z",
 			"attentionScore": 182.5,
 			"unengagedCount": 0
-		},
-		{
-			"name": "lando/php",
-			"description": "The Official Lando PHP plugin.",
-			"language": "Dockerfile",
-			"openIssues": 14,
-			"openPRs": 8,
-			"lastRelease": "2026-03-08T01:37:41Z",
-			"commitsSinceRelease": 4,
-			"lastPush": "2026-10-22T22:20:53Z",
-			"attentionScore": 182,
-			"unengagedCount": 10
 		},
 		{
 			"name": "lando/elasticsearch",
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 173,
+			"attentionScore": 173.5,
 			"unengagedCount": 1
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-08T07:23:37Z",
-			"attentionScore": 144,
+			"attentionScore": 144.5,
 			"unengagedCount": 0
 		},
 		{
@@ -541,7 +541,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-10-15T11:53:56Z",
-			"attentionScore": 143,
+			"attentionScore": 143.5,
 			"unengagedCount": 3
 		},
 		{
@@ -581,18 +581,6 @@
 			"unengagedCount": 2
 		},
 		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-10-23T08:08:38Z",
-			"attentionScore": 133.5,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/phpmyadmin",
 			"description": "The Official phpMyAdmin Lando Plugin",
 			"language": "JavaScript",
@@ -601,6 +589,18 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
+			"attentionScore": 134,
+			"unengagedCount": 1
+		},
+		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-10-23T08:08:38Z",
 			"attentionScore": 133.5,
 			"unengagedCount": 1
 		},
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-09-21T01:03:10Z",
-			"attentionScore": 132,
+			"attentionScore": 132.5,
 			"unengagedCount": 2
 		},
 		{
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-07-30T02:38:21Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-30T02:39:00Z",
-			"attentionScore": 85,
+			"attentionScore": 85.5,
 			"unengagedCount": 8
 		},
 		{
@@ -733,7 +733,7 @@
 			"lastRelease": "2026-07-03T03:40:07Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-27T04:14:49Z",
-			"attentionScore": 74.5,
+			"attentionScore": 75,
 			"unengagedCount": 2
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-10-18T10:02:34Z",
-			"attentionScore": 71.5,
+			"attentionScore": 72,
 			"unengagedCount": 6
 		},
 		{
