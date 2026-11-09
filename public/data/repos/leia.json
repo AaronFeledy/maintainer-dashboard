@@ -20,7 +20,15 @@
 			"url": "https://github.com/lando/leia/issues/20"
 		}
 	],
-	"pullRequests": [],
+	"pullRequests": [
+		{
+			"title": "Bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-11-09T20:13:46Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/leia/pull/100"
+		}
+	],
 	"releases": [
 		{
 			"tagName": "v2.0.0",
