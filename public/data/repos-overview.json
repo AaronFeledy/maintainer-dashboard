@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-09T23:56:17.257Z",
+		"fetchedAt": "2026-11-10T06:01:40.021Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 32,
 			"lastPush": "2026-08-03T14:14:43Z",
-			"attentionScore": 387,
+			"attentionScore": 387.5,
 			"unengagedCount": 6
 		},
 		{
@@ -241,7 +241,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-09-13T07:35:25Z",
-			"attentionScore": 252,
+			"attentionScore": 252.5,
 			"unengagedCount": 1
 		},
 		{
@@ -373,7 +373,7 @@
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-10-22T22:20:53Z",
-			"attentionScore": 183,
+			"attentionScore": 183.5,
 			"unengagedCount": 10
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 174,
+			"attentionScore": 174.5,
 			"unengagedCount": 1
 		},
 		{
@@ -469,7 +469,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-15T11:53:48Z",
-			"attentionScore": 157,
+			"attentionScore": 157.5,
 			"unengagedCount": 6
 		},
 		{
@@ -481,7 +481,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-31T22:13:36Z",
-			"attentionScore": 156.5,
+			"attentionScore": 157,
 			"unengagedCount": 6
 		},
 		{
@@ -493,7 +493,7 @@
 			"lastRelease": "2026-02-26T05:47:10Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-15T16:53:02Z",
-			"attentionScore": 147,
+			"attentionScore": 147.5,
 			"unengagedCount": 4
 		},
 		{
@@ -505,7 +505,7 @@
 			"lastRelease": "2026-02-26T05:56:44Z",
 			"commitsSinceRelease": 12,
 			"lastPush": "2026-10-15T11:54:24Z",
-			"attentionScore": 147,
+			"attentionScore": 147.5,
 			"unengagedCount": 4
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-08T07:23:37Z",
-			"attentionScore": 145,
+			"attentionScore": 145.5,
 			"unengagedCount": 0
 		},
 		{
@@ -541,7 +541,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-10-15T11:53:56Z",
-			"attentionScore": 144,
+			"attentionScore": 144.5,
 			"unengagedCount": 3
 		},
 		{
@@ -553,7 +553,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-10-15T11:54:02Z",
-			"attentionScore": 142.5,
+			"attentionScore": 143,
 			"unengagedCount": 4
 		},
 		{
@@ -589,7 +589,7 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-11-09T22:24:53Z",
-			"attentionScore": 136.5,
+			"attentionScore": 137,
 			"unengagedCount": 1
 		},
 		{
@@ -601,7 +601,7 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
-			"attentionScore": 134.5,
+			"attentionScore": 135,
 			"unengagedCount": 1
 		},
 		{
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-03-02T06:01:17Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-10-15T11:54:37Z",
-			"attentionScore": 134,
+			"attentionScore": 134.5,
 			"unengagedCount": 1
 		},
 		{
@@ -637,7 +637,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-09-21T01:03:10Z",
-			"attentionScore": 133,
+			"attentionScore": 133.5,
 			"unengagedCount": 2
 		},
 		{
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-07-30T02:38:21Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-30T02:39:00Z",
-			"attentionScore": 86,
+			"attentionScore": 86.5,
 			"unengagedCount": 8
 		},
 		{
@@ -733,7 +733,7 @@
 			"lastRelease": "2026-07-03T03:40:07Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-27T04:14:49Z",
-			"attentionScore": 75.5,
+			"attentionScore": 76,
 			"unengagedCount": 2
 		},
 		{
@@ -769,7 +769,7 @@
 			"lastRelease": "2026-10-05T04:51:39Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-10-22T22:15:28Z",
-			"attentionScore": 39.5,
+			"attentionScore": 40,
 			"unengagedCount": 3
 		},
 		{
