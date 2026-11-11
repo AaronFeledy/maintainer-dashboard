@@ -92,6 +92,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-11-11T05:10:03Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/solr/pull/83"
+		},
+		{
 			"title": "fix: start Solr 9.11+ without gosu",
 			"author": "AaronFeledy",
 			"createdAt": "2026-10-22T21:06:06Z",
