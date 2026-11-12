@@ -32,6 +32,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-11-12T06:53:39Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/node/pull/136"
+		},
+		{
 			"title": "Bump Node LTS versions",
 			"author": "todeveni",
 			"createdAt": "2026-10-29T09:19:48Z",
