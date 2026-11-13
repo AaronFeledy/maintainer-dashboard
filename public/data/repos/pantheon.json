@@ -204,6 +204,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "build(deps): bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-11-12T21:53:50Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/pantheon/pull/376"
+		},
+		{
 			"title": "Support Pantheon MySQL 8.4",
 			"author": "AaronFeledy",
 			"createdAt": "2026-10-27T21:45:01Z",

@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-12T21:16:34.914Z",
+		"fetchedAt": "2026-11-13T02:20:59.215Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2729,6 +2729,33 @@
 			"author": "dependabot",
 			"createdAt": "2026-10-31T16:18:47Z",
 			"url": "https://github.com/lando/core/pull/513",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/laravel",
+			"number": 117,
+			"title": "Bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-11-09T06:48:48Z",
+			"url": "https://github.com/lando/laravel/pull/117",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/leia",
+			"number": 100,
+			"title": "Bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-11-09T20:13:46Z",
+			"url": "https://github.com/lando/leia/pull/100",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mailpit",
+			"number": 60,
+			"title": "Bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-11-09T22:24:55Z",
+			"url": "https://github.com/lando/mailpit/pull/60",
 			"type": "pr"
 		}
 	]
