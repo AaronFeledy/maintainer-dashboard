@@ -4,16 +4,6 @@
 	"language": "Shell",
 	"issues": [
 		{
-			"title": "Solr 9 fails to start / support 9.11",
-			"author": "ericgsmith",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2026-10-13T19:52:04Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/solr/issues/80"
-		},
-		{
 			"title": "Add custom plugins like solr-analysis-extras-9.8.1",
 			"author": "AndreaCorda01",
 			"labels": [],
@@ -97,13 +87,6 @@
 			"createdAt": "2026-11-11T05:10:03Z",
 			"reviewCount": 0,
 			"url": "https://github.com/lando/solr/pull/83"
-		},
-		{
-			"title": "fix: start Solr 9.11+ without gosu",
-			"author": "AaronFeledy",
-			"createdAt": "2026-10-22T21:06:06Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/solr/pull/82"
 		},
 		{
 			"title": "Bump @lando/leia from 0.6.7 to 2.0.0",

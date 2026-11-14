@@ -221,7 +221,7 @@
 			"title": "fix: rebuild supported Pantheon appservers on patched PHP images",
 			"author": "AaronFeledy",
 			"createdAt": "2026-10-22T21:33:16Z",
-			"reviewCount": 0,
+			"reviewCount": 1,
 			"url": "https://github.com/lando/pantheon/pull/373"
 		},
 		{

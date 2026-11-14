@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-14T00:37:18.016Z",
+		"fetchedAt": "2026-11-14T08:30:32.909Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2621,15 +2621,6 @@
 			"author": "dependabot",
 			"createdAt": "2026-10-18T10:02:36Z",
 			"url": "https://github.com/lando/node/pull/134",
-			"type": "pr"
-		},
-		{
-			"repo": "lando/solr",
-			"number": 82,
-			"title": "fix: start Solr 9.11+ without gosu",
-			"author": "AaronFeledy",
-			"createdAt": "2026-10-22T21:06:06Z",
-			"url": "https://github.com/lando/solr/pull/82",
 			"type": "pr"
 		},
 		{
