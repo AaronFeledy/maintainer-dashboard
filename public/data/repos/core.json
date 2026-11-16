@@ -465,6 +465,20 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: apply Landofile tooling over tooling routes",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T23:31:27Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/515"
+		},
+		{
+			"title": "Add Upsun to default plugins and handle legacy Platform.sh installs",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T20:12:34Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/514"
+		},
+		{
 			"title": "chore(deps): bump fast-uri from 3.1.2 to 3.1.9 in /examples/command",
 			"author": "dependabot",
 			"createdAt": "2026-10-31T16:18:47Z",

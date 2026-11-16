@@ -33,6 +33,11 @@
 	],
 	"releases": [
 		{
+			"tagName": "v1.0.0-alpha.0",
+			"publishedAt": "2026-11-16T19:30:24Z",
+			"url": "https://github.com/lando/upsun/releases/tag/v1.0.0-alpha.0"
+		},
+		{
 			"tagName": "v0.9.1",
 			"publishedAt": "2024-11-04T21:03:53Z",
 			"url": "https://github.com/lando/upsun/releases/tag/v0.9.1"
@@ -51,11 +56,6 @@
 			"tagName": "v0.8.0",
 			"publishedAt": "2023-04-21T00:18:08Z",
 			"url": "https://github.com/lando/upsun/releases/tag/v0.8.0"
-		},
-		{
-			"tagName": "v0.7.0",
-			"publishedAt": "2022-12-13T18:04:11Z",
-			"url": "https://github.com/lando/upsun/releases/tag/v0.7.0"
 		}
 	]
 }
