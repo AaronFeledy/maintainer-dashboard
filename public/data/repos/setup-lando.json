@@ -140,6 +140,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: restore modern Lando 3 autosetup and resilient bootstraps",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T03:25:31Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/setup-lando/pull/122"
+		},
+		{
 			"title": "Bump actions/setup-node from 6 to 7 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-07-20T21:54:29Z",

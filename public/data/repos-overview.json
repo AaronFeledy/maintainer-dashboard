@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-15T22:25:37.811Z",
+		"fetchedAt": "2026-11-16T04:32:24.107Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -45,11 +45,11 @@
 			"description": "A GitHub action to Apple notarize files. Originally adapted from https://github.com/devbotsxyz/xcode-notarize",
 			"language": "JavaScript",
 			"openIssues": 3,
-			"openPRs": 4,
+			"openPRs": 5,
 			"lastRelease": "2023-06-18T14:17:09Z",
 			"commitsSinceRelease": 15,
-			"lastPush": "2026-10-12T03:09:53Z",
-			"attentionScore": 643,
+			"lastPush": "2026-11-16T03:26:30Z",
+			"attentionScore": 645,
 			"unengagedCount": 3
 		},
 		{
@@ -69,11 +69,11 @@
 			"description": "A GitHub Action for transferring issues between github repos with the ability to create a stub issue in the original repo.",
 			"language": "JavaScript",
 			"openIssues": 2,
-			"openPRs": 4,
+			"openPRs": 5,
 			"lastRelease": "2024-03-28T14:46:49Z",
 			"commitsSinceRelease": 12,
-			"lastPush": "2026-09-10T02:08:48Z",
-			"attentionScore": 503,
+			"lastPush": "2026-11-16T03:28:55Z",
+			"attentionScore": 505,
 			"unengagedCount": 4
 		},
 		{
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 427.5,
+			"attentionScore": 428,
 			"unengagedCount": 1
 		},
 		{
@@ -93,11 +93,11 @@
 			"description": "The Official Lagoon Lando Plugin",
 			"language": "JavaScript",
 			"openIssues": 12,
-			"openPRs": 4,
+			"openPRs": 5,
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 32,
-			"lastPush": "2026-08-03T14:14:43Z",
-			"attentionScore": 390,
+			"lastPush": "2026-11-16T03:50:01Z",
+			"attentionScore": 392.5,
 			"unengagedCount": 6
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-08-20T23:16:59Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:16:59Z",
-			"attentionScore": 303,
+			"attentionScore": 303.5,
 			"unengagedCount": 26
 		},
 		{
@@ -193,7 +193,7 @@
 			"lastRelease": "2026-08-20T23:11:32Z",
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-10-31T16:18:58Z",
-			"attentionScore": 292,
+			"attentionScore": 292.5,
 			"unengagedCount": 49
 		},
 		{
@@ -213,11 +213,11 @@
 			"description": "Set up your GitHub Actions workflow with a specific version of Lando.",
 			"language": "Shell",
 			"openIssues": 15,
-			"openPRs": 3,
+			"openPRs": 4,
 			"lastRelease": "2025-08-31T20:57:45Z",
 			"commitsSinceRelease": 24,
-			"lastPush": "2026-08-03T21:54:20Z",
-			"attentionScore": 262.5,
+			"lastPush": "2026-11-16T03:38:45Z",
+			"attentionScore": 264.5,
 			"unengagedCount": 7
 		},
 		{
@@ -241,7 +241,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-09-13T07:35:25Z",
-			"attentionScore": 255,
+			"attentionScore": 255.5,
 			"unengagedCount": 1
 		},
 		{
@@ -293,6 +293,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/postgres",
+			"description": "The Official Postgres Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 3,
+			"openPRs": 2,
+			"lastRelease": "2025-09-08T15:41:04Z",
+			"commitsSinceRelease": 23,
+			"lastPush": "2026-11-16T03:21:20Z",
+			"attentionScore": 229.5,
+			"unengagedCount": 2
+		},
+		{
 			"name": "lando/mean",
 			"description": "The Official MEAN Lando Plugin",
 			"language": "JavaScript",
@@ -302,18 +314,6 @@
 			"commitsSinceRelease": 27,
 			"lastPush": "2026-10-15T11:54:31Z",
 			"attentionScore": 228.5,
-			"unengagedCount": 2
-		},
-		{
-			"name": "lando/postgres",
-			"description": "The Official Postgres Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 3,
-			"openPRs": 1,
-			"lastRelease": "2025-09-08T15:41:04Z",
-			"commitsSinceRelease": 23,
-			"lastPush": "2026-10-08T04:11:02Z",
-			"attentionScore": 227.5,
 			"unengagedCount": 2
 		},
 		{
@@ -372,8 +372,8 @@
 			"openPRs": 8,
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 4,
-			"lastPush": "2026-11-14T01:01:43Z",
-			"attentionScore": 186,
+			"lastPush": "2026-11-16T02:52:23Z",
+			"attentionScore": 186.5,
 			"unengagedCount": 10
 		},
 		{
@@ -457,8 +457,20 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 177,
+			"attentionScore": 177.5,
 			"unengagedCount": 1
+		},
+		{
+			"name": "lando/nginx",
+			"description": "The Official NGINX Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 7,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T04:24:29Z",
+			"commitsSinceRelease": 7,
+			"lastPush": "2026-07-31T22:13:36Z",
+			"attentionScore": 160,
+			"unengagedCount": 6
 		},
 		{
 			"name": "lando/acquia",
@@ -470,18 +482,6 @@
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-15T11:53:48Z",
 			"attentionScore": 160,
-			"unengagedCount": 6
-		},
-		{
-			"name": "lando/nginx",
-			"description": "The Official NGINX Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 7,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T04:24:29Z",
-			"commitsSinceRelease": 7,
-			"lastPush": "2026-07-31T22:13:36Z",
-			"attentionScore": 159.5,
 			"unengagedCount": 6
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-08T07:23:37Z",
-			"attentionScore": 148,
+			"attentionScore": 148.5,
 			"unengagedCount": 0
 		},
 		{
@@ -541,7 +541,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-10-15T11:53:56Z",
-			"attentionScore": 147,
+			"attentionScore": 147.5,
 			"unengagedCount": 3
 		},
 		{
@@ -553,8 +553,20 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-10-15T11:54:02Z",
-			"attentionScore": 145.5,
+			"attentionScore": 146,
 			"unengagedCount": 4
+		},
+		{
+			"name": "lando/mailpit",
+			"description": "The official Mailpit integration plugin for Lando",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 3,
+			"lastRelease": "2026-02-23T04:40:10Z",
+			"commitsSinceRelease": 13,
+			"lastPush": "2026-11-16T03:39:58Z",
+			"attentionScore": 144.5,
+			"unengagedCount": 2
 		},
 		{
 			"name": "lando/joomla",
@@ -581,18 +593,6 @@
 			"unengagedCount": 2
 		},
 		{
-			"name": "lando/mailpit",
-			"description": "The official Mailpit integration plugin for Lando",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 2,
-			"lastRelease": "2026-02-23T04:40:10Z",
-			"commitsSinceRelease": 13,
-			"lastPush": "2026-11-09T22:24:53Z",
-			"attentionScore": 142.5,
-			"unengagedCount": 2
-		},
-		{
 			"name": "lando/laravel",
 			"description": "The Official Laravel Lando Plugin",
 			"language": "JavaScript",
@@ -613,7 +613,7 @@
 			"lastRelease": "2026-02-23T00:37:20Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-30T13:54:02Z",
-			"attentionScore": 137.5,
+			"attentionScore": 138,
 			"unengagedCount": 1
 		},
 		{
@@ -637,7 +637,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-09-21T01:03:10Z",
-			"attentionScore": 136,
+			"attentionScore": 136.5,
 			"unengagedCount": 2
 		},
 		{
@@ -672,9 +672,9 @@
 			"openPRs": 4,
 			"lastRelease": "2026-08-20T23:21:08Z",
 			"commitsSinceRelease": 1,
-			"lastPush": "2026-11-14T01:02:47Z",
-			"attentionScore": 113,
-			"unengagedCount": 14
+			"lastPush": "2026-11-16T02:52:25Z",
+			"attentionScore": 116.5,
+			"unengagedCount": 15
 		},
 		{
 			"name": "lando/blog",
@@ -697,7 +697,7 @@
 			"lastRelease": "2026-07-30T02:38:21Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-30T02:39:00Z",
-			"attentionScore": 89,
+			"attentionScore": 89.5,
 			"unengagedCount": 8
 		},
 		{
@@ -711,6 +711,18 @@
 			"lastPush": "2026-07-20T07:16:31Z",
 			"attentionScore": 83.5,
 			"unengagedCount": 3
+		},
+		{
+			"name": "lando/node",
+			"description": "The Official Node Lando plugin.",
+			"language": "JavaScript",
+			"openIssues": 3,
+			"openPRs": 5,
+			"lastRelease": "2026-08-13T23:56:26Z",
+			"commitsSinceRelease": 1,
+			"lastPush": "2026-11-12T06:53:37Z",
+			"attentionScore": 81,
+			"unengagedCount": 7
 		},
 		{
 			"name": "lando/events",
@@ -733,20 +745,8 @@
 			"lastRelease": "2026-07-03T03:40:07Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-27T04:14:49Z",
-			"attentionScore": 78.5,
+			"attentionScore": 79,
 			"unengagedCount": 2
-		},
-		{
-			"name": "lando/node",
-			"description": "The Official Node Lando plugin.",
-			"language": "JavaScript",
-			"openIssues": 3,
-			"openPRs": 5,
-			"lastRelease": "2026-08-13T23:56:26Z",
-			"commitsSinceRelease": 1,
-			"lastPush": "2026-11-12T06:53:37Z",
-			"attentionScore": 77.5,
-			"unengagedCount": 6
 		},
 		{
 			"name": "lando/legacy-cli",
@@ -757,19 +757,7 @@
 			"lastRelease": "2026-08-20T23:17:12Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-09-11T01:31:37Z",
-			"attentionScore": 62,
-			"unengagedCount": 3
-		},
-		{
-			"name": "lando/solr",
-			"description": "The Official Solr Lando Plugin",
-			"language": "Shell",
-			"openIssues": 8,
-			"openPRs": 2,
-			"lastRelease": "2026-10-05T04:51:39Z",
-			"commitsSinceRelease": 2,
-			"lastPush": "2026-11-14T00:53:34Z",
-			"attentionScore": 41.5,
+			"attentionScore": 62.5,
 			"unengagedCount": 3
 		},
 		{
@@ -782,6 +770,18 @@
 			"commitsSinceRelease": 2,
 			"lastPush": "2026-11-09T20:13:44Z",
 			"attentionScore": 40,
+			"unengagedCount": 2
+		},
+		{
+			"name": "lando/solr",
+			"description": "The Official Solr Lando Plugin",
+			"language": "Shell",
+			"openIssues": 8,
+			"openPRs": 1,
+			"lastRelease": "2026-10-05T04:51:39Z",
+			"commitsSinceRelease": 3,
+			"lastPush": "2026-11-16T02:49:54Z",
+			"attentionScore": 36.5,
 			"unengagedCount": 2
 		}
 	]

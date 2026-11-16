@@ -127,6 +127,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "fix: harden Lagoon proxy routes and cover unreleased fixes",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T03:25:21Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/lagoon/pull/110"
+		},
+		{
 			"title": "Bump the actions group across 1 directory with 4 updates",
 			"author": "dependabot",
 			"createdAt": "2026-07-20T14:15:08Z",

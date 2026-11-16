@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-15T22:25:37.811Z",
+		"fetchedAt": "2026-11-16T04:32:24.107Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2750,12 +2750,21 @@
 			"type": "pr"
 		},
 		{
-			"repo": "lando/solr",
-			"number": 83,
+			"repo": "lando/node",
+			"number": 136,
 			"title": "Bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
 			"author": "dependabot",
-			"createdAt": "2026-11-11T05:10:03Z",
-			"url": "https://github.com/lando/solr/pull/83",
+			"createdAt": "2026-11-12T06:53:39Z",
+			"url": "https://github.com/lando/node/pull/136",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 376,
+			"title": "build(deps): bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
+			"author": "dependabot",
+			"createdAt": "2026-11-12T21:53:50Z",
+			"url": "https://github.com/lando/pantheon/pull/376",
 			"type": "pr"
 		}
 	]

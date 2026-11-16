@@ -30,6 +30,13 @@
 	],
 	"pullRequests": [
 		{
+			"title": "Prepare v2 release with offline bundle tests and workflow fixes",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T03:26:33Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/notarize-action/pull/44"
+		},
+		{
 			"title": "Bump brace-expansion from 1.1.11 to 1.1.21",
 			"author": "dependabot",
 			"createdAt": "2026-10-12T03:09:54Z",
