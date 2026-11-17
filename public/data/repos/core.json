@@ -4,12 +4,28 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "Tooling router routes override Landofile tooling on the warm path",
+			"title": "Deploy preview link check fails PRs on external link drift",
 			"author": "AaronFeledy",
 			"labels": [],
-			"createdAt": "2026-10-05T19:27:09Z",
+			"createdAt": "2026-11-17T06:12:34Z",
 			"commentCount": 0,
-			"url": "https://github.com/lando/core/issues/502"
+			"url": "https://github.com/lando/core/issues/519"
+		},
+		{
+			"title": "Lando 4 services fail to build on Debian 11 (bullseye) images",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2026-11-17T06:12:33Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/518"
+		},
+		{
+			"title": "lando setup hangs installing the CA on macOS in non-interactive mode",
+			"author": "AaronFeledy",
+			"labels": [],
+			"createdAt": "2026-11-17T06:12:32Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/core/issues/517"
 		},
 		{
 			"title": "macOS files for v3.26.9 release have no extension",
@@ -443,34 +459,9 @@
 			"createdAt": "2023-09-15T03:22:16Z",
 			"commentCount": 3,
 			"url": "https://github.com/lando/core/issues/53"
-		},
-		{
-			"title": "Scanner returns HPE_HEADER_OVERFLOW at startup",
-			"author": "RichardDavies",
-			"labels": [
-				"Needs Triage"
-			],
-			"createdAt": "2023-08-25T23:42:54Z",
-			"commentCount": 5,
-			"url": "https://github.com/lando/core/issues/64"
-		},
-		{
-			"title": "Tooling - Dynamic service commands enhancment",
-			"author": "phpsa",
-			"labels": [],
-			"createdAt": "2023-06-01T23:59:49Z",
-			"commentCount": 0,
-			"url": "https://github.com/lando/core/issues/44"
 		}
 	],
 	"pullRequests": [
-		{
-			"title": "fix: apply Landofile tooling over tooling routes",
-			"author": "AaronFeledy",
-			"createdAt": "2026-11-16T23:31:27Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/515"
-		},
 		{
 			"title": "Add Upsun to default plugins and handle legacy Platform.sh installs",
 			"author": "AaronFeledy",
