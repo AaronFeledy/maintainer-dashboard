@@ -4,6 +4,16 @@
 	"language": null,
 	"issues": [
 		{
+			"title": "Error response from daemon: error while removing network: network has active endpoints (, , ) on lando destroy",
+			"author": "kaszarobert",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-11-18T08:28:57Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/lando/issues/3852"
+		},
+		{
 			"title": "Unexpected behavior overriding base tooling",
 			"author": "wtflm",
 			"labels": [
@@ -468,16 +478,6 @@
 			"createdAt": "2023-05-27T15:29:22Z",
 			"commentCount": 2,
 			"url": "https://github.com/lando/lando/issues/3574"
-		},
-		{
-			"title": "Unable to import database(.sql) to alternative database within single database service",
-			"author": "markdorison",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2023-05-25T19:55:49Z",
-			"commentCount": 3,
-			"url": "https://github.com/lando/lando/issues/3573"
 		}
 	],
 	"pullRequests": [
