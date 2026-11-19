@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Setup fails",
+			"author": "AntoineMarques",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-11-19T10:58:12Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/core/issues/520"
+		},
+		{
 			"title": "Deploy preview link check fails PRs on external link drift",
 			"author": "AaronFeledy",
 			"labels": [],
@@ -449,19 +459,16 @@
 			"createdAt": "2023-10-04T22:53:46Z",
 			"commentCount": 1,
 			"url": "https://github.com/lando/core/issues/69"
-		},
-		{
-			"title": "SSH keys from host not configured in container due to apparent error in load-keys.sh",
-			"author": "thery-dh",
-			"labels": [
-				"bug"
-			],
-			"createdAt": "2023-09-15T03:22:16Z",
-			"commentCount": 3,
-			"url": "https://github.com/lando/core/issues/53"
 		}
 	],
 	"pullRequests": [
+		{
+			"title": "fix: preserve synchronous command spawn errors",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-19T16:56:45Z",
+			"reviewCount": 0,
+			"url": "https://github.com/lando/core/pull/521"
+		},
 		{
 			"title": "Add Upsun to default plugins and handle legacy Platform.sh installs",
 			"author": "AaronFeledy",
