@@ -463,13 +463,6 @@
 	],
 	"pullRequests": [
 		{
-			"title": "fix: preserve synchronous command spawn errors",
-			"author": "AaronFeledy",
-			"createdAt": "2026-11-19T16:56:45Z",
-			"reviewCount": 0,
-			"url": "https://github.com/lando/core/pull/521"
-		},
-		{
 			"title": "Add Upsun to default plugins and handle legacy Platform.sh installs",
 			"author": "AaronFeledy",
 			"createdAt": "2026-11-16T20:12:34Z",

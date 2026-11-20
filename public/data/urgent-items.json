@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-19T18:48:20.821Z",
+		"fetchedAt": "2026-11-20T01:36:55.227Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2734,10 +2734,73 @@
 		{
 			"repo": "lando/pantheon",
 			"number": 376,
-			"title": "build(deps): bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group",
+			"title": "build(deps): bump actions/add-to-project from 2.0.0 to 2.0.1 in the actions group across 1 directory",
 			"author": "dependabot",
 			"createdAt": "2026-11-12T21:53:50Z",
 			"url": "https://github.com/lando/pantheon/pull/376",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/mailpit",
+			"number": 61,
+			"title": "docs: prepare Mailpit release notes for merged version support",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T03:21:24Z",
+			"url": "https://github.com/lando/mailpit/pull/61",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/postgres",
+			"number": 77,
+			"title": "test: validate Postgres bundled runtime for release",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T03:21:30Z",
+			"url": "https://github.com/lando/postgres/pull/77",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/lagoon",
+			"number": 110,
+			"title": "fix: harden Lagoon proxy routes and cover unreleased fixes",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T03:25:21Z",
+			"url": "https://github.com/lando/lagoon/pull/110",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/transfer-issue-action",
+			"number": 127,
+			"title": "Prepare v2 release with offline action tests and CI fixes",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T03:25:23Z",
+			"url": "https://github.com/lando/transfer-issue-action/pull/127",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/setup-lando",
+			"number": 122,
+			"title": "fix: restore modern Lando 3 autosetup and resilient bootstraps",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T03:25:31Z",
+			"url": "https://github.com/lando/setup-lando/pull/122",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/notarize-action",
+			"number": 44,
+			"title": "Prepare v2 release with offline bundle tests and workflow fixes",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T03:26:33Z",
+			"url": "https://github.com/lando/notarize-action/pull/44",
+			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 514,
+			"title": "Add Upsun to default plugins and handle legacy Platform.sh installs",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-16T20:12:34Z",
+			"url": "https://github.com/lando/core/pull/514",
 			"type": "pr"
 		}
 	]
