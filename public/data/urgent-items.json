@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-20T18:14:00.860Z",
+		"fetchedAt": "2026-11-21T01:02:30.479Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2802,6 +2802,33 @@
 			"createdAt": "2026-11-16T20:12:34Z",
 			"url": "https://github.com/lando/core/pull/514",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/core",
+			"number": 517,
+			"title": "lando setup hangs installing the CA on macOS in non-interactive mode",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-17T06:12:32Z",
+			"url": "https://github.com/lando/core/issues/517",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 518,
+			"title": "Lando 4 services fail to build on Debian 11 (bullseye) images",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-17T06:12:33Z",
+			"url": "https://github.com/lando/core/issues/518",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/core",
+			"number": 519,
+			"title": "Deploy preview link check fails PRs on external link drift",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-17T06:12:34Z",
+			"url": "https://github.com/lando/core/issues/519",
+			"type": "issue"
 		}
 	]
 }
