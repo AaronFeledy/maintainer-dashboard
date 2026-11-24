@@ -4,6 +4,16 @@
 	"language": "JavaScript",
 	"issues": [
 		{
+			"title": "Latest Symfony CLI breaks Lando build",
+			"author": "quentint",
+			"labels": [
+				"bug"
+			],
+			"createdAt": "2026-11-24T20:13:22Z",
+			"commentCount": 1,
+			"url": "https://github.com/lando/symfony/issues/95"
+		},
+		{
 			"title": "Incorrect volume path when using nginx volume override",
 			"author": "ttk",
 			"labels": [
