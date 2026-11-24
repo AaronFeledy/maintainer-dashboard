@@ -4,6 +4,14 @@
 	"language": "Dockerfile",
 	"issues": [
 		{
+			"title": "Rebuild stable PHP 8.2–8.5 FPM images for the November security updates",
+			"author": "tanaabot",
+			"labels": [],
+			"createdAt": "2026-11-23T15:31:16Z",
+			"commentCount": 0,
+			"url": "https://github.com/lando/php/issues/258"
+		},
+		{
 			"title": "MariaDB 11 client TLS breaks Drush/--defaults-file (ERROR 2026)",
 			"author": "AaronFeledy",
 			"labels": [],
