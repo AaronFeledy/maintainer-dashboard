@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-24T21:58:48.412Z",
+		"fetchedAt": "2026-11-25T04:49:19.214Z",
 		"repoCount": 65
 	},
 	"repos": [
@@ -85,7 +85,7 @@
 			"lastRelease": "2024-07-22T23:08:21Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-06-24T17:55:59Z",
-			"attentionScore": 432,
+			"attentionScore": 432.5,
 			"unengagedCount": 1
 		},
 		{
@@ -97,7 +97,7 @@
 			"lastRelease": "2024-12-11T02:08:03Z",
 			"commitsSinceRelease": 32,
 			"lastPush": "2026-11-16T03:50:01Z",
-			"attentionScore": 399.5,
+			"attentionScore": 400,
 			"unengagedCount": 7
 		},
 		{
@@ -157,7 +157,7 @@
 			"lastRelease": "2026-08-20T23:16:59Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-08-20T23:16:59Z",
-			"attentionScore": 311.5,
+			"attentionScore": 312,
 			"unengagedCount": 27
 		},
 		{
@@ -181,7 +181,7 @@
 			"lastRelease": "2026-08-20T23:11:32Z",
 			"commitsSinceRelease": 5,
 			"lastPush": "2026-11-19T19:04:43Z",
-			"attentionScore": 310.5,
+			"attentionScore": 311,
 			"unengagedCount": 52
 		},
 		{
@@ -229,7 +229,7 @@
 			"lastRelease": "2025-07-19T00:12:10Z",
 			"commitsSinceRelease": 14,
 			"lastPush": "2026-09-13T07:35:25Z",
-			"attentionScore": 259.5,
+			"attentionScore": 260,
 			"unengagedCount": 1
 		},
 		{
@@ -337,7 +337,7 @@
 			"lastRelease": "2026-03-08T01:37:41Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-11-16T21:51:31Z",
-			"attentionScore": 191.5,
+			"attentionScore": 192,
 			"unengagedCount": 10
 		},
 		{
@@ -445,7 +445,7 @@
 			"lastRelease": "2025-12-06T00:13:54Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-07-17T21:14:01Z",
-			"attentionScore": 181.5,
+			"attentionScore": 182,
 			"unengagedCount": 1
 		},
 		{
@@ -457,7 +457,7 @@
 			"lastRelease": "2026-02-24T04:45:09Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-15T11:53:48Z",
-			"attentionScore": 164.5,
+			"attentionScore": 165,
 			"unengagedCount": 6
 		},
 		{
@@ -469,7 +469,7 @@
 			"lastRelease": "2026-02-23T04:24:29Z",
 			"commitsSinceRelease": 7,
 			"lastPush": "2026-07-31T22:13:36Z",
-			"attentionScore": 164,
+			"attentionScore": 164.5,
 			"unengagedCount": 6
 		},
 		{
@@ -505,7 +505,7 @@
 			"lastRelease": "2026-01-23T00:47:12Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-10-08T07:23:37Z",
-			"attentionScore": 152.5,
+			"attentionScore": 153,
 			"unengagedCount": 0
 		},
 		{
@@ -517,7 +517,7 @@
 			"lastRelease": "2026-02-23T04:40:10Z",
 			"commitsSinceRelease": 13,
 			"lastPush": "2026-11-16T03:39:58Z",
-			"attentionScore": 152,
+			"attentionScore": 152.5,
 			"unengagedCount": 3
 		},
 		{
@@ -541,7 +541,7 @@
 			"lastRelease": "2026-02-22T03:14:52Z",
 			"commitsSinceRelease": 11,
 			"lastPush": "2026-10-15T11:53:56Z",
-			"attentionScore": 151.5,
+			"attentionScore": 152,
 			"unengagedCount": 3
 		},
 		{
@@ -553,7 +553,7 @@
 			"lastRelease": "2026-03-11T04:30:43Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-10-15T11:54:02Z",
-			"attentionScore": 150,
+			"attentionScore": 150.5,
 			"unengagedCount": 4
 		},
 		{
@@ -593,6 +593,18 @@
 			"unengagedCount": 2
 		},
 		{
+			"name": "lando/phpmyadmin",
+			"description": "The Official phpMyAdmin Lando Plugin",
+			"language": "JavaScript",
+			"openIssues": 0,
+			"openPRs": 1,
+			"lastRelease": "2026-02-23T00:37:20Z",
+			"commitsSinceRelease": 7,
+			"lastPush": "2026-07-30T13:54:02Z",
+			"attentionScore": 142.5,
+			"unengagedCount": 1
+		},
+		{
 			"name": "lando/symfony",
 			"description": "The Official Symfony Lando Plugin",
 			"language": "JavaScript",
@@ -605,18 +617,6 @@
 			"unengagedCount": 1
 		},
 		{
-			"name": "lando/phpmyadmin",
-			"description": "The Official phpMyAdmin Lando Plugin",
-			"language": "JavaScript",
-			"openIssues": 0,
-			"openPRs": 1,
-			"lastRelease": "2026-02-23T00:37:20Z",
-			"commitsSinceRelease": 7,
-			"lastPush": "2026-07-30T13:54:02Z",
-			"attentionScore": 142,
-			"unengagedCount": 1
-		},
-		{
 			"name": "lando/apache",
 			"description": "The Official Apache Lando Plugin",
 			"language": "JavaScript",
@@ -625,7 +625,7 @@
 			"lastRelease": "2026-03-08T02:17:59Z",
 			"commitsSinceRelease": 4,
 			"lastPush": "2026-09-21T01:03:10Z",
-			"attentionScore": 140.5,
+			"attentionScore": 141,
 			"unengagedCount": 2
 		},
 		{
@@ -661,7 +661,7 @@
 			"lastRelease": "2026-08-20T23:21:08Z",
 			"commitsSinceRelease": 10,
 			"lastPush": "2026-11-19T21:53:47Z",
-			"attentionScore": 116.5,
+			"attentionScore": 117,
 			"unengagedCount": 14
 		},
 		{
@@ -685,7 +685,7 @@
 			"lastRelease": "2026-07-30T02:38:21Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-30T02:39:00Z",
-			"attentionScore": 93.5,
+			"attentionScore": 94,
 			"unengagedCount": 8
 		},
 		{
@@ -709,7 +709,7 @@
 			"lastRelease": "2026-08-13T23:56:26Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-11-12T06:53:37Z",
-			"attentionScore": 85,
+			"attentionScore": 85.5,
 			"unengagedCount": 7
 		},
 		{
@@ -733,7 +733,7 @@
 			"lastRelease": "2026-07-03T03:40:07Z",
 			"commitsSinceRelease": 1,
 			"lastPush": "2026-07-27T04:14:49Z",
-			"attentionScore": 83,
+			"attentionScore": 83.5,
 			"unengagedCount": 2
 		},
 		{
@@ -745,7 +745,7 @@
 			"lastRelease": "2026-08-20T23:17:12Z",
 			"commitsSinceRelease": 0,
 			"lastPush": "2026-09-11T01:31:37Z",
-			"attentionScore": 66.5,
+			"attentionScore": 67,
 			"unengagedCount": 3
 		},
 		{
