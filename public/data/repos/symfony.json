@@ -4,17 +4,6 @@
 	"language": "JavaScript",
 	"issues": [
 		{
-			"title": "Error while building a symfony app - Binary is saved to a new folder",
-			"author": "eivictorantoine",
-			"labels": [
-				"symfony",
-				"Needs Triage"
-			],
-			"createdAt": "2026-11-25T10:39:02Z",
-			"commentCount": 1,
-			"url": "https://github.com/lando/symfony/issues/96"
-		},
-		{
 			"title": "Latest Symfony CLI breaks Lando build",
 			"author": "quentint",
 			"labels": [
