@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-25T16:42:54.905Z",
+		"fetchedAt": "2026-11-26T01:29:00.316Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2847,6 +2847,15 @@
 			"createdAt": "2026-11-19T17:12:39Z",
 			"url": "https://github.com/lando/php/pull/257",
 			"type": "pr"
+		},
+		{
+			"repo": "lando/pantheon",
+			"number": 377,
+			"title": "Update the Tika 3 pin and align the default with hosted Pantheon",
+			"author": "AaronFeledy",
+			"createdAt": "2026-11-22T18:29:39Z",
+			"url": "https://github.com/lando/pantheon/issues/377",
+			"type": "issue"
 		}
 	]
 }
