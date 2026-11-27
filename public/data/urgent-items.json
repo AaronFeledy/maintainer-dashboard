@@ -1,6 +1,6 @@
 {
 	"meta": {
-		"fetchedAt": "2026-11-26T20:55:59.777Z",
+		"fetchedAt": "2026-11-27T03:54:46.191Z",
 		"repoCount": 65
 	},
 	"items": [
@@ -2855,6 +2855,15 @@
 			"author": "AaronFeledy",
 			"createdAt": "2026-11-22T18:29:39Z",
 			"url": "https://github.com/lando/pantheon/issues/377",
+			"type": "issue"
+		},
+		{
+			"repo": "lando/php",
+			"number": 258,
+			"title": "Rebuild stable PHP 8.2–8.5 FPM images for the November security updates",
+			"author": "tanaabot",
+			"createdAt": "2026-11-23T15:31:16Z",
+			"url": "https://github.com/lando/php/issues/258",
 			"type": "issue"
 		}
 	]
